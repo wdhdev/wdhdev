@@ -10,7 +10,7 @@
 
 - 🌱 I’m learning **JavaScript, HTML, and CSS**.
 
-- 📫 You can contact me [here](mailto:william@williamdavidharrison.com.au).
+- 📫 You can contact me [here](mailto:william@williamharrison.dev).
 
 ## Connect with Me
 
