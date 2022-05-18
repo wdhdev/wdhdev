@@ -2,7 +2,7 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WilliamDavidHarrison&theme=algolia&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/WilliamDavidHarrison)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=williamdavidharrison&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=williamdavidharrison&theme=algolia&layout=compact)](https://github.com/WilliamDavidHarrison)
 
 ## About Me
 
