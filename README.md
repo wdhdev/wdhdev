@@ -1,12 +1,14 @@
 # 👋 Hi, I'm William.
 
+## Stats
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WilliamDavidHarrison&theme=algolia&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/WilliamDavidHarrison)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=williamdavidharrison&theme=algolia&layout=compact)](https://github.com/WilliamDavidHarrison)
 
 ## About Me
 
-- 🔭 I’m currently working on my **[personal website](https://williamdavidharrison.com.au)** and my **private Discord bot**.
+- 🔭 I’m currently working on my **[personal website](https://williamdavidharrison.com.au)** and my **[Discord Bot](https://github.com/williamdavidharrison/williams-utilities)**.
 
 - 🌱 I’m learning **JavaScript, HTML, and CSS**.
 
