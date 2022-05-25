@@ -25,7 +25,7 @@
 
 [![Top Languages](https://github-readme-stats.api.williamharrison.dev/api/top-langs/?username=williamdavidharrison&theme=algolia&layout=compact)](https://github.com/WilliamDavidHarrison)
 
-## Pinned Repoistories
+## Pinned Repositories
 
 [![WilliamDavidHarrison](https://github-readme-stats.api.williamharrison.dev/api/pin/?username=williamdavidharrison&repo=williamdavidharrison&theme=algolia)](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison)
 
