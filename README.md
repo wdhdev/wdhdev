@@ -19,16 +19,8 @@
 
 <img src="https://dcbadge.vercel.app/api/shield/853158265466257448?theme=discord-inverted"/>
 
-## Stats
+## GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.api.williamharrison.dev/api?username=williamdavidharrison&theme=algolia&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/WilliamDavidHarrison)
 
 [![Top Languages](https://github-readme-stats.api.williamharrison.dev/api/top-langs/?username=williamdavidharrison&theme=algolia&layout=compact)](https://github.com/WilliamDavidHarrison)
-
-## Pinned Repositories
-
-[![WilliamDavidHarrison](https://github-readme-stats.api.williamharrison.dev/api/pin/?username=williamdavidharrison&repo=williamdavidharrison&theme=algolia)](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison)
-
-[![website](https://github-readme-stats.vercel.app/api/pin/?username=williamdavidharrison&repo=website&theme=algolia)](https://github.com/WilliamDavidHarrison/website)
-
-[![williams-utilities](https://github-readme-stats.api.williamharrison.dev/api/pin/?username=williamdavidharrison&repo=williams-utilities&theme=algolia)](https://github.com/WilliamDavidHarrison/williams-utilities)
