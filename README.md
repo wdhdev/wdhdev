@@ -10,9 +10,9 @@
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.api.williamharrison.dev/api?username=williamdavidharrison&theme=algolia&show_icons=true&border_radius=10&count_private=true&include_all_commits=true)](https://github.com/WilliamDavidHarrison)
+[![GitHub Stats](https://github-readme-stats.api.williamharrison.dev/api?username=williamdavidharrison&theme=algolia&show_icons=true&border_radius=8&count_private=true&include_all_commits=true)](https://github.com/WilliamDavidHarrison)
 
-[![Top Languages](https://github-readme-stats.api.williamharrison.dev/api/top-langs/?username=williamdavidharrison&theme=algolia&border_radius=10)](https://github.com/WilliamDavidHarrison)
+[![Top Languages](https://github-readme-stats.api.williamharrison.dev/api/top-langs/?username=williamdavidharrison&theme=algolia&layout=compact&border_radius=8)](https://github.com/WilliamDavidHarrison)
 
 ## Connect with Me
 
