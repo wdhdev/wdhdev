@@ -24,9 +24,3 @@
 </p>
 
 <img src="https://dcbadge.vercel.app/api/shield/853158265466257448?theme=discord-inverted"/>
-
-## Links
-
-[Personal Website](https://williamdavidharrison.com.au)
-
-[Developer Website](https://williamharrison.dev)
