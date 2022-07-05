@@ -1,7 +1,7 @@
 # 👋 Hi, I'm William.
 
 ## About Me
-- 🔭 I’m currently working on my **[personal website](https://williamdavidharrison.com.au)** and my **[Discord Bot](https://github.com/williamdavidharrison/williams-utilities)**.
+- 🔭 I’m currently working on my **[personal website](https://williamdavidharrison.com.au)** and my **[discord bot](https://github.com/williamdavidharrison/williams-utilities)**.
 
 - 🌱 I’m learning **JavaScript, HTML, and CSS**.
 
