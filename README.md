@@ -3,7 +3,7 @@
 ## About Me
 - 🔭 I’m currently working on my **[personal website](https://williamdavidharrison.com.au)** and my **[discord bot](https://github.com/williamdavidharrison/williams-utilities)**.
 
-- 🌱 I’m learning **JavaScript, HTML, and CSS**.
+- 🌱 I’m learning **HTML, CSS and JavaScript**.
 
 - 📫 You can contact me [here](mailto:william@williamharrison.dev).
 
