@@ -1,5 +1,7 @@
 # 👋 Hi, I'm William.
 
+![](https://komarev.com/ghpvc/?username=williamdavidharrison&color=blue&style=for-the-badge)
+
 ## About Me
 - 🔭 I’m currently working on my **[personal website](https://williamdavidharrison.com.au)** and my **[discord bot](https://github.com/williamdavidharrison/williams-utilities)**.
 
@@ -8,9 +10,9 @@
 - 📫 You can contact me [here](mailto:william@williamharrison.dev).
 
 ## GitHub Stats
-[![GitHub Stats](https://github-readme-stats.api.williamharrison.dev/api?username=williamdavidharrison&theme=algolia&show_icons=true&border_radius=8&count_private=true&include_all_commits=true)](https://github.com/WilliamDavidHarrison)
+![GitHub Stats](https://github-readme-stats.api.williamharrison.dev/api?username=williamdavidharrison&theme=algolia&show_icons=true&border_radius=8&count_private=true&include_all_commits=true)
 
-[![Top Languages](https://github-readme-stats.api.williamharrison.dev/api/top-langs/?username=williamdavidharrison&theme=algolia&layout=compact&border_radius=8)](https://github.com/WilliamDavidHarrison)
+![Top Languages](https://github-readme-stats.api.williamharrison.dev/api/top-langs/?username=williamdavidharrison&theme=algolia&layout=compact&border_radius=8)
 
 ## Connect with Me
 <p>
