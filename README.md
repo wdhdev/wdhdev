@@ -1,5 +1,4 @@
 # 👋 Hi, I'm William.
-
 ![](https://komarev.com/ghpvc/?username=williamdavidharrison&color=blue&style=for-the-badge)
 
 ## About Me
