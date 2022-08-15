@@ -1,4 +1,4 @@
-name: Update Activity
+name: Update README
 
 on:
   schedule:
@@ -16,5 +16,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: 'Update Recent Activity on README'
+          COMMIT_MSG: 'Update Recent Activity'
           MAX_LINES: 5
