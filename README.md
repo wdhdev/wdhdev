@@ -10,8 +10,8 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#127](https://github.com/is-a-good-dev/register/issues/127) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-2. 🗣 Commented on [#127](https://github.com/is-a-good-dev/register/issues/127) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+1. 🎉 Merged PR [#1](https://github.com/WilliamDavidHarrison/website/pull/1) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
+2. 💪 Opened PR [#1](https://github.com/WilliamDavidHarrison/website/pull/1) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
 3. 🗣 Commented on [#127](https://github.com/is-a-good-dev/register/issues/127) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
 4. 🗣 Commented on [#127](https://github.com/is-a-good-dev/register/issues/127) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
 5. 🗣 Commented on [#127](https://github.com/is-a-good-dev/register/issues/127) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
