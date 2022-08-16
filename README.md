@@ -10,12 +10,6 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3177](https://github.com/is-a-dev/register/issues/3177) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. ❌ Closed PR [#154](https://github.com/is-a-good-dev/register/pull/154) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-3. 🗣 Commented on [#123](https://github.com/is-a-good-dev/register/issues/123) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-4. 💪 Opened PR [#154](https://github.com/is-a-good-dev/register/pull/154) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-5. 🗣 Commented on [#3177](https://github.com/is-a-dev/register/issues/3177) in [is-a-dev/register](https://github.com/is-a-dev/register)
-<!--END_SECTION:activity-->
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.api.williamharrison.dev/api?username=williamdavidharrison&theme=algolia&show_icons=true&border_radius=8&count_private=true&include_all_commits=true)
