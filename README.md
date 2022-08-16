@@ -34,7 +34,7 @@
 
 ## Links
 * [Main Website](https://williamharrison.xyz)
-* [Personal Website](https://williamdavidharrison.com.au)
+* [Personal Website](https://william.net.au)
 * [Developer Website](https://williamharrison.dev)
 * [Links Website](https://williamharrison.me)
 
