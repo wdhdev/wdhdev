@@ -32,5 +32,9 @@
 
 <img src="https://dcbadge.vercel.app/api/shield/853158265466257448?theme=discord-inverted"/>
 
-## Archive
-Any archived projects will be availble [here](https://github.com/wh-archive).
+## Links
+* [Main Website](https://williamharrison.xyz)
+* [Personal Website](https://williamdavidharrison.com.au)
+* [Developer Website](https://williamharrison.dev)
+* [Links Website](https://williamharrison.me)
+* [Archive](https://github.com/wh-archive)
