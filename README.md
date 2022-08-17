@@ -10,11 +10,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/uses-cf/register/pull/3) in [uses-cf/register](https://github.com/uses-cf/register)
-2. 🗣 Commented on [#3142](https://github.com/is-a-dev/register/issues/3142) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. 🎉 Merged PR [#1](https://github.com/WilliamDavidHarrison/website/pull/1) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
-4. 💪 Opened PR [#1](https://github.com/WilliamDavidHarrison/website/pull/1) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
-5. 🗣 Commented on [#127](https://github.com/is-a-good-dev/register/issues/127) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+1. ❌ Reopened PR [#3](https://github.com/uses-cf/register/pull/3) in [uses-cf/register](https://github.com/uses-cf/register)
+2. ❌ Closed PR [#3](https://github.com/uses-cf/register/pull/3) in [uses-cf/register](https://github.com/uses-cf/register)
+3. 💪 Opened PR [#3](https://github.com/uses-cf/register/pull/3) in [uses-cf/register](https://github.com/uses-cf/register)
+4. 🗣 Commented on [#3142](https://github.com/is-a-dev/register/issues/3142) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. 🎉 Merged PR [#1](https://github.com/WilliamDavidHarrison/website/pull/1) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
