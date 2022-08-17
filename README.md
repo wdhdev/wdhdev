@@ -10,11 +10,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/uses-cf/register/issues/4) in [uses-cf/register](https://github.com/uses-cf/register)
-2. ❌ Closed PR [#4](https://github.com/uses-cf/register/pull/4) in [uses-cf/register](https://github.com/uses-cf/register)
+1. 🗣 Commented on [#5](https://github.com/uses-cf/register/issues/5) in [uses-cf/register](https://github.com/uses-cf/register)
+2. 🗣 Commented on [#5](https://github.com/uses-cf/register/issues/5) in [uses-cf/register](https://github.com/uses-cf/register)
 3. 🗣 Commented on [#4](https://github.com/uses-cf/register/issues/4) in [uses-cf/register](https://github.com/uses-cf/register)
-4. 🗣 Commented on [#3](https://github.com/uses-cf/register/issues/3) in [uses-cf/register](https://github.com/uses-cf/register)
-5. 💪 Opened PR [#4](https://github.com/uses-cf/register/pull/4) in [uses-cf/register](https://github.com/uses-cf/register)
+4. ❌ Closed PR [#4](https://github.com/uses-cf/register/pull/4) in [uses-cf/register](https://github.com/uses-cf/register)
+5. 🗣 Commented on [#4](https://github.com/uses-cf/register/issues/4) in [uses-cf/register](https://github.com/uses-cf/register)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
