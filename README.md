@@ -10,11 +10,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#3](https://github.com/uses-cf/register/pull/3) in [uses-cf/register](https://github.com/uses-cf/register)
-2. ❌ Closed PR [#3](https://github.com/uses-cf/register/pull/3) in [uses-cf/register](https://github.com/uses-cf/register)
-3. 💪 Opened PR [#3](https://github.com/uses-cf/register/pull/3) in [uses-cf/register](https://github.com/uses-cf/register)
-4. 🗣 Commented on [#3142](https://github.com/is-a-dev/register/issues/3142) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. 🎉 Merged PR [#1](https://github.com/WilliamDavidHarrison/website/pull/1) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
+1. 🗣 Commented on [#4](https://github.com/uses-cf/register/issues/4) in [uses-cf/register](https://github.com/uses-cf/register)
+2. ❌ Closed PR [#4](https://github.com/uses-cf/register/pull/4) in [uses-cf/register](https://github.com/uses-cf/register)
+3. 🗣 Commented on [#4](https://github.com/uses-cf/register/issues/4) in [uses-cf/register](https://github.com/uses-cf/register)
+4. 🗣 Commented on [#3](https://github.com/uses-cf/register/issues/3) in [uses-cf/register](https://github.com/uses-cf/register)
+5. 💪 Opened PR [#4](https://github.com/uses-cf/register/pull/4) in [uses-cf/register](https://github.com/uses-cf/register)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
