@@ -10,11 +10,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/andrewstech/is-not-a-dev/pull/1) in [andrewstech/is-not-a-dev](https://github.com/andrewstech/is-not-a-dev)
-2. 🗣 Commented on [#12](https://github.com/wclarkey/CMShark/issues/12) in [wclarkey/CMShark](https://github.com/wclarkey/CMShark)
+1. 💪 Opened PR [#13](https://github.com/wclarkey/CMShark/pull/13) in [wclarkey/CMShark](https://github.com/wclarkey/CMShark)
+2. ❌ Closed PR [#1](https://github.com/andrewstech/is-not-a-dev/pull/1) in [andrewstech/is-not-a-dev](https://github.com/andrewstech/is-not-a-dev)
 3. 🗣 Commented on [#12](https://github.com/wclarkey/CMShark/issues/12) in [wclarkey/CMShark](https://github.com/wclarkey/CMShark)
-4. 💪 Opened PR [#12](https://github.com/wclarkey/CMShark/pull/12) in [wclarkey/CMShark](https://github.com/wclarkey/CMShark)
-5. 💪 Opened PR [#11](https://github.com/wclarkey/CMShark/pull/11) in [wclarkey/CMShark](https://github.com/wclarkey/CMShark)
+4. 🗣 Commented on [#12](https://github.com/wclarkey/CMShark/issues/12) in [wclarkey/CMShark](https://github.com/wclarkey/CMShark)
+5. 💪 Opened PR [#12](https://github.com/wclarkey/CMShark/pull/12) in [wclarkey/CMShark](https://github.com/wclarkey/CMShark)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
