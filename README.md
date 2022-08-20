@@ -10,11 +10,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/wclarkey/CMShark/pull/13) in [wclarkey/CMShark](https://github.com/wclarkey/CMShark)
-2. ❌ Closed PR [#1](https://github.com/andrewstech/is-not-a-dev/pull/1) in [andrewstech/is-not-a-dev](https://github.com/andrewstech/is-not-a-dev)
-3. 🗣 Commented on [#12](https://github.com/wclarkey/CMShark/issues/12) in [wclarkey/CMShark](https://github.com/wclarkey/CMShark)
-4. 🗣 Commented on [#12](https://github.com/wclarkey/CMShark/issues/12) in [wclarkey/CMShark](https://github.com/wclarkey/CMShark)
-5. 💪 Opened PR [#12](https://github.com/wclarkey/CMShark/pull/12) in [wclarkey/CMShark](https://github.com/wclarkey/CMShark)
+1. ❗️ Opened issue [#26](https://github.com/mtgsquad/is-a-dev-registration/issues/26) in [mtgsquad/is-a-dev-registration](https://github.com/mtgsquad/is-a-dev-registration)
+2. 🗣 Commented on [#23](https://github.com/mtgsquad/is-a-dev-registration/issues/23) in [mtgsquad/is-a-dev-registration](https://github.com/mtgsquad/is-a-dev-registration)
+3. ❗️ Opened issue [#25](https://github.com/mtgsquad/is-a-dev-registration/issues/25) in [mtgsquad/is-a-dev-registration](https://github.com/mtgsquad/is-a-dev-registration)
+4. 💪 Opened PR [#13](https://github.com/wclarkey/CMShark/pull/13) in [wclarkey/CMShark](https://github.com/wclarkey/CMShark)
+5. ❌ Closed PR [#1](https://github.com/andrewstech/is-not-a-dev/pull/1) in [andrewstech/is-not-a-dev](https://github.com/andrewstech/is-not-a-dev)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
