@@ -10,11 +10,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/uses-cf/register/pull/8) in [uses-cf/register](https://github.com/uses-cf/register)
-2. ❌ Closed PR [#219](https://github.com/Olivr/free-domain/pull/219) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
-3. 💪 Opened PR [#219](https://github.com/Olivr/free-domain/pull/219) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
-4. 💪 Opened PR [#7](https://github.com/uses-cf/register/pull/7) in [uses-cf/register](https://github.com/uses-cf/register)
-5. ❗️ Opened issue [#26](https://github.com/mtgsquad/is-a-dev-registration/issues/26) in [mtgsquad/is-a-dev-registration](https://github.com/mtgsquad/is-a-dev-registration)
+1. 🗣 Commented on [#8](https://github.com/uses-cf/register/issues/8) in [uses-cf/register](https://github.com/uses-cf/register)
+2. 💪 Opened PR [#8](https://github.com/uses-cf/register/pull/8) in [uses-cf/register](https://github.com/uses-cf/register)
+3. ❌ Closed PR [#219](https://github.com/Olivr/free-domain/pull/219) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
+4. 💪 Opened PR [#219](https://github.com/Olivr/free-domain/pull/219) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
+5. 💪 Opened PR [#7](https://github.com/uses-cf/register/pull/7) in [uses-cf/register](https://github.com/uses-cf/register)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
