@@ -10,11 +10,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/is-a-good-dev/docs/pull/5) in [is-a-good-dev/docs](https://github.com/is-a-good-dev/docs)
-2. 🗣 Commented on [#27](https://github.com/mtgsquad/is-a-dev-registration/issues/27) in [mtgsquad/is-a-dev-registration](https://github.com/mtgsquad/is-a-dev-registration)
-3. 💪 Opened PR [#27](https://github.com/mtgsquad/is-a-dev-registration/pull/27) in [mtgsquad/is-a-dev-registration](https://github.com/mtgsquad/is-a-dev-registration)
-4. ❗️ Closed issue [#25](https://github.com/mtgsquad/is-a-dev-registration/issues/25) in [mtgsquad/is-a-dev-registration](https://github.com/mtgsquad/is-a-dev-registration)
-5. ❗️ Closed issue [#26](https://github.com/mtgsquad/is-a-dev-registration/issues/26) in [mtgsquad/is-a-dev-registration](https://github.com/mtgsquad/is-a-dev-registration)
+1. 💪 Opened PR [#8](https://github.com/is-a-good-dev/docs/pull/8) in [is-a-good-dev/docs](https://github.com/is-a-good-dev/docs)
+2. 💪 Opened PR [#7](https://github.com/is-a-good-dev/docs/pull/7) in [is-a-good-dev/docs](https://github.com/is-a-good-dev/docs)
+3. 💪 Opened PR [#6](https://github.com/is-a-good-dev/docs/pull/6) in [is-a-good-dev/docs](https://github.com/is-a-good-dev/docs)
+4. 💪 Opened PR [#5](https://github.com/is-a-good-dev/docs/pull/5) in [is-a-good-dev/docs](https://github.com/is-a-good-dev/docs)
+5. 🗣 Commented on [#27](https://github.com/mtgsquad/is-a-dev-registration/issues/27) in [mtgsquad/is-a-dev-registration](https://github.com/mtgsquad/is-a-dev-registration)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
