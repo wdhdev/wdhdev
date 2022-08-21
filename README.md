@@ -10,11 +10,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](https://github.com/mtgsquad/is-a-dev-registration/pull/27) in [mtgsquad/is-a-dev-registration](https://github.com/mtgsquad/is-a-dev-registration)
-2. ❗️ Closed issue [#25](https://github.com/mtgsquad/is-a-dev-registration/issues/25) in [mtgsquad/is-a-dev-registration](https://github.com/mtgsquad/is-a-dev-registration)
-3. ❗️ Closed issue [#26](https://github.com/mtgsquad/is-a-dev-registration/issues/26) in [mtgsquad/is-a-dev-registration](https://github.com/mtgsquad/is-a-dev-registration)
-4. 🗣 Commented on [#8](https://github.com/uses-cf/register/issues/8) in [uses-cf/register](https://github.com/uses-cf/register)
-5. 💪 Opened PR [#8](https://github.com/uses-cf/register/pull/8) in [uses-cf/register](https://github.com/uses-cf/register)
+1. 💪 Opened PR [#5](https://github.com/is-a-good-dev/docs/pull/5) in [is-a-good-dev/docs](https://github.com/is-a-good-dev/docs)
+2. 🗣 Commented on [#27](https://github.com/mtgsquad/is-a-dev-registration/issues/27) in [mtgsquad/is-a-dev-registration](https://github.com/mtgsquad/is-a-dev-registration)
+3. 💪 Opened PR [#27](https://github.com/mtgsquad/is-a-dev-registration/pull/27) in [mtgsquad/is-a-dev-registration](https://github.com/mtgsquad/is-a-dev-registration)
+4. ❗️ Closed issue [#25](https://github.com/mtgsquad/is-a-dev-registration/issues/25) in [mtgsquad/is-a-dev-registration](https://github.com/mtgsquad/is-a-dev-registration)
+5. ❗️ Closed issue [#26](https://github.com/mtgsquad/is-a-dev-registration/issues/26) in [mtgsquad/is-a-dev-registration](https://github.com/mtgsquad/is-a-dev-registration)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
