@@ -10,11 +10,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/WilliamDavidHarrison/website/pull/4) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
-2. 💪 Opened PR [#4](https://github.com/WilliamDavidHarrison/website/pull/4) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
-3. 🎉 Merged PR [#3](https://github.com/WilliamDavidHarrison/website/pull/3) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
-4. 💪 Opened PR [#3](https://github.com/WilliamDavidHarrison/website/pull/3) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
-5. 🎉 Merged PR [#2](https://github.com/WilliamDavidHarrison/website/pull/2) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
+1. 🎉 Merged PR [#5](https://github.com/WilliamDavidHarrison/website/pull/5) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
+2. ❌ Reopened PR [#5](https://github.com/WilliamDavidHarrison/website/pull/5) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
+3. ❌ Closed PR [#6](https://github.com/WilliamDavidHarrison/website/pull/6) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
+4. 🗣 Commented on [#6](https://github.com/WilliamDavidHarrison/website/issues/6) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
+5. ❌ Closed PR [#4](https://github.com/WilliamDavidHarrison/website/pull/4) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
