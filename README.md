@@ -1,8 +1,8 @@
 # 👋 Hi, I'm William.
-![](https://komarev.com/ghpvc/?username=williamdavidharrison&color=blue&style=for-the-badge)
+![Profile View Counter](https://komarev.com/ghpvc/?username=williamdavidharrison&color=blue&style=for-the-badge)
 
 ## About Me
-- 🔭 I’m currently working on my **[personal website](https://williamdavidharrison.com.au)** and my **[discord bot](https://github.com/williamdavidharrison/williams-utilities)**.
+- I’m currently working on my **[developer website](https://williamharrison.dev)**, the **[is-a-good.dev Dashboard](https://github.com/is-a-good-dev/dashboard)** and helping with **[CMShark](https://github.com/wclarkey/cmshark)**.
 
 - 🌱 I’m learning **HTML, CSS and JavaScript**.
 
