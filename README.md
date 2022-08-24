@@ -8,11 +8,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#156](https://github.com/is-a-good-dev/register/pull/156) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-2. 💪 Opened PR [#158](https://github.com/is-a-good-dev/register/pull/158) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-3. 🗣 Commented on [#29](https://github.com/mtgsquad/is-a-dev-registration/issues/29) in [mtgsquad/is-a-dev-registration](https://github.com/mtgsquad/is-a-dev-registration)
-4. 💪 Opened PR [#157](https://github.com/is-a-good-dev/register/pull/157) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-5. 💪 Opened PR [#156](https://github.com/is-a-good-dev/register/pull/156) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+1. 💪 Opened PR [#15](https://github.com/wclarkey/CMShark/pull/15) in [wclarkey/CMShark](https://github.com/wclarkey/CMShark)
+2. ❌ Closed PR [#156](https://github.com/is-a-good-dev/register/pull/156) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+3. 💪 Opened PR [#158](https://github.com/is-a-good-dev/register/pull/158) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+4. 🗣 Commented on [#29](https://github.com/mtgsquad/is-a-dev-registration/issues/29) in [mtgsquad/is-a-dev-registration](https://github.com/mtgsquad/is-a-dev-registration)
+5. 💪 Opened PR [#157](https://github.com/is-a-good-dev/register/pull/157) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
