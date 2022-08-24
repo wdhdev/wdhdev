@@ -2,7 +2,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=williamdavidharrison&color=blue&style=for-the-badge)
 
 ## About Me
-- I’m currently working on my **[developer website](https://williamharrison.dev)**, the **[is-a-good.dev Dashboard](https://github.com/is-a-good-dev/dashboard)** and helping with **[CMShark](https://github.com/wclarkey/cmshark)**.
+- I’m currently working on my **[developer website](https://williamharrison.dev)** and the **[is-a-good.dev Dashboard](https://github.com/is-a-good-dev/dashboard)**.
 - I’m learning **HTML, CSS and JavaScript**.
 - You can contact me [here](mailto:william@williamharrison.dev).
 
