@@ -10,11 +10,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/WilliamDavidHarrison/website/pull/5) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
-2. ❌ Reopened PR [#5](https://github.com/WilliamDavidHarrison/website/pull/5) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
-3. ❌ Closed PR [#6](https://github.com/WilliamDavidHarrison/website/pull/6) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
-4. 🗣 Commented on [#6](https://github.com/WilliamDavidHarrison/website/issues/6) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
-5. ❌ Closed PR [#4](https://github.com/WilliamDavidHarrison/website/pull/4) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
+1. 💪 Opened PR [#29](https://github.com/mtgsquad/is-a-dev-registration/pull/29) in [mtgsquad/is-a-dev-registration](https://github.com/mtgsquad/is-a-dev-registration)
+2. ❌ Closed PR [#7](https://github.com/WilliamDavidHarrison/website/pull/7) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
+3. 💪 Opened PR [#7](https://github.com/WilliamDavidHarrison/website/pull/7) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
+4. 🎉 Merged PR [#5](https://github.com/WilliamDavidHarrison/website/pull/5) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
+5. ❌ Reopened PR [#5](https://github.com/WilliamDavidHarrison/website/pull/5) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
