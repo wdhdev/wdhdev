@@ -10,11 +10,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](https://github.com/mtgsquad/is-a-dev-registration/pull/29) in [mtgsquad/is-a-dev-registration](https://github.com/mtgsquad/is-a-dev-registration)
-2. ❌ Closed PR [#7](https://github.com/WilliamDavidHarrison/website/pull/7) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
-3. 💪 Opened PR [#7](https://github.com/WilliamDavidHarrison/website/pull/7) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
-4. 🎉 Merged PR [#5](https://github.com/WilliamDavidHarrison/website/pull/5) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
-5. ❌ Reopened PR [#5](https://github.com/WilliamDavidHarrison/website/pull/5) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
+1. 💪 Opened PR [#156](https://github.com/is-a-good-dev/register/pull/156) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+2. 🗣 Commented on [#3238](https://github.com/is-a-dev/register/issues/3238) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. 🗣 Commented on [#3239](https://github.com/is-a-dev/register/issues/3239) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. 🗣 Commented on [#3241](https://github.com/is-a-dev/register/issues/3241) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. 🗣 Commented on [#3251](https://github.com/is-a-dev/register/issues/3251) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
