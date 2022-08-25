@@ -8,11 +8,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/wclarkey/CMShark/issues/15) in [wclarkey/CMShark](https://github.com/wclarkey/CMShark)
-2. 🗣 Commented on [#157](https://github.com/is-a-good-dev/register/issues/157) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-3. 🗣 Commented on [#15](https://github.com/wclarkey/CMShark/issues/15) in [wclarkey/CMShark](https://github.com/wclarkey/CMShark)
-4. 💪 Opened PR [#15](https://github.com/wclarkey/CMShark/pull/15) in [wclarkey/CMShark](https://github.com/wclarkey/CMShark)
-5. ❌ Closed PR [#156](https://github.com/is-a-good-dev/register/pull/156) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+1. 🗣 Commented on [#3177](https://github.com/is-a-dev/register/issues/3177) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. 🗣 Commented on [#15](https://github.com/wclarkey/CMShark/issues/15) in [wclarkey/CMShark](https://github.com/wclarkey/CMShark)
+3. 🗣 Commented on [#157](https://github.com/is-a-good-dev/register/issues/157) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+4. 🗣 Commented on [#15](https://github.com/wclarkey/CMShark/issues/15) in [wclarkey/CMShark](https://github.com/wclarkey/CMShark)
+5. 💪 Opened PR [#15](https://github.com/wclarkey/CMShark/pull/15) in [wclarkey/CMShark](https://github.com/wclarkey/CMShark)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
