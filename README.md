@@ -20,7 +20,7 @@
 
 ![Top Languages](https://github-readme-stats.api.williamharrison.dev/api/top-langs/?username=williamdavidharrison&theme=algolia&layout=compact&border_radius=8)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WilliamDavidHarrison&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.api.williamharrison.dev?user=WilliamDavidHarrison&theme=dark)](https://git.io/streak-stats)
 
 ## Connect with Me
 <p>
