@@ -8,11 +8,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#639](https://github.com/blueedgetechno/win11React/issues/639) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-2. 🗣 Commented on [#3177](https://github.com/is-a-dev/register/issues/3177) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. 🗣 Commented on [#15](https://github.com/wclarkey/CMShark/issues/15) in [wclarkey/CMShark](https://github.com/wclarkey/CMShark)
-4. 🗣 Commented on [#157](https://github.com/is-a-good-dev/register/issues/157) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-5. 🗣 Commented on [#15](https://github.com/wclarkey/CMShark/issues/15) in [wclarkey/CMShark](https://github.com/wclarkey/CMShark)
+1. 🗣 Commented on [#228](https://github.com/Olivr/free-domain/issues/228) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
+2. ❗️ Opened issue [#228](https://github.com/Olivr/free-domain/issues/228) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
+3. 💪 Opened PR [#227](https://github.com/Olivr/free-domain/pull/227) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
+4. 💪 Opened PR [#226](https://github.com/Olivr/free-domain/pull/226) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
+5. ❌ Closed PR [#132](https://github.com/willin/js.cool/pull/132) in [willin/js.cool](https://github.com/willin/js.cool)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
