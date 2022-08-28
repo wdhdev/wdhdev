@@ -8,11 +8,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#228](https://github.com/Olivr/free-domain/issues/228) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
-2. ❗️ Opened issue [#228](https://github.com/Olivr/free-domain/issues/228) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
-3. 💪 Opened PR [#227](https://github.com/Olivr/free-domain/pull/227) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
-4. 💪 Opened PR [#226](https://github.com/Olivr/free-domain/pull/226) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
-5. ❌ Closed PR [#132](https://github.com/willin/js.cool/pull/132) in [willin/js.cool](https://github.com/willin/js.cool)
+1. 💪 Opened PR [#1](https://github.com/WilliamDavidHarrison/dev-website/pull/1) in [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)
+2. 🗣 Commented on [#228](https://github.com/Olivr/free-domain/issues/228) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
+3. ❗️ Opened issue [#228](https://github.com/Olivr/free-domain/issues/228) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
+4. 💪 Opened PR [#227](https://github.com/Olivr/free-domain/pull/227) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
+5. 💪 Opened PR [#226](https://github.com/Olivr/free-domain/pull/226) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
