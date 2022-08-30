@@ -8,11 +8,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/wclarkey/CMShark/pull/16) in [wclarkey/CMShark](https://github.com/wclarkey/CMShark)
-2. 🎉 Merged PR [#1](https://github.com/WilliamDavidHarrison/links/pull/1) in [WilliamDavidHarrison/links](https://github.com/WilliamDavidHarrison/links)
-3. 💪 Opened PR [#1](https://github.com/WilliamDavidHarrison/links/pull/1) in [WilliamDavidHarrison/links](https://github.com/WilliamDavidHarrison/links)
-4. 🎉 Merged PR [#1](https://github.com/WilliamDavidHarrison/dev-website/pull/1) in [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)
-5. 🎉 Merged PR [#3](https://github.com/FutureFocusAccounting/website/pull/3) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
+1. ❌ Closed PR [#3](https://github.com/WilliamDavidHarrison/links/pull/3) in [WilliamDavidHarrison/links](https://github.com/WilliamDavidHarrison/links)
+2. 💪 Opened PR [#3](https://github.com/WilliamDavidHarrison/links/pull/3) in [WilliamDavidHarrison/links](https://github.com/WilliamDavidHarrison/links)
+3. ❌ Closed PR [#2](https://github.com/WilliamDavidHarrison/links/pull/2) in [WilliamDavidHarrison/links](https://github.com/WilliamDavidHarrison/links)
+4. 💪 Opened PR [#2](https://github.com/WilliamDavidHarrison/links/pull/2) in [WilliamDavidHarrison/links](https://github.com/WilliamDavidHarrison/links)
+5. 💪 Opened PR [#16](https://github.com/wclarkey/CMShark/pull/16) in [wclarkey/CMShark](https://github.com/wclarkey/CMShark)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
