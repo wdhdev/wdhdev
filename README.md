@@ -30,6 +30,10 @@
 <a href="https://www.instagram.com/wdharrison09"><img align="center" src="assets/instagram.png" height="70" width="70" /></a>
 <a href="https://www.reddit.com/u/williamdavidharrison"><img align="center" src="assets/reddit.png" height="70" width="70" /></a>
 <a href="https://discord.com/users/853158265466257448"><img align="center" src="assets/discord.png" height="70" width="70" /></a>
+<a href="https://snapchat.com/add/wdharrison09"><img align="center" src="assets/snapchat.png" height="70" width="70" /></a>
+<a href="https://www.youtube.com/channel/UCzHwrpKSSMcnt-srjRqQqjg"><img align="center" src="assets/youtube.png" height="70" width="70" /></a>
+<a href="https://www.twitch.tv/WDHarrison09"><img align="center" src="assets/twitch.png" height="70" width="70" /></a>
+<a href="https://www.tiktok.com/@WDHarrison09"><img align="center" src="assets/tiktok.png" height="70" width="70" /></a>
 
 ## Links
 * [Main Website](https://williamharrison.xyz)
