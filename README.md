@@ -24,10 +24,18 @@
 
 [![GitHub Streak](https://wh-github-readme-streak-stats.herokuapp.com/?user=WilliamDavidHarrison&theme=dark)](https://git.io/streak-stats)
 
+## Connect with Me
+<a href="https://www.facebook.com/wdharrison09"><img align="center" src="assets/facebook.png" height="40" width="40" /></a>
+<a href="https://twitter.com/wdharrison09"><img align="center" src="assets/twitter.png" height="40" width="40" /></a>
+<a href="https://www.instagram.com/wdharrison09"><img align="center" src="assets/instagram.png" height="40" width="40" /></a>
+<a href="https://www.reddit.com/u/williamdavidharrison"><img align="center" src="assets/reddit.png" height="40" width="40" /></a>
+<a href="https://discord.com/users/853158265466257448"><img align="center" src="assets/discord.png" height="40" width="40" /></a>
+
 ## Links
 * [Main Website](https://williamharrison.xyz)
 * [Personal Website](https://william.net.au)
 * [Developer Website](https://williamharrison.dev)
+* [Blog](https://www.williamharrison.blog)
 * [Links Website](https://williamharrison.me)
 
 ## Archive
