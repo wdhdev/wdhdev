@@ -1,6 +1,8 @@
 # 👋 Hi, I'm William.
 ![Profile View Counter](https://komarev.com/ghpvc/?username=williamdavidharrison&color=blue&style=for-the-badge)
 
+<img src="https://dcbadge.vercel.app/api/shield/853158265466257448?theme=discord-inverted" href="https://discord.com/users/853158265466257448"/>
+
 ## About Me
 - I’m currently working on my **[developer website](https://williamharrison.dev)** and the **[is-a-good.dev Dashboard](https://github.com/is-a-good-dev/dashboard)**.
 - I’m learning **HTML, CSS and JavaScript**.
@@ -21,16 +23,6 @@
 ![Top Languages](https://github-readme-stats.api.williamharrison.dev/api/top-langs/?username=williamdavidharrison&theme=algolia&layout=compact&border_radius=8)
 
 [![GitHub Streak](https://wh-github-readme-streak-stats.herokuapp.com/?user=WilliamDavidHarrison&theme=dark)](https://git.io/streak-stats)
-
-## Connect with Me
-<p>
-<a href="https://facebook.com/wdharrison09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wdharrison09" height="30" width="40" /></a>
-<a href="https://twitter.com/wdharrison09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wdharrison09" height="30" width="40" /></a>
-<a href="https://instagram.com/wdharrison09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wdharrison09" height="30" width="40" /></a>
-<a href="https://discord.gg/wADVBmQkgg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/wADVBmQkgg" height="30" width="40" /></a>
-</p>
-
-<img src="https://dcbadge.vercel.app/api/shield/853158265466257448?theme=discord-inverted"/>
 
 ## Links
 * [Main Website](https://williamharrison.xyz)
