@@ -1,7 +1,7 @@
 # 👋 Hi, I'm William.
 ![Profile View Counter](https://komarev.com/ghpvc/?username=williamdavidharrison&color=blue&style=for-the-badge)
 
-<img src="https://dcbadge.vercel.app/api/shield/853158265466257448?theme=discord-inverted" href="https://discord.com/users/853158265466257448"/>
+![Discord Status](https://dcbadge.vercel.app/api/shield/853158265466257448?theme=discord-inverted)
 
 ## About Me
 - I’m currently working on my **[developer website](https://williamharrison.dev)** and the **[is-a-good.dev Dashboard](https://github.com/is-a-good-dev/dashboard)**.
