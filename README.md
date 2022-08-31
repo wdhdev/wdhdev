@@ -41,6 +41,3 @@
 * [Developer Website](https://williamharrison.dev)
 * [Blog](https://www.williamharrison.blog)
 * [Links Website](https://williamharrison.me)
-
-## Archive
-All my archived projects are available [here](https://archive.williamharrison.dev).
