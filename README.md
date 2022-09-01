@@ -40,4 +40,4 @@
 * [Personal Website](https://william.net.au)
 * [Developer Website](https://williamharrison.dev)
 * [Blog](https://www.williamharrison.blog)
-* [Links Website](https://williamharrison.me)
+* [Links](https://williamharrison.me)
