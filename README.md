@@ -10,11 +10,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/WilliamDavidHarrison/links/pull/6) in [WilliamDavidHarrison/links](https://github.com/WilliamDavidHarrison/links)
-2. 🎉 Merged PR [#5](https://github.com/WilliamDavidHarrison/links/pull/5) in [WilliamDavidHarrison/links](https://github.com/WilliamDavidHarrison/links)
-3. 💪 Opened PR [#5](https://github.com/WilliamDavidHarrison/links/pull/5) in [WilliamDavidHarrison/links](https://github.com/WilliamDavidHarrison/links)
-4. ❌ Closed PR [#20](https://github.com/wclarkey/CMShark/pull/20) in [wclarkey/CMShark](https://github.com/wclarkey/CMShark)
-5. 💪 Opened PR [#20](https://github.com/wclarkey/CMShark/pull/20) in [wclarkey/CMShark](https://github.com/wclarkey/CMShark)
+1. ❗️ Opened issue [#21](https://github.com/wclarkey/CMShark/issues/21) in [wclarkey/CMShark](https://github.com/wclarkey/CMShark)
+2. 🎉 Merged PR [#6](https://github.com/WilliamDavidHarrison/links/pull/6) in [WilliamDavidHarrison/links](https://github.com/WilliamDavidHarrison/links)
+3. 🎉 Merged PR [#5](https://github.com/WilliamDavidHarrison/links/pull/5) in [WilliamDavidHarrison/links](https://github.com/WilliamDavidHarrison/links)
+4. 💪 Opened PR [#5](https://github.com/WilliamDavidHarrison/links/pull/5) in [WilliamDavidHarrison/links](https://github.com/WilliamDavidHarrison/links)
+5. ❌ Closed PR [#20](https://github.com/wclarkey/CMShark/pull/20) in [wclarkey/CMShark](https://github.com/wclarkey/CMShark)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
