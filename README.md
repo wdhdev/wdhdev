@@ -4,9 +4,9 @@
 ![Discord Status](https://dcbadge.vercel.app/api/shield/853158265466257448?theme=discord-inverted)
 
 ## About Me
-- I’m currently working on my **[developer website](https://williamharrison.dev)** and the **[is-a-good.dev Dashboard](https://github.com/is-a-good-dev/dashboard)**.
+- I’m currently working on **[CMShark](https://github.com/wclarkey/cmshark)**.
 - I’m learning **HTML, CSS and JavaScript**.
-- You can contact me [here](mailto:william@williamharrison.dev).
+- You can contact me [here](mailto:contact.williamharrison.me).
 
 ## Recent Activity
 <!--START_SECTION:activity-->
