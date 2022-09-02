@@ -1,8 +1,6 @@
 # 👋 Hi, I'm William.
 ![Profile View Counter](https://komarev.com/ghpvc/?username=williamdavidharrison&color=blue&style=for-the-badge)
 
-![Discord Status](https://dcbadge.vercel.app/api/shield/853158265466257448?theme=discord-inverted)
-
 ## About Me
 - I’m currently working on **[CMShark](https://github.com/wclarkey/cmshark)**.
 - I’m learning **HTML, CSS and JavaScript**.
@@ -32,8 +30,12 @@
 <a href="https://discord.com/users/853158265466257448"><img align="center" src="assets/discord.png" height="70" width="70" /></a>
 <a href="https://snapchat.com/add/wdharrison09"><img align="center" src="assets/snapchat.png" height="70" width="70" /></a>
 <a href="https://www.youtube.com/channel/UCzHwrpKSSMcnt-srjRqQqjg"><img align="center" src="assets/youtube.png" height="70" width="70" /></a>
-<a href="https://www.twitch.tv/WDHarrison09"><img align="center" src="assets/twitch.png" height="70" width="70" /></a>
-<a href="https://www.tiktok.com/@WDHarrison09"><img align="center" src="assets/tiktok.png" height="70" width="70" /></a>
+<a href="https://www.twitch.tv/wdharrison09"><img align="center" src="assets/twitch.png" height="70" width="70" /></a>
+<a href="https://www.tiktok.com/@wdharrison09"><img align="center" src="assets/tiktok.png" height="70" width="70" /></a>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/WDHarrison09?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/williamdavidharrison)
+
+![Discord Status](https://dcbadge.vercel.app/api/shield/853158265466257448?theme=discord-inverted)
 
 ## Links
 * [Main Website](https://williamharrison.xyz)
