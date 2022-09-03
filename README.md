@@ -17,11 +17,11 @@
 <h2 align="center">Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/WilliamDavidHarrison/dev-website/pull/2) in [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)
-2. 💪 Opened PR [#2](https://github.com/WilliamDavidHarrison/dev-website/pull/2) in [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)
-3. ❌ Closed PR [#8](https://github.com/WilliamDavidHarrison/website/pull/8) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
-4. 💪 Opened PR [#8](https://github.com/WilliamDavidHarrison/website/pull/8) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
-5. 🗣 Commented on [#3](https://github.com/win11react/.github/issues/3) in [win11react/.github](https://github.com/win11react/.github)
+1. 💪 Opened PR [#9](https://github.com/uses-cf/register/pull/9) in [uses-cf/register](https://github.com/uses-cf/register)
+2. ❌ Closed PR [#2](https://github.com/WilliamDavidHarrison/dev-website/pull/2) in [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)
+3. 💪 Opened PR [#2](https://github.com/WilliamDavidHarrison/dev-website/pull/2) in [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)
+4. ❌ Closed PR [#8](https://github.com/WilliamDavidHarrison/website/pull/8) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
+5. 💪 Opened PR [#8](https://github.com/WilliamDavidHarrison/website/pull/8) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
 <!--END_SECTION:activity-->
 
 <h2 align="center">GitHub Stats</h2>
