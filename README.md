@@ -44,6 +44,7 @@
 <a href="https://www.youtube.com/channel/UCzHwrpKSSMcnt-srjRqQqjg"><img align="center" src="assets/youtube.png" height="70" width="70" /></a>
 <a href="https://www.twitch.tv/wdharrison09"><img align="center" src="assets/twitch.png" height="70" width="70" /></a>
 <a href="https://www.tiktok.com/@wdharrison09"><img align="center" src="assets/tiktok.png" height="70" width="70" /></a>
+<a href="https://open.spotify.com/user/4kteqc82me1u1vxevzly2azqs"><img align="center" src="assets/spotify.png" height="70" width="70" /></a>
 </p>
 
 <h2 align="center">Links</h2>
