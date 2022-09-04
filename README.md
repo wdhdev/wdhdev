@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hi, I'm William</h1>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=williamdavidharrison&color=blue&style=for-the-badge)](https://github.com/williamdavidharrison/williamdavidharrison)
+![Profile Views](https://komarev.com/ghpvc/?username=williamdavidharrison&color=blue&style=for-the-badge)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/WDHarrison09?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/williamdavidharrison)
 
@@ -30,7 +30,7 @@
 
 ![Top Languages](https://github-readme-stats.api.williamharrison.dev/api/top-langs/?username=williamdavidharrison&theme=algolia&layout=compact&border_radius=8)
 
-[![GitHub Streak](https://wh-github-readme-streak-stats.herokuapp.com/?user=WilliamDavidHarrison&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://wh-github-readme-streak-stats.herokuapp.com/?user=WilliamDavidHarrison&theme=dark)
 
 <h2 align="center">Connect with Me</h2>
 
