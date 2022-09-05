@@ -27,6 +27,22 @@
 <h2 align="center">Wakatime Stats</h2>
 
 <!--START_SECTION:waka-->
+**I Mostly Code in HTML** 
+
+```text
+HTML                     10 repos            █████████████████░░░░░░░░   71.43% 
+JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/charts/bar_graph.png) 
+
+
+ Last Updated on 05/09/2022 06:22:54 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="center">GitHub Stats</h2>
