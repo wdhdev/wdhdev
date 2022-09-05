@@ -27,10 +27,6 @@
 <h2 align="center">Wakatime Stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--844%20lines%20of%20code-blue)
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -46,7 +42,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/09/2022 05:55:06 UTC
+ Last Updated on 05/09/2022 06:01:55 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="center">GitHub Stats</h2>
