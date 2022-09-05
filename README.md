@@ -29,20 +29,8 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--844%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 1,571 Contributions in the Year 2022
- > 
-> 📦 35.6 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 20 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
 **I Mostly Code in HTML** 
 
 ```text
@@ -58,7 +46,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/09/2022 05:39:40 UTC
+ Last Updated on 05/09/2022 05:55:06 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="center">GitHub Stats</h2>
