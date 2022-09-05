@@ -33,6 +33,38 @@
 ![GitHub Streak](https://wh-github-readme-streak-stats.herokuapp.com/?user=WilliamDavidHarrison&theme=dark)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 1,571 Contributions in the Year 2022
+ > 
+> 📦 35.6 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 20 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I Mostly Code in HTML** 
+
+```text
+HTML                     10 repos            █████████████████░░░░░░░░   71.43% 
+JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/charts/bar_graph.png) 
+
+
+ Last Updated on 05/09/2022 05:39:40 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="center">Connect with Me</h2>
