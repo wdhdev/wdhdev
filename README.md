@@ -24,7 +24,7 @@
 5. 🗣 Commented on [#3358](https://github.com/is-a-dev/register/issues/3358) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 
-<h2 align="center">Wakatime Status</h2>
+<h2 align="center">Wakatime Stats</h2>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
