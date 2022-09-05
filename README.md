@@ -32,6 +32,9 @@
 
 ![GitHub Streak](https://wh-github-readme-streak-stats.herokuapp.com/?user=WilliamDavidHarrison&theme=dark)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h2 align="center">Connect with Me</h2>
 
 <p align="center">
