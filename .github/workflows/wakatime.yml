@@ -15,8 +15,6 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_MESSAGE: "Update Wakatime Metrics"
-          SHOW_OS: False
           SHOW_PROFILE_VIEWS: False
-          SHOW_PROJECTS: False
           SHOW_SHORT_INFO: False
           SHOW_TOTAL_CODE_TIME: False
