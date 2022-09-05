@@ -1,4 +1,4 @@
-name: Wakatime
+name: Wakatime Metrics
 
 on:
   schedule:
