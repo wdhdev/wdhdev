@@ -55,7 +55,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 <h2 align="center">Connect with Me</h2>
 
-<p align="center">
 <a href="https://www.facebook.com/wdharrison09"><img align="center" src="assets/facebook.png" height="70" width="70" /></a>
 <a href="https://twitter.com/wdharrison09"><img align="center" src="assets/twitter.png" height="70" width="70" /></a>
 <a href="https://www.instagram.com/wdharrison09"><img align="center" src="assets/instagram.png" height="70" width="70" /></a>
@@ -66,7 +65,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 <a href="https://www.twitch.tv/wdharrison09"><img align="center" src="assets/twitch.png" height="70" width="70" /></a>
 <a href="https://www.tiktok.com/@wdharrison09"><img align="center" src="assets/tiktok.png" height="70" width="70" /></a>
 <a href="https://open.spotify.com/user/4kteqc82me1u1vxevzly2azqs"><img align="center" src="assets/spotify.png" height="70" width="70" /></a>
-</p>
 
 <h2 align="center">Links</h2>
 
