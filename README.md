@@ -17,11 +17,11 @@
 <h2 align="center">Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#228](https://github.com/Olivr/free-domain/issues/228) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
-2. 🗣 Commented on [#228](https://github.com/Olivr/free-domain/issues/228) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
-3. 💪 Opened PR [#9](https://github.com/uses-cf/register/pull/9) in [uses-cf/register](https://github.com/uses-cf/register)
-4. ❌ Closed PR [#2](https://github.com/WilliamDavidHarrison/dev-website/pull/2) in [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)
-5. 💪 Opened PR [#2](https://github.com/WilliamDavidHarrison/dev-website/pull/2) in [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)
+1. 🗣 Commented on [#3358](https://github.com/is-a-dev/register/issues/3358) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. 🗣 Commented on [#3361](https://github.com/is-a-dev/register/issues/3361) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. 🗣 Commented on [#3366](https://github.com/is-a-dev/register/issues/3366) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. 🗣 Commented on [#3368](https://github.com/is-a-dev/register/issues/3368) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. 🗣 Commented on [#3372](https://github.com/is-a-dev/register/issues/3372) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 
 <h2 align="center">GitHub Stats</h2>
