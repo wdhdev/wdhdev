@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hi, I'm William</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=williamdavidharrison&color=blue&style=for-the-badge)
+[![Profile Views](https://komarev.com/ghpvc/?username=williamdavidharrison&color=blue&style=for-the-badge)](https://github.com/williamdavidharrison)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/WDHarrison09?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/user?screen_name=wdharrison09)
 
