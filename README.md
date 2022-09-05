@@ -24,13 +24,7 @@
 5. 🗣 Commented on [#3358](https://github.com/is-a-dev/register/issues/3358) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 
-<h2 align="center">GitHub Stats</h2>
-
-![GitHub Stats](https://github-readme-stats.api.williamharrison.dev/api?username=williamdavidharrison&theme=algolia&show_icons=true&border_radius=8&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.api.williamharrison.dev/api/top-langs/?username=williamdavidharrison&theme=algolia&layout=compact&border_radius=8)
-
-![GitHub Streak](https://wh-github-readme-streak-stats.herokuapp.com/?user=WilliamDavidHarrison&theme=dark)
+<h2 align="center">Wakatime Status</h2>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
@@ -66,6 +60,14 @@ CSS                      1 repo              █░░░░░░░░░░�
 
  Last Updated on 05/09/2022 05:39:40 UTC
 <!--END_SECTION:waka-->
+
+<h2 align="center">GitHub Stats</h2>
+
+![GitHub Stats](https://github-readme-stats.api.williamharrison.dev/api?username=williamdavidharrison&theme=algolia&show_icons=true&border_radius=8&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.api.williamharrison.dev/api/top-langs/?username=williamdavidharrison&theme=algolia&layout=compact&border_radius=8)
+
+![GitHub Streak](https://wh-github-readme-streak-stats.herokuapp.com/?user=WilliamDavidHarrison&theme=dark)
 
 <h2 align="center">Connect with Me</h2>
 
