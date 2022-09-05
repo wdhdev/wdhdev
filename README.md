@@ -17,11 +17,11 @@
 <h2 align="center">Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#228](https://github.com/Olivr/free-domain/issues/228) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
-2. 🗣 Commented on [#638](https://github.com/blueedgetechno/win11React/issues/638) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-3. 💪 Opened PR [#3378](https://github.com/is-a-dev/register/pull/3378) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. 🗣 Commented on [#3358](https://github.com/is-a-dev/register/issues/3358) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. 🗣 Commented on [#3358](https://github.com/is-a-dev/register/issues/3358) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. ❌ Closed PR [#4](https://github.com/FutureFocusAccounting/website/pull/4) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
+2. 💪 Opened PR [#4](https://github.com/FutureFocusAccounting/website/pull/4) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
+3. 🎉 Merged PR [#3](https://github.com/WilliamDavidHarrison/dev-website/pull/3) in [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)
+4. 💪 Opened PR [#3](https://github.com/WilliamDavidHarrison/dev-website/pull/3) in [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)
+5. 🎉 Merged PR [#1](https://github.com/WilliamDavidHarrison/blog/pull/1) in [WilliamDavidHarrison/blog](https://github.com/WilliamDavidHarrison/blog)
 <!--END_SECTION:activity-->
 
 <h2 align="center">Wakatime Metrics</h2>
