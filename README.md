@@ -17,11 +17,11 @@
 <h2 align="center">Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3361](https://github.com/is-a-dev/register/issues/3361) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. ❌ Closed PR [#4](https://github.com/FutureFocusAccounting/website/pull/4) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
-3. 💪 Opened PR [#4](https://github.com/FutureFocusAccounting/website/pull/4) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
-4. 🎉 Merged PR [#3](https://github.com/WilliamDavidHarrison/dev-website/pull/3) in [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)
-5. 💪 Opened PR [#3](https://github.com/WilliamDavidHarrison/dev-website/pull/3) in [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)
+1. 🗣 Commented on [#3378](https://github.com/is-a-dev/register/issues/3378) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. 🗣 Commented on [#3361](https://github.com/is-a-dev/register/issues/3361) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. 🗣 Commented on [#3361](https://github.com/is-a-dev/register/issues/3361) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. ❌ Closed PR [#4](https://github.com/FutureFocusAccounting/website/pull/4) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
+5. 💪 Opened PR [#4](https://github.com/FutureFocusAccounting/website/pull/4) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
 <!--END_SECTION:activity-->
 
 <h2 align="center">Wakatime Metrics</h2>
