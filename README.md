@@ -104,6 +104,8 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 ![GitHub Streak](https://wh-github-readme-streak-stats.herokuapp.com/?user=WilliamDavidHarrison&theme=dark)
 
+![Snake Contribution Graph](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/blob/output/github-contribution-grid-snake.svg)
+
 <h2 align="center">Connect with Me</h2>
 
 <a href="https://www.facebook.com/wdharrison09"><img align="center" src="assets/facebook.png" height="70" width="70" /></a>
