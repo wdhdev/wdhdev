@@ -1,4 +1,4 @@
-name: Generate Snake Contribution Graph
+name: Snake Contribution Graph
 
 on:
   schedule:
