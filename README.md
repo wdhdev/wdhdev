@@ -17,11 +17,11 @@
 <h2 align="center">Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#647](https://github.com/blueedgetechno/win11React/issues/647) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-2. ❗️ Opened issue [#647](https://github.com/blueedgetechno/win11React/issues/647) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-3. ❗️ Opened issue [#324](https://github.com/anmol098/waka-readme-stats/issues/324) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-4. 🗣 Commented on [#3361](https://github.com/is-a-dev/register/issues/3361) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. 🗣 Commented on [#3378](https://github.com/is-a-dev/register/issues/3378) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. 🗣 Commented on [#3399](https://github.com/is-a-dev/register/issues/3399) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. 🗣 Commented on [#3396](https://github.com/is-a-dev/register/issues/3396) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. 🗣 Commented on [#647](https://github.com/blueedgetechno/win11React/issues/647) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+4. ❗️ Opened issue [#647](https://github.com/blueedgetechno/win11React/issues/647) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+5. ❗️ Opened issue [#324](https://github.com/anmol098/waka-readme-stats/issues/324) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 <!--END_SECTION:activity-->
 
 <h2 align="center">Wakatime Metrics</h2>
