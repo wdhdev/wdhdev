@@ -18,10 +18,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#647](https://github.com/blueedgetechno/win11React/issues/647) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-2. 🗣 Commented on [#3399](https://github.com/is-a-dev/register/issues/3399) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. 🗣 Commented on [#3396](https://github.com/is-a-dev/register/issues/3396) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. 🗣 Commented on [#647](https://github.com/blueedgetechno/win11React/issues/647) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-5. ❗️ Opened issue [#647](https://github.com/blueedgetechno/win11React/issues/647) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+2. 🗣 Commented on [#647](https://github.com/blueedgetechno/win11React/issues/647) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+3. 🗣 Commented on [#3399](https://github.com/is-a-dev/register/issues/3399) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. 🗣 Commented on [#3396](https://github.com/is-a-dev/register/issues/3396) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. 🗣 Commented on [#647](https://github.com/blueedgetechno/win11React/issues/647) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
 <!--END_SECTION:activity-->
 
 <h2 align="center">Wakatime Metrics</h2>
