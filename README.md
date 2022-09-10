@@ -17,11 +17,11 @@
 <h2 align="center">Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#647](https://github.com/blueedgetechno/win11React/issues/647) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-2. 🗣 Commented on [#647](https://github.com/blueedgetechno/win11React/issues/647) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-3. 🗣 Commented on [#3399](https://github.com/is-a-dev/register/issues/3399) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. 🗣 Commented on [#3396](https://github.com/is-a-dev/register/issues/3396) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. 🗣 Commented on [#647](https://github.com/blueedgetechno/win11React/issues/647) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+1. 🗣 Commented on [#4](https://github.com/DavidWittman/wpxmlrpcbrute/issues/4) in [DavidWittman/wpxmlrpcbrute](https://github.com/DavidWittman/wpxmlrpcbrute)
+2. 💪 Opened PR [#4](https://github.com/DavidWittman/wpxmlrpcbrute/pull/4) in [DavidWittman/wpxmlrpcbrute](https://github.com/DavidWittman/wpxmlrpcbrute)
+3. 🗣 Commented on [#647](https://github.com/blueedgetechno/win11React/issues/647) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+4. 🗣 Commented on [#647](https://github.com/blueedgetechno/win11React/issues/647) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+5. 🗣 Commented on [#3399](https://github.com/is-a-dev/register/issues/3399) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 
 <h2 align="center">Wakatime Metrics</h2>
