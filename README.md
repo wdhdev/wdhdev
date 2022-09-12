@@ -17,11 +17,11 @@
 <h2 align="center">Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3378](https://github.com/is-a-dev/register/issues/3378) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. ❌ Closed PR [#3447](https://github.com/is-a-dev/register/pull/3447) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. 💪 Opened PR [#3447](https://github.com/is-a-dev/register/pull/3447) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. 🗣 Commented on [#4](https://github.com/DavidWittman/wpxmlrpcbrute/issues/4) in [DavidWittman/wpxmlrpcbrute](https://github.com/DavidWittman/wpxmlrpcbrute)
-5. 💪 Opened PR [#4](https://github.com/DavidWittman/wpxmlrpcbrute/pull/4) in [DavidWittman/wpxmlrpcbrute](https://github.com/DavidWittman/wpxmlrpcbrute)
+1. 🗣 Commented on [#3449](https://github.com/is-a-dev/register/issues/3449) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. 💪 Opened PR [#3449](https://github.com/is-a-dev/register/pull/3449) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. 🗣 Commented on [#3378](https://github.com/is-a-dev/register/issues/3378) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. 🗣 Commented on [#3378](https://github.com/is-a-dev/register/issues/3378) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. 🗣 Commented on [#3378](https://github.com/is-a-dev/register/issues/3378) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 
 <h2 align="center">Wakatime Metrics</h2>
