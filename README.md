@@ -17,11 +17,6 @@
 <h2 align="center">Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#228](https://github.com/Olivr/free-domain/issues/228) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
-2. 🗣 Commented on [#647](https://github.com/blueedgetechno/win11React/issues/647) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-3. ❗️ Closed issue [#324](https://github.com/anmol098/waka-readme-stats/issues/324) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-4. 💪 Opened PR [#3476](https://github.com/is-a-dev/register/pull/3476) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. ❌ Reopened PR [#188](https://github.com/is-a-good-dev/register/pull/188) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
 <!--END_SECTION:activity-->
 
 <h2 align="center">Wakatime Metrics</h2>
