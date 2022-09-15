@@ -17,11 +17,11 @@
 <h2 align="center">Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#186](https://github.com/is-a-good-dev/register/pull/186) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-2. ❌ Closed PR [#185](https://github.com/is-a-good-dev/register/pull/185) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-3. 💪 Opened PR [#185](https://github.com/is-a-good-dev/register/pull/185) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-4. 🗣 Commented on [#98](https://github.com/minimaxir/big-list-of-naughty-strings/issues/98) in [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings)
-5. ❌ Closed PR [#7](https://github.com/WilliamDavidHarrison/links/pull/7) in [WilliamDavidHarrison/links](https://github.com/WilliamDavidHarrison/links)
+1. 🗣 Commented on [#228](https://github.com/Olivr/free-domain/issues/228) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
+2. 🗣 Commented on [#647](https://github.com/blueedgetechno/win11React/issues/647) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+3. ❗️ Closed issue [#324](https://github.com/anmol098/waka-readme-stats/issues/324) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+4. 💪 Opened PR [#3476](https://github.com/is-a-dev/register/pull/3476) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. ❌ Reopened PR [#188](https://github.com/is-a-good-dev/register/pull/188) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
 <!--END_SECTION:activity-->
 
 <h2 align="center">Wakatime Metrics</h2>
