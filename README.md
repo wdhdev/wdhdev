@@ -10,7 +10,6 @@
 
 <h2 align="center">About Me</h2>
 
-* I'm currently working on [CMShark](https://github.com/wclarkey/cmshark).
 * I'm learning HTML, CSS and JavaScript.
 * You can contact me [here](https://contact.williamharrison.me).
 
