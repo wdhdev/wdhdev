@@ -10,6 +10,7 @@
 
 <h2 align="center">About Me</h2>
 
+* I'm currently working on my [personal website](https://github.com/williamdavidharrison/website).
 * I'm learning HTML, CSS and JavaScript.
 * You can contact me [here](https://contact.williamharrison.me).
 
@@ -125,4 +126,3 @@ CSS                      2 repos             ███░░░░░░░░�
 * [Developer Website](https://williamharrison.dev)
 * [Blog](https://www.williamharrison.blog)
 * [Links](https://williamharrison.me)
-* [Contact Me](https://contact.williamharrison.me)
