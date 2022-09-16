@@ -17,16 +17,16 @@
 <h2 align="center">Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3473](https://github.com/is-a-dev/register/issues/3473) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. 🗣 Commented on [#228](https://github.com/Olivr/free-domain/issues/228) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
-3. 🗣 Commented on [#647](https://github.com/blueedgetechno/win11React/issues/647) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-4. ❗️ Closed issue [#324](https://github.com/anmol098/waka-readme-stats/issues/324) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-5. 💪 Opened PR [#3476](https://github.com/is-a-dev/register/pull/3476) in [is-a-dev/register](https://github.com/is-a-dev/register)
-6. ❌ Reopened PR [#188](https://github.com/is-a-good-dev/register/pull/188) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-7. ❌ Closed PR [#188](https://github.com/is-a-good-dev/register/pull/188) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-8. 💪 Opened PR [#188](https://github.com/is-a-good-dev/register/pull/188) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-9. ❌ Closed PR [#186](https://github.com/is-a-good-dev/register/pull/186) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-10. 🗣 Commented on [#186](https://github.com/is-a-good-dev/register/issues/186) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+1. 🗣 Commented on [#3317](https://github.com/is-a-dev/register/issues/3317) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. 🗣 Commented on [#3319](https://github.com/is-a-dev/register/issues/3319) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. 🗣 Commented on [#3322](https://github.com/is-a-dev/register/issues/3322) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. 🗣 Commented on [#3328](https://github.com/is-a-dev/register/issues/3328) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. 🗣 Commented on [#3329](https://github.com/is-a-dev/register/issues/3329) in [is-a-dev/register](https://github.com/is-a-dev/register)
+6. 🗣 Commented on [#3330](https://github.com/is-a-dev/register/issues/3330) in [is-a-dev/register](https://github.com/is-a-dev/register)
+7. 🗣 Commented on [#3346](https://github.com/is-a-dev/register/issues/3346) in [is-a-dev/register](https://github.com/is-a-dev/register)
+8. 🗣 Commented on [#3355](https://github.com/is-a-dev/register/issues/3355) in [is-a-dev/register](https://github.com/is-a-dev/register)
+9. 🗣 Commented on [#3383](https://github.com/is-a-dev/register/issues/3383) in [is-a-dev/register](https://github.com/is-a-dev/register)
+10. 🗣 Commented on [#3473](https://github.com/is-a-dev/register/issues/3473) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 
 <h2 align="center">Wakatime Metrics</h2>
