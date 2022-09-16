@@ -41,6 +41,8 @@
 
 <h2 align="center">Wakatime Metrics</h2>
 
+https://wakatime.com/@wh
+
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
