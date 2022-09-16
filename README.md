@@ -14,6 +14,16 @@
 * I'm learning HTML, CSS and JavaScript.
 * You can contact me [here](https://contact.williamharrison.me).
 
+<h2 align="center">GitHub Stats</h2>
+
+![GitHub Stats](https://github-readme-stats.api.williamharrison.dev/api?username=williamdavidharrison&theme=algolia&show_icons=true&border_radius=8&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.api.williamharrison.dev/api/top-langs/?username=williamdavidharrison&theme=algolia&layout=compact&border_radius=8)
+
+![GitHub Streak](https://wh-github-readme-streak-stats.herokuapp.com/?user=WilliamDavidHarrison&theme=dark)
+
+![Snake Contribution Graph](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/blob/output/github-contribution-grid-snake.svg)
+
 <h2 align="center">Recent Activity</h2>
 
 <!--START_SECTION:activity-->
@@ -100,16 +110,6 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
  Last Updated on 15/09/2022 02:53:56 UTC
 <!--END_SECTION:waka-->
-
-<h2 align="center">GitHub Stats</h2>
-
-![GitHub Stats](https://github-readme-stats.api.williamharrison.dev/api?username=williamdavidharrison&theme=algolia&show_icons=true&border_radius=8&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.api.williamharrison.dev/api/top-langs/?username=williamdavidharrison&theme=algolia&layout=compact&border_radius=8)
-
-![GitHub Streak](https://wh-github-readme-streak-stats.herokuapp.com/?user=WilliamDavidHarrison&theme=dark)
-
-![Snake Contribution Graph](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/blob/output/github-contribution-grid-snake.svg)
 
 <h2 align="center">Connect with Me</h2>
 
