@@ -27,11 +27,11 @@ Hi, I'm William, I'm a developer who mainly codes in HTML, CSS and JavaScript. I
 <h2 align="center">Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#190](https://github.com/is-a-good-dev/register/pull/190) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-2. 🗣 Commented on [#3383](https://github.com/is-a-dev/register/issues/3383) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. 🗣 Commented on [#3317](https://github.com/is-a-dev/register/issues/3317) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. 🗣 Commented on [#3319](https://github.com/is-a-dev/register/issues/3319) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. 🗣 Commented on [#3322](https://github.com/is-a-dev/register/issues/3322) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. 🗣 Commented on [#3473](https://github.com/is-a-dev/register/issues/3473) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. 🗣 Commented on [#190](https://github.com/is-a-good-dev/register/issues/190) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+3. 🗣 Commented on [#190](https://github.com/is-a-good-dev/register/issues/190) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+4. 💪 Opened PR [#190](https://github.com/is-a-good-dev/register/pull/190) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+5. 🗣 Commented on [#3383](https://github.com/is-a-dev/register/issues/3383) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 
 <h2 align="center">GitHub Stats</h2>
