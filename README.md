@@ -21,8 +21,8 @@ Hi, I'm William, I'm a developer who mainly codes in HTML, CSS and JavaScript. I
 - JavaScript
 
 💼 **Roles**
-- Helper @ [is-a.dev](https://github.com/is-a-dev/register)
-- Helper @ [is-a-good.dev](https://github.com/is-a-good-dev/register)
+- Helper @ [is-a.dev](https://github.com/is-a-dev)
+- Helper @ [is-a-good.dev](https://github.com/is-a-good-dev)
 
 <h2 align="center">Recent Activity</h2>
 
