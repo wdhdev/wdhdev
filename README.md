@@ -10,7 +10,7 @@
 
 <h2 align="center">About Me</h2>
 
-<p align="center">Hi, I'm William, I'm a developer who mainly codes in HTML, CSS and JavaScript. I am a self taught coder.</p>
+<p align="center">Hi, I'm William, I'm a developer who codes mainly in HTML, CSS and JavaScript. I am a self taught coder.</p>
 
 🛠️ **Currently Working On**
 - [Personal Website](https://github.com/williamdavidharrison/website)
