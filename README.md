@@ -4,13 +4,13 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=williamdavidharrison&color=blue&style=for-the-badge)](https://github.com/williamdavidharrison)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/WDHarrison09?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/user?screen_name=wdharrison09)
+[![Twitter](https://img.shields.io/twitter/follow/WDHarrison09?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/user?screen_name=wdharrison09)
 
-[![Discord Status](https://dcbadge.vercel.app/api/shield/853158265466257448?theme=discord-inverted)](https://discord.com/users/853158265466257448)
+[![Discord](https://dcbadge.vercel.app/api/shield/853158265466257448?theme=discord-inverted)](https://discord.com/users/853158265466257448)
 
 <h2 align="center">About Me</h2>
 
-Hi, I'm William, I'm a developer who mainly codes in HTML, CSS and JavaScript. I am a self taught coder.
+<p align="center">Hi, I'm William, I'm a developer who mainly codes in HTML, CSS and JavaScript. I am a self taught coder.</p>
 
 🛠️ **Currently Working On**
 - [Personal Website](https://github.com/williamdavidharrison/website)
@@ -36,14 +36,15 @@ Hi, I'm William, I'm a developer who mainly codes in HTML, CSS and JavaScript. I
 
 <h2 align="center">GitHub Stats</h2>
 
-![GitHub Stats](https://github-readme-stats.api.williamharrison.dev/api?username=williamdavidharrison&theme=algolia&show_icons=true&border_radius=8&count_private=true&include_all_commits=true)
+[![GitHub Stats](https://github-readme-stats.api.williamharrison.dev/api?username=williamdavidharrison&theme=algolia&show_icons=true&border_radius=8&count_private=true&include_all_commits=true)](https://github.com/williamdavidharrison)
 
-![Top Languages](https://github-readme-stats.api.williamharrison.dev/api/top-langs/?username=williamdavidharrison&theme=algolia&layout=compact&border_radius=8)
+[![Top Languages](https://github-readme-stats.api.williamharrison.dev/api/top-langs/?username=williamdavidharrison&theme=algolia&layout=compact&border_radius=8)](https://github.com/williamdavidharrison)
 
-![GitHub Streak](https://wh-github-readme-streak-stats.herokuapp.com/?user=WilliamDavidHarrison&theme=dark)
+[![GitHub Streak](https://wh-github-readme-streak-stats.herokuapp.com/?user=WilliamDavidHarrison&theme=dark)](https://github.com/williamdavidharrison)
 
 <h2 align="center">Social Media</h2>
 
+<p align="center">
 <a href="https://www.facebook.com/wdharrison09"><img align="center" src="assets/facebook.png" height="65" width="65" /></a>
 <a href="https://twitter.com/wdharrison09"><img align="center" src="assets/twitter.png" height="65" width="65" /></a>
 <a href="https://www.instagram.com/wdharrison09"><img align="center" src="assets/instagram.png" height="65" width="65" /></a>
@@ -54,15 +55,16 @@ Hi, I'm William, I'm a developer who mainly codes in HTML, CSS and JavaScript. I
 <a href="https://www.twitch.tv/wdharrison09"><img align="center" src="assets/twitch.png" height="65" width="65" /></a>
 <a href="https://www.tiktok.com/@wdharrison09"><img align="center" src="assets/tiktok.png" height="65" width="65" /></a>
 <a href="https://open.spotify.com/user/4kteqc82me1u1vxevzly2azqs"><img align="center" src="assets/spotify.png" height="65" width="65" /></a>
+</p>
 
 <h2 align="center">Links</h2>
 
 **Websites**
-* [Personal Website](https://william.net.au)
-* [Developer Website](https://williamharrison.dev)
-* [Blog](https://www.williamharrison.blog)
-* [Links](https://williamharrison.me)
+- [Personal Website](https://william.net.au)
+- [Developer Website](https://williamharrison.dev)
+- [Blog](https://www.williamharrison.blog)
+- [Links Website](https://williamharrison.me)
 
 **Other**
-* [Archive](https://archive.williamharrison.dev)
-* [Wakatime](https://wakatime.com/@wh)
+- [Archive](https://archive.williamharrison.dev)
+- [Wakatime](https://wakatime.com/@wh)
