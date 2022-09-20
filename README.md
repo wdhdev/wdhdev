@@ -10,7 +10,7 @@
 
 <h2 align="center">About Me</h2>
 
-<p align="center">Hi, I'm William, I'm a developer who codes mainly in HTML, CSS and JavaScript. I am a self taught coder.</p>
+Hi, I'm William, I'm a self-taught developer.
 
 🛠️ **Currently Working On**
 - [Personal Website](https://github.com/williamdavidharrison/website)
@@ -21,17 +21,19 @@
 - JavaScript
 
 💼 **Roles**
+- Developer @ [Future Focus Accounting](https://github.com/futurefocusaccounting)
 - Helper @ [is-a.dev](https://github.com/is-a-dev)
 - Helper @ [is-a-good.dev](https://github.com/is-a-good-dev)
+- Beta Tester @ [CMShark](https://github.com/wclarkey/cmshark)
 
 <h2 align="center">Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/WilliamDavidHarrison/dev-website/pull/4) in [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)
-2. 💪 Opened PR [#4](https://github.com/WilliamDavidHarrison/dev-website/pull/4) in [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)
-3. 🗣 Commented on [#3351](https://github.com/is-a-dev/register/issues/3351) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. 🗣 Commented on [#228](https://github.com/Olivr/free-domain/issues/228) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
-5. 🗣 Commented on [#3488](https://github.com/is-a-dev/register/issues/3488) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. 🗣 Commented on [#228](https://github.com/Olivr/free-domain/issues/228) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
+2. 🗣 Commented on [#3488](https://github.com/is-a-dev/register/issues/3488) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. ❌ Reopened PR [#191](https://github.com/is-a-good-dev/register/pull/191) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+4. ❌ Closed PR [#191](https://github.com/is-a-good-dev/register/pull/191) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+5. 💪 Opened PR [#191](https://github.com/is-a-good-dev/register/pull/191) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
 <!--END_SECTION:activity-->
 
 <h2 align="center">GitHub Stats</h2>
