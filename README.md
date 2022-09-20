@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/williamdavidharrison/williamdavidharrison/blob/main/assets/logo.png" height="100" width="100"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/assets/logo.png" height="100" width="100"></p>
 
 <h1 align="center">👋 Hi, I'm William</h1>
 
