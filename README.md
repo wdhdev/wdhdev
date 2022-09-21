@@ -59,7 +59,7 @@ Hi, I'm William, I am a self-taught developer.
 
 [![Twitter](https://img.shields.io/twitter/follow/WDHarrison09?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/user?screen_name=wdharrison09)
 
-[![Discord](https://dcbadge.vercel.app/api/shield/853158265466257448?theme=discord-inverted)](https://discord.com/users/853158265466257448)
+[![Discord](https://discord-md-badge.api.williamharrison.dev/api/shield/853158265466257448?theme=discord-inverted)](https://discord.com/users/853158265466257448)
 
 [![Discord Presence](https://lanyard-profile-readme.api.williamharrison.dev/api/853158265466257448)](https://discord.com/users/853158265466257448)
 
