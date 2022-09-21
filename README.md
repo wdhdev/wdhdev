@@ -61,7 +61,7 @@ Hi, I'm William, I am a self-taught developer.
 
 [![Discord](https://dcbadge.vercel.app/api/shield/853158265466257448?theme=discord-inverted)](https://discord.com/users/853158265466257448)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/853158265466257448)](https://discord.com/users/853158265466257448)
+[![Discord Presence](https://lanyard-profile-readme.api.williamharrison.dev/api/853158265466257448)](https://discord.com/users/853158265466257448)
 
 <h2 align="center">Links</h2>
 
