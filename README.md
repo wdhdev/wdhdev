@@ -27,11 +27,11 @@ Hi, I'm William, I am a self-taught developer.
 <h2>Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/ashmonty/discord-md-badge/issues/8) in [ashmonty/discord-md-badge](https://github.com/ashmonty/discord-md-badge)
-2. ❗️ Opened issue [#8](https://github.com/ashmonty/discord-md-badge/issues/8) in [ashmonty/discord-md-badge](https://github.com/ashmonty/discord-md-badge)
-3. 🗣 Commented on [#3351](https://github.com/is-a-dev/register/issues/3351) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. 🗣 Commented on [#3490](https://github.com/is-a-dev/register/issues/3490) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. ❌ Closed PR [#5](https://github.com/WilliamDavidHarrison/dev-website/pull/5) in [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)
+1. 💪 Opened PR [#6](https://github.com/WilliamDavidHarrison/dev-website/pull/6) in [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)
+2. ❗️ Closed issue [#8](https://github.com/ashmonty/discord-md-badge/issues/8) in [ashmonty/discord-md-badge](https://github.com/ashmonty/discord-md-badge)
+3. ❗️ Opened issue [#8](https://github.com/ashmonty/discord-md-badge/issues/8) in [ashmonty/discord-md-badge](https://github.com/ashmonty/discord-md-badge)
+4. 🗣 Commented on [#3351](https://github.com/is-a-dev/register/issues/3351) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. 🗣 Commented on [#3490](https://github.com/is-a-dev/register/issues/3490) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 
 <h2>GitHub Stats</h2>
