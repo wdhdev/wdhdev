@@ -44,7 +44,6 @@ Hi, I'm William, I am a self-taught developer.
 
 <h2 align="center">Social Media</h2>
 
-<p align="center">
 <a href="https://www.facebook.com/wdharrison09"><img align="center" src="assets/facebook.png" height="65" width="65" /></a>
 <a href="https://twitter.com/wdharrison09"><img align="center" src="assets/twitter.png" height="65" width="65" /></a>
 <a href="https://www.instagram.com/wdharrison09"><img align="center" src="assets/instagram.png" height="65" width="65" /></a>
@@ -55,7 +54,6 @@ Hi, I'm William, I am a self-taught developer.
 <a href="https://www.twitch.tv/wdharrison09"><img align="center" src="assets/twitch.png" height="65" width="65" /></a>
 <a href="https://www.tiktok.com/@wdharrison09"><img align="center" src="assets/tiktok.png" height="65" width="65" /></a>
 <a href="https://open.spotify.com/user/4kteqc82me1u1vxevzly2azqs"><img align="center" src="assets/spotify.png" height="65" width="65" /></a>
-</p>
 
 [![Twitter](https://img.shields.io/twitter/follow/WDHarrison09?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/user?screen_name=wdharrison09)
 
