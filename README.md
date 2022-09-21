@@ -10,17 +10,19 @@ Hi, I'm William, I am a self-taught developer.
 
 🛠️ **Currently Working On**
 - [Personal Website](https://github.com/williamdavidharrison/website)
+- [William's Utilities](https://github.com/williamsutilities/bot)
 
 🧑‍💻 **Coding Languages**
 - HTML
 - CSS
 - JavaScript
+- NodeJS
 
 💼 **Roles**
 - Developer @ [Future Focus Accounting](https://github.com/futurefocusaccounting)
 - Helper @ [is-a.dev](https://github.com/is-a-dev)
 - Helper @ [is-a-good.dev](https://github.com/is-a-good-dev)
-- Beta Tester @ [CMShark](https://github.com/wclarkey/cmshark)
+- Alpha & Beta Tester @ [CMShark](https://github.com/wclarkey/cmshark)
 
 <h2 align="center">Recent Activity</h2>
 
