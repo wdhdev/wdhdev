@@ -4,7 +4,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=williamdavidharrison&color=blue&style=for-the-badge)](https://github.com/williamdavidharrison)
 
-<h2 align="center">About Me</h2>
+<h2>About Me</h2>
 
 Hi, I'm William, I am a self-taught developer.
 
@@ -24,7 +24,7 @@ Hi, I'm William, I am a self-taught developer.
 - Helper @ [is-a-good.dev](https://github.com/is-a-good-dev)
 - Alpha & Beta Tester @ [CMShark](https://github.com/wclarkey/cmshark)
 
-<h2 align="center">Recent Activity</h2>
+<h2>Recent Activity</h2>
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#8](https://github.com/ashmonty/discord-md-badge/issues/8) in [ashmonty/discord-md-badge](https://github.com/ashmonty/discord-md-badge)
@@ -34,7 +34,7 @@ Hi, I'm William, I am a self-taught developer.
 5. 🗣 Commented on [#228](https://github.com/Olivr/free-domain/issues/228) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
 <!--END_SECTION:activity-->
 
-<h2 align="center">GitHub Stats</h2>
+<h2>GitHub Stats</h2>
 
 [![GitHub Stats](https://github-readme-stats.api.williamharrison.dev/api?username=williamdavidharrison&theme=algolia&show_icons=true&border_radius=8&count_private=true&include_all_commits=true)](https://github.com/williamdavidharrison)
 
@@ -42,7 +42,7 @@ Hi, I'm William, I am a self-taught developer.
 
 [![GitHub Streak](https://wh-github-readme-streak-stats.herokuapp.com/?user=WilliamDavidHarrison&theme=dark)](https://github.com/williamdavidharrison)
 
-<h2 align="center">Social Media</h2>
+<h2>Social Media</h2>
 
 <a href="https://www.facebook.com/wdharrison09"><img align="center" src="assets/facebook.png" height="65" width="65" /></a>
 <a href="https://twitter.com/wdharrison09"><img align="center" src="assets/twitter.png" height="65" width="65" /></a>
@@ -61,7 +61,7 @@ Hi, I'm William, I am a self-taught developer.
 
 [![Discord Presence](https://lanyard-profile-readme.api.williamharrison.dev/api/853158265466257448)](https://discord.com/users/853158265466257448)
 
-<h2 align="center">Links</h2>
+<h2>Links</h2>
 
 **Websites**
 - [Personal Website](https://william.net.au)
