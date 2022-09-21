@@ -6,7 +6,7 @@
 
 <h2 align="center">About Me</h2>
 
-Hi, I'm William, I'm a self-taught developer.
+Hi, I'm William, I am a self-taught developer.
 
 🛠️ **Currently Working On**
 - [Personal Website](https://github.com/williamdavidharrison/website)
