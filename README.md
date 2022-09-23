@@ -27,11 +27,11 @@ Hi, I'm William, I am a self-taught developer.
 <h2>Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/WilliamDavidHarrison/dev-website/pull/9) in [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)
-2. 🎉 Merged PR [#8](https://github.com/WilliamDavidHarrison/dev-website/pull/8) in [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)
-3. 💪 Opened PR [#8](https://github.com/WilliamDavidHarrison/dev-website/pull/8) in [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)
-4. 🗣 Commented on [#3381](https://github.com/is-a-dev/register/issues/3381) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. 🗣 Commented on [#3522](https://github.com/is-a-dev/register/issues/3522) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. 🎉 Merged PR [#8](https://github.com/WilliamDavidHarrison/links/pull/8) in [WilliamDavidHarrison/links](https://github.com/WilliamDavidHarrison/links)
+2. 💪 Opened PR [#8](https://github.com/WilliamDavidHarrison/links/pull/8) in [WilliamDavidHarrison/links](https://github.com/WilliamDavidHarrison/links)
+3. 🎉 Merged PR [#10](https://github.com/WilliamDavidHarrison/website/pull/10) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
+4. 💪 Opened PR [#10](https://github.com/WilliamDavidHarrison/website/pull/10) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
+5. 🎉 Merged PR [#10](https://github.com/WilliamDavidHarrison/dev-website/pull/10) in [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)
 <!--END_SECTION:activity-->
 
 <h2>GitHub Stats</h2>
