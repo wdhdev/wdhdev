@@ -9,7 +9,6 @@
 Hi, I'm William, I am a self-taught developer.
 
 🛠️ **Currently Working On**
-- [Personal Website](https://github.com/williamdavidharrison/website)
 - [William's Utilities](https://github.com/williamsutilities/bot)
 
 🧑‍💻 **Coding Languages**
