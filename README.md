@@ -26,11 +26,11 @@ Hi, I'm William, I am a self-taught developer.
 <h2>Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3543](https://github.com/is-a-dev/register/issues/3543) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. 🗣 Commented on [#191](https://github.com/is-a-good-dev/register/issues/191) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-3. 💪 Opened PR [#161650](https://github.com/microsoft/vscode/pull/161650) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 💪 Opened PR [#1](https://github.com/SX-9/SX-9/pull/1) in [SX-9/SX-9](https://github.com/SX-9/SX-9)
+2. ❌ Closed PR [#9](https://github.com/WilliamDavidHarrison/dev-website/pull/9) in [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)
+3. 🗣 Commented on [#3543](https://github.com/is-a-dev/register/issues/3543) in [is-a-dev/register](https://github.com/is-a-dev/register)
 4. 🗣 Commented on [#191](https://github.com/is-a-good-dev/register/issues/191) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-5. 💪 Opened PR [#54358](https://github.com/firstcontributions/first-contributions/pull/54358) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+5. 💪 Opened PR [#161650](https://github.com/microsoft/vscode/pull/161650) in [microsoft/vscode](https://github.com/microsoft/vscode)
 <!--END_SECTION:activity-->
 
 <h2>GitHub Stats</h2>
