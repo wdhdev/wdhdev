@@ -27,11 +27,11 @@ Hi, I'm William, I am a self-taught developer.
 <h2>Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#191](https://github.com/is-a-good-dev/register/issues/191) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-2. 💪 Opened PR [#161650](https://github.com/microsoft/vscode/pull/161650) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 🗣 Commented on [#191](https://github.com/is-a-good-dev/register/issues/191) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-4. 💪 Opened PR [#54358](https://github.com/firstcontributions/first-contributions/pull/54358) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-5. 🗣 Commented on [#223](https://github.com/Olivr/free-domain/issues/223) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
+1. 🗣 Commented on [#3543](https://github.com/is-a-dev/register/issues/3543) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. 🗣 Commented on [#191](https://github.com/is-a-good-dev/register/issues/191) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+3. 💪 Opened PR [#161650](https://github.com/microsoft/vscode/pull/161650) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 🗣 Commented on [#191](https://github.com/is-a-good-dev/register/issues/191) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+5. 💪 Opened PR [#54358](https://github.com/firstcontributions/first-contributions/pull/54358) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
 <!--END_SECTION:activity-->
 
 <h2>GitHub Stats</h2>
