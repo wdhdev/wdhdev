@@ -19,8 +19,8 @@ Hi, I'm William, I am a self-taught developer.
 
 💼 **Roles**
 - Developer @ [Future Focus Accounting](https://github.com/futurefocusaccounting)
-- Helper @ [is-a.dev](https://github.com/is-a-dev)
-- Helper @ [is-a-good.dev](https://github.com/is-a-good-dev)
+- Helper @ [is-a.dev](https://github.com/is-a-dev/register)
+- Helper @ [is-a-good.dev](https://github.com/is-a-good-dev/register)
 - Alpha & Beta Tester @ [CMShark](https://github.com/wclarkey/cmshark)
 
 <h2>Recent Activity</h2>
