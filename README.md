@@ -63,7 +63,7 @@ Hi, I'm William, I am a self-taught developer.
 **Websites**
 - [Personal Website](https://william.net.au)
 - [Developer Website](https://williamharrison.dev)
-- [Blog](https://blog.william.net.au)
+- [Blog](https://williamharrison.blog)
 - [Links Website](https://williamharrison.me)
 
 **Other**
