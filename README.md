@@ -27,10 +27,10 @@ Hi, I'm William, I am a self-taught developer.
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3351](https://github.com/is-a-dev/register/issues/3351) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. 🎉 Merged PR [#9](https://github.com/WilliamDavidHarrison/links/pull/9) in [WilliamDavidHarrison/links](https://github.com/WilliamDavidHarrison/links)
-3. 💪 Opened PR [#9](https://github.com/WilliamDavidHarrison/links/pull/9) in [WilliamDavidHarrison/links](https://github.com/WilliamDavidHarrison/links)
-4. 🗣 Commented on [#198](https://github.com/is-a-good-dev/register/issues/198) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-5. 💪 Opened PR [#1](https://github.com/SX-9/SX-9/pull/1) in [SX-9/SX-9](https://github.com/SX-9/SX-9)
+2. 🗣 Commented on [#3375](https://github.com/is-a-dev/register/issues/3375) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. 🗣 Commented on [#3351](https://github.com/is-a-dev/register/issues/3351) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. 🎉 Merged PR [#9](https://github.com/WilliamDavidHarrison/links/pull/9) in [WilliamDavidHarrison/links](https://github.com/WilliamDavidHarrison/links)
+5. 💪 Opened PR [#9](https://github.com/WilliamDavidHarrison/links/pull/9) in [WilliamDavidHarrison/links](https://github.com/WilliamDavidHarrison/links)
 <!--END_SECTION:activity-->
 
 <h2>GitHub Stats</h2>
