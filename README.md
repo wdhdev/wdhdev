@@ -26,11 +26,11 @@ Hi, I'm William, I am a self-taught developer.
 <h2>Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#204](https://github.com/is-a-good-dev/register/issues/204) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-2. 🗣 Commented on [#202](https://github.com/is-a-good-dev/register/issues/202) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-3. 🗣 Commented on [#202](https://github.com/is-a-good-dev/register/issues/202) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-4. ❌ Closed PR [#212](https://github.com/twitter-together/action/pull/212) in [twitter-together/action](https://github.com/twitter-together/action)
-5. 💪 Opened PR [#212](https://github.com/twitter-together/action/pull/212) in [twitter-together/action](https://github.com/twitter-together/action)
+1. 🎉 Merged PR [#11](https://github.com/WilliamDavidHarrison/dev-website/pull/11) in [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)
+2. 💪 Opened PR [#11](https://github.com/WilliamDavidHarrison/dev-website/pull/11) in [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)
+3. 🗣 Commented on [#3551](https://github.com/is-a-dev/register/issues/3551) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. 🗣 Commented on [#204](https://github.com/is-a-good-dev/register/issues/204) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+5. 🗣 Commented on [#202](https://github.com/is-a-good-dev/register/issues/202) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
 <!--END_SECTION:activity-->
 
 <h2>GitHub Stats</h2>
