@@ -1,8 +1,8 @@
-<p align="center"><img src="https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/assets/logo.png" height="100" width="100"></p>
+<p align="center"><a href="https://wakatime.com/@wh"><img src="https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/assets/logo.png" height="100" width="100"></a></p>
 
 <h1 align="center">👋 Hi, I'm William</h1>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=williamdavidharrison&color=blue&style=for-the-badge)](https://github.com/williamdavidharrison)
+<a href="https://github.wdh.bio">github.wdh.bio</a>
 
 <h2>About Me</h2>
 
@@ -33,7 +33,13 @@ Hi, I'm William, I am a self-taught developer.
 5. 🗣 Commented on [#9](https://github.com/is-a-good-dev/docs/issues/9) in [is-a-good-dev/docs](https://github.com/is-a-good-dev/docs)
 <!--END_SECTION:activity-->
 
-<h2>GitHub Stats</h2>
+<h2>Stats</h2>
+
+**Profile Stats**
+
+[![Profile Views](https://komarev.com/ghpvc/?username=williamdavidharrison&color=blue&style=for-the-badge)](https://github.com/williamdavidharrison)
+
+**GitHub Stats**
 
 [![GitHub Stats](https://github-readme-stats.api.williamharrison.dev/api?username=williamdavidharrison&theme=algolia&show_icons=true&border_radius=8&count_private=true&include_all_commits=true)](https://github.com/williamdavidharrison)
 
@@ -50,6 +56,10 @@ Hi, I'm William, I am a self-taught developer.
 [![Discord Profile](https://lanyard-profile-readme.api.williamharrison.dev/api/853158265466257448)](https://discord.com/users/853158265466257448)
 
 <h2>Links</h2>
+
+**Contact Me**
+- [Contact Form](https://contact.williamharrison.me)
+- [Email](mailto:github@wdh.bio)
 
 **Websites**
 - [Personal Website](https://william.net.au)
