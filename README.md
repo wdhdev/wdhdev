@@ -43,16 +43,7 @@ Hi, I'm William, I am a self-taught developer.
 
 <h2>Social Media</h2>
 
-<a href="https://www.facebook.com/wdharrison09"><img align="center" src="assets/facebook.png" height="65" width="65" /></a>
-<a href="https://twitter.com/wdharrison09"><img align="center" src="assets/twitter.png" height="65" width="65" /></a>
-<a href="https://www.instagram.com/wdharrison09"><img align="center" src="assets/instagram.png" height="65" width="65" /></a>
-<a href="https://www.reddit.com/u/williamdavidharrison"><img align="center" src="assets/reddit.png" height="65" width="65" /></a>
-<a href="https://discord.com/users/853158265466257448"><img align="center" src="assets/discord.png" height="65" width="65" /></a>
-<a href="https://snapchat.com/add/wdharrison09"><img align="center" src="assets/snapchat.png" height="65" width="65" /></a>
-<a href="https://www.youtube.com/channel/UCzHwrpKSSMcnt-srjRqQqjg"><img align="center" src="assets/youtube.png" height="65" width="65" /></a>
-<a href="https://www.twitch.tv/wdharrison09"><img align="center" src="assets/twitch.png" height="65" width="65" /></a>
-<a href="https://www.tiktok.com/@wdharrison09"><img align="center" src="assets/tiktok.png" height="65" width="65" /></a>
-<a href="https://open.spotify.com/user/4kteqc82me1u1vxevzly2azqs"><img align="center" src="assets/spotify.png" height="65" width="65" /></a>
+[![Twitter](https://img.shields.io/twitter/follow/WDHarrison09?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/user?screen_name=wdharrison09)
 
 [![Discord Status](https://discord-md-badge.api.williamharrison.dev/api/shield/853158265466257448?theme=discord-inverted)](https://discord.com/users/853158265466257448)
 
