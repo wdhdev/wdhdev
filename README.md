@@ -26,11 +26,11 @@ Hi, I'm William, I am a self-taught developer.
 <h2>Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/WilliamDavidHarrison/tweet-from-github/pull/1) in [WilliamDavidHarrison/tweet-from-github](https://github.com/WilliamDavidHarrison/tweet-from-github)
-2. 🎉 Merged PR [#3](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/pull/3) in [WilliamDavidHarrison/WilliamDavidHarrison](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison)
-3. 🗣 Commented on [#3508](https://github.com/is-a-dev/register/issues/3508) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. 💪 Opened PR [#3](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/pull/3) in [WilliamDavidHarrison/WilliamDavidHarrison](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison)
-5. 🗣 Commented on [#205](https://github.com/is-a-good-dev/register/issues/205) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+1. 💪 Opened PR [#7668](https://github.com/js-org/js.org/pull/7668) in [js-org/js.org](https://github.com/js-org/js.org)
+2. 💪 Opened PR [#7667](https://github.com/js-org/js.org/pull/7667) in [js-org/js.org](https://github.com/js-org/js.org)
+3. 🎉 Merged PR [#1](https://github.com/WilliamDavidHarrison/tweet-from-github/pull/1) in [WilliamDavidHarrison/tweet-from-github](https://github.com/WilliamDavidHarrison/tweet-from-github)
+4. 🎉 Merged PR [#3](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/pull/3) in [WilliamDavidHarrison/WilliamDavidHarrison](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison)
+5. 🗣 Commented on [#3508](https://github.com/is-a-dev/register/issues/3508) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 
 <h2>Stats</h2>
