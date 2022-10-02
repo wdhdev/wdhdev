@@ -26,11 +26,11 @@ Hi, I'm William, I am a self-taught developer.
 <h2>Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#16](https://github.com/WilliamDavidHarrison/dev-website/pull/16) in [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)
-2. 💪 Opened PR [#16](https://github.com/WilliamDavidHarrison/dev-website/pull/16) in [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)
-3. 🎉 Merged PR [#15](https://github.com/WilliamDavidHarrison/dev-website/pull/15) in [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)
-4. 💪 Opened PR [#15](https://github.com/WilliamDavidHarrison/dev-website/pull/15) in [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)
-5. 🎉 Merged PR [#14](https://github.com/WilliamDavidHarrison/dev-website/pull/14) in [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)
+1. 💪 Opened PR [#7673](https://github.com/js-org/js.org/pull/7673) in [js-org/js.org](https://github.com/js-org/js.org)
+2. 🗣 Commented on [#3591](https://github.com/is-a-dev/register/issues/3591) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. ❌ Closed PR [#1](https://github.com/WilliamDavidHarrison/contact/pull/1) in [WilliamDavidHarrison/contact](https://github.com/WilliamDavidHarrison/contact)
+4. 💪 Opened PR [#1](https://github.com/WilliamDavidHarrison/contact/pull/1) in [WilliamDavidHarrison/contact](https://github.com/WilliamDavidHarrison/contact)
+5. ❌ Closed PR [#16](https://github.com/WilliamDavidHarrison/dev-website/pull/16) in [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)
 <!--END_SECTION:activity-->
 
 <h2>Stats</h2>
