@@ -26,11 +26,11 @@ Hi, I'm William, I am a self-taught developer.
 <h2>Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7673](https://github.com/js-org/js.org/issues/7673) in [js-org/js.org](https://github.com/js-org/js.org)
-2. 🗣 Commented on [#7673](https://github.com/js-org/js.org/issues/7673) in [js-org/js.org](https://github.com/js-org/js.org)
-3. ❗️ Closed issue [#7674](https://github.com/js-org/js.org/issues/7674) in [js-org/js.org](https://github.com/js-org/js.org)
-4. 🗣 Commented on [#3591](https://github.com/is-a-dev/register/issues/3591) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. 💪 Opened PR [#20](https://github.com/js-org/js.org-cleanup/pull/20) in [js-org/js.org-cleanup](https://github.com/js-org/js.org-cleanup)
+1. 🗣 Commented on [#3593](https://github.com/is-a-dev/register/issues/3593) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. ❌ Closed PR [#7673](https://github.com/js-org/js.org/pull/7673) in [js-org/js.org](https://github.com/js-org/js.org)
+3. 🗣 Commented on [#7673](https://github.com/js-org/js.org/issues/7673) in [js-org/js.org](https://github.com/js-org/js.org)
+4. 🗣 Commented on [#7673](https://github.com/js-org/js.org/issues/7673) in [js-org/js.org](https://github.com/js-org/js.org)
+5. 🗣 Commented on [#7673](https://github.com/js-org/js.org/issues/7673) in [js-org/js.org](https://github.com/js-org/js.org)
 <!--END_SECTION:activity-->
 
 <h2>Stats</h2>
