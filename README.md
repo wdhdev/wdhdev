@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hi, I'm William</h1>
 
-<a href="https://github.wdh.bio">github.wdh.bio</a>
+[github.wdh.bio](https://github.wdh.bio)
 
 <h2>About Me</h2>
 
@@ -70,3 +70,4 @@ Hi, I'm William, I am a self-taught developer.
 **Other**
 - [Archive](https://archive.williamharrison.dev)
 - [Wakatime](https://wakatime.com/@wh)
+- [npm](https://www.npmjs.com/~wdharrison09)
