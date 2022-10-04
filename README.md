@@ -27,10 +27,10 @@ Hi, I'm William, I am a self-taught developer.
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3593](https://github.com/is-a-dev/register/issues/3593) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. ❌ Closed PR [#7673](https://github.com/js-org/js.org/pull/7673) in [js-org/js.org](https://github.com/js-org/js.org)
-3. 🗣 Commented on [#7673](https://github.com/js-org/js.org/issues/7673) in [js-org/js.org](https://github.com/js-org/js.org)
-4. 🗣 Commented on [#7673](https://github.com/js-org/js.org/issues/7673) in [js-org/js.org](https://github.com/js-org/js.org)
-5. 🗣 Commented on [#7673](https://github.com/js-org/js.org/issues/7673) in [js-org/js.org](https://github.com/js-org/js.org)
+2. 🎉 Merged PR [#5](https://github.com/FutureFocusAccounting/website/pull/5) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
+3. 💪 Opened PR [#5](https://github.com/FutureFocusAccounting/website/pull/5) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
+4. 🗣 Commented on [#3593](https://github.com/is-a-dev/register/issues/3593) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. ❌ Closed PR [#7673](https://github.com/js-org/js.org/pull/7673) in [js-org/js.org](https://github.com/js-org/js.org)
 <!--END_SECTION:activity-->
 
 <h2>Stats</h2>
