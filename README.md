@@ -26,11 +26,11 @@ Hi, I'm William, I am a self-taught developer.
 <h2>Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3593](https://github.com/is-a-dev/register/issues/3593) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. 🎉 Merged PR [#5](https://github.com/FutureFocusAccounting/website/pull/5) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
-3. 💪 Opened PR [#5](https://github.com/FutureFocusAccounting/website/pull/5) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
-4. 🗣 Commented on [#3593](https://github.com/is-a-dev/register/issues/3593) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. ❌ Closed PR [#7673](https://github.com/js-org/js.org/pull/7673) in [js-org/js.org](https://github.com/js-org/js.org)
+1. 🎉 Merged PR [#6](https://github.com/FutureFocusAccounting/website/pull/6) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
+2. 💪 Opened PR [#6](https://github.com/FutureFocusAccounting/website/pull/6) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
+3. 🗣 Commented on [#3593](https://github.com/is-a-dev/register/issues/3593) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. 🎉 Merged PR [#5](https://github.com/FutureFocusAccounting/website/pull/5) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
+5. 💪 Opened PR [#5](https://github.com/FutureFocusAccounting/website/pull/5) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
 <!--END_SECTION:activity-->
 
 <h2>Stats</h2>
