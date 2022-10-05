@@ -26,11 +26,11 @@ Hi, I'm William, I am a self-taught developer.
 <h2>Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#638](https://github.com/blueedgetechno/win11React/issues/638) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-2. 🎉 Merged PR [#6](https://github.com/FutureFocusAccounting/website/pull/6) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
-3. 💪 Opened PR [#6](https://github.com/FutureFocusAccounting/website/pull/6) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
-4. 🗣 Commented on [#3593](https://github.com/is-a-dev/register/issues/3593) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. 🎉 Merged PR [#5](https://github.com/FutureFocusAccounting/website/pull/5) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
+1. 💪 Opened PR [#7689](https://github.com/js-org/js.org/pull/7689) in [js-org/js.org](https://github.com/js-org/js.org)
+2. 🗣 Commented on [#638](https://github.com/blueedgetechno/win11React/issues/638) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+3. 🎉 Merged PR [#6](https://github.com/FutureFocusAccounting/website/pull/6) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
+4. 💪 Opened PR [#6](https://github.com/FutureFocusAccounting/website/pull/6) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
+5. 🗣 Commented on [#3593](https://github.com/is-a-dev/register/issues/3593) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 
 <h2>Stats</h2>
