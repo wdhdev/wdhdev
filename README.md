@@ -65,7 +65,7 @@ Hi, I'm William, I am a self-taught developer.
 - [Blog](https://www.williamharrison.blog)
 - [Links Website](https://williamharrison.me)
 
-**Profiles**:
+**Profiles**
 - [Wakatime](https://wakatime.com/@wh)
 - [npm](https://www.npmjs.com/~wdharrison09)
 
