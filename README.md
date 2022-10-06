@@ -57,9 +57,7 @@ Hi, I'm William, I am a self-taught developer.
 
 <h2>Links</h2>
 
-**Contact Me**
-- [Contact Form](https://contact.williamharrison.me)
-- [Email](mailto:github@wdh.bio)
+- **[Contact Me](https://contact.williamharrison.me)**
 
 **Websites**
 - [Personal Website](https://william.net.au)
@@ -67,7 +65,9 @@ Hi, I'm William, I am a self-taught developer.
 - [Blog](https://www.williamharrison.blog)
 - [Links Website](https://williamharrison.me)
 
-**Other**
-- [Archive](https://archive.williamharrison.dev)
+**Profiles**:
 - [Wakatime](https://wakatime.com/@wh)
 - [npm](https://www.npmjs.com/~wdharrison09)
+
+**Other**
+- [Project Archive](https://archive.williamharrison.dev)
