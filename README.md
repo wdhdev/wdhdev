@@ -26,11 +26,11 @@ Hi, I'm William, I am a self-taught developer.
 <h2>Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/is-a-good-dev/Email-Check-API/issues/1) in [is-a-good-dev/Email-Check-API](https://github.com/is-a-good-dev/Email-Check-API)
-2. 💪 Opened PR [#1](https://github.com/is-a-good-dev/Email-Check-API/pull/1) in [is-a-good-dev/Email-Check-API](https://github.com/is-a-good-dev/Email-Check-API)
-3. 💪 Opened PR [#7689](https://github.com/js-org/js.org/pull/7689) in [js-org/js.org](https://github.com/js-org/js.org)
-4. 🗣 Commented on [#638](https://github.com/blueedgetechno/win11React/issues/638) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-5. 🎉 Merged PR [#6](https://github.com/FutureFocusAccounting/website/pull/6) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
+1. ❌ Closed PR [#7691](https://github.com/js-org/js.org/pull/7691) in [js-org/js.org](https://github.com/js-org/js.org)
+2. 💪 Opened PR [#7691](https://github.com/js-org/js.org/pull/7691) in [js-org/js.org](https://github.com/js-org/js.org)
+3. 🗣 Commented on [#1](https://github.com/is-a-good-dev/Email-Check-API/issues/1) in [is-a-good-dev/Email-Check-API](https://github.com/is-a-good-dev/Email-Check-API)
+4. 💪 Opened PR [#1](https://github.com/is-a-good-dev/Email-Check-API/pull/1) in [is-a-good-dev/Email-Check-API](https://github.com/is-a-good-dev/Email-Check-API)
+5. 💪 Opened PR [#7689](https://github.com/js-org/js.org/pull/7689) in [js-org/js.org](https://github.com/js-org/js.org)
 <!--END_SECTION:activity-->
 
 <h2>Stats</h2>
