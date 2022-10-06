@@ -26,11 +26,11 @@ Hi, I'm William, I am a self-taught developer.
 <h2>Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/WilliamDavidHarrison/register.is-a.dev/pull/1) in [WilliamDavidHarrison/register.is-a.dev](https://github.com/WilliamDavidHarrison/register.is-a.dev)
-2. 💪 Opened PR [#1](https://github.com/WilliamDavidHarrison/register.is-a.dev/pull/1) in [WilliamDavidHarrison/register.is-a.dev](https://github.com/WilliamDavidHarrison/register.is-a.dev)
-3. 💪 Opened PR [#16](https://github.com/is-a-dev/register.is-a.dev/pull/16) in [is-a-dev/register.is-a.dev](https://github.com/is-a-dev/register.is-a.dev)
-4. 💪 Opened PR [#7693](https://github.com/js-org/js.org/pull/7693) in [js-org/js.org](https://github.com/js-org/js.org)
-5. 🗣 Commented on [#3125](https://github.com/is-a-dev/register/issues/3125) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. 🗣 Commented on [#16](https://github.com/is-a-dev/register.is-a.dev/issues/16) in [is-a-dev/register.is-a.dev](https://github.com/is-a-dev/register.is-a.dev)
+2. 🎉 Merged PR [#1](https://github.com/WilliamDavidHarrison/register.is-a.dev/pull/1) in [WilliamDavidHarrison/register.is-a.dev](https://github.com/WilliamDavidHarrison/register.is-a.dev)
+3. 💪 Opened PR [#1](https://github.com/WilliamDavidHarrison/register.is-a.dev/pull/1) in [WilliamDavidHarrison/register.is-a.dev](https://github.com/WilliamDavidHarrison/register.is-a.dev)
+4. 💪 Opened PR [#16](https://github.com/is-a-dev/register.is-a.dev/pull/16) in [is-a-dev/register.is-a.dev](https://github.com/is-a-dev/register.is-a.dev)
+5. 💪 Opened PR [#7693](https://github.com/js-org/js.org/pull/7693) in [js-org/js.org](https://github.com/js-org/js.org)
 <!--END_SECTION:activity-->
 
 <h2>Stats</h2>
