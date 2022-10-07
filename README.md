@@ -26,11 +26,11 @@ Hi, I'm William, I am a self-taught developer.
 <h2>Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1150](https://github.com/is-a-dev/register/issues/1150) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. 🗣 Commented on [#7693](https://github.com/js-org/js.org/issues/7693) in [js-org/js.org](https://github.com/js-org/js.org)
-3. 🗣 Commented on [#204](https://github.com/is-a-good-dev/register/issues/204) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-4. 🗣 Commented on [#16](https://github.com/is-a-dev/register.is-a.dev/issues/16) in [is-a-dev/register.is-a.dev](https://github.com/is-a-dev/register.is-a.dev)
-5. 🎉 Merged PR [#1](https://github.com/WilliamDavidHarrison/register.is-a.dev/pull/1) in [WilliamDavidHarrison/register.is-a.dev](https://github.com/WilliamDavidHarrison/register.is-a.dev)
+1. 🗣 Commented on [#3630](https://github.com/is-a-dev/register/issues/3630) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. 🗣 Commented on [#1150](https://github.com/is-a-dev/register/issues/1150) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. 🗣 Commented on [#7693](https://github.com/js-org/js.org/issues/7693) in [js-org/js.org](https://github.com/js-org/js.org)
+4. 🗣 Commented on [#204](https://github.com/is-a-good-dev/register/issues/204) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+5. 🗣 Commented on [#16](https://github.com/is-a-dev/register.is-a.dev/issues/16) in [is-a-dev/register.is-a.dev](https://github.com/is-a-dev/register.is-a.dev)
 <!--END_SECTION:activity-->
 
 <h2>Stats</h2>
