@@ -26,11 +26,11 @@ Hi, I'm William, I am a self-taught developer.
 <h2>Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3630](https://github.com/is-a-dev/register/issues/3630) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. 🗣 Commented on [#3630](https://github.com/is-a-dev/register/issues/3630) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. 🗣 Commented on [#3552](https://github.com/is-a-dev/register/issues/3552) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. ❌ Closed PR [#25](https://github.com/SamDev-7/website/pull/25) in [SamDev-7/website](https://github.com/SamDev-7/website)
+2. 💪 Opened PR [#25](https://github.com/SamDev-7/website/pull/25) in [SamDev-7/website](https://github.com/SamDev-7/website)
+3. 🗣 Commented on [#3630](https://github.com/is-a-dev/register/issues/3630) in [is-a-dev/register](https://github.com/is-a-dev/register)
 4. 🗣 Commented on [#3630](https://github.com/is-a-dev/register/issues/3630) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. 🗣 Commented on [#1150](https://github.com/is-a-dev/register/issues/1150) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. 🗣 Commented on [#3552](https://github.com/is-a-dev/register/issues/3552) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 
 <h2>Stats</h2>
