@@ -27,10 +27,10 @@ Hi, I'm William, I am a self-taught developer.
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3630](https://github.com/is-a-dev/register/issues/3630) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. 🗣 Commented on [#3552](https://github.com/is-a-dev/register/issues/3552) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. 🗣 Commented on [#3630](https://github.com/is-a-dev/register/issues/3630) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. 🗣 Commented on [#1150](https://github.com/is-a-dev/register/issues/1150) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. 🗣 Commented on [#7693](https://github.com/js-org/js.org/issues/7693) in [js-org/js.org](https://github.com/js-org/js.org)
+2. 🗣 Commented on [#3630](https://github.com/is-a-dev/register/issues/3630) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. 🗣 Commented on [#3552](https://github.com/is-a-dev/register/issues/3552) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. 🗣 Commented on [#3630](https://github.com/is-a-dev/register/issues/3630) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. 🗣 Commented on [#1150](https://github.com/is-a-dev/register/issues/1150) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 
 <h2>Stats</h2>
