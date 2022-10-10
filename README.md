@@ -26,8 +26,8 @@ Hi, I'm William, I am a self-taught developer.
 <h2>Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3482](https://github.com/is-a-dev/register/issues/3482) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. 🗣 Commented on [#3612](https://github.com/is-a-dev/register/issues/3612) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. 🗣 Commented on [#7697](https://github.com/js-org/js.org/issues/7697) in [js-org/js.org](https://github.com/js-org/js.org)
+2. 🗣 Commented on [#3482](https://github.com/is-a-dev/register/issues/3482) in [is-a-dev/register](https://github.com/is-a-dev/register)
 3. 🗣 Commented on [#3612](https://github.com/is-a-dev/register/issues/3612) in [is-a-dev/register](https://github.com/is-a-dev/register)
 4. 🗣 Commented on [#3612](https://github.com/is-a-dev/register/issues/3612) in [is-a-dev/register](https://github.com/is-a-dev/register)
 5. 🗣 Commented on [#3612](https://github.com/is-a-dev/register/issues/3612) in [is-a-dev/register](https://github.com/is-a-dev/register)
