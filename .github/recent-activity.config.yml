@@ -9,9 +9,9 @@ settings:
     - "wiki"
   url_text: "{REPO}{ID}"
   date:
-    timezone: "GMT+00:00"
-    text: "Last Updated: {DATE}"
-    format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
+    timezone: "GMT+0:00"
+    text: "###### Last Updated: {DATE}"
+    format: "dd/mm/yyyy HH:MMtt Z"
   commit_name: "WDH-Bot"
   commit_email: "bot@williamharrison.dev"
 messages:
