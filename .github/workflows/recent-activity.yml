@@ -2,19 +2,18 @@ name: Recent Activity
 
 on:
   schedule:
-    - cron: "5 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Update Recent Activity
+    name: Update README
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: actions/checkout@v3
+      - uses: Readme-Workflows/recent-activity@main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: "Update Recent Activity"
-          MAX_LINES: 5
+          CONFIG_FILE: ".github/recent-activity.config.yml"
