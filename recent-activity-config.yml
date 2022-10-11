@@ -1,6 +1,6 @@
 settings:
   username: "WilliamDavidHarrison"
-  commit_msg: "Update README with Recent Activity"
+  commit_msg: "Update Recent Activity"
   max_lines: 10
   readme_file: "README.md"
   disabled_events:
