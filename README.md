@@ -25,13 +25,18 @@ Hi, I'm William, I am a self-taught developer.
 
 <h2>Recent Activity</h2>
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#3657](https://github.com/is-a-dev/register/issues/3657) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. 💪 Opened PR [#7702](https://github.com/js-org/js.org/pull/7702) in [js-org/js.org](https://github.com/js-org/js.org)
-3. 💪 Opened PR [#215](https://github.com/is-a-good-dev/register/pull/215) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-4. 💪 Opened PR [#3660](https://github.com/is-a-dev/register/pull/3660) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. 🗣 Commented on [#3657](https://github.com/is-a-dev/register/issues/3657) in [is-a-dev/register](https://github.com/is-a-dev/register)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+
+
+
+
+
+
+
+
+
+
+<!--RECENT_ACTIVITY:end-->
 
 <h2>Stats</h2>
 
