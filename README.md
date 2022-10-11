@@ -26,19 +26,21 @@ Hi, I'm William, I am a self-taught developer.
 <h2>Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#4](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/pull/4) in [WilliamDavidHarrison/WilliamDavidHarrison](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison)
-2. 💪 Opened PR [#4](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/pull/4) in [WilliamDavidHarrison/WilliamDavidHarrison](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison)
-3. 👍 Approved [#3661](https://github.com/is-a-dev/register/pull/3661#pullrequestreview-1137091927) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. 💬 Commented on [#3657](https://github.com/is-a-dev/register/pull/3657#issuecomment-1274354164) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. 💬 Commented on [#7702](https://github.com/js-org/js.org/pull/7702#discussion_r991736148) in [js-org/js.org](https://github.com/js-org/js.org)
-6. 💪 Opened PR [#7702](https://github.com/js-org/js.org/pull/7702) in [js-org/js.org](https://github.com/js-org/js.org)
-7. 💪 Opened PR [#215](https://github.com/is-a-good-dev/register/pull/215) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-8. 💪 Opened PR [#3660](https://github.com/is-a-dev/register/pull/3660) in [is-a-dev/register](https://github.com/is-a-dev/register)
-9. 👍 Approved [#3653](https://github.com/is-a-dev/register/pull/3653#pullrequestreview-1136628910) in [is-a-dev/register](https://github.com/is-a-dev/register)
-10. 💬 Commented on [#3657](https://github.com/is-a-dev/register/pull/3657#issuecomment-1273930447) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. 🎉 Merged PR [#4](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/pull/4) in [WilliamDavidHarrison/WilliamDavidHarrison](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison)
+3. 💪 Opened PR [#4](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/pull/4) in [WilliamDavidHarrison/WilliamDavidHarrison](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison)
+4. ✅ Approved [#3661](https://github.com/is-a-dev/register/pull/3661#pullrequestreview-1137091927) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. 💬 Commented on [#3657](https://github.com/is-a-dev/register/pull/3657#issuecomment-1274354164) in [is-a-dev/register](https://github.com/is-a-dev/register)
+6. 💬 Commented on [#7702](https://github.com/js-org/js.org/pull/7702#discussion_r991736148) in [js-org/js.org](https://github.com/js-org/js.org)
+7. 💪 Opened PR [#7702](https://github.com/js-org/js.org/pull/7702) in [js-org/js.org](https://github.com/js-org/js.org)
+8. 💪 Opened PR [#215](https://github.com/is-a-good-dev/register/pull/215) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+9. 💪 Opened PR [#3660](https://github.com/is-a-dev/register/pull/3660) in [is-a-dev/register](https://github.com/is-a-dev/register)
+10. ✅ Approved [#3653](https://github.com/is-a-dev/register/pull/3653#pullrequestreview-1136628910) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Tuesday, October 11th, 2022, 9:42:31 AM
+<!--RECENT_ACTIVITY:last_update_end-->
 
 <h2>Stats</h2>
 
