@@ -28,8 +28,8 @@ Hi, I'm William, I am a self-taught developer.
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [WilliamDavidHarrison/WilliamDavidHarrison](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison)
 2. ⬆️ Pushed 1 commit(s) to [WilliamDavidHarrison/WilliamDavidHarrison](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison)
-3. 💪 Opened PR [#4](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/pull/4) in [WilliamDavidHarrison/WilliamDavidHarrison](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison)
-4. ⬆️ Pushed 1 commit(s) to [WilliamDavidHarrison/WilliamDavidHarrison](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison)
+3. ⬆️ Pushed 1 commit(s) to [WilliamDavidHarrison/WilliamDavidHarrison](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison)
+4. 💪 Opened PR [#4](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/pull/4) in [WilliamDavidHarrison/WilliamDavidHarrison](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison)
 5. ⬆️ Pushed 1 commit(s) to [WilliamDavidHarrison/WilliamDavidHarrison](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison)
 <!--RECENT_ACTIVITY:end-->
 
