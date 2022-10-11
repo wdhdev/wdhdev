@@ -26,20 +26,20 @@ Hi, I'm William, I am a self-taught developer.
 <h2>Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. 🎉 Merged PR [#4](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/pull/4) in [WilliamDavidHarrison/WilliamDavidHarrison](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison)
-3. 💪 Opened PR [#4](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/pull/4) in [WilliamDavidHarrison/WilliamDavidHarrison](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison)
-4. ✅ Approved [#3661](https://github.com/is-a-dev/register/pull/3661#pullrequestreview-1137091927) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. 💬 Commented on [#3657](https://github.com/is-a-dev/register/pull/3657#issuecomment-1274354164) in [is-a-dev/register](https://github.com/is-a-dev/register)
-6. 💬 Commented on [#7702](https://github.com/js-org/js.org/pull/7702#discussion_r991736148) in [js-org/js.org](https://github.com/js-org/js.org)
-7. 💪 Opened PR [#7702](https://github.com/js-org/js.org/pull/7702) in [js-org/js.org](https://github.com/js-org/js.org)
-8. 💪 Opened PR [#215](https://github.com/is-a-good-dev/register/pull/215) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-9. 💪 Opened PR [#3660](https://github.com/is-a-dev/register/pull/3660) in [is-a-dev/register](https://github.com/is-a-dev/register)
-10. ✅ Approved [#3653](https://github.com/is-a-dev/register/pull/3653#pullrequestreview-1136628910) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. 💬 Commented on [#3253](https://github.com/is-a-dev/register/pull/3253#discussion_r992128121) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. 💬 Commented on [#3270](https://github.com/is-a-dev/register/pull/3270#discussion_r992127613) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. 🔴 Requested changes in [#3270](https://github.com/is-a-dev/register/pull/3270#pullrequestreview-1137203543) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. 💬 Commented on [#3270](https://github.com/is-a-dev/register/pull/3270#discussion_r992126797) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. 🔴 Requested changes in [#3247](https://github.com/is-a-dev/register/pull/3247#pullrequestreview-1137201294) in [is-a-dev/register](https://github.com/is-a-dev/register)
+6. 🔴 Requested changes in [#3187](https://github.com/is-a-dev/register/pull/3187#pullrequestreview-1137200757) in [is-a-dev/register](https://github.com/is-a-dev/register)
+7. ✅ Approved [#3185](https://github.com/is-a-dev/register/pull/3185#pullrequestreview-1137200344) in [is-a-dev/register](https://github.com/is-a-dev/register)
+8. 🔴 Requested changes in [#1901](https://github.com/is-a-dev/register/pull/1901#pullrequestreview-1137197314) in [is-a-dev/register](https://github.com/is-a-dev/register)
+9. 🔴 Requested changes in [#2862](https://github.com/is-a-dev/register/pull/2862#pullrequestreview-1137195940) in [is-a-dev/register](https://github.com/is-a-dev/register)
+10. 💬 Commented on [#2862](https://github.com/is-a-dev/register/pull/2862#discussion_r992122595) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 11th October, 2022 @ 10:02am UTC
+###### Last Updated: 11th October, 2022 @ 10:14am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h2>Stats</h2>
