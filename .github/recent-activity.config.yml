@@ -4,14 +4,13 @@ settings:
   max_lines: 10
   readme_file: "README.md"
   disabled_events:
-    - "member"
     - "push"
     - "wiki"
   url_text: "{REPO}{ID}"
   date:
     timezone: "GMT+0:00"
     text: "###### Last Updated: {DATE}"
-    format: "dd/mm/yyyy HH:MMtt Z"
+    format: "dS mmmm, yyyy HH:MMtt Z"
   commit_name: "WDH-Bot"
   commit_email: "bot@williamharrison.dev"
 messages:
