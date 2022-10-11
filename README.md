@@ -27,17 +27,6 @@ Hi, I'm William, I am a self-taught developer.
 
 <!--RECENT_ACTIVITY:start-->
 
-
-
-
-
-
-
-
-
-
-<!--RECENT_ACTIVITY:end-->
-
 <h2>Stats</h2>
 
 **Profile Stats**
