@@ -80,3 +80,7 @@ Hi, I'm William, I am a self-taught developer.
 
 **Other**
 - [Project Archive](https://archive.williamharrison.dev)
+
+
+### Contribution Graph
+[![Snake Contribution Graph](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/blob/output/github-contribution-grid-snake.svg)](https://github.com/williamdavidharrison)
