@@ -5,6 +5,11 @@ on:
     - cron: "*/5 * * * *"
 
   workflow_dispatch:
+  
+  push:
+    branches:
+    - main
+
 
 jobs:
   build:
