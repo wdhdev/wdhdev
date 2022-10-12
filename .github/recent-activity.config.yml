@@ -4,6 +4,7 @@ settings:
   max_lines: 10
   readme_file: "README.md"
   disabled_events:
+    - "member"
     - "push"
     - "wiki"
   url_text: "{REPO}{ID}"
