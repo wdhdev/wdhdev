@@ -26,20 +26,20 @@ Hi, I'm William, I am a self-taught developer.
 <h2>Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [Yetiowner/Increasing-code-complexity](https://github.com/Yetiowner/Increasing-code-complexity)
-2. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#5](https://github.com/is-a-dev/team-docs/pull/5#issuecomment-1283479056) in [is-a-dev/team-docs](https://github.com/is-a-dev/team-docs)
-3. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#5](https://github.com/is-a-dev/team-docs/pull/5#issuecomment-1283468714) in [is-a-dev/team-docs](https://github.com/is-a-dev/team-docs)
-4. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3734](https://github.com/is-a-dev/register/pull/3734#issuecomment-1283394129) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#3734](https://github.com/is-a-dev/register/pull/3734) in [is-a-dev/register](https://github.com/is-a-dev/register)
-6. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3733](https://github.com/is-a-dev/register/pull/3733#discussion_r998920358) in [is-a-dev/register](https://github.com/is-a-dev/register)
-7. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#3733](https://github.com/is-a-dev/register/pull/3733#pullrequestreview-1146817666) in [is-a-dev/register](https://github.com/is-a-dev/register)
-8. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#3731](https://github.com/is-a-dev/register/pull/3731#pullrequestreview-1146816764) in [is-a-dev/register](https://github.com/is-a-dev/register)
-9. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3731](https://github.com/is-a-dev/register/pull/3731#discussion_r998919671) in [is-a-dev/register](https://github.com/is-a-dev/register)
-10. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3730](https://github.com/is-a-dev/register/pull/3730#discussion_r998919322) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#5](https://github.com/William-Harrison/test/pull/5#issuecomment-1283801620) in [William-Harrison/test](https://github.com/William-Harrison/test)
+2. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#5](https://github.com/William-Harrison/test/pull/5) in [William-Harrison/test](https://github.com/William-Harrison/test)
+3. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#2](https://github.com/William-Harrison/test/pull/2) in [William-Harrison/test](https://github.com/William-Harrison/test)
+4. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4](https://github.com/William-Harrison/test/pull/4#issuecomment-1283800623) in [William-Harrison/test](https://github.com/William-Harrison/test)
+5. ![added_member](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/People.svg) Became collaborator on [William-Harrison/cla](https://github.com/William-Harrison/cla)
+6. ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) Created new repository [William-Harrison/cla](https://github.com/William-Harrison/cla)
+7. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4](https://github.com/William-Harrison/test/pull/4#issuecomment-1283794647) in [William-Harrison/test](https://github.com/William-Harrison/test)
+8. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4](https://github.com/William-Harrison/test/pull/4#issuecomment-1283794431) in [William-Harrison/test](https://github.com/William-Harrison/test)
+9. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#4](https://github.com/William-Harrison/test/pull/4) in [William-Harrison/test](https://github.com/William-Harrison/test)
+10. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#3](https://github.com/William-Harrison/test/pull/3) in [William-Harrison/test](https://github.com/William-Harrison/test)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 19th October, 2022 @ 10:11am UTC
+###### Last Updated: 19th October, 2022 @ 10:45am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h2>Stats</h2>
