@@ -16,13 +16,13 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate github-contribution-grid-snake.svg
+      - name: Generate
         uses: Platane/snk@master
         with:
           github_user_name: WilliamDavidHarrison
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: PUSH github-contribution-grid-snake.svg to to output branch
+      - name: Push
         uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
           target_branch: output
