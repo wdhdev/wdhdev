@@ -1,4 +1,4 @@
-<p align="center"><a href="https://wakatime.com/@wh"><img src="https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/assets/logo.png" height="100" width="100"></a></p>
+<p align="center"><a href="https://github.com/williamdavidharrison"><img src="https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/assets/logo.png" height="100" width="100"></a></p>
 
 <h1 align="center">👋 Hi, I'm William</h1>
 
@@ -66,19 +66,17 @@ Hi, I'm William, I am a self-taught developer.
 
 <h2>Links</h2>
 
-- **[Contact Me](https://contact.williamharrison.me)**
-
-**Websites**
+**Websites**:
 - [Personal Website](https://william.net.au)
 - [Developer Website](https://williamharrison.dev)
 - [Blog](https://www.williamharrison.blog)
 - [Links Website](https://williamharrison.me)
 
-**Profiles**
+**Profiles**:
 - [Wakatime](https://wakatime.com/@wh)
 - [npm](https://www.npmjs.com/~wdharrison09)
 
-**Other**
+**Other**:
 - [Project Archive](https://archive.williamharrison.dev)
 
 
