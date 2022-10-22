@@ -26,20 +26,20 @@ Hi, I'm William, I am a self-taught developer.
 <h2>Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/discord-data-package-explorer](https://github.com/WilliamDavidHarrison/discord-data-package-explorer) from [Androz2091/discord-data-package-explorer](https://github.com/Androz2091/discord-data-package-explorer)
-2. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#5](https://github.com/is-a-dev/team-docs/pull/5#issuecomment-1287613510) in [is-a-dev/team-docs](https://github.com/is-a-dev/team-docs)
-3. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#220](https://github.com/is-a-good-dev/register/pull/220) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-4. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#3751](https://github.com/is-a-dev/register/pull/3751) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3612](https://github.com/is-a-dev/register/pull/3612#issuecomment-1287606530) in [is-a-dev/register](https://github.com/is-a-dev/register)
-6. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#5](https://github.com/is-a-dev/team-docs/pull/5#discussion_r1002325492) in [is-a-dev/team-docs](https://github.com/is-a-dev/team-docs)
-7. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#5](https://github.com/is-a-dev/team-docs/pull/5#discussion_r1002325039) in [is-a-dev/team-docs](https://github.com/is-a-dev/team-docs)
-8. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#5](https://github.com/is-a-dev/team-docs/pull/5#discussion_r1002324411) in [is-a-dev/team-docs](https://github.com/is-a-dev/team-docs)
-9. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#5](https://github.com/is-a-dev/team-docs/pull/5#issuecomment-1287561365) in [is-a-dev/team-docs](https://github.com/is-a-dev/team-docs)
-10. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3739](https://github.com/is-a-dev/register/pull/3739#pullrequestreview-1151705721) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#70](https://github.com/Androz2091/discord-data-package-explorer/pull/70) in [Androz2091/discord-data-package-explorer](https://github.com/Androz2091/discord-data-package-explorer)
+2. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/discord-data-package-explorer](https://github.com/WilliamDavidHarrison/discord-data-package-explorer) from [Androz2091/discord-data-package-explorer](https://github.com/Androz2091/discord-data-package-explorer)
+3. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#5](https://github.com/is-a-dev/team-docs/pull/5#issuecomment-1287613510) in [is-a-dev/team-docs](https://github.com/is-a-dev/team-docs)
+4. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#220](https://github.com/is-a-good-dev/register/pull/220) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+5. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#3751](https://github.com/is-a-dev/register/pull/3751) in [is-a-dev/register](https://github.com/is-a-dev/register)
+6. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3612](https://github.com/is-a-dev/register/pull/3612#issuecomment-1287606530) in [is-a-dev/register](https://github.com/is-a-dev/register)
+7. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#5](https://github.com/is-a-dev/team-docs/pull/5#discussion_r1002325492) in [is-a-dev/team-docs](https://github.com/is-a-dev/team-docs)
+8. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#5](https://github.com/is-a-dev/team-docs/pull/5#discussion_r1002325039) in [is-a-dev/team-docs](https://github.com/is-a-dev/team-docs)
+9. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#5](https://github.com/is-a-dev/team-docs/pull/5#discussion_r1002324411) in [is-a-dev/team-docs](https://github.com/is-a-dev/team-docs)
+10. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#5](https://github.com/is-a-dev/team-docs/pull/5#issuecomment-1287561365) in [is-a-dev/team-docs](https://github.com/is-a-dev/team-docs)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 22nd October, 2022 @ 05:11am UTC
+###### Last Updated: 22nd October, 2022 @ 05:51am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h2>Stats</h2>
