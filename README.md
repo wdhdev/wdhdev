@@ -24,20 +24,20 @@ Hi, I'm William, I am a self-taught developer.
 <h2>Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#31](https://github.com/WilliamDavidHarrison/dev-website/pull/31) in [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)
-2. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#38](https://github.com/Platane/snk/issues/38#issuecomment-1290239698) in [Platane/snk](https://github.com/Platane/snk)
-3. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/skill-icons](https://github.com/WilliamDavidHarrison/skill-icons) from [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
-4. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
-5. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3775](https://github.com/is-a-dev/register/pull/3775#discussion_r1004102614) in [is-a-dev/register](https://github.com/is-a-dev/register)
-6. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#3775](https://github.com/is-a-dev/register/pull/3775#pullrequestreview-1154271744) in [is-a-dev/register](https://github.com/is-a-dev/register)
-7. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3777](https://github.com/is-a-dev/register/pull/3777#pullrequestreview-1154235202) in [is-a-dev/register](https://github.com/is-a-dev/register)
-8. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/coinflipjs-website](https://github.com/WilliamDavidHarrison/coinflipjs-website) from [discordjs/website](https://github.com/discordjs/website)
-9. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/discord.js](https://github.com/WilliamDavidHarrison/discord.js) from [discordjs/discord.js](https://github.com/discordjs/discord.js)
-10. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#70](https://github.com/Androz2091/discord-data-package-explorer/pull/70) in [Androz2091/discord-data-package-explorer](https://github.com/Androz2091/discord-data-package-explorer)
+1. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#30](https://github.com/WilliamDavidHarrison/dev-website/pull/30) in [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)
+2. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#31](https://github.com/WilliamDavidHarrison/dev-website/pull/31) in [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)
+3. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#31](https://github.com/WilliamDavidHarrison/dev-website/pull/31) in [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)
+4. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#38](https://github.com/Platane/snk/issues/38#issuecomment-1290239698) in [Platane/snk](https://github.com/Platane/snk)
+5. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/skill-icons](https://github.com/WilliamDavidHarrison/skill-icons) from [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
+6. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
+7. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3775](https://github.com/is-a-dev/register/pull/3775#discussion_r1004102614) in [is-a-dev/register](https://github.com/is-a-dev/register)
+8. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#3775](https://github.com/is-a-dev/register/pull/3775#pullrequestreview-1154271744) in [is-a-dev/register](https://github.com/is-a-dev/register)
+9. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3777](https://github.com/is-a-dev/register/pull/3777#pullrequestreview-1154235202) in [is-a-dev/register](https://github.com/is-a-dev/register)
+10. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/coinflipjs-website](https://github.com/WilliamDavidHarrison/coinflipjs-website) from [discordjs/website](https://github.com/discordjs/website)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 25th October, 2022 @ 09:59am UTC
+###### Last Updated: 25th October, 2022 @ 10:30am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h2>Stats</h2>
