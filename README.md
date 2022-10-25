@@ -26,20 +26,20 @@ Hi, I'm William, I am a self-taught developer.
 <h2>Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3777](https://github.com/is-a-dev/register/pull/3777#pullrequestreview-1154235202) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/coinflipjs-website](https://github.com/WilliamDavidHarrison/coinflipjs-website) from [discordjs/website](https://github.com/discordjs/website)
-3. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/discord.js](https://github.com/WilliamDavidHarrison/discord.js) from [discordjs/discord.js](https://github.com/discordjs/discord.js)
-4. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#70](https://github.com/Androz2091/discord-data-package-explorer/pull/70) in [Androz2091/discord-data-package-explorer](https://github.com/Androz2091/discord-data-package-explorer)
-5. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#70](https://github.com/Androz2091/discord-data-package-explorer/pull/70#issuecomment-1290031943) in [Androz2091/discord-data-package-explorer](https://github.com/Androz2091/discord-data-package-explorer)
-6. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#70](https://github.com/Androz2091/discord-data-package-explorer/pull/70#issuecomment-1290030315) in [Androz2091/discord-data-package-explorer](https://github.com/Androz2091/discord-data-package-explorer)
-7. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3778](https://github.com/is-a-dev/register/pull/3778#discussion_r1004038410) in [is-a-dev/register](https://github.com/is-a-dev/register)
-8. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3778](https://github.com/is-a-dev/register/pull/3778#discussion_r1004038137) in [is-a-dev/register](https://github.com/is-a-dev/register)
-9. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#3778](https://github.com/is-a-dev/register/pull/3778#pullrequestreview-1154181457) in [is-a-dev/register](https://github.com/is-a-dev/register)
-10. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#3777](https://github.com/is-a-dev/register/pull/3777#pullrequestreview-1154180977) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3775](https://github.com/is-a-dev/register/pull/3775#discussion_r1004102614) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#3775](https://github.com/is-a-dev/register/pull/3775#pullrequestreview-1154271744) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3777](https://github.com/is-a-dev/register/pull/3777#pullrequestreview-1154235202) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/coinflipjs-website](https://github.com/WilliamDavidHarrison/coinflipjs-website) from [discordjs/website](https://github.com/discordjs/website)
+5. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/discord.js](https://github.com/WilliamDavidHarrison/discord.js) from [discordjs/discord.js](https://github.com/discordjs/discord.js)
+6. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#70](https://github.com/Androz2091/discord-data-package-explorer/pull/70) in [Androz2091/discord-data-package-explorer](https://github.com/Androz2091/discord-data-package-explorer)
+7. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#70](https://github.com/Androz2091/discord-data-package-explorer/pull/70#issuecomment-1290031943) in [Androz2091/discord-data-package-explorer](https://github.com/Androz2091/discord-data-package-explorer)
+8. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#70](https://github.com/Androz2091/discord-data-package-explorer/pull/70#issuecomment-1290030315) in [Androz2091/discord-data-package-explorer](https://github.com/Androz2091/discord-data-package-explorer)
+9. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3778](https://github.com/is-a-dev/register/pull/3778#discussion_r1004038410) in [is-a-dev/register](https://github.com/is-a-dev/register)
+10. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3778](https://github.com/is-a-dev/register/pull/3778#discussion_r1004038137) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 25th October, 2022 @ 07:27am UTC
+###### Last Updated: 25th October, 2022 @ 07:57am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h2>Stats</h2>
