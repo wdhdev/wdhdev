@@ -4,7 +4,7 @@
 
 [![WakaTime](https://wakatime.com/badge/user/817e29c1-e1ac-4adc-936b-37bfa447c165.svg?style=for-the-badge)](https://wakatime.com/@wh)
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,py,markdown)
+![Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,py,markdown,tailwindcss)
 
 ![Programs](https://skillicons.dev/icons?i=vscode,github,githubactions,stackoverflow,cloudflare,netlify,vercel,mongodb,jquery)
 
