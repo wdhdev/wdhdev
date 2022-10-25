@@ -1,8 +1,12 @@
-<p align="center"><a href="https://github.com/williamdavidharrison"><img src="https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/assets/logo.png" height="100" width="100"></a></p>
+<p align="center"><a href="https://williamharrison.me"><img src="https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/assets/logo.png" height="100" width="100"></a></p>
 
 <h1 align="center">👋 Hi, I'm William</h1>
 
 [![WakaTime](https://wakatime.com/badge/user/817e29c1-e1ac-4adc-936b-37bfa447c165.svg?style=for-the-badge)](https://wakatime.com/@wh)
+
+![Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,py,markdown)
+
+![Programs](https://skillicons.dev/icons?i=vscode,github,githubactions,stackoverflow,cloudflare,netlify,vercel,mongodb,jquery)
 
 <h2>About Me</h2>
 
@@ -10,12 +14,6 @@ Hi, I'm William, I am a self-taught developer.
 
 🛠️ **Currently Working On**
 - [William's Utilities](https://github.com/williamsutilities/bot)
-
-🧑‍💻 **Coding Languages**
-- HTML
-- CSS
-- JavaScript
-- NodeJS
 
 💼 **Roles**
 - Developer @ [Future Focus Accounting](https://github.com/futurefocusaccounting)
@@ -70,14 +68,14 @@ Hi, I'm William, I am a self-taught developer.
 - [Personal Website](https://william.net.au)
 - [Developer Website](https://williamharrison.dev)
 - [Blog](https://www.williamharrison.blog)
-- [Links Website](https://williamharrison.me)
+- [Links](https://williamharrison.me)
 
 **Profiles**:
 - [Wakatime](https://wakatime.com/@wh)
 - [npm](https://www.npmjs.com/~wdharrison09)
 
 **Other**:
-- [Project Archive](https://archive.williamharrison.dev)
+- [Archive](https://archive.williamharrison.dev)
 
 
 ### Contribution Graph
