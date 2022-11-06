@@ -24,20 +24,20 @@ Hi, I'm William, I am a self-taught developer.
 <h2>Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#3888](https://github.com/is-a-dev/register/pull/3888#pullrequestreview-1169546794) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#3882](https://github.com/is-a-dev/register/pull/3882#pullrequestreview-1169546636) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [DeathVenom54/discord-terminal](https://github.com/DeathVenom54/discord-terminal)
-4. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3882](https://github.com/is-a-dev/register/pull/3882#discussion_r1014761869) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#2](https://github.com/SX-9/pi/pull/2#issuecomment-1304702798) in [SX-9/pi](https://github.com/SX-9/pi)
-6. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#2](https://github.com/SX-9/pi/pull/2) in [SX-9/pi](https://github.com/SX-9/pi)
-7. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/pi](https://github.com/WilliamDavidHarrison/pi) from [SX-9/pi](https://github.com/SX-9/pi)
-8. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#1](https://github.com/SX-9/pi/pull/1#issuecomment-1304701061) in [SX-9/pi](https://github.com/SX-9/pi)
-9. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3887](https://github.com/is-a-dev/register/pull/3887#pullrequestreview-1169536327) in [is-a-dev/register](https://github.com/is-a-dev/register)
-10. ![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) Released [v1.1.0](https://github.com/WilliamDavidHarrison/coinflipjs/releases/tag/release-1.1.0) in [WilliamDavidHarrison/coinflipjs](https://github.com/WilliamDavidHarrison/coinflipjs)
+1. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#8](https://github.com/FutureFocusAccounting/website/pull/8) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
+2. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#3888](https://github.com/is-a-dev/register/pull/3888#pullrequestreview-1169546794) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#3882](https://github.com/is-a-dev/register/pull/3882#pullrequestreview-1169546636) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [DeathVenom54/discord-terminal](https://github.com/DeathVenom54/discord-terminal)
+5. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3882](https://github.com/is-a-dev/register/pull/3882#discussion_r1014761869) in [is-a-dev/register](https://github.com/is-a-dev/register)
+6. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#2](https://github.com/SX-9/pi/pull/2#issuecomment-1304702798) in [SX-9/pi](https://github.com/SX-9/pi)
+7. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#2](https://github.com/SX-9/pi/pull/2) in [SX-9/pi](https://github.com/SX-9/pi)
+8. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/pi](https://github.com/WilliamDavidHarrison/pi) from [SX-9/pi](https://github.com/SX-9/pi)
+9. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#1](https://github.com/SX-9/pi/pull/1#issuecomment-1304701061) in [SX-9/pi](https://github.com/SX-9/pi)
+10. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3887](https://github.com/is-a-dev/register/pull/3887#pullrequestreview-1169536327) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 6th November, 2022 @ 07:35am UTC
+###### Last Updated: 6th November, 2022 @ 07:42am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h2>Stats</h2>
