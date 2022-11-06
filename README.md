@@ -84,8 +84,5 @@ Hi, I'm William, I am a self-taught developer.
 - [Wakatime](https://wakatime.com/@wh)
 - [npm](https://www.npmjs.com/~wdharrison09)
 
-**Other**:
-- [Archive](https://archive.williamharrison.dev)
-
 ### Contribution Graph
 [![Snake Contribution Graph](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/blob/output/github-contribution-grid-snake.svg)](https://github.com/williamdavidharrison)
