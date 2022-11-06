@@ -24,20 +24,20 @@ Hi, I'm William, I am a self-taught developer.
 <h2>Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#9](https://github.com/FutureFocusAccounting/website/pull/9#discussion_r1014896291) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
-2. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#9](https://github.com/FutureFocusAccounting/website/pull/9#discussion_r1014896510) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
-3. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#9](https://github.com/FutureFocusAccounting/website/pull/9#discussion_r1014896447) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
-4. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#9](https://github.com/FutureFocusAccounting/website/pull/9#pullrequestreview-1169655236) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
-5. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3902](https://github.com/is-a-dev/register/pull/3902#pullrequestreview-1169654703) in [is-a-dev/register](https://github.com/is-a-dev/register)
-6. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#9](https://github.com/FutureFocusAccounting/website/pull/9#issuecomment-1304775049) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
-7. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/futurefocus-website](https://github.com/WilliamDavidHarrison/futurefocus-website) from [mtgsquad/futurefocus-website](https://github.com/mtgsquad/futurefocus-website)
-8. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#8](https://github.com/FutureFocusAccounting/website/pull/8) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
-9. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#8](https://github.com/FutureFocusAccounting/website/pull/8) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
-10. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#3888](https://github.com/is-a-dev/register/pull/3888#pullrequestreview-1169546794) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#9](https://github.com/FutureFocusAccounting/website/pull/9) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
+2. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#9](https://github.com/FutureFocusAccounting/website/pull/9#pullrequestreview-1169655619) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
+3. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#9](https://github.com/FutureFocusAccounting/website/pull/9#discussion_r1014896291) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
+4. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#9](https://github.com/FutureFocusAccounting/website/pull/9#discussion_r1014896510) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
+5. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#9](https://github.com/FutureFocusAccounting/website/pull/9#discussion_r1014896447) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
+6. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#9](https://github.com/FutureFocusAccounting/website/pull/9#pullrequestreview-1169655236) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
+7. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3902](https://github.com/is-a-dev/register/pull/3902#pullrequestreview-1169654703) in [is-a-dev/register](https://github.com/is-a-dev/register)
+8. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#9](https://github.com/FutureFocusAccounting/website/pull/9#issuecomment-1304775049) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
+9. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/futurefocus-website](https://github.com/WilliamDavidHarrison/futurefocus-website) from [mtgsquad/futurefocus-website](https://github.com/mtgsquad/futurefocus-website)
+10. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#8](https://github.com/FutureFocusAccounting/website/pull/8) in [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 6th November, 2022 @ 21:38pm UTC
+###### Last Updated: 6th November, 2022 @ 21:45pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h2>Stats</h2>
