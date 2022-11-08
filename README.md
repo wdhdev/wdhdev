@@ -24,20 +24,20 @@ Hi, I'm William, I am a self-taught developer.
 <h2>Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/free-domains](https://github.com/WilliamDavidHarrison/free-domains) from [tarampampam/free-domains](https://github.com/tarampampam/free-domains)
-2. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#7790](https://github.com/js-org/js.org/pull/7790#issuecomment-1306993546) in [js-org/js.org](https://github.com/js-org/js.org)
-3. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3917](https://github.com/is-a-dev/register/pull/3917#discussion_r1016353710) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#3917](https://github.com/is-a-dev/register/pull/3917#pullrequestreview-1171734368) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3916](https://github.com/is-a-dev/register/pull/3916#pullrequestreview-1171688396) in [is-a-dev/register](https://github.com/is-a-dev/register)
-6. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#3901](https://github.com/is-a-dev/register/pull/3901#pullrequestreview-1171605511) in [is-a-dev/register](https://github.com/is-a-dev/register)
-7. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3901](https://github.com/is-a-dev/register/pull/3901#discussion_r1016264725) in [is-a-dev/register](https://github.com/is-a-dev/register)
-8. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#33](https://github.com/BlueFox-Development/Ptero-Status/pull/33) in [BlueFox-Development/Ptero-Status](https://github.com/BlueFox-Development/Ptero-Status)
-9. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#33](https://github.com/BlueFox-Development/Ptero-Status/pull/33) in [BlueFox-Development/Ptero-Status](https://github.com/BlueFox-Development/Ptero-Status)
-10. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/Ptero-Status](https://github.com/WilliamDavidHarrison/Ptero-Status) from [BlueFox-Development/Ptero-Status](https://github.com/BlueFox-Development/Ptero-Status)
+1. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#3918](https://github.com/is-a-dev/register/pull/3918#pullrequestreview-1172993942) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3918](https://github.com/is-a-dev/register/pull/3918#discussion_r1017224101) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3861](https://github.com/is-a-dev/register/pull/3861#pullrequestreview-1172993117) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3917](https://github.com/is-a-dev/register/pull/3917#pullrequestreview-1172992885) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3919](https://github.com/is-a-dev/register/pull/3919#pullrequestreview-1172992050) in [is-a-dev/register](https://github.com/is-a-dev/register)
+6. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#3921](https://github.com/is-a-dev/register/pull/3921#pullrequestreview-1172991714) in [is-a-dev/register](https://github.com/is-a-dev/register)
+7. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/free-domains](https://github.com/WilliamDavidHarrison/free-domains) from [tarampampam/free-domains](https://github.com/tarampampam/free-domains)
+8. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#7790](https://github.com/js-org/js.org/pull/7790#issuecomment-1306993546) in [js-org/js.org](https://github.com/js-org/js.org)
+9. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3917](https://github.com/is-a-dev/register/pull/3917#discussion_r1016353710) in [is-a-dev/register](https://github.com/is-a-dev/register)
+10. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#3917](https://github.com/is-a-dev/register/pull/3917#pullrequestreview-1171734368) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 8th November, 2022 @ 23:27pm UTC
+###### Last Updated: 8th November, 2022 @ 23:43pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h2>Stats</h2>
