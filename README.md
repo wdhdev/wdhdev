@@ -24,20 +24,20 @@ Hi, I'm William, I am a self-taught developer.
 <h2>Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [josephistired/DiscordBot-v14](https://github.com/josephistired/DiscordBot-v14)
-2. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3914](https://github.com/is-a-dev/register/pull/3914#pullrequestreview-1171486629) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3914](https://github.com/is-a-dev/register/pull/3914#discussion_r1016180164) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3889](https://github.com/is-a-dev/register/pull/3889#pullrequestreview-1171439855) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#7790](https://github.com/js-org/js.org/pull/7790) in [js-org/js.org](https://github.com/js-org/js.org)
-6. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#7788](https://github.com/js-org/js.org/pull/7788) in [js-org/js.org](https://github.com/js-org/js.org)
-7. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#7788](https://github.com/js-org/js.org/pull/7788#issuecomment-1306623184) in [js-org/js.org](https://github.com/js-org/js.org)
-8. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#7788](https://github.com/js-org/js.org/pull/7788#issuecomment-1306495772) in [js-org/js.org](https://github.com/js-org/js.org)
-9. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#7788](https://github.com/js-org/js.org/pull/7788) in [js-org/js.org](https://github.com/js-org/js.org)
-10. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#7786](https://github.com/js-org/js.org/pull/7786) in [js-org/js.org](https://github.com/js-org/js.org)
+1. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#249](https://github.com/is-a-good-dev/register/pull/249#pullrequestreview-1171543663) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+2. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [josephistired/DiscordBot-v14](https://github.com/josephistired/DiscordBot-v14)
+3. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3914](https://github.com/is-a-dev/register/pull/3914#pullrequestreview-1171486629) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3914](https://github.com/is-a-dev/register/pull/3914#discussion_r1016180164) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3889](https://github.com/is-a-dev/register/pull/3889#pullrequestreview-1171439855) in [is-a-dev/register](https://github.com/is-a-dev/register)
+6. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#7790](https://github.com/js-org/js.org/pull/7790) in [js-org/js.org](https://github.com/js-org/js.org)
+7. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#7788](https://github.com/js-org/js.org/pull/7788) in [js-org/js.org](https://github.com/js-org/js.org)
+8. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#7788](https://github.com/js-org/js.org/pull/7788#issuecomment-1306623184) in [js-org/js.org](https://github.com/js-org/js.org)
+9. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#7788](https://github.com/js-org/js.org/pull/7788#issuecomment-1306495772) in [js-org/js.org](https://github.com/js-org/js.org)
+10. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#7788](https://github.com/js-org/js.org/pull/7788) in [js-org/js.org](https://github.com/js-org/js.org)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 8th November, 2022 @ 07:11am UTC
+###### Last Updated: 8th November, 2022 @ 07:28am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h2>Stats</h2>
