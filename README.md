@@ -24,20 +24,20 @@ Hi, I'm William, I am a self-taught developer.
 <h2>Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#33](https://github.com/BlueFox-Development/Ptero-Status/pull/33) in [BlueFox-Development/Ptero-Status](https://github.com/BlueFox-Development/Ptero-Status)
-2. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#33](https://github.com/BlueFox-Development/Ptero-Status/pull/33) in [BlueFox-Development/Ptero-Status](https://github.com/BlueFox-Development/Ptero-Status)
-3. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/Ptero-Status](https://github.com/WilliamDavidHarrison/Ptero-Status) from [BlueFox-Development/Ptero-Status](https://github.com/BlueFox-Development/Ptero-Status)
-4. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [BlueFox-Development/Ptero-Status](https://github.com/BlueFox-Development/Ptero-Status)
-5. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#249](https://github.com/is-a-good-dev/register/pull/249#pullrequestreview-1171543663) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-6. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [josephistired/DiscordBot-v14](https://github.com/josephistired/DiscordBot-v14)
-7. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3914](https://github.com/is-a-dev/register/pull/3914#pullrequestreview-1171486629) in [is-a-dev/register](https://github.com/is-a-dev/register)
-8. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3914](https://github.com/is-a-dev/register/pull/3914#discussion_r1016180164) in [is-a-dev/register](https://github.com/is-a-dev/register)
-9. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3889](https://github.com/is-a-dev/register/pull/3889#pullrequestreview-1171439855) in [is-a-dev/register](https://github.com/is-a-dev/register)
-10. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#7790](https://github.com/js-org/js.org/pull/7790) in [js-org/js.org](https://github.com/js-org/js.org)
+1. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#3901](https://github.com/is-a-dev/register/pull/3901#pullrequestreview-1171605511) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3901](https://github.com/is-a-dev/register/pull/3901#discussion_r1016264725) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#33](https://github.com/BlueFox-Development/Ptero-Status/pull/33) in [BlueFox-Development/Ptero-Status](https://github.com/BlueFox-Development/Ptero-Status)
+4. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#33](https://github.com/BlueFox-Development/Ptero-Status/pull/33) in [BlueFox-Development/Ptero-Status](https://github.com/BlueFox-Development/Ptero-Status)
+5. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/Ptero-Status](https://github.com/WilliamDavidHarrison/Ptero-Status) from [BlueFox-Development/Ptero-Status](https://github.com/BlueFox-Development/Ptero-Status)
+6. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [BlueFox-Development/Ptero-Status](https://github.com/BlueFox-Development/Ptero-Status)
+7. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#249](https://github.com/is-a-good-dev/register/pull/249#pullrequestreview-1171543663) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+8. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [josephistired/DiscordBot-v14](https://github.com/josephistired/DiscordBot-v14)
+9. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3914](https://github.com/is-a-dev/register/pull/3914#pullrequestreview-1171486629) in [is-a-dev/register](https://github.com/is-a-dev/register)
+10. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3914](https://github.com/is-a-dev/register/pull/3914#discussion_r1016180164) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 8th November, 2022 @ 07:58am UTC
+###### Last Updated: 8th November, 2022 @ 08:27am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h2>Stats</h2>
