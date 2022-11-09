@@ -24,20 +24,20 @@ Hi, I'm William, I am a self-taught developer.
 <h2>Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#3923](https://github.com/is-a-dev/register/pull/3923#pullrequestreview-1173341874) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#1](https://github.com/WilliamDavidHarrison/images/pull/1) in [WilliamDavidHarrison/images](https://github.com/WilliamDavidHarrison/images)
-3. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#1](https://github.com/WilliamDavidHarrison/images/pull/1#pullrequestreview-1173320933) in [WilliamDavidHarrison/images](https://github.com/WilliamDavidHarrison/images)
-4. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#10](https://github.com/WilliamDavidHarrison/links/pull/10) in [WilliamDavidHarrison/links](https://github.com/WilliamDavidHarrison/links)
-5. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#10](https://github.com/WilliamDavidHarrison/links/pull/10#pullrequestreview-1173320640) in [WilliamDavidHarrison/links](https://github.com/WilliamDavidHarrison/links)
-6. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#15](https://github.com/WilliamDavidHarrison/website/pull/15) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
-7. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#15](https://github.com/WilliamDavidHarrison/website/pull/15#pullrequestreview-1173320125) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
-8. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#6](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/pull/6) in [WilliamDavidHarrison/WilliamDavidHarrison](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison)
-9. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#6](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/pull/6#pullrequestreview-1173319689) in [WilliamDavidHarrison/WilliamDavidHarrison](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison)
-10. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#4](https://github.com/WilliamDavidHarrison/contact/pull/4) in [WilliamDavidHarrison/contact](https://github.com/WilliamDavidHarrison/contact)
+1. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#506](https://github.com/thedev-id/thedev.id/pull/506#issuecomment-1308299633) in [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)
+2. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#506](https://github.com/thedev-id/thedev.id/pull/506#issuecomment-1308298315) in [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)
+3. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#3923](https://github.com/is-a-dev/register/pull/3923#pullrequestreview-1173341874) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#1](https://github.com/WilliamDavidHarrison/images/pull/1) in [WilliamDavidHarrison/images](https://github.com/WilliamDavidHarrison/images)
+5. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#1](https://github.com/WilliamDavidHarrison/images/pull/1#pullrequestreview-1173320933) in [WilliamDavidHarrison/images](https://github.com/WilliamDavidHarrison/images)
+6. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#10](https://github.com/WilliamDavidHarrison/links/pull/10) in [WilliamDavidHarrison/links](https://github.com/WilliamDavidHarrison/links)
+7. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#10](https://github.com/WilliamDavidHarrison/links/pull/10#pullrequestreview-1173320640) in [WilliamDavidHarrison/links](https://github.com/WilliamDavidHarrison/links)
+8. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#15](https://github.com/WilliamDavidHarrison/website/pull/15) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
+9. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#15](https://github.com/WilliamDavidHarrison/website/pull/15#pullrequestreview-1173320125) in [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)
+10. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#6](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/pull/6) in [WilliamDavidHarrison/WilliamDavidHarrison](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 9th November, 2022 @ 06:51am UTC
+###### Last Updated: 9th November, 2022 @ 07:06am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h2>Stats</h2>
