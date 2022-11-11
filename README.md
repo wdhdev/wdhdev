@@ -24,20 +24,20 @@ Hi, I'm William, I am a self-taught developer.
 <h2>Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#1](https://github.com/WilliamDavidHarrison/lanyard-profile-readme/pull/1) in [WilliamDavidHarrison/lanyard-profile-readme](https://github.com/WilliamDavidHarrison/lanyard-profile-readme)
-2. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#1](https://github.com/WilliamDavidHarrison/lanyard-profile-readme/pull/1#pullrequestreview-1176777182) in [WilliamDavidHarrison/lanyard-profile-readme](https://github.com/WilliamDavidHarrison/lanyard-profile-readme)
-3. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3936](https://github.com/is-a-dev/register/pull/3936#pullrequestreview-1176775045) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [wseagar/eight-dollars](https://github.com/wseagar/eight-dollars)
-5. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3936](https://github.com/is-a-dev/register/pull/3936#discussion_r1019725804) in [is-a-dev/register](https://github.com/is-a-dev/register)
-6. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#3936](https://github.com/is-a-dev/register/pull/3936#pullrequestreview-1176653090) in [is-a-dev/register](https://github.com/is-a-dev/register)
-7. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3936](https://github.com/is-a-dev/register/pull/3936#pullrequestreview-1176651011) in [is-a-dev/register](https://github.com/is-a-dev/register)
-8. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#3935](https://github.com/is-a-dev/register/pull/3935#pullrequestreview-1176650606) in [is-a-dev/register](https://github.com/is-a-dev/register)
-9. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#36](https://github.com/WilliamDavidHarrison/dev-website/pull/36#pullrequestreview-1176643626) in [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)
-10. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+1. ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) Closed issue [#27](https://github.com/wseagar/eight-dollars/issues/27) in [wseagar/eight-dollars](https://github.com/wseagar/eight-dollars)
+2. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#27](https://github.com/wseagar/eight-dollars/issues/27#issuecomment-1311389460) in [wseagar/eight-dollars](https://github.com/wseagar/eight-dollars)
+3. ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) Opened issue [#27](https://github.com/wseagar/eight-dollars/issues/27) in [wseagar/eight-dollars](https://github.com/wseagar/eight-dollars)
+4. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#1](https://github.com/WilliamDavidHarrison/lanyard-profile-readme/pull/1) in [WilliamDavidHarrison/lanyard-profile-readme](https://github.com/WilliamDavidHarrison/lanyard-profile-readme)
+5. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#1](https://github.com/WilliamDavidHarrison/lanyard-profile-readme/pull/1#pullrequestreview-1176777182) in [WilliamDavidHarrison/lanyard-profile-readme](https://github.com/WilliamDavidHarrison/lanyard-profile-readme)
+6. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3936](https://github.com/is-a-dev/register/pull/3936#pullrequestreview-1176775045) in [is-a-dev/register](https://github.com/is-a-dev/register)
+7. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [wseagar/eight-dollars](https://github.com/wseagar/eight-dollars)
+8. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3936](https://github.com/is-a-dev/register/pull/3936#discussion_r1019725804) in [is-a-dev/register](https://github.com/is-a-dev/register)
+9. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#3936](https://github.com/is-a-dev/register/pull/3936#pullrequestreview-1176653090) in [is-a-dev/register](https://github.com/is-a-dev/register)
+10. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3936](https://github.com/is-a-dev/register/pull/3936#pullrequestreview-1176651011) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 11th November, 2022 @ 08:14am UTC
+###### Last Updated: 11th November, 2022 @ 08:42am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h2>Stats</h2>
