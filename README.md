@@ -24,20 +24,20 @@ Hi, I'm William, I am a self-taught developer.
 <h2>Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) Created new repository [WilliamDavidHarrison/pi](https://github.com/WilliamDavidHarrison/pi)
-2. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3822](https://github.com/is-a-dev/register/pull/3822#issuecomment-1311516963) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) Closed issue [#27](https://github.com/wseagar/eight-dollars/issues/27) in [wseagar/eight-dollars](https://github.com/wseagar/eight-dollars)
-4. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#27](https://github.com/wseagar/eight-dollars/issues/27#issuecomment-1311389460) in [wseagar/eight-dollars](https://github.com/wseagar/eight-dollars)
-5. ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) Opened issue [#27](https://github.com/wseagar/eight-dollars/issues/27) in [wseagar/eight-dollars](https://github.com/wseagar/eight-dollars)
-6. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#1](https://github.com/WilliamDavidHarrison/lanyard-profile-readme/pull/1) in [WilliamDavidHarrison/lanyard-profile-readme](https://github.com/WilliamDavidHarrison/lanyard-profile-readme)
-7. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#1](https://github.com/WilliamDavidHarrison/lanyard-profile-readme/pull/1#pullrequestreview-1176777182) in [WilliamDavidHarrison/lanyard-profile-readme](https://github.com/WilliamDavidHarrison/lanyard-profile-readme)
-8. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3936](https://github.com/is-a-dev/register/pull/3936#pullrequestreview-1176775045) in [is-a-dev/register](https://github.com/is-a-dev/register)
-9. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [wseagar/eight-dollars](https://github.com/wseagar/eight-dollars)
-10. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3936](https://github.com/is-a-dev/register/pull/3936#discussion_r1019725804) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3905](https://github.com/is-a-dev/register/pull/3905#pullrequestreview-1178008843) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3939](https://github.com/is-a-dev/register/pull/3939#pullrequestreview-1178008597) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3938](https://github.com/is-a-dev/register/pull/3938#pullrequestreview-1178008471) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3935](https://github.com/is-a-dev/register/pull/3935#issuecomment-1312350779) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3940](https://github.com/is-a-dev/register/pull/3940#discussion_r1020670294) in [is-a-dev/register](https://github.com/is-a-dev/register)
+6. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#3940](https://github.com/is-a-dev/register/pull/3940#pullrequestreview-1178008336) in [is-a-dev/register](https://github.com/is-a-dev/register)
+7. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3940](https://github.com/is-a-dev/register/pull/3940#discussion_r1020670279) in [is-a-dev/register](https://github.com/is-a-dev/register)
+8. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3941](https://github.com/is-a-dev/register/pull/3941#pullrequestreview-1178008276) in [is-a-dev/register](https://github.com/is-a-dev/register)
+9. ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) Created new repository [WilliamDavidHarrison/pi](https://github.com/WilliamDavidHarrison/pi)
+10. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3822](https://github.com/is-a-dev/register/pull/3822#issuecomment-1311516963) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 12th November, 2022 @ 03:16am UTC
+###### Last Updated: 12th November, 2022 @ 04:02am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h2>Stats</h2>
