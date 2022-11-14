@@ -24,20 +24,20 @@ Hi, I'm William, I am a self-taught developer.
 <h2>Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#49](https://github.com/wseagar/eight-dollars/pull/49) in [wseagar/eight-dollars](https://github.com/wseagar/eight-dollars)
-2. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/eight-dollars](https://github.com/WilliamDavidHarrison/eight-dollars) from [wseagar/eight-dollars](https://github.com/wseagar/eight-dollars)
-3. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#12](https://github.com/wseagar/eight-dollars/issues/12#issuecomment-1313517750) in [wseagar/eight-dollars](https://github.com/wseagar/eight-dollars)
-4. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#252](https://github.com/is-a-good-dev/register/pull/252) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-5. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#252](https://github.com/is-a-good-dev/register/pull/252#issuecomment-1313386347) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-6. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#252](https://github.com/is-a-good-dev/register/pull/252#issuecomment-1313360751) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-7. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#3946](https://github.com/is-a-dev/register/pull/3946) in [is-a-dev/register](https://github.com/is-a-dev/register)
-8. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#252](https://github.com/is-a-good-dev/register/pull/252) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-9. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3945](https://github.com/is-a-dev/register/pull/3945#pullrequestreview-1178601471) in [is-a-dev/register](https://github.com/is-a-dev/register)
-10. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [tycrek/ass](https://github.com/tycrek/ass)
+1. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#38](https://github.com/wseagar/eight-dollars/issues/38#issuecomment-1313526387) in [wseagar/eight-dollars](https://github.com/wseagar/eight-dollars)
+2. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#49](https://github.com/wseagar/eight-dollars/pull/49) in [wseagar/eight-dollars](https://github.com/wseagar/eight-dollars)
+3. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/eight-dollars](https://github.com/WilliamDavidHarrison/eight-dollars) from [wseagar/eight-dollars](https://github.com/wseagar/eight-dollars)
+4. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#12](https://github.com/wseagar/eight-dollars/issues/12#issuecomment-1313517750) in [wseagar/eight-dollars](https://github.com/wseagar/eight-dollars)
+5. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#252](https://github.com/is-a-good-dev/register/pull/252) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+6. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#252](https://github.com/is-a-good-dev/register/pull/252#issuecomment-1313386347) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+7. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#252](https://github.com/is-a-good-dev/register/pull/252#issuecomment-1313360751) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+8. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#3946](https://github.com/is-a-dev/register/pull/3946) in [is-a-dev/register](https://github.com/is-a-dev/register)
+9. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#252](https://github.com/is-a-good-dev/register/pull/252) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+10. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3945](https://github.com/is-a-dev/register/pull/3945#pullrequestreview-1178601471) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 14th November, 2022 @ 11:18am UTC
+###### Last Updated: 14th November, 2022 @ 11:30am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h2>Stats</h2>
