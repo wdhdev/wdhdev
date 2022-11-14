@@ -24,20 +24,20 @@ Hi, I'm William, I am a self-taught developer.
 <h2>Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#252](https://github.com/is-a-good-dev/register/pull/252#issuecomment-1313386347) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-2. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#252](https://github.com/is-a-good-dev/register/pull/252#issuecomment-1313360751) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-3. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#3946](https://github.com/is-a-dev/register/pull/3946) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#252](https://github.com/is-a-good-dev/register/pull/252) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-5. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3945](https://github.com/is-a-dev/register/pull/3945#pullrequestreview-1178601471) in [is-a-dev/register](https://github.com/is-a-dev/register)
-6. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [tycrek/ass](https://github.com/tycrek/ass)
-7. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3940](https://github.com/is-a-dev/register/pull/3940#discussion_r1020840032) in [is-a-dev/register](https://github.com/is-a-dev/register)
-8. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#3940](https://github.com/is-a-dev/register/pull/3940#pullrequestreview-1178187136) in [is-a-dev/register](https://github.com/is-a-dev/register)
-9. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#638](https://github.com/blueedgetechno/win11React/issues/638#issuecomment-1312630679) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-10. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3626](https://github.com/is-a-dev/register/pull/3626#issuecomment-1312608832) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#252](https://github.com/is-a-good-dev/register/pull/252) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+2. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#252](https://github.com/is-a-good-dev/register/pull/252#issuecomment-1313386347) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+3. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#252](https://github.com/is-a-good-dev/register/pull/252#issuecomment-1313360751) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+4. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#3946](https://github.com/is-a-dev/register/pull/3946) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#252](https://github.com/is-a-good-dev/register/pull/252) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+6. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3945](https://github.com/is-a-dev/register/pull/3945#pullrequestreview-1178601471) in [is-a-dev/register](https://github.com/is-a-dev/register)
+7. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [tycrek/ass](https://github.com/tycrek/ass)
+8. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3940](https://github.com/is-a-dev/register/pull/3940#discussion_r1020840032) in [is-a-dev/register](https://github.com/is-a-dev/register)
+9. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#3940](https://github.com/is-a-dev/register/pull/3940#pullrequestreview-1178187136) in [is-a-dev/register](https://github.com/is-a-dev/register)
+10. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#638](https://github.com/blueedgetechno/win11React/issues/638#issuecomment-1312630679) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 14th November, 2022 @ 09:45am UTC
+###### Last Updated: 14th November, 2022 @ 09:52am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h2>Stats</h2>
