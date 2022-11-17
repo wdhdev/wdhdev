@@ -2,7 +2,6 @@
 
 <h1 align="center">👋 Hi, I'm William</h1>
 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=williamdavidharrison&color=blue&style=for-the-badge)
 [![WakaTime](https://wakatime.com/badge/user/817e29c1-e1ac-4adc-936b-37bfa447c165.svg?style=for-the-badge)](https://wakatime.com/@wh)
 
@@ -77,7 +76,7 @@ Hi, I'm William, I am a self-taught developer.
 - [William's Utilities](https://bot.williamharrison.dev)
 - [Technobot](https://discord.com/api/oauth2/authorize?client_id=1033614592363995197&permissions=84992&scope=bot%20applications.commands)
 - [CoinflipJS](https://coinflip.js.org)
-- [Calculate Pi](https://pi.js.org)
+- [Calculate Pi](https://github.williamharrison.dev/pi)
 
 ### Contribution Graph
 [![Snake Contribution Graph](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/blob/output/github-contribution-grid-snake.svg)](https://github.com/williamdavidharrison)
