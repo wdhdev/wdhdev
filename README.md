@@ -7,7 +7,7 @@
 
 ![Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,py,markdown,tailwindcss)
 
-![Programs](https://skillicons.dev/icons?i=vscode,github,githubactions,stackoverflow,cloudflare,netlify,vercel,mongodb,jquery)
+![Programs](https://skillicons.dev/icons?i=vscode,github,githubactions,stackoverflow,cloudflare,netlify,mongodb,jquery)
 
 <h2>About Me</h2>
 
