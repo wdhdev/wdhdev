@@ -47,20 +47,20 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4003](https://github.com/is-a-dev/register/pull/4003#pullrequestreview-1187231435) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3992](https://github.com/is-a-dev/register/pull/3992#issuecomment-1321070756) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3989](https://github.com/is-a-dev/register/pull/3989#pullrequestreview-1187227162) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
-5. ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) Created new repository [FutureFocusAccounting/FutureFocusAccounting.github.io](https://github.com/FutureFocusAccounting/FutureFocusAccounting.github.io)
-6. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3992](https://github.com/is-a-dev/register/pull/3992#pullrequestreview-1187224883) in [is-a-dev/register](https://github.com/is-a-dev/register)
-7. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4000](https://github.com/is-a-dev/register/issues/4000#issuecomment-1321063574) in [is-a-dev/register](https://github.com/is-a-dev/register)
-8. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-9. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#3992](https://github.com/is-a-dev/register/pull/3992#pullrequestreview-1187215907) in [is-a-dev/register](https://github.com/is-a-dev/register)
-10. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3992](https://github.com/is-a-dev/register/pull/3992#discussion_r1027235807) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#257](https://github.com/is-a-good-dev/register/pull/257#pullrequestreview-1187258458) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+2. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4003](https://github.com/is-a-dev/register/pull/4003#pullrequestreview-1187231435) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3992](https://github.com/is-a-dev/register/pull/3992#issuecomment-1321070756) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3989](https://github.com/is-a-dev/register/pull/3989#pullrequestreview-1187227162) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
+6. ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) Created new repository [FutureFocusAccounting/FutureFocusAccounting.github.io](https://github.com/FutureFocusAccounting/FutureFocusAccounting.github.io)
+7. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#3992](https://github.com/is-a-dev/register/pull/3992#pullrequestreview-1187224883) in [is-a-dev/register](https://github.com/is-a-dev/register)
+8. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4000](https://github.com/is-a-dev/register/issues/4000#issuecomment-1321063574) in [is-a-dev/register](https://github.com/is-a-dev/register)
+9. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+10. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#3992](https://github.com/is-a-dev/register/pull/3992#pullrequestreview-1187215907) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 20th November, 2022 @ 12:22pm UTC
+###### Last Updated: 20th November, 2022 @ 12:55pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![Snake Contribution Graph](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/blob/output/github-contribution-grid-snake.svg)
