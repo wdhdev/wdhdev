@@ -63,6 +63,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ###### Last Updated: 20th November, 2022 @ 08:59am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
+![Snake Contribution Graph](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/blob/output/github-contribution-grid-snake.svg)
+
 ## Links
 **Websites**:
 - [Personal Website](https://william.net.au)
@@ -79,6 +81,3 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 - [Technobot](https://discord.com/api/oauth2/authorize?client_id=1033614592363995197&permissions=84992&scope=bot%20applications.commands)
 - [CoinflipJS](https://coinflip.js.org)
 - [Calculate Pi](https://github.williamharrison.dev/pi)
-
-### Contribution Graph
-[![Snake Contribution Graph](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/blob/output/github-contribution-grid-snake.svg)](https://github.com/williamdavidharrison)
