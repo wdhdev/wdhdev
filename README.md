@@ -1,4 +1,8 @@
-<p align="center"><a href="https://williamharrison.me"><img src="https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/assets/logo.png" height="100" width="100"></a></p>
+<p align="center">
+  <a href="https://williamharrison.me">
+    <img src="https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/assets/logo.png" height="100" width="100">
+  </a>
+</p>
 
 <h1 align="center">👋 Hi, I'm William</h1>
 
@@ -7,24 +11,40 @@
 
 [![Recent Activity](https://img.shields.io/badge/-Recent%20Activity-333333?style=for-the-badge&logo=github)](https://github.williamharrison.dev/recent-activity)
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,py,markdown,tailwindcss)
+---
 
-![Programs](https://skillicons.dev/icons?i=vscode,github,githubactions,stackoverflow,cloudflare,netlify,mongodb,jquery)
+[![Discord](https://lanyard.cnrad.dev/api/853158265466257448)](https://discord.com/users/853158265466257448)
 
-<h2>About Me</h2>
+## About Me
+Hi, I'm William, I am a self-taught frontend and backend developer.
 
-Hi, I'm William, I am a self-taught developer.
+<details>
+  <summary>GitHub Stats</summary>
+<br>
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=williamdavidharrison&theme=algolia&show_icons=true&border_radius=8&count_private=true&include_all_commits=true)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=williamdavidharrison&theme=algolia&layout=compact&border_radius=8)
+
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=WilliamDavidHarrison&theme=dark)
+
+</details>
 
 🛠️ **Currently Working On**
-- [William's Utilities](https://github.com/williamsutilities/bot)
+
+[![William's Utilities](https://img.shields.io/badge/-William's%20Utilities-333333?style=for-the-badge)](https://github.com/williamdavidharrison/williams-utilities)
 
 💼 **Roles**
-- Developer @ [Future Focus Accounting](https://github.com/futurefocusaccounting)
-- Helper @ [is-a.dev](https://github.com/is-a-dev/register)
-- Helper @ [is-a-good.dev](https://github.com/is-a-good-dev/register)
-- Alpha & Beta Tester @ [CMShark](https://github.com/wclarkey/cmshark)
 
-<h2>Recent Activity</h2>
+[![Future Focus Accounting](https://img.shields.io/badge/Future%20Focus%20Accounting-Developer-222222?style=for-the-badge)](https://github.com/futurefocusaccounting/website)
+
+[![is-a.dev](https://img.shields.io/badge/is--a.dev-Helper-222222?style=for-the-badge)](https://github.com/is-a-dev/register)
+
+[![is-a-good.dev](https://img.shields.io/badge/is--a--good.dev-Helper-222222?style=for-the-badge)](https://github.com/is-a-good-dev/register)
+
+[![CMShark](https://img.shields.io/badge/CMShark-Alpha%20%26%20Beta%20Tester-222222?style=for-the-badge)](https://github.com/wclarkey/cmshark)
+
+## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
 1. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3992](https://github.com/is-a-dev/register/pull/3992#issuecomment-1321070756) in [is-a-dev/register](https://github.com/is-a-dev/register)
@@ -43,27 +63,7 @@ Hi, I'm William, I am a self-taught developer.
 ###### Last Updated: 20th November, 2022 @ 08:59am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
-<h2>Stats</h2>
-<details>
-<summary>GitHub Stats</summary>
-<br>
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=williamdavidharrison&theme=algolia&show_icons=true&border_radius=8&count_private=true&include_all_commits=true)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=williamdavidharrison&theme=algolia&layout=compact&border_radius=8)
-
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=WilliamDavidHarrison&theme=dark)
-
-</details>
-
-<h2>Social Media</h2>
-
-[![Twitter](https://img.shields.io/twitter/follow/WDHarrison09?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/user?screen_name=wdharrison09)
-
-[![Discord Profile](https://lanyard.cnrad.dev/api/853158265466257448)](https://discord.com/users/853158265466257448)
-
-<h2>Links</h2>
-
+## Links
 **Websites**:
 - [Personal Website](https://william.net.au)
 - [Developer Website](https://williamharrison.dev)
