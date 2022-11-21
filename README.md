@@ -9,14 +9,14 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=williamdavidharrison&color=blue&style=for-the-badge)
 [![WakaTime](https://wakatime.com/badge/user/817e29c1-e1ac-4adc-936b-37bfa447c165.svg?style=for-the-badge)](https://wakatime.com/@wh)
 
-[![Recent Activity](https://img.shields.io/badge/-Recent%20Activity-333333?style=for-the-badge&logo=github)](https://github.williamharrison.dev/recent-activity)
-
 ---
 
 [![Discord](https://lanyard.cnrad.dev/api/853158265466257448)](https://discord.com/users/853158265466257448)
 
 ## About Me
 Hi, I'm William, I am a self-taught frontend and backend developer.
+
+[![Recent Activity](https://img.shields.io/badge/-Recent%20Activity-333333?style=for-the-badge&logo=github)](https://github.williamharrison.dev/recent-activity)
 
 <details>
   <summary>GitHub Stats</summary>
