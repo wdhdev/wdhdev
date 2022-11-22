@@ -48,20 +48,20 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4017](https://github.com/is-a-dev/register/pull/4017#pullrequestreview-1189417965) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#262](https://github.com/is-a-good-dev/register/pull/262) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-3. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#262](https://github.com/is-a-good-dev/register/pull/262) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-4. ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) Created new repository [WilliamDavidHarrison/blooket-hacks](https://github.com/WilliamDavidHarrison/blooket-hacks)
-5. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4012](https://github.com/is-a-dev/register/pull/4012#pullrequestreview-1189115582) in [is-a-dev/register](https://github.com/is-a-dev/register)
-6. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4010](https://github.com/is-a-dev/register/pull/4010#issuecomment-1322853302) in [is-a-dev/register](https://github.com/is-a-dev/register)
-7. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#4013](https://github.com/is-a-dev/register/pull/4013) in [is-a-dev/register](https://github.com/is-a-dev/register)
-8. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4007](https://github.com/is-a-dev/register/pull/4007#pullrequestreview-1187782008) in [is-a-dev/register](https://github.com/is-a-dev/register)
-9. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4007](https://github.com/is-a-dev/register/pull/4007#discussion_r1027695490) in [is-a-dev/register](https://github.com/is-a-dev/register)
-10. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#187](https://github.com/willin/js.cool/pull/187) in [willin/js.cool](https://github.com/willin/js.cool)
+1. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4016](https://github.com/is-a-dev/register/pull/4016#issuecomment-1323248476) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4015](https://github.com/is-a-dev/register/pull/4015#issuecomment-1323248322) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4014](https://github.com/is-a-dev/register/pull/4014#pullrequestreview-1189533369) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#20](https://github.com/WilliamDavidHarrison/williams-utilities/pull/20) in [WilliamDavidHarrison/williams-utilities](https://github.com/WilliamDavidHarrison/williams-utilities)
+5. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#20](https://github.com/WilliamDavidHarrison/williams-utilities/pull/20#pullrequestreview-1189529806) in [WilliamDavidHarrison/williams-utilities](https://github.com/WilliamDavidHarrison/williams-utilities)
+6. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4017](https://github.com/is-a-dev/register/pull/4017#pullrequestreview-1189417965) in [is-a-dev/register](https://github.com/is-a-dev/register)
+7. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#262](https://github.com/is-a-good-dev/register/pull/262) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+8. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#262](https://github.com/is-a-good-dev/register/pull/262) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+9. ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) Created new repository [WilliamDavidHarrison/blooket-hacks](https://github.com/WilliamDavidHarrison/blooket-hacks)
+10. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4012](https://github.com/is-a-dev/register/pull/4012#pullrequestreview-1189115582) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 22nd November, 2022 @ 07:46am UTC
+###### Last Updated: 22nd November, 2022 @ 07:53am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![Snake Contribution Graph](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/blob/output/github-contribution-grid-snake.svg)
