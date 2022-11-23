@@ -47,20 +47,20 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
+1. ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) Opened issue [#173](https://github.com/tycrek/ass/issues/173) in [tycrek/ass](https://github.com/tycrek/ass)
 2. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
-3. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3959](https://github.com/is-a-dev/register/pull/3959#issuecomment-1324667370) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#22](https://github.com/WilliamDavidHarrison/williams-utilities/pull/22) in [WilliamDavidHarrison/williams-utilities](https://github.com/WilliamDavidHarrison/williams-utilities)
-5. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#22](https://github.com/WilliamDavidHarrison/williams-utilities/pull/22#pullrequestreview-1191168869) in [WilliamDavidHarrison/williams-utilities](https://github.com/WilliamDavidHarrison/williams-utilities)
-6. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#21](https://github.com/WilliamDavidHarrison/williams-utilities/pull/21) in [WilliamDavidHarrison/williams-utilities](https://github.com/WilliamDavidHarrison/williams-utilities)
-7. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#21](https://github.com/WilliamDavidHarrison/williams-utilities/pull/21#pullrequestreview-1191168381) in [WilliamDavidHarrison/williams-utilities](https://github.com/WilliamDavidHarrison/williams-utilities)
-8. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#187](https://github.com/willin/js.cool/pull/187#issuecomment-1324664090) in [willin/js.cool](https://github.com/willin/js.cool)
-9. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4023](https://github.com/is-a-dev/register/pull/4023#issuecomment-1324538881) in [is-a-dev/register](https://github.com/is-a-dev/register)
-10. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#7833](https://github.com/js-org/js.org/issues/7833#issuecomment-1324522111) in [js-org/js.org](https://github.com/js-org/js.org)
+3. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)
+4. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3959](https://github.com/is-a-dev/register/pull/3959#issuecomment-1324667370) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#22](https://github.com/WilliamDavidHarrison/williams-utilities/pull/22) in [WilliamDavidHarrison/williams-utilities](https://github.com/WilliamDavidHarrison/williams-utilities)
+6. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#22](https://github.com/WilliamDavidHarrison/williams-utilities/pull/22#pullrequestreview-1191168869) in [WilliamDavidHarrison/williams-utilities](https://github.com/WilliamDavidHarrison/williams-utilities)
+7. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#21](https://github.com/WilliamDavidHarrison/williams-utilities/pull/21) in [WilliamDavidHarrison/williams-utilities](https://github.com/WilliamDavidHarrison/williams-utilities)
+8. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#21](https://github.com/WilliamDavidHarrison/williams-utilities/pull/21#pullrequestreview-1191168381) in [WilliamDavidHarrison/williams-utilities](https://github.com/WilliamDavidHarrison/williams-utilities)
+9. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#187](https://github.com/willin/js.cool/pull/187#issuecomment-1324664090) in [willin/js.cool](https://github.com/willin/js.cool)
+10. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4023](https://github.com/is-a-dev/register/pull/4023#issuecomment-1324538881) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 23rd November, 2022 @ 08:19am UTC
+###### Last Updated: 23rd November, 2022 @ 08:37am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![Snake Contribution Graph](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/blob/output/github-contribution-grid-snake.svg)
