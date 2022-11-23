@@ -7,7 +7,6 @@
 <h1 align="center">👋 Hi, I'm William</h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=williamdavidharrison&color=blue&style=for-the-badge)
-
 [![WakaTime](https://wakatime.com/badge/user/817e29c1-e1ac-4adc-936b-37bfa447c165.svg?style=for-the-badge)](https://wakatime.com/@wh)
 
 ---
