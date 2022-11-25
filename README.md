@@ -47,20 +47,20 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#2](https://github.com/WilliamDavidHarrison/panel/pull/2) in [WilliamDavidHarrison/panel](https://github.com/WilliamDavidHarrison/panel)
-2. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#2](https://github.com/WilliamDavidHarrison/panel/pull/2) in [WilliamDavidHarrison/panel](https://github.com/WilliamDavidHarrison/panel)
-3. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#1](https://github.com/WilliamDavidHarrison/panel/pull/1) in [WilliamDavidHarrison/panel](https://github.com/WilliamDavidHarrison/panel)
-4. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#4574](https://github.com/pterodactyl/panel/pull/4574) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-5. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#4573](https://github.com/pterodactyl/panel/pull/4573) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-6. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/panel](https://github.com/WilliamDavidHarrison/panel) from [pterodactyl/panel](https://github.com/pterodactyl/panel)
-7. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#23](https://github.com/WilliamDavidHarrison/williams-utilities/pull/23) in [WilliamDavidHarrison/williams-utilities](https://github.com/WilliamDavidHarrison/williams-utilities)
-8. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#23](https://github.com/WilliamDavidHarrison/williams-utilities/pull/23#pullrequestreview-1193883679) in [WilliamDavidHarrison/williams-utilities](https://github.com/WilliamDavidHarrison/williams-utilities)
-9. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/Pterodactyl-AutoThemes](https://github.com/WilliamDavidHarrison/Pterodactyl-AutoThemes) from [Ferks-FK/Pterodactyl-AutoThemes](https://github.com/Ferks-FK/Pterodactyl-AutoThemes)
-10. ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) Opened issue [#174](https://github.com/tycrek/ass/issues/174) in [tycrek/ass](https://github.com/tycrek/ass)
+1. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#4573](https://github.com/pterodactyl/panel/pull/4573) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+2. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#3](https://github.com/WilliamDavidHarrison/panel/pull/3) in [WilliamDavidHarrison/panel](https://github.com/WilliamDavidHarrison/panel)
+3. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#3](https://github.com/WilliamDavidHarrison/panel/pull/3) in [WilliamDavidHarrison/panel](https://github.com/WilliamDavidHarrison/panel)
+4. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#2](https://github.com/WilliamDavidHarrison/panel/pull/2) in [WilliamDavidHarrison/panel](https://github.com/WilliamDavidHarrison/panel)
+5. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#2](https://github.com/WilliamDavidHarrison/panel/pull/2) in [WilliamDavidHarrison/panel](https://github.com/WilliamDavidHarrison/panel)
+6. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#1](https://github.com/WilliamDavidHarrison/panel/pull/1) in [WilliamDavidHarrison/panel](https://github.com/WilliamDavidHarrison/panel)
+7. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#4574](https://github.com/pterodactyl/panel/pull/4574) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+8. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#4573](https://github.com/pterodactyl/panel/pull/4573) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+9. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/panel](https://github.com/WilliamDavidHarrison/panel) from [pterodactyl/panel](https://github.com/pterodactyl/panel)
+10. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#23](https://github.com/WilliamDavidHarrison/williams-utilities/pull/23) in [WilliamDavidHarrison/williams-utilities](https://github.com/WilliamDavidHarrison/williams-utilities)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 25th November, 2022 @ 07:38am UTC
+###### Last Updated: 25th November, 2022 @ 07:45am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![Snake Contribution Graph](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/blob/output/github-contribution-grid-snake.svg)
