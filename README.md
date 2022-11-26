@@ -45,20 +45,20 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [coder/code-server](https://github.com/coder/code-server)
-2. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#157](https://github.com/tycrek/ass/pull/157#pullrequestreview-1194823022) in [tycrek/ass](https://github.com/tycrek/ass)
-3. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#157](https://github.com/tycrek/ass/pull/157#issuecomment-1327978543) in [tycrek/ass](https://github.com/tycrek/ass)
-4. ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) Opened issue [#4581](https://github.com/pterodactyl/panel/issues/4581) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-5. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4040](https://github.com/is-a-dev/register/pull/4040#pullrequestreview-1194817641) in [is-a-dev/register](https://github.com/is-a-dev/register)
-6. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4041](https://github.com/is-a-dev/register/pull/4041#pullrequestreview-1194817593) in [is-a-dev/register](https://github.com/is-a-dev/register)
-7. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4043](https://github.com/is-a-dev/register/pull/4043#pullrequestreview-1194817541) in [is-a-dev/register](https://github.com/is-a-dev/register)
-8. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4043](https://github.com/is-a-dev/register/pull/4043#discussion_r1032730144) in [is-a-dev/register](https://github.com/is-a-dev/register)
-9. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4046](https://github.com/is-a-dev/register/pull/4046#discussion_r1032730064) in [is-a-dev/register](https://github.com/is-a-dev/register)
-10. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4046](https://github.com/is-a-dev/register/pull/4046#pullrequestreview-1194817468) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) Closed issue [#4581](https://github.com/pterodactyl/panel/issues/4581) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+2. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4581](https://github.com/pterodactyl/panel/issues/4581#issuecomment-1327985364) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+3. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [coder/code-server](https://github.com/coder/code-server)
+4. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#157](https://github.com/tycrek/ass/pull/157#pullrequestreview-1194823022) in [tycrek/ass](https://github.com/tycrek/ass)
+5. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#157](https://github.com/tycrek/ass/pull/157#issuecomment-1327978543) in [tycrek/ass](https://github.com/tycrek/ass)
+6. ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) Opened issue [#4581](https://github.com/pterodactyl/panel/issues/4581) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+7. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4040](https://github.com/is-a-dev/register/pull/4040#pullrequestreview-1194817641) in [is-a-dev/register](https://github.com/is-a-dev/register)
+8. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4041](https://github.com/is-a-dev/register/pull/4041#pullrequestreview-1194817593) in [is-a-dev/register](https://github.com/is-a-dev/register)
+9. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4043](https://github.com/is-a-dev/register/pull/4043#pullrequestreview-1194817541) in [is-a-dev/register](https://github.com/is-a-dev/register)
+10. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4043](https://github.com/is-a-dev/register/pull/4043#discussion_r1032730144) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 26th November, 2022 @ 05:34am UTC
+###### Last Updated: 26th November, 2022 @ 05:41am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![Snake Contribution Graph](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/blob/output/github-contribution-grid-snake.svg)
