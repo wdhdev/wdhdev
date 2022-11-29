@@ -45,20 +45,20 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#704](https://github.com/blueedgetechno/win11React/pull/704) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-2. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#703](https://github.com/blueedgetechno/win11React/pull/703) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-3. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#703](https://github.com/blueedgetechno/win11React/pull/703) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-4. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/win11React](https://github.com/WilliamDavidHarrison/win11React) from [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-5. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#647](https://github.com/blueedgetechno/win11React/issues/647#issuecomment-1329868733) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-6. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#638](https://github.com/blueedgetechno/win11React/issues/638#issuecomment-1329867440) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-7. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4070](https://github.com/is-a-dev/register/pull/4070#pullrequestreview-1196670001) in [is-a-dev/register](https://github.com/is-a-dev/register)
-8. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4069](https://github.com/is-a-dev/register/pull/4069#discussion_r1034138226) in [is-a-dev/register](https://github.com/is-a-dev/register)
-9. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4069](https://github.com/is-a-dev/register/pull/4069#pullrequestreview-1196669443) in [is-a-dev/register](https://github.com/is-a-dev/register)
-10. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4068](https://github.com/is-a-dev/register/pull/4068#pullrequestreview-1196668298) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#1](https://github.com/William-Harrison/williamharrison.xyz/pull/1) in [William-Harrison/williamharrison.xyz](https://github.com/William-Harrison/williamharrison.xyz)
+2. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#1](https://github.com/William-Harrison/williamharrison.xyz/pull/1) in [William-Harrison/williamharrison.xyz](https://github.com/William-Harrison/williamharrison.xyz)
+3. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#1](https://github.com/William-Harrison/williamharrison.xyz/pull/1) in [William-Harrison/williamharrison.xyz](https://github.com/William-Harrison/williamharrison.xyz)
+4. ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) Created new repository [William-Harrison/williamharrison.xyz](https://github.com/William-Harrison/williamharrison.xyz)
+5. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#283](https://github.com/is-a-good-dev/register/pull/283) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+6. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#282](https://github.com/is-a-good-dev/register/pull/282) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+7. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#281](https://github.com/is-a-good-dev/register/pull/281) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+8. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#281](https://github.com/is-a-good-dev/register/pull/281) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+9. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#280](https://github.com/is-a-good-dev/register/pull/280) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+10. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#704](https://github.com/blueedgetechno/win11React/pull/704) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 29th November, 2022 @ 00:34am UTC
+###### Last Updated: 29th November, 2022 @ 02:13am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![Snake Contribution Graph](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/blob/output/github-contribution-grid-snake.svg)
