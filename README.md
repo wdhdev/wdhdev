@@ -45,20 +45,20 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#1](https://github.com/open-domains/localplayer.dev/pull/1) in [open-domains/localplayer.dev](https://github.com/open-domains/localplayer.dev)
-2. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/localplayer.dev](https://github.com/WilliamDavidHarrison/localplayer.dev) from [open-domains/localplayer.dev](https://github.com/open-domains/localplayer.dev)
-3. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#6](https://github.com/open-domains/register/pull/6) in [open-domains/register](https://github.com/open-domains/register)
-4. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#5](https://github.com/open-domains/register/pull/5) in [open-domains/register](https://github.com/open-domains/register)
-5. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#5](https://github.com/open-domains/Register/pull/5) in [open-domains/Register](https://github.com/open-domains/Register)
-6. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4](https://github.com/open-domains/Register/pull/4#issuecomment-1334542619) in [open-domains/Register](https://github.com/open-domains/Register)
-7. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#4](https://github.com/open-domains/Register/pull/4) in [open-domains/Register](https://github.com/open-domains/Register)
-8. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/Register](https://github.com/WilliamDavidHarrison/Register) from [open-domains/Register](https://github.com/open-domains/Register)
-9. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [open-domains/Register](https://github.com/open-domains/Register)
-10. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4080](https://github.com/is-a-dev/register/pull/4080#pullrequestreview-1200631721) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) Opened issue [#8](https://github.com/open-domains/register/issues/8) in [open-domains/register](https://github.com/open-domains/register)
+2. ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) Opened issue [#7](https://github.com/open-domains/register/issues/7) in [open-domains/register](https://github.com/open-domains/register)
+3. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#1](https://github.com/open-domains/localplayer.dev/pull/1) in [open-domains/localplayer.dev](https://github.com/open-domains/localplayer.dev)
+4. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/localplayer.dev](https://github.com/WilliamDavidHarrison/localplayer.dev) from [open-domains/localplayer.dev](https://github.com/open-domains/localplayer.dev)
+5. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#6](https://github.com/open-domains/register/pull/6) in [open-domains/register](https://github.com/open-domains/register)
+6. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#5](https://github.com/open-domains/register/pull/5) in [open-domains/register](https://github.com/open-domains/register)
+7. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#5](https://github.com/open-domains/Register/pull/5) in [open-domains/Register](https://github.com/open-domains/Register)
+8. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4](https://github.com/open-domains/Register/pull/4#issuecomment-1334542619) in [open-domains/Register](https://github.com/open-domains/Register)
+9. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#4](https://github.com/open-domains/Register/pull/4) in [open-domains/Register](https://github.com/open-domains/Register)
+10. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/Register](https://github.com/WilliamDavidHarrison/Register) from [open-domains/Register](https://github.com/open-domains/Register)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 1st December, 2022 @ 23:50pm UTC
+###### Last Updated: 1st December, 2022 @ 23:57pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![Snake Contribution Graph](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/blob/output/github-contribution-grid-snake.svg)
