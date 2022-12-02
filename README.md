@@ -36,6 +36,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 
 [![Future Focus Accounting](https://img.shields.io/badge/Future%20Focus%20Accounting-Developer-222222?style=for-the-badge)](https://github.com/futurefocusaccounting/website)
 
+[![Open Domains](https://img.shields.io/badge/Open%20Domains-Maintainer-222222?style=for-the-badge)](https://github.com/open-domains/register)
+
 [![is-a.dev](https://img.shields.io/badge/is--a.dev-Helper-222222?style=for-the-badge)](https://github.com/is-a-dev/register)
 
 [![is-a-good.dev](https://img.shields.io/badge/is--a--good.dev-Helper-222222?style=for-the-badge)](https://github.com/is-a-good-dev/register)
