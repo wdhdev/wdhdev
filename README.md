@@ -47,20 +47,20 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#11](https://github.com/open-domains/register/pull/11) in [open-domains/register](https://github.com/open-domains/register)
-2. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#11](https://github.com/open-domains/register/pull/11#issuecomment-1335952219) in [open-domains/register](https://github.com/open-domains/register)
-3. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#11](https://github.com/open-domains/register/pull/11) in [open-domains/register](https://github.com/open-domains/register)
-4. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#1](https://github.com/andrewstech/is-a-dev-cli/pull/1) in [andrewstech/is-a-dev-cli](https://github.com/andrewstech/is-a-dev-cli)
-5. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#1](https://github.com/andrewstech/is-a-dev-cli/pull/1#issuecomment-1335941701) in [andrewstech/is-a-dev-cli](https://github.com/andrewstech/is-a-dev-cli)
-6. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3938](https://github.com/is-a-dev/register/pull/3938#issuecomment-1335174069) in [is-a-dev/register](https://github.com/is-a-dev/register)
-7. ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) Closed issue [#7](https://github.com/open-domains/register/issues/7) in [open-domains/register](https://github.com/open-domains/register)
-8. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#1](https://github.com/google/pica/pull/1) in [google/pica](https://github.com/google/pica)
-9. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/pica](https://github.com/WilliamDavidHarrison/pica) from [google/pica](https://github.com/google/pica)
-10. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#7](https://github.com/open-domains/register/issues/7#issuecomment-1334773337) in [open-domains/register](https://github.com/open-domains/register)
+1. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#12](https://github.com/open-domains/register/pull/12) in [open-domains/register](https://github.com/open-domains/register)
+2. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#12](https://github.com/open-domains/register/pull/12) in [open-domains/register](https://github.com/open-domains/register)
+3. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#12](https://github.com/open-domains/register/pull/12) in [open-domains/register](https://github.com/open-domains/register)
+4. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#11](https://github.com/open-domains/register/pull/11) in [open-domains/register](https://github.com/open-domains/register)
+5. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#11](https://github.com/open-domains/register/pull/11#issuecomment-1335952219) in [open-domains/register](https://github.com/open-domains/register)
+6. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#11](https://github.com/open-domains/register/pull/11) in [open-domains/register](https://github.com/open-domains/register)
+7. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#1](https://github.com/andrewstech/is-a-dev-cli/pull/1) in [andrewstech/is-a-dev-cli](https://github.com/andrewstech/is-a-dev-cli)
+8. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#1](https://github.com/andrewstech/is-a-dev-cli/pull/1#issuecomment-1335941701) in [andrewstech/is-a-dev-cli](https://github.com/andrewstech/is-a-dev-cli)
+9. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#3938](https://github.com/is-a-dev/register/pull/3938#issuecomment-1335174069) in [is-a-dev/register](https://github.com/is-a-dev/register)
+10. ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) Closed issue [#7](https://github.com/open-domains/register/issues/7) in [open-domains/register](https://github.com/open-domains/register)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 2nd December, 2022 @ 23:29pm UTC
+###### Last Updated: 2nd December, 2022 @ 23:37pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![Snake Contribution Graph](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/blob/output/github-contribution-grid-snake.svg)
