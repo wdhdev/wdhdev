@@ -47,20 +47,20 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#1661](https://github.com/publicsuffix/list/pull/1661) in [publicsuffix/list](https://github.com/publicsuffix/list)
-2. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/list](https://github.com/WilliamDavidHarrison/list) from [publicsuffix/list](https://github.com/publicsuffix/list)
-3. ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) Opened issue [#1660](https://github.com/publicsuffix/list/issues/1660) in [publicsuffix/list](https://github.com/publicsuffix/list)
-4. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [curl/curl](https://github.com/curl/curl)
-5. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#382](https://github.com/Olivr/free-domain/pull/382#issuecomment-1335990870) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
-6. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#382](https://github.com/Olivr/free-domain/pull/382) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
-7. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/free-domain](https://github.com/WilliamDavidHarrison/free-domain) from [Olivr/free-domain](https://github.com/Olivr/free-domain)
-8. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#27](https://github.com/is-really-cool/register/pull/27) in [is-really-cool/register](https://github.com/is-really-cool/register)
-9. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/register](https://github.com/WilliamDavidHarrison/register) from [is-really-cool/register](https://github.com/is-really-cool/register)
-10. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#533](https://github.com/thedev-id/thedev.id/pull/533) in [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)
+1. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#1663](https://github.com/publicsuffix/list/pull/1663) in [publicsuffix/list](https://github.com/publicsuffix/list)
+2. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#1662](https://github.com/publicsuffix/list/pull/1662) in [publicsuffix/list](https://github.com/publicsuffix/list)
+3. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#1661](https://github.com/publicsuffix/list/pull/1661) in [publicsuffix/list](https://github.com/publicsuffix/list)
+4. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/list](https://github.com/WilliamDavidHarrison/list) from [publicsuffix/list](https://github.com/publicsuffix/list)
+5. ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) Opened issue [#1660](https://github.com/publicsuffix/list/issues/1660) in [publicsuffix/list](https://github.com/publicsuffix/list)
+6. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [curl/curl](https://github.com/curl/curl)
+7. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#382](https://github.com/Olivr/free-domain/pull/382#issuecomment-1335990870) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
+8. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#382](https://github.com/Olivr/free-domain/pull/382) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
+9. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/free-domain](https://github.com/WilliamDavidHarrison/free-domain) from [Olivr/free-domain](https://github.com/Olivr/free-domain)
+10. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#27](https://github.com/is-really-cool/register/pull/27) in [is-really-cool/register](https://github.com/is-really-cool/register)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 3rd December, 2022 @ 05:58am UTC
+###### Last Updated: 3rd December, 2022 @ 06:18am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![Snake Contribution Graph](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/blob/output/github-contribution-grid-snake.svg)
