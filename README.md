@@ -47,20 +47,20 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#20](https://github.com/open-domains/register/pull/20) in [open-domains/register](https://github.com/open-domains/register)
-2. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#1660](https://github.com/publicsuffix/list/issues/1660#issuecomment-1336272169) in [publicsuffix/list](https://github.com/publicsuffix/list)
-3. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#1660](https://github.com/publicsuffix/list/issues/1660#issuecomment-1336271909) in [publicsuffix/list](https://github.com/publicsuffix/list)
-4. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#1661](https://github.com/publicsuffix/list/pull/1661) in [publicsuffix/list](https://github.com/publicsuffix/list)
-5. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#1663](https://github.com/publicsuffix/list/pull/1663) in [publicsuffix/list](https://github.com/publicsuffix/list)
-6. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#1662](https://github.com/publicsuffix/list/pull/1662) in [publicsuffix/list](https://github.com/publicsuffix/list)
-7. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#1661](https://github.com/publicsuffix/list/pull/1661) in [publicsuffix/list](https://github.com/publicsuffix/list)
-8. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/list](https://github.com/WilliamDavidHarrison/list) from [publicsuffix/list](https://github.com/publicsuffix/list)
-9. ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) Opened issue [#1660](https://github.com/publicsuffix/list/issues/1660) in [publicsuffix/list](https://github.com/publicsuffix/list)
-10. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [curl/curl](https://github.com/curl/curl)
+1. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#20](https://github.com/open-domains/register/pull/20) in [open-domains/register](https://github.com/open-domains/register)
+2. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#20](https://github.com/open-domains/register/pull/20) in [open-domains/register](https://github.com/open-domains/register)
+3. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#1660](https://github.com/publicsuffix/list/issues/1660#issuecomment-1336272169) in [publicsuffix/list](https://github.com/publicsuffix/list)
+4. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#1660](https://github.com/publicsuffix/list/issues/1660#issuecomment-1336271909) in [publicsuffix/list](https://github.com/publicsuffix/list)
+5. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#1661](https://github.com/publicsuffix/list/pull/1661) in [publicsuffix/list](https://github.com/publicsuffix/list)
+6. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#1663](https://github.com/publicsuffix/list/pull/1663) in [publicsuffix/list](https://github.com/publicsuffix/list)
+7. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#1662](https://github.com/publicsuffix/list/pull/1662) in [publicsuffix/list](https://github.com/publicsuffix/list)
+8. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#1661](https://github.com/publicsuffix/list/pull/1661) in [publicsuffix/list](https://github.com/publicsuffix/list)
+9. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/list](https://github.com/WilliamDavidHarrison/list) from [publicsuffix/list](https://github.com/publicsuffix/list)
+10. ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) Opened issue [#1660](https://github.com/publicsuffix/list/issues/1660) in [publicsuffix/list](https://github.com/publicsuffix/list)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 3rd December, 2022 @ 22:53pm UTC
+###### Last Updated: 3rd December, 2022 @ 23:02pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![Snake Contribution Graph](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/blob/output/github-contribution-grid-snake.svg)
