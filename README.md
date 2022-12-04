@@ -47,20 +47,20 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [Facinorous-420/dick](https://github.com/Facinorous-420/dick)
-2. ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) Closed issue [#1660](https://github.com/publicsuffix/list/issues/1660) in [publicsuffix/list](https://github.com/publicsuffix/list)
-3. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#2709](https://github.com/ripienaar/free-for-dev/pull/2709) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
-4. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/free-for-dev](https://github.com/WilliamDavidHarrison/free-for-dev) from [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
-5. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#21](https://github.com/open-domains/register/pull/21) in [open-domains/register](https://github.com/open-domains/register)
-6. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#21](https://github.com/open-domains/register/pull/21) in [open-domains/register](https://github.com/open-domains/register)
-7. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#28](https://github.com/is-really-cool/register/pull/28) in [is-really-cool/register](https://github.com/is-really-cool/register)
-8. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#1660](https://github.com/publicsuffix/list/issues/1660#issuecomment-1336275436) in [publicsuffix/list](https://github.com/publicsuffix/list)
-9. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#291](https://github.com/is-a-good-dev/register/pull/291#issuecomment-1336275281) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-10. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#382](https://github.com/Olivr/free-domain/pull/382) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
+1. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#293](https://github.com/is-a-good-dev/register/pull/293#pullrequestreview-1203590915) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+2. ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) Opened issue [#26](https://github.com/Facinorous-420/dick/issues/26) in [Facinorous-420/dick](https://github.com/Facinorous-420/dick)
+3. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [Facinorous-420/dick](https://github.com/Facinorous-420/dick)
+4. ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) Closed issue [#1660](https://github.com/publicsuffix/list/issues/1660) in [publicsuffix/list](https://github.com/publicsuffix/list)
+5. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#2709](https://github.com/ripienaar/free-for-dev/pull/2709) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+6. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/free-for-dev](https://github.com/WilliamDavidHarrison/free-for-dev) from [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+7. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#21](https://github.com/open-domains/register/pull/21) in [open-domains/register](https://github.com/open-domains/register)
+8. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#21](https://github.com/open-domains/register/pull/21) in [open-domains/register](https://github.com/open-domains/register)
+9. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#28](https://github.com/is-really-cool/register/pull/28) in [is-really-cool/register](https://github.com/is-really-cool/register)
+10. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#1660](https://github.com/publicsuffix/list/issues/1660#issuecomment-1336275436) in [publicsuffix/list](https://github.com/publicsuffix/list)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 4th December, 2022 @ 01:03am UTC
+###### Last Updated: 4th December, 2022 @ 02:21am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![Snake Contribution Graph](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/blob/output/github-contribution-grid-snake.svg)
