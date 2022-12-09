@@ -75,9 +75,3 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 **Profiles**:
 - [Wakatime](https://wakatime.com/@wh)
 - [npm](https://www.npmjs.com/~wdharrison09)
-
-**Projects**:
-- [William's Utilities](https://bot.williamharrison.dev)
-- [Technobot](https://discord.com/api/oauth2/authorize?client_id=1033614592363995197&permissions=84992&scope=bot%20applications.commands)
-- [CoinflipJS](https://coinflip.js.org)
-- [Calculate Pi](https://github.williamharrison.dev/pi)
