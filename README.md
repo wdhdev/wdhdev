@@ -64,14 +64,3 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![Snake Contribution Graph](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/blob/output/github-contribution-grid-snake.svg)
-
-## Links
-**Websites**:
-- [Personal Website](https://william.net.au)
-- [Developer Website](https://williamharrison.dev)
-- [Blog](https://williamharrison.blog)
-- [Links](https://williamharrison.me)
-
-**Profiles**:
-- [Wakatime](https://wakatime.com/@wh)
-- [npm](https://www.npmjs.com/~wdharrison09)
