@@ -65,18 +65,18 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#2](https://github.com/is-a-good-dev/.github/pull/2) in [is-a-good-dev/.github](https://github.com/is-a-good-dev/.github)
-2. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#5](https://github.com/google/native-pkcs11/pull/5) in [google/native-pkcs11](https://github.com/google/native-pkcs11)
-3. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/native-pkcs11](https://github.com/WilliamDavidHarrison/native-pkcs11) from [google/native-pkcs11](https://github.com/google/native-pkcs11)
-4. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#1](https://github.com/google/visionai/pull/1) in [google/visionai](https://github.com/google/visionai)
-5. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/visionai](https://github.com/WilliamDavidHarrison/visionai) from [google/visionai](https://github.com/google/visionai)
-6. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#3](https://github.com/avalynndev/avalynndev/pull/3) in [avalynndev/avalynndev](https://github.com/avalynndev/avalynndev)
-7. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/avalynndev](https://github.com/WilliamDavidHarrison/avalynndev) from [avalynndev/avalynndev](https://github.com/avalynndev/avalynndev)
-8. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#2](https://github.com/avalynndev/avalynndev/pull/2) in [avalynndev/avalynndev](https://github.com/avalynndev/avalynndev)
-9. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#1](https://github.com/avalynndev/avalynndev/pull/1) in [avalynndev/avalynndev](https://github.com/avalynndev/avalynndev)
-10. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/avalynndev](https://github.com/WilliamDavidHarrison/avalynndev) from [avalynndev/avalynndev](https://github.com/avalynndev/avalynndev)
+1. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#297](https://github.com/is-a-good-dev/register/pull/297#pullrequestreview-1212627061) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+2. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#2](https://github.com/is-a-good-dev/.github/pull/2) in [is-a-good-dev/.github](https://github.com/is-a-good-dev/.github)
+3. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#5](https://github.com/google/native-pkcs11/pull/5) in [google/native-pkcs11](https://github.com/google/native-pkcs11)
+4. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/native-pkcs11](https://github.com/WilliamDavidHarrison/native-pkcs11) from [google/native-pkcs11](https://github.com/google/native-pkcs11)
+5. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#1](https://github.com/google/visionai/pull/1) in [google/visionai](https://github.com/google/visionai)
+6. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/visionai](https://github.com/WilliamDavidHarrison/visionai) from [google/visionai](https://github.com/google/visionai)
+7. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#3](https://github.com/avalynndev/avalynndev/pull/3) in [avalynndev/avalynndev](https://github.com/avalynndev/avalynndev)
+8. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/avalynndev](https://github.com/WilliamDavidHarrison/avalynndev) from [avalynndev/avalynndev](https://github.com/avalynndev/avalynndev)
+9. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#2](https://github.com/avalynndev/avalynndev/pull/2) in [avalynndev/avalynndev](https://github.com/avalynndev/avalynndev)
+10. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#1](https://github.com/avalynndev/avalynndev/pull/1) in [avalynndev/avalynndev](https://github.com/avalynndev/avalynndev)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 10th December, 2022 @ 23:29pm UTC
+###### Last Updated: 10th December, 2022 @ 23:37pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
