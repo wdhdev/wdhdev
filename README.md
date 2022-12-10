@@ -80,4 +80,3 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 <!--RECENT_ACTIVITY:last_update-->
 ###### Last Updated: 10th December, 2022 @ 10:44am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
-
