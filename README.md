@@ -63,4 +63,6 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ###### Last Updated: 10th December, 2022 @ 10:37am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
+---
+
 ![Snake Contribution Graph](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/blob/output/github-contribution-grid-snake.svg)
