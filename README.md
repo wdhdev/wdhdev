@@ -17,8 +17,34 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 [![Recent Activity](https://img.shields.io/badge/-Recent%20Activity-333333?style=for-the-badge&logo=github)](https://github.williamharrison.dev/recent-activity)
 
 <details>
-  <summary>GitHub Stats</summary>
-<br>
+  <summary>🛠️ Currently Working On</summary>
+  <br>
+
+  [![William's Utilities](https://img.shields.io/badge/-William's%20Utilities-333333?style=for-the-badge)](https://github.com/williamdavidharrison/williams-utilities)
+
+</details>
+
+<details>
+  <summary>💼 Roles</summary>
+  <br>
+
+  [![Future Focus Accounting](https://img.shields.io/badge/Future%20Focus%20Accounting-Developer-222222?style=for-the-badge)](https://github.com/futurefocusaccounting/website)
+
+  [![Open Domains](https://img.shields.io/badge/Open%20Domains-Maintainer-222222?style=for-the-badge)](https://github.com/open-domains/register)
+
+  [![is-a.dev](https://img.shields.io/badge/is--a.dev-Helper-222222?style=for-the-badge)](https://github.com/is-a-dev/register)
+
+  [![is-a-good.dev](https://img.shields.io/badge/is--a--good.dev-Helper-222222?style=for-the-badge)](https://github.com/is-a-good-dev/register)
+
+  [![CMShark](https://img.shields.io/badge/CMShark-Alpha%20%26%20Beta%20Tester-222222?style=for-the-badge)](https://github.com/wclarkey/cmshark)
+
+</details>
+
+---
+
+<details>
+  <summary>📊 GitHub Stats</summary>
+  <br>
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=williamdavidharrison&theme=algolia&show_icons=true&border_radius=8&count_private=true&include_all_commits=true)
 
@@ -28,21 +54,13 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 
 </details>
 
-🛠️ **Currently Working On**
+<details>
+  <summary>🐍 Snake Contribution Graph</summary>
+  <br>
 
-[![William's Utilities](https://img.shields.io/badge/-William's%20Utilities-333333?style=for-the-badge)](https://github.com/williamdavidharrison/williams-utilities)
+  ![Snake Contribution Graph](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/blob/output/github-contribution-grid-snake.svg)
 
-💼 **Roles**
-
-[![Future Focus Accounting](https://img.shields.io/badge/Future%20Focus%20Accounting-Developer-222222?style=for-the-badge)](https://github.com/futurefocusaccounting/website)
-
-[![Open Domains](https://img.shields.io/badge/Open%20Domains-Maintainer-222222?style=for-the-badge)](https://github.com/open-domains/register)
-
-[![is-a.dev](https://img.shields.io/badge/is--a.dev-Helper-222222?style=for-the-badge)](https://github.com/is-a-dev/register)
-
-[![is-a-good.dev](https://img.shields.io/badge/is--a--good.dev-Helper-222222?style=for-the-badge)](https://github.com/is-a-good-dev/register)
-
-[![CMShark](https://img.shields.io/badge/CMShark-Alpha%20%26%20Beta%20Tester-222222?style=for-the-badge)](https://github.com/wclarkey/cmshark)
+</details>
 
 ## Recent Activity
 
@@ -63,6 +81,3 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ###### Last Updated: 10th December, 2022 @ 10:44am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
----
-
-![Snake Contribution Graph](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/blob/output/github-contribution-grid-snake.svg)
