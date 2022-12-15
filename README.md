@@ -58,7 +58,7 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
   <summary>🐍 Snake Contribution Graph</summary>
   <br>
 
-  ![Snake Contribution Graph](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/blob/output/github-contribution-grid-snake.svg)
+  ![Snake](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/blob/output/github-contribution-grid-snake.svg)
 
 </details>
 
