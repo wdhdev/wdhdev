@@ -65,18 +65,18 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#561](https://github.com/thedev-id/thedev.id/pull/561#issuecomment-1354495429) in [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)
-2. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#39](https://github.com/open-domains/register/pull/39) in [open-domains/register](https://github.com/open-domains/register)
-3. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#39](https://github.com/open-domains/register/pull/39#pullrequestreview-1220512722) in [open-domains/register](https://github.com/open-domains/register)
-4. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#561](https://github.com/thedev-id/thedev.id/pull/561#issuecomment-1354432769) in [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)
-5. ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) Opened issue [#1669](https://github.com/publicsuffix/list/issues/1669) in [publicsuffix/list](https://github.com/publicsuffix/list)
-6. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#561](https://github.com/thedev-id/thedev.id/pull/561#issuecomment-1354327534) in [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)
-7. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#561](https://github.com/thedev-id/thedev.id/pull/561#issuecomment-1354321458) in [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)
-8. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#561](https://github.com/thedev-id/thedev.id/pull/561#issuecomment-1354306983) in [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)
-9. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#561](https://github.com/thedev-id/thedev.id/pull/561) in [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)
-10. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4195](https://github.com/is-a-dev/register/pull/4195#pullrequestreview-1220324266) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4094](https://github.com/is-a-dev/register/pull/4094#pullrequestreview-1220600478) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#561](https://github.com/thedev-id/thedev.id/pull/561#issuecomment-1354495429) in [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)
+3. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#39](https://github.com/open-domains/register/pull/39) in [open-domains/register](https://github.com/open-domains/register)
+4. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#39](https://github.com/open-domains/register/pull/39#pullrequestreview-1220512722) in [open-domains/register](https://github.com/open-domains/register)
+5. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#561](https://github.com/thedev-id/thedev.id/pull/561#issuecomment-1354432769) in [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)
+6. ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) Opened issue [#1669](https://github.com/publicsuffix/list/issues/1669) in [publicsuffix/list](https://github.com/publicsuffix/list)
+7. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#561](https://github.com/thedev-id/thedev.id/pull/561#issuecomment-1354327534) in [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)
+8. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#561](https://github.com/thedev-id/thedev.id/pull/561#issuecomment-1354321458) in [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)
+9. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#561](https://github.com/thedev-id/thedev.id/pull/561#issuecomment-1354306983) in [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)
+10. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#561](https://github.com/thedev-id/thedev.id/pull/561) in [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 16th December, 2022 @ 10:22am UTC
+###### Last Updated: 16th December, 2022 @ 10:32am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
