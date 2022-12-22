@@ -65,18 +65,18 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#42](https://github.com/is-really-cool/register/pull/42) in [is-really-cool/register](https://github.com/is-really-cool/register)
-2. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#42](https://github.com/is-really-cool/register/pull/42) in [is-really-cool/register](https://github.com/is-really-cool/register)
-3. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [is-really-cool/register](https://github.com/is-really-cool/register)
-4. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/register](https://github.com/WilliamDavidHarrison/register) from [is-really-cool/register](https://github.com/is-really-cool/register)
-5. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [willin/js.cool](https://github.com/willin/js.cool)
-6. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#207](https://github.com/willin/js.cool/pull/207) in [willin/js.cool](https://github.com/willin/js.cool)
-7. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/js.cool](https://github.com/WilliamDavidHarrison/js.cool) from [willin/js.cool](https://github.com/willin/js.cool)
-8. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#47](https://github.com/open-domains/register/pull/47) in [open-domains/register](https://github.com/open-domains/register)
-9. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#47](https://github.com/open-domains/register/pull/47#pullrequestreview-1225649616) in [open-domains/register](https://github.com/open-domains/register)
-10. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4233](https://github.com/is-a-dev/register/pull/4233#issuecomment-1360873974) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#2744](https://github.com/ripienaar/free-for-dev/pull/2744) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+2. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#2744](https://github.com/ripienaar/free-for-dev/pull/2744) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+3. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#2743](https://github.com/ripienaar/free-for-dev/pull/2743) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+4. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/free-for-dev](https://github.com/WilliamDavidHarrison/free-for-dev) from [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+5. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#305](https://github.com/is-a-good-dev/register/pull/305#issuecomment-1362239729) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+6. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4239](https://github.com/is-a-dev/register/pull/4239#pullrequestreview-1226935191) in [is-a-dev/register](https://github.com/is-a-dev/register)
+7. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4240](https://github.com/is-a-dev/register/pull/4240#pullrequestreview-1226934958) in [is-a-dev/register](https://github.com/is-a-dev/register)
+8. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4241](https://github.com/is-a-dev/register/pull/4241#pullrequestreview-1226934485) in [is-a-dev/register](https://github.com/is-a-dev/register)
+9. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#305](https://github.com/is-a-good-dev/register/pull/305) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+10. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#42](https://github.com/is-really-cool/register/pull/42) in [is-really-cool/register](https://github.com/is-really-cool/register)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 21st December, 2022 @ 23:55pm UTC
+###### Last Updated: 22nd December, 2022 @ 00:46am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
