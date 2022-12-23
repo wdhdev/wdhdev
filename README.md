@@ -65,18 +65,18 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4219](https://github.com/is-a-dev/register/pull/4219#issuecomment-1363920787) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4212](https://github.com/is-a-dev/register/pull/4212#issuecomment-1363920022) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4244](https://github.com/is-a-dev/register/pull/4244#pullrequestreview-1228785940) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4251](https://github.com/is-a-dev/register/pull/4251#pullrequestreview-1228735129) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#638](https://github.com/blueedgetechno/win11React/issues/638#issuecomment-1363726701) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-6. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#40](https://github.com/tarampampam/free-domains/pull/40#issuecomment-1363697611) in [tarampampam/free-domains](https://github.com/tarampampam/free-domains)
-7. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [tarampampam/free-domains](https://github.com/tarampampam/free-domains)
-8. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#40](https://github.com/tarampampam/free-domains/pull/40) in [tarampampam/free-domains](https://github.com/tarampampam/free-domains)
-9. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/free-domains](https://github.com/WilliamDavidHarrison/free-domains) from [tarampampam/free-domains](https://github.com/tarampampam/free-domains)
-10. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4244](https://github.com/is-a-dev/register/pull/4244#pullrequestreview-1228587984) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4252](https://github.com/is-a-dev/register/pull/4252#pullrequestreview-1229455586) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) Opened issue [#33](https://github.com/Facinorous-420/dick/issues/33) in [Facinorous-420/dick](https://github.com/Facinorous-420/dick)
+3. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4219](https://github.com/is-a-dev/register/pull/4219#issuecomment-1363920787) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4212](https://github.com/is-a-dev/register/pull/4212#issuecomment-1363920022) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4244](https://github.com/is-a-dev/register/pull/4244#pullrequestreview-1228785940) in [is-a-dev/register](https://github.com/is-a-dev/register)
+6. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4251](https://github.com/is-a-dev/register/pull/4251#pullrequestreview-1228735129) in [is-a-dev/register](https://github.com/is-a-dev/register)
+7. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#638](https://github.com/blueedgetechno/win11React/issues/638#issuecomment-1363726701) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+8. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#40](https://github.com/tarampampam/free-domains/pull/40#issuecomment-1363697611) in [tarampampam/free-domains](https://github.com/tarampampam/free-domains)
+9. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [tarampampam/free-domains](https://github.com/tarampampam/free-domains)
+10. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#40](https://github.com/tarampampam/free-domains/pull/40) in [tarampampam/free-domains](https://github.com/tarampampam/free-domains)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 23rd December, 2022 @ 23:29pm UTC
+###### Last Updated: 23rd December, 2022 @ 23:36pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
