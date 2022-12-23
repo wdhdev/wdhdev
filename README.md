@@ -65,18 +65,18 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4251](https://github.com/is-a-dev/register/pull/4251#pullrequestreview-1228735129) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#638](https://github.com/blueedgetechno/win11React/issues/638#issuecomment-1363726701) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-3. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#40](https://github.com/tarampampam/free-domains/pull/40#issuecomment-1363697611) in [tarampampam/free-domains](https://github.com/tarampampam/free-domains)
-4. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [tarampampam/free-domains](https://github.com/tarampampam/free-domains)
-5. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#40](https://github.com/tarampampam/free-domains/pull/40) in [tarampampam/free-domains](https://github.com/tarampampam/free-domains)
-6. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/free-domains](https://github.com/WilliamDavidHarrison/free-domains) from [tarampampam/free-domains](https://github.com/tarampampam/free-domains)
-7. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4244](https://github.com/is-a-dev/register/pull/4244#pullrequestreview-1228587984) in [is-a-dev/register](https://github.com/is-a-dev/register)
-8. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#50](https://github.com/open-domains/register/pull/50) in [open-domains/register](https://github.com/open-domains/register)
-9. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [google/material-design-icons](https://github.com/google/material-design-icons)
-10. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [open-domains/register](https://github.com/open-domains/register)
+1. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4244](https://github.com/is-a-dev/register/pull/4244#pullrequestreview-1228785940) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4251](https://github.com/is-a-dev/register/pull/4251#pullrequestreview-1228735129) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#638](https://github.com/blueedgetechno/win11React/issues/638#issuecomment-1363726701) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+4. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#40](https://github.com/tarampampam/free-domains/pull/40#issuecomment-1363697611) in [tarampampam/free-domains](https://github.com/tarampampam/free-domains)
+5. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [tarampampam/free-domains](https://github.com/tarampampam/free-domains)
+6. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#40](https://github.com/tarampampam/free-domains/pull/40) in [tarampampam/free-domains](https://github.com/tarampampam/free-domains)
+7. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/free-domains](https://github.com/WilliamDavidHarrison/free-domains) from [tarampampam/free-domains](https://github.com/tarampampam/free-domains)
+8. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4244](https://github.com/is-a-dev/register/pull/4244#pullrequestreview-1228587984) in [is-a-dev/register](https://github.com/is-a-dev/register)
+9. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#50](https://github.com/open-domains/register/pull/50) in [open-domains/register](https://github.com/open-domains/register)
+10. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [google/material-design-icons](https://github.com/google/material-design-icons)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 23rd December, 2022 @ 10:10am UTC
+###### Last Updated: 23rd December, 2022 @ 10:27am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
