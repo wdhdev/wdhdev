@@ -65,18 +65,18 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/ass](https://github.com/WilliamDavidHarrison/ass) from [tycrek/ass](https://github.com/tycrek/ass)
-2. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4264](https://github.com/is-a-dev/register/pull/4264#pullrequestreview-1229921605) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#1](https://github.com/google/visionai/pull/1) in [google/visionai](https://github.com/google/visionai)
-4. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#4](https://github.com/google/workflow-graph/pull/4) in [google/workflow-graph](https://github.com/google/workflow-graph)
-5. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#5](https://github.com/google/native-pkcs11/pull/5) in [google/native-pkcs11](https://github.com/google/native-pkcs11)
-6. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#208](https://github.com/willin/js.cool/pull/208) in [willin/js.cool](https://github.com/willin/js.cool)
-7. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4262](https://github.com/is-a-dev/register/pull/4262#pullrequestreview-1229784164) in [is-a-dev/register](https://github.com/is-a-dev/register)
-8. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4253](https://github.com/is-a-dev/register/pull/4253#pullrequestreview-1229784106) in [is-a-dev/register](https://github.com/is-a-dev/register)
-9. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4263](https://github.com/is-a-dev/register/pull/4263#pullrequestreview-1229784066) in [is-a-dev/register](https://github.com/is-a-dev/register)
-10. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#565](https://github.com/thedev-id/thedev.id/pull/565#issuecomment-1364687819) in [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)
+1. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#191](https://github.com/tycrek/ass/pull/191) in [tycrek/ass](https://github.com/tycrek/ass)
+2. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/ass](https://github.com/WilliamDavidHarrison/ass) from [tycrek/ass](https://github.com/tycrek/ass)
+3. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4264](https://github.com/is-a-dev/register/pull/4264#pullrequestreview-1229921605) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#1](https://github.com/google/visionai/pull/1) in [google/visionai](https://github.com/google/visionai)
+5. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#4](https://github.com/google/workflow-graph/pull/4) in [google/workflow-graph](https://github.com/google/workflow-graph)
+6. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#5](https://github.com/google/native-pkcs11/pull/5) in [google/native-pkcs11](https://github.com/google/native-pkcs11)
+7. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#208](https://github.com/willin/js.cool/pull/208) in [willin/js.cool](https://github.com/willin/js.cool)
+8. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4262](https://github.com/is-a-dev/register/pull/4262#pullrequestreview-1229784164) in [is-a-dev/register](https://github.com/is-a-dev/register)
+9. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4253](https://github.com/is-a-dev/register/pull/4253#pullrequestreview-1229784106) in [is-a-dev/register](https://github.com/is-a-dev/register)
+10. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4263](https://github.com/is-a-dev/register/pull/4263#pullrequestreview-1229784066) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 26th December, 2022 @ 09:03am UTC
+###### Last Updated: 26th December, 2022 @ 09:19am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
