@@ -32,7 +32,7 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 
   [![Open Domains](https://img.shields.io/badge/Open%20Domains-Admin-222222?style=for-the-badge)](https://wdh.gg/od)
 
-  [![is-a.dev](https://img.shields.io/badge/is--a.dev-Helper-222222?style=for-the-badge)](https://wdh.gg/is-a-dev)
+  [![is-a.dev](https://img.shields.io/badge/is--a.dev-Maintainer-222222?style=for-the-badge)](https://wdh.gg/is-a-dev)
 
   [![is-a-good.dev](https://img.shields.io/badge/is--a--good.dev-Helper-222222?style=for-the-badge)](https://wdh.gg/is-a-good-dev)
 
