@@ -65,18 +65,18 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#195](https://github.com/tycrek/ass/pull/195#pullrequestreview-1233053967) in [tycrek/ass](https://github.com/tycrek/ass)
-2. ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) Opened issue [#196](https://github.com/tycrek/ass/issues/196) in [tycrek/ass](https://github.com/tycrek/ass)
-3. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#4307](https://github.com/is-a-dev/register/pull/4307) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#716](https://github.com/blueedgetechno/win11React/pull/716) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-5. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/win11React](https://github.com/WilliamDavidHarrison/win11React) from [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-6. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#8](https://github.com/open-domains/register/issues/8#issuecomment-1367856453) in [open-domains/register](https://github.com/open-domains/register)
-7. ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) Opened issue [#2](https://github.com/priyanshprajapat/url-shortner/issues/2) in [priyanshprajapat/url-shortner](https://github.com/priyanshprajapat/url-shortner)
-8. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#1](https://github.com/priyanshprajapat/url-shortner/pull/1) in [priyanshprajapat/url-shortner](https://github.com/priyanshprajapat/url-shortner)
-9. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/url-shortner](https://github.com/WilliamDavidHarrison/url-shortner) from [priyanshprajapat/url-shortner](https://github.com/priyanshprajapat/url-shortner)
-10. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#54](https://github.com/open-domains/register/pull/54) in [open-domains/register](https://github.com/open-domains/register)
+1. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#4315](https://github.com/is-a-dev/register/pull/4315) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4315](https://github.com/is-a-dev/register/pull/4315#pullrequestreview-1233307334) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) Closed issue [#2](https://github.com/priyanshprajapat/url-shortener/issues/2) in [priyanshprajapat/url-shortener](https://github.com/priyanshprajapat/url-shortener)
+4. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#195](https://github.com/tycrek/ass/pull/195#pullrequestreview-1233053967) in [tycrek/ass](https://github.com/tycrek/ass)
+5. ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) Opened issue [#196](https://github.com/tycrek/ass/issues/196) in [tycrek/ass](https://github.com/tycrek/ass)
+6. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#4307](https://github.com/is-a-dev/register/pull/4307) in [is-a-dev/register](https://github.com/is-a-dev/register)
+7. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#716](https://github.com/blueedgetechno/win11React/pull/716) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+8. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/win11React](https://github.com/WilliamDavidHarrison/win11React) from [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+9. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#8](https://github.com/open-domains/register/issues/8#issuecomment-1367856453) in [open-domains/register](https://github.com/open-domains/register)
+10. ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) Opened issue [#2](https://github.com/priyanshprajapat/url-shortner/issues/2) in [priyanshprajapat/url-shortner](https://github.com/priyanshprajapat/url-shortner)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 30th December, 2022 @ 22:50pm UTC
+###### Last Updated: 30th December, 2022 @ 22:57pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
