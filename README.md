@@ -65,18 +65,18 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) Closed issue [#36](https://github.com/is-a-dev/test-project/issues/36) in [is-a-dev/test-project](https://github.com/is-a-dev/test-project)
-2. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#9](https://github.com/is-a-dev/is-a-dev.github.io/pull/9) in [is-a-dev/is-a-dev.github.io](https://github.com/is-a-dev/is-a-dev.github.io)
-3. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/is-a-dev.github.io](https://github.com/WilliamDavidHarrison/is-a-dev.github.io) from [is-a-dev/is-a-dev.github.io](https://github.com/is-a-dev/is-a-dev.github.io)
-4. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#31](https://github.com/Facinorous-420/dick/pull/31) in [Facinorous-420/dick](https://github.com/Facinorous-420/dick)
-5. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#4321](https://github.com/is-a-dev/register/pull/4321) in [is-a-dev/register](https://github.com/is-a-dev/register)
-6. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4321](https://github.com/is-a-dev/register/pull/4321#pullrequestreview-1233330585) in [is-a-dev/register](https://github.com/is-a-dev/register)
-7. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4320](https://github.com/is-a-dev/register/pull/4320#pullrequestreview-1233320515) in [is-a-dev/register](https://github.com/is-a-dev/register)
-8. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#3940](https://github.com/is-a-dev/register/pull/3940) in [is-a-dev/register](https://github.com/is-a-dev/register)
-9. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#3909](https://github.com/is-a-dev/register/pull/3909) in [is-a-dev/register](https://github.com/is-a-dev/register)
-10. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#3854](https://github.com/is-a-dev/register/pull/3854) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#7](https://github.com/blueedgetechno/blueweb/pull/7) in [blueedgetechno/blueweb](https://github.com/blueedgetechno/blueweb)
+2. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/blueweb](https://github.com/WilliamDavidHarrison/blueweb) from [blueedgetechno/blueweb](https://github.com/blueedgetechno/blueweb)
+3. ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) Closed issue [#36](https://github.com/is-a-dev/test-project/issues/36) in [is-a-dev/test-project](https://github.com/is-a-dev/test-project)
+4. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#9](https://github.com/is-a-dev/is-a-dev.github.io/pull/9) in [is-a-dev/is-a-dev.github.io](https://github.com/is-a-dev/is-a-dev.github.io)
+5. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/is-a-dev.github.io](https://github.com/WilliamDavidHarrison/is-a-dev.github.io) from [is-a-dev/is-a-dev.github.io](https://github.com/is-a-dev/is-a-dev.github.io)
+6. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#31](https://github.com/Facinorous-420/dick/pull/31) in [Facinorous-420/dick](https://github.com/Facinorous-420/dick)
+7. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#4321](https://github.com/is-a-dev/register/pull/4321) in [is-a-dev/register](https://github.com/is-a-dev/register)
+8. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4321](https://github.com/is-a-dev/register/pull/4321#pullrequestreview-1233330585) in [is-a-dev/register](https://github.com/is-a-dev/register)
+9. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4320](https://github.com/is-a-dev/register/pull/4320#pullrequestreview-1233320515) in [is-a-dev/register](https://github.com/is-a-dev/register)
+10. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#3940](https://github.com/is-a-dev/register/pull/3940) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 31st December, 2022 @ 08:43am UTC
+###### Last Updated: 31st December, 2022 @ 08:50am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
