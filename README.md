@@ -65,18 +65,18 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [refined-github/refined-github](https://github.com/refined-github/refined-github)
-2. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#27](https://github.com/sindresorhus/sindresorhus/pull/27) in [sindresorhus/sindresorhus](https://github.com/sindresorhus/sindresorhus)
-3. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/sindresorhus](https://github.com/WilliamDavidHarrison/sindresorhus) from [sindresorhus/sindresorhus](https://github.com/sindresorhus/sindresorhus)
-4. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4348](https://github.com/is-a-dev/register/pull/4348#pullrequestreview-1233461917) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4331](https://github.com/is-a-dev/register/pull/4331#issuecomment-1368553863) in [is-a-dev/register](https://github.com/is-a-dev/register)
-6. ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) Closed issue [#638](https://github.com/blueedgetechno/win11React/issues/638) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-7. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#638](https://github.com/blueedgetechno/win11React/issues/638#issuecomment-1368553780) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-8. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4342](https://github.com/is-a-dev/register/pull/4342#issuecomment-1368553355) in [is-a-dev/register](https://github.com/is-a-dev/register)
-9. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#4129](https://github.com/is-a-dev/register/pull/4129) in [is-a-dev/register](https://github.com/is-a-dev/register)
-10. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4129](https://github.com/is-a-dev/register/pull/4129#issuecomment-1368422669) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
+2. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [refined-github/refined-github](https://github.com/refined-github/refined-github)
+3. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#27](https://github.com/sindresorhus/sindresorhus/pull/27) in [sindresorhus/sindresorhus](https://github.com/sindresorhus/sindresorhus)
+4. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/sindresorhus](https://github.com/WilliamDavidHarrison/sindresorhus) from [sindresorhus/sindresorhus](https://github.com/sindresorhus/sindresorhus)
+5. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4348](https://github.com/is-a-dev/register/pull/4348#pullrequestreview-1233461917) in [is-a-dev/register](https://github.com/is-a-dev/register)
+6. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4331](https://github.com/is-a-dev/register/pull/4331#issuecomment-1368553863) in [is-a-dev/register](https://github.com/is-a-dev/register)
+7. ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) Closed issue [#638](https://github.com/blueedgetechno/win11React/issues/638) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+8. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#638](https://github.com/blueedgetechno/win11React/issues/638#issuecomment-1368553780) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+9. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4342](https://github.com/is-a-dev/register/pull/4342#issuecomment-1368553355) in [is-a-dev/register](https://github.com/is-a-dev/register)
+10. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#4129](https://github.com/is-a-dev/register/pull/4129) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 1st January, 2023 @ 22:57pm UTC
+###### Last Updated: 1st January, 2023 @ 23:12pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
