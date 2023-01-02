@@ -65,18 +65,18 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment)
-2. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4350](https://github.com/is-a-dev/register/pull/4350#issuecomment-1368617338) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#4350](https://github.com/is-a-dev/register/pull/4350) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. ![added_member](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/People.svg) Became collaborator on [William-Harrison/is-a-dev](https://github.com/William-Harrison/is-a-dev)
-5. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4337](https://github.com/is-a-dev/register/pull/4337#issuecomment-1368596553) in [is-a-dev/register](https://github.com/is-a-dev/register)
-6. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4337](https://github.com/is-a-dev/register/pull/4337#issuecomment-1368596087) in [is-a-dev/register](https://github.com/is-a-dev/register)
-7. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#4349](https://github.com/is-a-dev/register/pull/4349) in [is-a-dev/register](https://github.com/is-a-dev/register)
-8. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
-9. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [refined-github/refined-github](https://github.com/refined-github/refined-github)
-10. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#27](https://github.com/sindresorhus/sindresorhus/pull/27) in [sindresorhus/sindresorhus](https://github.com/sindresorhus/sindresorhus)
+1. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [actions/labeler](https://github.com/actions/labeler)
+2. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment)
+3. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4350](https://github.com/is-a-dev/register/pull/4350#issuecomment-1368617338) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#4350](https://github.com/is-a-dev/register/pull/4350) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. ![added_member](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/People.svg) Became collaborator on [William-Harrison/is-a-dev](https://github.com/William-Harrison/is-a-dev)
+6. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4337](https://github.com/is-a-dev/register/pull/4337#issuecomment-1368596553) in [is-a-dev/register](https://github.com/is-a-dev/register)
+7. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4337](https://github.com/is-a-dev/register/pull/4337#issuecomment-1368596087) in [is-a-dev/register](https://github.com/is-a-dev/register)
+8. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#4349](https://github.com/is-a-dev/register/pull/4349) in [is-a-dev/register](https://github.com/is-a-dev/register)
+9. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
+10. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [refined-github/refined-github](https://github.com/refined-github/refined-github)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 2nd January, 2023 @ 02:57am UTC
+###### Last Updated: 2nd January, 2023 @ 03:13am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
