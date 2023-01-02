@@ -65,18 +65,18 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4337](https://github.com/is-a-dev/register/pull/4337#issuecomment-1368596553) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4337](https://github.com/is-a-dev/register/pull/4337#issuecomment-1368596087) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#4349](https://github.com/is-a-dev/register/pull/4349) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
-5. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [refined-github/refined-github](https://github.com/refined-github/refined-github)
-6. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#27](https://github.com/sindresorhus/sindresorhus/pull/27) in [sindresorhus/sindresorhus](https://github.com/sindresorhus/sindresorhus)
-7. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/sindresorhus](https://github.com/WilliamDavidHarrison/sindresorhus) from [sindresorhus/sindresorhus](https://github.com/sindresorhus/sindresorhus)
-8. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4348](https://github.com/is-a-dev/register/pull/4348#pullrequestreview-1233461917) in [is-a-dev/register](https://github.com/is-a-dev/register)
-9. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4331](https://github.com/is-a-dev/register/pull/4331#issuecomment-1368553863) in [is-a-dev/register](https://github.com/is-a-dev/register)
-10. ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) Closed issue [#638](https://github.com/blueedgetechno/win11React/issues/638) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+1. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#4350](https://github.com/is-a-dev/register/pull/4350) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. ![added_member](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/People.svg) Became collaborator on [William-Harrison/is-a-dev](https://github.com/William-Harrison/is-a-dev)
+3. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4337](https://github.com/is-a-dev/register/pull/4337#issuecomment-1368596553) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4337](https://github.com/is-a-dev/register/pull/4337#issuecomment-1368596087) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#4349](https://github.com/is-a-dev/register/pull/4349) in [is-a-dev/register](https://github.com/is-a-dev/register)
+6. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
+7. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [refined-github/refined-github](https://github.com/refined-github/refined-github)
+8. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#27](https://github.com/sindresorhus/sindresorhus/pull/27) in [sindresorhus/sindresorhus](https://github.com/sindresorhus/sindresorhus)
+9. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/sindresorhus](https://github.com/WilliamDavidHarrison/sindresorhus) from [sindresorhus/sindresorhus](https://github.com/sindresorhus/sindresorhus)
+10. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4348](https://github.com/is-a-dev/register/pull/4348#pullrequestreview-1233461917) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 2nd January, 2023 @ 01:33am UTC
+###### Last Updated: 2nd January, 2023 @ 02:29am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
