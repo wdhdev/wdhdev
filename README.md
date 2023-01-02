@@ -36,8 +36,6 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 
   [![is-a-good.dev](https://img.shields.io/badge/is--a--good.dev-Helper-222222?style=for-the-badge)](https://wdh.gg/is-a-good-dev)
 
-  [![CMShark](https://img.shields.io/badge/CMShark-Alpha%20%26%20Beta%20Tester-222222?style=for-the-badge)](https://wdh.gg/cmshark)
-
 </details>
 
 ---
