@@ -20,7 +20,7 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
   <summary>🛠️ Currently Working On</summary>
   <br>
 
-  [![William's Utilities](https://img.shields.io/badge/-William's%20Utilities-333333?style=for-the-badge)](https://wdh.gg/wu)
+  [![Easy Script](https://img.shields.io/badge/-Easy%20Script-333333?style=for-the-badge)](https://wdh.gg/easyscript)
 
 </details>
 
