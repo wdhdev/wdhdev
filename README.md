@@ -63,18 +63,18 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) Released [v1.1.0](https://github.com/EasyScriptJS/EasyScript/releases/tag/v1.1.0) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
-2. ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) Closed issue [#12](https://github.com/EasyScriptJS/EasyScript/issues/12) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
-3. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#17](https://github.com/EasyScriptJS/EasyScript/pull/17) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
-4. ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) Closed issue [#11](https://github.com/EasyScriptJS/EasyScript/issues/11) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
-5. ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) Closed issue [#11](https://github.com/EasyScriptJS/EasyScript/issues/11) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
-6. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#11](https://github.com/EasyScriptJS/EasyScript/issues/11#issuecomment-1374406917) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
-7. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#4436](https://github.com/is-a-dev/register/pull/4436) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-8. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4436](https://github.com/is-a-dev/register/pull/4436#pullrequestreview-1239633450) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-9. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#4429](https://github.com/is-a-dev/register/pull/4429) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-10. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4429](https://github.com/is-a-dev/register/pull/4429#pullrequestreview-1239612213) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+1. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#64](https://github.com/open-domains/register/pull/64#pullrequestreview-1239639515) in [open-domains/register](https://github.com/open-domains/register)<br>
+2. ![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) Released [v1.1.1](https://github.com/EasyScriptJS/EasyScript/releases/tag/v1.1.1) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+3. ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) Closed issue [#19](https://github.com/EasyScriptJS/EasyScript/issues/19) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+4. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#20](https://github.com/EasyScriptJS/EasyScript/pull/20) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+5. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#20](https://github.com/EasyScriptJS/EasyScript/pull/20) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+6. ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) Opened issue [#19](https://github.com/EasyScriptJS/EasyScript/issues/19) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+7. ![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) Released [v1.1.0](https://github.com/EasyScriptJS/EasyScript/releases/tag/v1.1.0) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+8. ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) Closed issue [#12](https://github.com/EasyScriptJS/EasyScript/issues/12) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+9. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#17](https://github.com/EasyScriptJS/EasyScript/pull/17) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+10. ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) Closed issue [#11](https://github.com/EasyScriptJS/EasyScript/issues/11) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 7th January, 2023 @ 07:58am UTC
+###### Last Updated: 7th January, 2023 @ 08:18am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
