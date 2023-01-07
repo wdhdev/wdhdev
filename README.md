@@ -63,18 +63,18 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) Closed issue [#63](https://github.com/open-domains/register/issues/63) in [open-domains/register](https://github.com/open-domains/register)<br>
-2. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#7908](https://github.com/js-org/js.org/pull/7908) in [js-org/js.org](https://github.com/js-org/js.org)<br>
-3. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#1](https://github.com/EasyScriptJS/py-tools/pull/1) in [EasyScriptJS/py-tools](https://github.com/EasyScriptJS/py-tools)<br>
-4. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [EasyScriptJS/py-tools](https://github.com/EasyScriptJS/py-tools)<br>
-5. ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) Created new repository [EasyScriptJS/py-tools](https://github.com/EasyScriptJS/py-tools)<br>
-6. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4436](https://github.com/is-a-dev/register/pull/4436#discussion_r1063948766) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-7. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4436](https://github.com/is-a-dev/register/pull/4436#discussion_r1063945146) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-8. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4436](https://github.com/is-a-dev/register/pull/4436#pullrequestreview-1239598069) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-9. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4436](https://github.com/is-a-dev/register/pull/4436#discussion_r1063945117) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-10. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#1](https://github.com/s3mant/vexatious-site/pull/1) in [s3mant/vexatious-site](https://github.com/s3mant/vexatious-site)<br>
+1. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#2](https://github.com/EasyScriptJS/py-tools/pull/2) in [EasyScriptJS/py-tools](https://github.com/EasyScriptJS/py-tools)<br>
+2. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#2](https://github.com/EasyScriptJS/py-tools/pull/2) in [EasyScriptJS/py-tools](https://github.com/EasyScriptJS/py-tools)<br>
+3. ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) Closed issue [#63](https://github.com/open-domains/register/issues/63) in [open-domains/register](https://github.com/open-domains/register)<br>
+4. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#7908](https://github.com/js-org/js.org/pull/7908) in [js-org/js.org](https://github.com/js-org/js.org)<br>
+5. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#1](https://github.com/EasyScriptJS/py-tools/pull/1) in [EasyScriptJS/py-tools](https://github.com/EasyScriptJS/py-tools)<br>
+6. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [EasyScriptJS/py-tools](https://github.com/EasyScriptJS/py-tools)<br>
+7. ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) Created new repository [EasyScriptJS/py-tools](https://github.com/EasyScriptJS/py-tools)<br>
+8. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4436](https://github.com/is-a-dev/register/pull/4436#discussion_r1063948766) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+9. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4436](https://github.com/is-a-dev/register/pull/4436#discussion_r1063945146) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+10. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4436](https://github.com/is-a-dev/register/pull/4436#pullrequestreview-1239598069) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 7th January, 2023 @ 05:43am UTC
+###### Last Updated: 7th January, 2023 @ 05:50am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
