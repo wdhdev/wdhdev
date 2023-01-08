@@ -63,18 +63,18 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#4213](https://github.com/is-a-dev/register/pull/4213) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-2. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4213](https://github.com/is-a-dev/register/pull/4213#pullrequestreview-1239712799) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-3. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4452](https://github.com/is-a-dev/register/pull/4452#pullrequestreview-1239712678) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-4. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#4449](https://github.com/is-a-dev/register/pull/4449) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-5. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4449](https://github.com/is-a-dev/register/pull/4449#pullrequestreview-1239712614) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-6. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4453](https://github.com/is-a-dev/register/pull/4453#pullrequestreview-1239712579) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-7. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#4440](https://github.com/is-a-dev/register/pull/4440) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-8. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4440](https://github.com/is-a-dev/register/pull/4440#pullrequestreview-1239712537) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-9. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4454](https://github.com/is-a-dev/register/pull/4454#pullrequestreview-1239712499) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-10. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#315](https://github.com/is-a-good-dev/register/pull/315#discussion_r1064056257) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
+1. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [EasyScriptJS/images](https://github.com/EasyScriptJS/images)<br>
+2. ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) Created new repository [EasyScriptJS/py-tools](https://github.com/EasyScriptJS/py-tools)<br>
+3. ![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) Released [v1.0.0](https://github.com/EasyScriptJS/py-tools/releases/tag/v1.0.0) in [EasyScriptJS/py-tools](https://github.com/EasyScriptJS/py-tools)<br>
+4. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#3](https://github.com/EasyScriptJS/py-tools/pull/3) in [EasyScriptJS/py-tools](https://github.com/EasyScriptJS/py-tools)<br>
+5. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4440](https://github.com/is-a-dev/register/pull/4440#issuecomment-1374673465) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+6. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs)<br>
+7. ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) Created new repository [EasyScriptJS/docs](https://github.com/EasyScriptJS/docs)<br>
+8. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#4213](https://github.com/is-a-dev/register/pull/4213) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+9. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4213](https://github.com/is-a-dev/register/pull/4213#pullrequestreview-1239712799) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+10. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4452](https://github.com/is-a-dev/register/pull/4452#pullrequestreview-1239712678) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 7th January, 2023 @ 23:59pm UTC
+###### Last Updated: 8th January, 2023 @ 01:35am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
