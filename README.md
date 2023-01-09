@@ -63,18 +63,18 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4457](https://github.com/is-a-dev/register/pull/4457#pullrequestreview-1239909446) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-2. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#2](https://github.com/CybrDev/IP-Logger/pull/2) in [CybrDev/IP-Logger](https://github.com/CybrDev/IP-Logger)<br>
-3. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#4466](https://github.com/is-a-dev/register/pull/4466) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-4. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4466](https://github.com/is-a-dev/register/pull/4466#pullrequestreview-1239887403) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-5. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#4465](https://github.com/is-a-dev/register/pull/4465) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-6. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4465](https://github.com/is-a-dev/register/pull/4465#pullrequestreview-1239886549) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-7. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4465](https://github.com/is-a-dev/register/pull/4465#pullrequestreview-1239886161) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-8. ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) Created new repository [WilliamDavidHarrison/is-a-dev-vercel-test](https://github.com/WilliamDavidHarrison/is-a-dev-vercel-test)<br>
-9. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [github/renaming](https://github.com/github/renaming)<br>
-10. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#316](https://github.com/is-a-good-dev/register/pull/316#issuecomment-1374974987) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
+1. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#26](https://github.com/EasyScriptJS/EasyScript/pull/26) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+2. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4457](https://github.com/is-a-dev/register/pull/4457#pullrequestreview-1239909446) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+3. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#2](https://github.com/CybrDev/IP-Logger/pull/2) in [CybrDev/IP-Logger](https://github.com/CybrDev/IP-Logger)<br>
+4. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#4466](https://github.com/is-a-dev/register/pull/4466) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+5. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4466](https://github.com/is-a-dev/register/pull/4466#pullrequestreview-1239887403) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+6. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#4465](https://github.com/is-a-dev/register/pull/4465) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+7. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4465](https://github.com/is-a-dev/register/pull/4465#pullrequestreview-1239886549) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+8. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4465](https://github.com/is-a-dev/register/pull/4465#pullrequestreview-1239886161) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+9. ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) Created new repository [WilliamDavidHarrison/is-a-dev-vercel-test](https://github.com/WilliamDavidHarrison/is-a-dev-vercel-test)<br>
+10. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [github/renaming](https://github.com/github/renaming)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 9th January, 2023 @ 05:30am UTC
+###### Last Updated: 9th January, 2023 @ 05:37am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
