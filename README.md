@@ -63,18 +63,18 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#71](https://github.com/open-domains/register/pull/71#pullrequestreview-1243732354) in [open-domains/register](https://github.com/open-domains/register)<br>
-2. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#71](https://github.com/open-domains/register/pull/71#issuecomment-1378601493) in [open-domains/register](https://github.com/open-domains/register)<br>
-3. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#4490](https://github.com/is-a-dev/register/pull/4490) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-4. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4490](https://github.com/is-a-dev/register/pull/4490#pullrequestreview-1243370931) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-5. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [Cherry/placeholders.dev](https://github.com/Cherry/placeholders.dev)<br>
-6. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [cloudflare/templates](https://github.com/cloudflare/templates)<br>
-7. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/placeholders.dev](https://github.com/WilliamDavidHarrison/placeholders.dev) from [Cherry/placeholders.dev](https://github.com/Cherry/placeholders.dev)<br>
-8. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/placeholders.dev](https://github.com/WilliamDavidHarrison/placeholders.dev) from [Cherry/placeholders.dev](https://github.com/Cherry/placeholders.dev)<br>
-9. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [cloudflare/wrangler](https://github.com/cloudflare/wrangler)<br>
-10. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [cloudflare/securitytxt-worker](https://github.com/cloudflare/securitytxt-worker)<br>
+1. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4492](https://github.com/is-a-dev/register/pull/4492#pullrequestreview-1244763204) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+2. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#4491](https://github.com/is-a-dev/register/pull/4491) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+3. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4491](https://github.com/is-a-dev/register/pull/4491#pullrequestreview-1244762772) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+4. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#71](https://github.com/open-domains/register/pull/71#pullrequestreview-1243732354) in [open-domains/register](https://github.com/open-domains/register)<br>
+5. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#71](https://github.com/open-domains/register/pull/71#issuecomment-1378601493) in [open-domains/register](https://github.com/open-domains/register)<br>
+6. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#4490](https://github.com/is-a-dev/register/pull/4490) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+7. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4490](https://github.com/is-a-dev/register/pull/4490#pullrequestreview-1243370931) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+8. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [Cherry/placeholders.dev](https://github.com/Cherry/placeholders.dev)<br>
+9. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [cloudflare/templates](https://github.com/cloudflare/templates)<br>
+10. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/placeholders.dev](https://github.com/WilliamDavidHarrison/placeholders.dev) from [Cherry/placeholders.dev](https://github.com/Cherry/placeholders.dev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 11th January, 2023 @ 23:14pm UTC
+###### Last Updated: 11th January, 2023 @ 23:26pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
