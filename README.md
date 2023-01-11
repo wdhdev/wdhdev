@@ -63,18 +63,18 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#4490](https://github.com/is-a-dev/register/pull/4490) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-2. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4490](https://github.com/is-a-dev/register/pull/4490#pullrequestreview-1243370931) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-3. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [Cherry/placeholders.dev](https://github.com/Cherry/placeholders.dev)<br>
-4. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [cloudflare/templates](https://github.com/cloudflare/templates)<br>
-5. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/placeholders.dev](https://github.com/WilliamDavidHarrison/placeholders.dev) from [Cherry/placeholders.dev](https://github.com/Cherry/placeholders.dev)<br>
-6. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/placeholders.dev](https://github.com/WilliamDavidHarrison/placeholders.dev) from [Cherry/placeholders.dev](https://github.com/Cherry/placeholders.dev)<br>
-7. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [cloudflare/wrangler](https://github.com/cloudflare/wrangler)<br>
-8. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [cloudflare/securitytxt-worker](https://github.com/cloudflare/securitytxt-worker)<br>
-9. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [obsproject/obs-studio](https://github.com/obsproject/obs-studio)<br>
-10. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#106706](https://github.com/rust-lang/rust/pull/106706) in [rust-lang/rust](https://github.com/rust-lang/rust)<br>
+1. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#71](https://github.com/open-domains/register/pull/71#pullrequestreview-1243732354) in [open-domains/register](https://github.com/open-domains/register)<br>
+2. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#71](https://github.com/open-domains/register/pull/71#issuecomment-1378601493) in [open-domains/register](https://github.com/open-domains/register)<br>
+3. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#4490](https://github.com/is-a-dev/register/pull/4490) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+4. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4490](https://github.com/is-a-dev/register/pull/4490#pullrequestreview-1243370931) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+5. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [Cherry/placeholders.dev](https://github.com/Cherry/placeholders.dev)<br>
+6. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [cloudflare/templates](https://github.com/cloudflare/templates)<br>
+7. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/placeholders.dev](https://github.com/WilliamDavidHarrison/placeholders.dev) from [Cherry/placeholders.dev](https://github.com/Cherry/placeholders.dev)<br>
+8. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/placeholders.dev](https://github.com/WilliamDavidHarrison/placeholders.dev) from [Cherry/placeholders.dev](https://github.com/Cherry/placeholders.dev)<br>
+9. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [cloudflare/wrangler](https://github.com/cloudflare/wrangler)<br>
+10. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [cloudflare/securitytxt-worker](https://github.com/cloudflare/securitytxt-worker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 11th January, 2023 @ 11:11am UTC
+###### Last Updated: 11th January, 2023 @ 11:23am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
