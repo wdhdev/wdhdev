@@ -63,18 +63,18 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [cloudflare/templates](https://github.com/cloudflare/templates)<br>
-2. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/placeholders.dev](https://github.com/WilliamDavidHarrison/placeholders.dev) from [Cherry/placeholders.dev](https://github.com/Cherry/placeholders.dev)<br>
+1. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [Cherry/placeholders.dev](https://github.com/Cherry/placeholders.dev)<br>
+2. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [cloudflare/templates](https://github.com/cloudflare/templates)<br>
 3. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/placeholders.dev](https://github.com/WilliamDavidHarrison/placeholders.dev) from [Cherry/placeholders.dev](https://github.com/Cherry/placeholders.dev)<br>
-4. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [cloudflare/wrangler](https://github.com/cloudflare/wrangler)<br>
-5. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [cloudflare/securitytxt-worker](https://github.com/cloudflare/securitytxt-worker)<br>
-6. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [obsproject/obs-studio](https://github.com/obsproject/obs-studio)<br>
-7. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#106706](https://github.com/rust-lang/rust/pull/106706) in [rust-lang/rust](https://github.com/rust-lang/rust)<br>
-8. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#106706](https://github.com/rust-lang/rust/pull/106706) in [rust-lang/rust](https://github.com/rust-lang/rust)<br>
-9. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/rust](https://github.com/WilliamDavidHarrison/rust) from [rust-lang/rust](https://github.com/rust-lang/rust)<br>
-10. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [rust-lang/rust](https://github.com/rust-lang/rust)<br>
+4. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/placeholders.dev](https://github.com/WilliamDavidHarrison/placeholders.dev) from [Cherry/placeholders.dev](https://github.com/Cherry/placeholders.dev)<br>
+5. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [cloudflare/wrangler](https://github.com/cloudflare/wrangler)<br>
+6. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [cloudflare/securitytxt-worker](https://github.com/cloudflare/securitytxt-worker)<br>
+7. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [obsproject/obs-studio](https://github.com/obsproject/obs-studio)<br>
+8. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#106706](https://github.com/rust-lang/rust/pull/106706) in [rust-lang/rust](https://github.com/rust-lang/rust)<br>
+9. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#106706](https://github.com/rust-lang/rust/pull/106706) in [rust-lang/rust](https://github.com/rust-lang/rust)<br>
+10. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/rust](https://github.com/WilliamDavidHarrison/rust) from [rust-lang/rust](https://github.com/rust-lang/rust)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 11th January, 2023 @ 04:50am UTC
+###### Last Updated: 11th January, 2023 @ 04:57am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
