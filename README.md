@@ -63,18 +63,18 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4489](https://github.com/is-a-dev/register/pull/4489#pullrequestreview-1243261424) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-2. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#4488](https://github.com/is-a-dev/register/pull/4488) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-3. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4488](https://github.com/is-a-dev/register/pull/4488#pullrequestreview-1243260502) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-4. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#4440](https://github.com/is-a-dev/register/pull/4440#issuecomment-1378191493) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-5. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#4487](https://github.com/is-a-dev/register/pull/4487) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-6. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4487](https://github.com/is-a-dev/register/pull/4487#pullrequestreview-1243158256) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-7. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#4486](https://github.com/is-a-dev/register/pull/4486) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-8. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4486](https://github.com/is-a-dev/register/pull/4486#pullrequestreview-1243157421) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-9. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#4485](https://github.com/is-a-dev/register/pull/4485) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-10. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4485](https://github.com/is-a-dev/register/pull/4485#pullrequestreview-1243156425) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+1. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [cloudflare/securitytxt-worker](https://github.com/cloudflare/securitytxt-worker)<br>
+2. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [obsproject/obs-studio](https://github.com/obsproject/obs-studio)<br>
+3. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#106706](https://github.com/rust-lang/rust/pull/106706) in [rust-lang/rust](https://github.com/rust-lang/rust)<br>
+4. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#106706](https://github.com/rust-lang/rust/pull/106706) in [rust-lang/rust](https://github.com/rust-lang/rust)<br>
+5. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/rust](https://github.com/WilliamDavidHarrison/rust) from [rust-lang/rust](https://github.com/rust-lang/rust)<br>
+6. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [rust-lang/rust](https://github.com/rust-lang/rust)<br>
+7. ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) Opened issue [#29](https://github.com/EasyScriptJS/EasyScript/issues/29) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+8. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4489](https://github.com/is-a-dev/register/pull/4489#pullrequestreview-1243261424) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+9. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#4488](https://github.com/is-a-dev/register/pull/4488) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+10. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4488](https://github.com/is-a-dev/register/pull/4488#pullrequestreview-1243260502) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 11th January, 2023 @ 04:15am UTC
+###### Last Updated: 11th January, 2023 @ 04:32am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
