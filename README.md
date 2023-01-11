@@ -63,18 +63,18 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [cloudflare/securitytxt-worker](https://github.com/cloudflare/securitytxt-worker)<br>
-2. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [obsproject/obs-studio](https://github.com/obsproject/obs-studio)<br>
-3. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#106706](https://github.com/rust-lang/rust/pull/106706) in [rust-lang/rust](https://github.com/rust-lang/rust)<br>
-4. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#106706](https://github.com/rust-lang/rust/pull/106706) in [rust-lang/rust](https://github.com/rust-lang/rust)<br>
-5. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/rust](https://github.com/WilliamDavidHarrison/rust) from [rust-lang/rust](https://github.com/rust-lang/rust)<br>
-6. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [rust-lang/rust](https://github.com/rust-lang/rust)<br>
-7. ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) Opened issue [#29](https://github.com/EasyScriptJS/EasyScript/issues/29) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
-8. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4489](https://github.com/is-a-dev/register/pull/4489#pullrequestreview-1243261424) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-9. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#4488](https://github.com/is-a-dev/register/pull/4488) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-10. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4488](https://github.com/is-a-dev/register/pull/4488#pullrequestreview-1243260502) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+1. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/placeholders.dev](https://github.com/WilliamDavidHarrison/placeholders.dev) from [Cherry/placeholders.dev](https://github.com/Cherry/placeholders.dev)<br>
+2. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [cloudflare/wrangler](https://github.com/cloudflare/wrangler)<br>
+3. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [cloudflare/securitytxt-worker](https://github.com/cloudflare/securitytxt-worker)<br>
+4. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [obsproject/obs-studio](https://github.com/obsproject/obs-studio)<br>
+5. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#106706](https://github.com/rust-lang/rust/pull/106706) in [rust-lang/rust](https://github.com/rust-lang/rust)<br>
+6. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#106706](https://github.com/rust-lang/rust/pull/106706) in [rust-lang/rust](https://github.com/rust-lang/rust)<br>
+7. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/rust](https://github.com/WilliamDavidHarrison/rust) from [rust-lang/rust](https://github.com/rust-lang/rust)<br>
+8. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [rust-lang/rust](https://github.com/rust-lang/rust)<br>
+9. ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) Opened issue [#29](https://github.com/EasyScriptJS/EasyScript/issues/29) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+10. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4489](https://github.com/is-a-dev/register/pull/4489#pullrequestreview-1243261424) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 11th January, 2023 @ 04:32am UTC
+###### Last Updated: 11th January, 2023 @ 04:43am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
