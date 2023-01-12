@@ -63,18 +63,18 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [mrdoob/three.js](https://github.com/mrdoob/three.js)<br>
-2. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4500](https://github.com/is-a-dev/register/pull/4500#pullrequestreview-1244899876) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-3. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#2](https://github.com/s3mant/vexatious-site/issues/2#issuecomment-1379749606) in [s3mant/vexatious-site](https://github.com/s3mant/vexatious-site)<br>
-4. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#2](https://github.com/s3mant/vexatious-site/issues/2#issuecomment-1379748992) in [s3mant/vexatious-site](https://github.com/s3mant/vexatious-site)<br>
-5. ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) Opened issue [#2](https://github.com/s3mant/vexatious-site/issues/2) in [s3mant/vexatious-site](https://github.com/s3mant/vexatious-site)<br>
-6. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [WilliamDavidHarrison/discord-profile-card](https://github.com/WilliamDavidHarrison/discord-profile-card)<br>
-7. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/discord-profile-card](https://github.com/WilliamDavidHarrison/discord-profile-card) from [Domin-MND/profile-card](https://github.com/Domin-MND/profile-card)<br>
-8. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [Domin-MND/profile-card](https://github.com/Domin-MND/profile-card)<br>
-9. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#4499](https://github.com/is-a-dev/register/pull/4499) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-10. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4499](https://github.com/is-a-dev/register/pull/4499#pullrequestreview-1244853274) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+1. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#30](https://github.com/EasyScriptJS/EasyScript/pull/30) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+2. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#30](https://github.com/EasyScriptJS/EasyScript/pull/30#pullrequestreview-1245097398) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+3. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [mrdoob/three.js](https://github.com/mrdoob/three.js)<br>
+4. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4500](https://github.com/is-a-dev/register/pull/4500#pullrequestreview-1244899876) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+5. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#2](https://github.com/s3mant/vexatious-site/issues/2#issuecomment-1379749606) in [s3mant/vexatious-site](https://github.com/s3mant/vexatious-site)<br>
+6. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#2](https://github.com/s3mant/vexatious-site/issues/2#issuecomment-1379748992) in [s3mant/vexatious-site](https://github.com/s3mant/vexatious-site)<br>
+7. ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) Opened issue [#2](https://github.com/s3mant/vexatious-site/issues/2) in [s3mant/vexatious-site](https://github.com/s3mant/vexatious-site)<br>
+8. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [WilliamDavidHarrison/discord-profile-card](https://github.com/WilliamDavidHarrison/discord-profile-card)<br>
+9. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/discord-profile-card](https://github.com/WilliamDavidHarrison/discord-profile-card) from [Domin-MND/profile-card](https://github.com/Domin-MND/profile-card)<br>
+10. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [Domin-MND/profile-card](https://github.com/Domin-MND/profile-card)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 12th January, 2023 @ 07:37am UTC
+###### Last Updated: 12th January, 2023 @ 07:44am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
