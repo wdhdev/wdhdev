@@ -63,18 +63,18 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#31](https://github.com/EasyScriptJS/EasyScript/pull/31) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
-2. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#30](https://github.com/EasyScriptJS/EasyScript/pull/30) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
-3. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#30](https://github.com/EasyScriptJS/EasyScript/pull/30#pullrequestreview-1245097398) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
-4. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [mrdoob/three.js](https://github.com/mrdoob/three.js)<br>
-5. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4500](https://github.com/is-a-dev/register/pull/4500#pullrequestreview-1244899876) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-6. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#2](https://github.com/s3mant/vexatious-site/issues/2#issuecomment-1379749606) in [s3mant/vexatious-site](https://github.com/s3mant/vexatious-site)<br>
-7. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#2](https://github.com/s3mant/vexatious-site/issues/2#issuecomment-1379748992) in [s3mant/vexatious-site](https://github.com/s3mant/vexatious-site)<br>
-8. ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) Opened issue [#2](https://github.com/s3mant/vexatious-site/issues/2) in [s3mant/vexatious-site](https://github.com/s3mant/vexatious-site)<br>
-9. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [WilliamDavidHarrison/discord-profile-card](https://github.com/WilliamDavidHarrison/discord-profile-card)<br>
-10. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/discord-profile-card](https://github.com/WilliamDavidHarrison/discord-profile-card) from [Domin-MND/profile-card](https://github.com/Domin-MND/profile-card)<br>
+1. ![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) Released [v1.1.5](https://github.com/EasyScriptJS/EasyScript/releases/tag/v1.1.5) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+2. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#31](https://github.com/EasyScriptJS/EasyScript/pull/31) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+3. ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) Closed issue [#29](https://github.com/EasyScriptJS/EasyScript/issues/29) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+4. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#29](https://github.com/EasyScriptJS/EasyScript/issues/29#issuecomment-1379935695) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+5. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#31](https://github.com/EasyScriptJS/EasyScript/pull/31) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+6. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#30](https://github.com/EasyScriptJS/EasyScript/pull/30) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+7. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#30](https://github.com/EasyScriptJS/EasyScript/pull/30#pullrequestreview-1245097398) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+8. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [mrdoob/three.js](https://github.com/mrdoob/three.js)<br>
+9. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4500](https://github.com/is-a-dev/register/pull/4500#pullrequestreview-1244899876) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+10. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#2](https://github.com/s3mant/vexatious-site/issues/2#issuecomment-1379749606) in [s3mant/vexatious-site](https://github.com/s3mant/vexatious-site)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 12th January, 2023 @ 07:51am UTC
+###### Last Updated: 12th January, 2023 @ 07:58am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
