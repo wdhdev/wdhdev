@@ -63,18 +63,18 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [EasyScriptJS/docs](https://github.com/EasyScriptJS/docs)<br>
-2. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server)<br>
-3. ![added_member](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/People.svg) Became collaborator on [EasyScriptJS/docs](https://github.com/EasyScriptJS/docs)<br>
-4. ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) Created new repository [EasyScriptJS/docs](https://github.com/EasyScriptJS/docs)<br>
-5. ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) Opened issue [#38](https://github.com/EasyScriptJS/EasyScript/issues/38) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
-6. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [jessesquires/gh-workflows](https://github.com/jessesquires/gh-workflows)<br>
-7. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4513](https://github.com/is-a-dev/register/pull/4513#pullrequestreview-1247162030) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-8. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#4511](https://github.com/is-a-dev/register/pull/4511) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-9. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4511](https://github.com/is-a-dev/register/pull/4511#pullrequestreview-1247159429) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-10. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#35](https://github.com/EasyScriptJS/EasyScript/issues/35#issuecomment-1381502460) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+1. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#1](https://github.com/EasyScriptJS/EasyScriptJS.github.io/pull/1) in [EasyScriptJS/EasyScriptJS.github.io](https://github.com/EasyScriptJS/EasyScriptJS.github.io)<br>
+2. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#1](https://github.com/EasyScriptJS/EasyScriptJS.github.io/pull/1) in [EasyScriptJS/EasyScriptJS.github.io](https://github.com/EasyScriptJS/EasyScriptJS.github.io)<br>
+3. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [EasyScriptJS/docs](https://github.com/EasyScriptJS/docs)<br>
+4. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server)<br>
+5. ![added_member](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/People.svg) Became collaborator on [EasyScriptJS/docs](https://github.com/EasyScriptJS/docs)<br>
+6. ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) Created new repository [EasyScriptJS/docs](https://github.com/EasyScriptJS/docs)<br>
+7. ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) Opened issue [#38](https://github.com/EasyScriptJS/EasyScript/issues/38) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+8. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [jessesquires/gh-workflows](https://github.com/jessesquires/gh-workflows)<br>
+9. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#4513](https://github.com/is-a-dev/register/pull/4513#pullrequestreview-1247162030) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+10. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#4511](https://github.com/is-a-dev/register/pull/4511) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 13th January, 2023 @ 10:40am UTC
+###### Last Updated: 13th January, 2023 @ 10:47am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
