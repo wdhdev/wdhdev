@@ -63,18 +63,18 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4544](https://github.com/is-a-dev/register/pull/4544#pullrequestreview-1249874614) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-2. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#44](https://github.com/EasyScriptJS/EasyScript/pull/44#discussion_r1070931077) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
-3. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#44](https://github.com/EasyScriptJS/EasyScript/pull/44#discussion_r1070930296) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
-4. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#44](https://github.com/EasyScriptJS/EasyScript/pull/44#pullrequestreview-1249698602) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
-5. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#44](https://github.com/EasyScriptJS/EasyScript/pull/44#discussion_r1070930927) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
-6. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#1875](https://github.com/Pycord-Development/pycord/pull/1875) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)<br>
-7. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/pycord](https://github.com/WilliamDavidHarrison/pycord) from [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)<br>
-8. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#1](https://github.com/avalynndev/EasyScript/pull/1) in [avalynndev/EasyScript](https://github.com/avalynndev/EasyScript)<br>
-9. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#1](https://github.com/avalynndev/EasyScript/pull/1) in [avalynndev/EasyScript](https://github.com/avalynndev/EasyScript)<br>
-10. ![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) Released [v1.2.0](https://github.com/EasyScriptJS/EasyScript/releases/tag/v1.2.0) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+1. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#4544](https://github.com/is-a-dev/register/pull/4544) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+2. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#4544](https://github.com/is-a-dev/register/pull/4544#pullrequestreview-1249874614) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+3. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#44](https://github.com/EasyScriptJS/EasyScript/pull/44#discussion_r1070931077) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+4. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#44](https://github.com/EasyScriptJS/EasyScript/pull/44#discussion_r1070930296) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+5. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#44](https://github.com/EasyScriptJS/EasyScript/pull/44#pullrequestreview-1249698602) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+6. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#44](https://github.com/EasyScriptJS/EasyScript/pull/44#discussion_r1070930927) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+7. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#1875](https://github.com/Pycord-Development/pycord/pull/1875) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)<br>
+8. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/pycord](https://github.com/WilliamDavidHarrison/pycord) from [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)<br>
+9. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#1](https://github.com/avalynndev/EasyScript/pull/1) in [avalynndev/EasyScript](https://github.com/avalynndev/EasyScript)<br>
+10. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#1](https://github.com/avalynndev/EasyScript/pull/1) in [avalynndev/EasyScript](https://github.com/avalynndev/EasyScript)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 16th January, 2023 @ 09:59am UTC
+###### Last Updated: 16th January, 2023 @ 10:18am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
