@@ -63,18 +63,18 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-2. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#86](https://github.com/open-domains/register/pull/86#issuecomment-1384916451) in [open-domains/register](https://github.com/open-domains/register)<br>
-3. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#86](https://github.com/open-domains/register/pull/86#pullrequestreview-1250971178) in [open-domains/register](https://github.com/open-domains/register)<br>
-4. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#2777](https://github.com/ripienaar/free-for-dev/pull/2777) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)<br>
-5. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/free-for-dev](https://github.com/WilliamDavidHarrison/free-for-dev) from [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)<br>
-6. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [priyanshprajapat/top.gg-vote-tracker](https://github.com/priyanshprajapat/top.gg-vote-tracker)<br>
-7. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [sindresorhus/sindresorhus.github.com](https://github.com/sindresorhus/sindresorhus.github.com)<br>
-8. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [sindresorhus/quora-unblocker](https://github.com/sindresorhus/quora-unblocker)<br>
-9. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#84](https://github.com/open-domains/register/pull/84) in [open-domains/register](https://github.com/open-domains/register)<br>
-10. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#84](https://github.com/open-domains/register/pull/84#pullrequestreview-1250875575) in [open-domains/register](https://github.com/open-domains/register)<br>
+1. ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved [#1](https://github.com/WilliamDavidHarrison/discord-profile-card/pull/1#pullrequestreview-1251079973) in [WilliamDavidHarrison/discord-profile-card](https://github.com/WilliamDavidHarrison/discord-profile-card)<br>
+2. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+3. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#86](https://github.com/open-domains/register/pull/86#issuecomment-1384916451) in [open-domains/register](https://github.com/open-domains/register)<br>
+4. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#86](https://github.com/open-domains/register/pull/86#pullrequestreview-1250971178) in [open-domains/register](https://github.com/open-domains/register)<br>
+5. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#2777](https://github.com/ripienaar/free-for-dev/pull/2777) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)<br>
+6. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/free-for-dev](https://github.com/WilliamDavidHarrison/free-for-dev) from [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)<br>
+7. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [priyanshprajapat/top.gg-vote-tracker](https://github.com/priyanshprajapat/top.gg-vote-tracker)<br>
+8. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [sindresorhus/sindresorhus.github.com](https://github.com/sindresorhus/sindresorhus.github.com)<br>
+9. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [sindresorhus/quora-unblocker](https://github.com/sindresorhus/quora-unblocker)<br>
+10. ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR [#84](https://github.com/open-domains/register/pull/84) in [open-domains/register](https://github.com/open-domains/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 17th January, 2023 @ 07:57am UTC
+###### Last Updated: 17th January, 2023 @ 08:16am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
