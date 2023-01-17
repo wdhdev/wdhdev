@@ -63,18 +63,18 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [WilliamDavidHarrison/c-rps](https://github.com/WilliamDavidHarrison/c-rps)<br>
-2. ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) Created new repository [WilliamDavidHarrison/c-rps](https://github.com/WilliamDavidHarrison/c-rps)<br>
-3. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [WilliamDavidHarrison/py-rps](https://github.com/WilliamDavidHarrison/py-rps)<br>
-4. ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) Created new repository [WilliamDavidHarrison/py-rps](https://github.com/WilliamDavidHarrison/py-rps)<br>
-5. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [WilliamDavidHarrison/cpp-rps](https://github.com/WilliamDavidHarrison/cpp-rps)<br>
-6. ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) Created new repository [WilliamDavidHarrison/rps](https://github.com/WilliamDavidHarrison/rps)<br>
-7. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#88](https://github.com/open-domains/register/pull/88) in [open-domains/register](https://github.com/open-domains/register)<br>
-8. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#88](https://github.com/open-domains/register/pull/88#issuecomment-1385081581) in [open-domains/register](https://github.com/open-domains/register)<br>
-9. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#87](https://github.com/open-domains/register/pull/87) in [open-domains/register](https://github.com/open-domains/register)<br>
-10. ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on [#87](https://github.com/open-domains/register/pull/87#pullrequestreview-1251117352) in [open-domains/register](https://github.com/open-domains/register)<br>
+1. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [WilliamDavidHarrison/js-rps](https://github.com/WilliamDavidHarrison/js-rps)<br>
+2. ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) Created new repository [WilliamDavidHarrison/js-rps](https://github.com/WilliamDavidHarrison/js-rps)<br>
+3. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [WilliamDavidHarrison/c-rps](https://github.com/WilliamDavidHarrison/c-rps)<br>
+4. ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) Created new repository [WilliamDavidHarrison/c-rps](https://github.com/WilliamDavidHarrison/c-rps)<br>
+5. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [WilliamDavidHarrison/py-rps](https://github.com/WilliamDavidHarrison/py-rps)<br>
+6. ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) Created new repository [WilliamDavidHarrison/py-rps](https://github.com/WilliamDavidHarrison/py-rps)<br>
+7. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [WilliamDavidHarrison/cpp-rps](https://github.com/WilliamDavidHarrison/cpp-rps)<br>
+8. ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) Created new repository [WilliamDavidHarrison/rps](https://github.com/WilliamDavidHarrison/rps)<br>
+9. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#88](https://github.com/open-domains/register/pull/88) in [open-domains/register](https://github.com/open-domains/register)<br>
+10. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#88](https://github.com/open-domains/register/pull/88#issuecomment-1385081581) in [open-domains/register](https://github.com/open-domains/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 17th January, 2023 @ 09:40am UTC
+###### Last Updated: 17th January, 2023 @ 09:47am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
