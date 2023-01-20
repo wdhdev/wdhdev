@@ -63,6 +63,7 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) | Commented on [#7941](https://github.com/js-org/js.org/pull/7941#issuecomment-1398349986) in [js-org/js.org](https://github.com/js-org/js.org)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) | Commented on [#4561](https://github.com/is-a-dev/register/pull/4561#discussion_r1082373872) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) | Requested changes on [#4561](https://github.com/is-a-dev/register/pull/4561#pullrequestreview-1263364231) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) | Commented on [#3738](https://github.com/up-for-grabs/up-for-grabs.net/pull/3738#issuecomment-1398231132) in [up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net)<br>
@@ -72,9 +73,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) | Approved [#4560](https://github.com/is-a-dev/register/pull/4560#pullrequestreview-1263310617) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) | Commented on [#4560](https://github.com/is-a-dev/register/pull/4560#discussion_r1082347059) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) | Commented on [#4560](https://github.com/is-a-dev/register/pull/4560#discussion_r1082346872) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) | Commented on [#4560](https://github.com/is-a-dev/register/pull/4560#discussion_r1082347295) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 20th January, 2023 @ 13:00pm UTC
+###### Last Updated: 20th January, 2023 @ 13:24pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
