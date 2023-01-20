@@ -63,18 +63,18 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) Closed issue [#327](https://github.com/is-a-good-dev/register/issues/327) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
-2. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#322](https://github.com/is-a-good-dev/register/issues/322#issuecomment-1397841248) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
-3. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#82](https://github.com/sethcottle/littlelink/pull/82) in [sethcottle/littlelink](https://github.com/sethcottle/littlelink)<br>
-4. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/littlelink](https://github.com/WilliamDavidHarrison/littlelink) from [sethcottle/littlelink](https://github.com/sethcottle/littlelink)<br>
-5. ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) Opened issue [#327](https://github.com/is-a-good-dev/register/issues/327) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
-6. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#326](https://github.com/is-a-good-dev/register/pull/326) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
-7. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#326](https://github.com/is-a-good-dev/register/pull/326#issuecomment-1397821257) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
-8. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#326](https://github.com/is-a-good-dev/register/pull/326#issuecomment-1397811080) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
-9. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#326](https://github.com/is-a-good-dev/register/pull/326) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
-10. ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) Created new repository [EasyScriptJS/EasyScriptJS.github.io](https://github.com/EasyScriptJS/EasyScriptJS.github.io)<br>
+1. ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred [WilliamDavidHarrison/express-file-host](https://github.com/WilliamDavidHarrison/express-file-host)<br>
+2. ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) Created new repository [WilliamDavidHarrison/express-file-host](https://github.com/WilliamDavidHarrison/express-file-host)<br>
+3. ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) Closed issue [#327](https://github.com/is-a-good-dev/register/issues/327) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
+4. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#322](https://github.com/is-a-good-dev/register/issues/322#issuecomment-1397841248) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
+5. ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR [#82](https://github.com/sethcottle/littlelink/pull/82) in [sethcottle/littlelink](https://github.com/sethcottle/littlelink)<br>
+6. ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked [WilliamDavidHarrison/littlelink](https://github.com/WilliamDavidHarrison/littlelink) from [sethcottle/littlelink](https://github.com/sethcottle/littlelink)<br>
+7. ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) Opened issue [#327](https://github.com/is-a-good-dev/register/issues/327) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
+8. ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR [#326](https://github.com/is-a-good-dev/register/pull/326) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
+9. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#326](https://github.com/is-a-good-dev/register/pull/326#issuecomment-1397821257) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
+10. ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on [#326](https://github.com/is-a-good-dev/register/pull/326#issuecomment-1397811080) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 20th January, 2023 @ 02:38am UTC
+###### Last Updated: 20th January, 2023 @ 03:00am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
