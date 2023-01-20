@@ -11,6 +11,8 @@
 
 [![Discord](https://lanyard.cnrad.dev/api/853158265466257448)](https://wdh.gg/discord/account)
 
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=4kteqc82me1u1vxevzly2azqs&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=4kteqc82me1u1vxevzly2azqs&redirect=true)
+
 ## About Me
 Hi, I'm William, I am a self-taught frontend and backend developer.
 
