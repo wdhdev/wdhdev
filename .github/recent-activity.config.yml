@@ -2,6 +2,7 @@ settings:
   username: "WilliamDavidHarrison"
   commit_msg: "Update Recent Activity"
   max_lines: 10
+  line_prefix: ""
   readme_file: "README.md"
   disabled_events:
     - "push"
