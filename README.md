@@ -63,6 +63,7 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) | Forked [WilliamDavidHarrison/core](https://github.com/WilliamDavidHarrison/core) from [vuejs/core](https://github.com/vuejs/core)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) | Starred [vuejs/vue.js.org](https://github.com/vuejs/vue.js.org)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) | Starred [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) | Merged PR [#4559](https://github.com/is-a-dev/register/pull/4559) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -72,9 +73,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) | Starred [up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) | Opened PR [#4558](https://github.com/is-a-dev/register/pull/4558) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) | Opened PR [#8101](https://github.com/obsproject/obs-studio/pull/8101) in [obsproject/obs-studio](https://github.com/obsproject/obs-studio)<br>
-![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) | Forked [WilliamDavidHarrison/obs-studio](https://github.com/WilliamDavidHarrison/obs-studio) from [obsproject/obs-studio](https://github.com/obsproject/obs-studio)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 20th January, 2023 @ 09:06am UTC
+###### Last Updated: 20th January, 2023 @ 09:14am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
