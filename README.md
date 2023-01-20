@@ -63,6 +63,7 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#7945](https://github.com/js-org/js.org/pull/7945#issuecomment-1399068827) [[js-org/js.org](https://github.com/js-org/js.org)]<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4563](https://github.com/is-a-dev/register/pull/4563) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4563](https://github.com/is-a-dev/register/pull/4563#pullrequestreview-1264453975) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4565](https://github.com/is-a-dev/register/pull/4565#pullrequestreview-1264445507) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
@@ -72,9 +73,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#94](https://github.com/open-domains/register/pull/94#pullrequestreview-1264427071) [[open-domains/register](https://github.com/open-domains/register)]<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#7945](https://github.com/js-org/js.org/pull/7945#issuecomment-1399029732) [[js-org/js.org](https://github.com/js-org/js.org)]<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4562](https://github.com/is-a-dev/register/pull/4562#pullrequestreview-1264424330) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
-![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#7945](https://github.com/js-org/js.org/pull/7945) [[js-org/js.org](https://github.com/js-org/js.org)]<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 20th January, 2023 @ 23:18pm UTC
+###### Last Updated: 20th January, 2023 @ 23:21pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
