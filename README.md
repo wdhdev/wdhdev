@@ -63,6 +63,9 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) | Merged PR [#4556](https://github.com/is-a-dev/register/pull/4556) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) | Approved [#4556](https://github.com/is-a-dev/register/pull/4556#pullrequestreview-1263193930) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) | Opened PR [#7560](https://github.com/vuejs/core/pull/7560) in [vuejs/core](https://github.com/vuejs/core)<br>
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) | Forked [WilliamDavidHarrison/core](https://github.com/WilliamDavidHarrison/core) from [vuejs/core](https://github.com/vuejs/core)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) | Starred [vuejs/vue.js.org](https://github.com/vuejs/vue.js.org)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) | Starred [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit)<br>
@@ -70,11 +73,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) | Approved [#4559](https://github.com/is-a-dev/register/pull/4559#pullrequestreview-1263129936) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) | Opened PR [#3738](https://github.com/up-for-grabs/up-for-grabs.net/pull/3738) in [up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net)<br>
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) | Forked [WilliamDavidHarrison/up-for-grabs.net](https://github.com/WilliamDavidHarrison/up-for-grabs.net) from [up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) | Starred [up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net)<br>
-![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) | Opened PR [#4558](https://github.com/is-a-dev/register/pull/4558) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) | Opened PR [#8101](https://github.com/obsproject/obs-studio/pull/8101) in [obsproject/obs-studio](https://github.com/obsproject/obs-studio)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 20th January, 2023 @ 09:14am UTC
+###### Last Updated: 20th January, 2023 @ 09:26am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
