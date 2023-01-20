@@ -6,17 +6,15 @@
 
 <h1 align="center">👋 Hi, I'm William</h1>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=williamdavidharrison&color=blue&style=for-the-badge)](https://wdh.gg/github)
-[![WakaTime](https://wakatime.com/badge/user/817e29c1-e1ac-4adc-936b-37bfa447c165.svg?style=for-the-badge)](https://wdh.gg/wakatime)
-
 [![Discord](https://lanyard.cnrad.dev/api/853158265466257448)](https://wdh.gg/discord/account)
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=4kteqc82me1u1vxevzly2azqs&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=4kteqc82me1u1vxevzly2azqs&redirect=true)
 
 ## About Me
 Hi, I'm William, I am a self-taught frontend and backend developer.
 
 [![Recent Activity](https://img.shields.io/badge/-Recent%20Activity-333333?style=for-the-badge&logo=github)](https://wdh.gg/activity)
+[![WakaTime](https://wakatime.com/badge/user/817e29c1-e1ac-4adc-936b-37bfa447c165.svg?style=for-the-badge)](https://wdh.gg/wakatime)
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=4kteqc82me1u1vxevzly2azqs&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://wdh.gg/spotify)
 
 <details>
   <summary>🛠️ Currently Working On</summary>
