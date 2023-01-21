@@ -63,6 +63,7 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#48](https://github.com/EasyScriptJS/EasyScript/pull/48) [[EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)]<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4568](https://github.com/is-a-dev/register/pull/4568) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4568](https://github.com/is-a-dev/register/pull/4568#pullrequestreview-1264590567) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4567](https://github.com/is-a-dev/register/pull/4567) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
@@ -72,9 +73,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4563](https://github.com/is-a-dev/register/pull/4563) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4563](https://github.com/is-a-dev/register/pull/4563#pullrequestreview-1264453975) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4565](https://github.com/is-a-dev/register/pull/4565#pullrequestreview-1264445507) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4566](https://github.com/is-a-dev/register/pull/4566) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 21st January, 2023 @ 08:53am UTC
+###### Last Updated: 21st January, 2023 @ 09:01am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
