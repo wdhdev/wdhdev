@@ -63,6 +63,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4570](https://github.com/is-a-dev/register/pull/4570) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4570](https://github.com/is-a-dev/register/pull/4570#pullrequestreview-1264667396) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#329](https://github.com/is-a-good-dev/register/pull/329#pullrequestreview-1264624370) [[is-a-good-dev/register](https://github.com/is-a-good-dev/register)]<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [npm/cli](https://github.com/npm/cli)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4186](https://github.com/npm/npm-expansions/pull/4186#pullrequestreview-1264607778) [[npm/npm-expansions](https://github.com/npm/npm-expansions)]<br>
@@ -71,10 +73,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/npm-expansions](https://github.com/WilliamDavidHarrison/npm-expansions) [[npm/npm-expansions](https://github.com/npm/npm-expansions)]<br>
 ![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.2.2](https://github.com/EasyScriptJS/EasyScript/releases/tag/v1.2.2) [[EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)]<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#48](https://github.com/EasyScriptJS/EasyScript/pull/48) [[EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)]<br>
-![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#329](https://github.com/is-a-good-dev/register/pull/329#pullrequestreview-1264605183) [[is-a-good-dev/register](https://github.com/is-a-good-dev/register)]<br>
-![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#48](https://github.com/EasyScriptJS/EasyScript/pull/48) [[EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)]<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 21st January, 2023 @ 21:56pm UTC
+###### Last Updated: 21st January, 2023 @ 22:09pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
