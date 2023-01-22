@@ -63,6 +63,7 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5487](https://github.com/reactjs/reactjs.org/pull/5487#pullrequestreview-1264711973) [[reactjs/reactjs.org](https://github.com/reactjs/reactjs.org)]<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WilliamDavidHarrison/to-do-list-extension](https://github.com/WilliamDavidHarrison/to-do-list-extension)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/to-do-list-extension](https://github.com/WilliamDavidHarrison/to-do-list-extension)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4569](https://github.com/is-a-dev/register/pull/4569#pullrequestreview-1264667485) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
@@ -72,9 +73,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [npm/cli](https://github.com/npm/cli)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4186](https://github.com/npm/npm-expansions/pull/4186#pullrequestreview-1264607778) [[npm/npm-expansions](https://github.com/npm/npm-expansions)]<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4193](https://github.com/npm/npm-expansions/pull/4193#pullrequestreview-1264607750) [[npm/npm-expansions](https://github.com/npm/npm-expansions)]<br>
-![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#4194](https://github.com/npm/npm-expansions/pull/4194) [[npm/npm-expansions](https://github.com/npm/npm-expansions)]<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 22nd January, 2023 @ 03:00am UTC
+###### Last Updated: 22nd January, 2023 @ 03:20am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
