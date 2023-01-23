@@ -63,6 +63,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#50](https://github.com/EasyScriptJS/EasyScript/issues/50) [[EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)]<br>
+![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#49](https://github.com/EasyScriptJS/EasyScript/issues/49) [[EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)]<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [tycrek/mulv](https://github.com/tycrek/mulv)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4587](https://github.com/is-a-dev/register/pull/4587) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4587](https://github.com/is-a-dev/register/pull/4587#pullrequestreview-1266590051) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
@@ -71,10 +73,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4585](https://github.com/is-a-dev/register/pull/4585#pullrequestreview-1266587999) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4586](https://github.com/is-a-dev/register/pull/4586#pullrequestreview-1266587439) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [zodo-tech/Never-Gonna-Get-Rickrolled](https://github.com/zodo-tech/Never-Gonna-Get-Rickrolled)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#338](https://github.com/is-a-good-dev/register/pull/338#pullrequestreview-1265516172) [[is-a-good-dev/register](https://github.com/is-a-good-dev/register)]<br>
-![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/globalchat.wdh.gg](https://github.com/WilliamDavidHarrison/globalchat.wdh.gg)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 23rd January, 2023 @ 23:35pm UTC
+###### Last Updated: 23rd January, 2023 @ 23:42pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
