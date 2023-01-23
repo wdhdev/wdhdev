@@ -63,6 +63,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [zodo-tech/Never-Gonna-Get-Rickrolled](https://github.com/zodo-tech/Never-Gonna-Get-Rickrolled)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#338](https://github.com/is-a-good-dev/register/pull/338#pullrequestreview-1265516172) [[is-a-good-dev/register](https://github.com/is-a-good-dev/register)]<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/globalchat.wdh.gg](https://github.com/WilliamDavidHarrison/globalchat.wdh.gg)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4585](https://github.com/is-a-dev/register/pull/4585#pullrequestreview-1265393815) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4580](https://github.com/is-a-dev/register/pull/4580#pullrequestreview-1265391416) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
@@ -71,10 +73,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4584](https://github.com/is-a-dev/register/pull/4584#pullrequestreview-1265284402) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Michael-J-Scofield/discord-anti-spam](https://github.com/Michael-J-Scofield/discord-anti-spam)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WillTDA/Node-Swearfilter](https://github.com/WillTDA/Node-Swearfilter)<br>
-![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4582](https://github.com/is-a-dev/register/pull/4582#pullrequestreview-1265007834) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
-![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#8](https://github.com/open-domains/register/issues/8#issuecomment-1399631978) [[open-domains/register](https://github.com/open-domains/register)]<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 23rd January, 2023 @ 12:22pm UTC
+###### Last Updated: 23rd January, 2023 @ 12:52pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
