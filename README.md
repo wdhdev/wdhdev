@@ -63,18 +63,18 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.2.3](https://github.com/EasyScriptJS/EasyScript/releases/tag/v1.2.3) [[EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)]<br>
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#53](https://github.com/EasyScriptJS/EasyScript/pull/53) [[EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)]<br>
+![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#53](https://github.com/EasyScriptJS/EasyScript/pull/53) [[EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)]<br>
+![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) [#49](https://github.com/EasyScriptJS/EasyScript/issues/49) [[EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)]<br>
+![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) [#50](https://github.com/EasyScriptJS/EasyScript/issues/50) [[EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)]<br>
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#52](https://github.com/EasyScriptJS/EasyScript/pull/52) [[EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)]<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4596](https://github.com/is-a-dev/register/pull/4596) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4596](https://github.com/is-a-dev/register/pull/4596#pullrequestreview-1268935399) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4597](https://github.com/is-a-dev/register/pull/4597) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4597](https://github.com/is-a-dev/register/pull/4597#pullrequestreview-1268933644) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4598](https://github.com/is-a-dev/register/pull/4598) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4598](https://github.com/is-a-dev/register/pull/4598#pullrequestreview-1268931420) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4599](https://github.com/is-a-dev/register/pull/4599) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4599](https://github.com/is-a-dev/register/pull/4599#pullrequestreview-1268929354) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4600](https://github.com/is-a-dev/register/pull/4600) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4600](https://github.com/is-a-dev/register/pull/4600#pullrequestreview-1268923622) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 25th January, 2023 @ 09:09am UTC
+###### Last Updated: 25th January, 2023 @ 09:22am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
