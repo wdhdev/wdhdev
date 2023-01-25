@@ -63,6 +63,9 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4600](https://github.com/is-a-dev/register/pull/4600#pullrequestreview-1268923622) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4595](https://github.com/is-a-dev/register/pull/4595) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4595](https://github.com/is-a-dev/register/pull/4595#pullrequestreview-1268914992) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4601](https://github.com/is-a-dev/register/pull/4601) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4601](https://github.com/is-a-dev/register/pull/4601#pullrequestreview-1268912665) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4594](https://github.com/is-a-dev/register/pull/4594) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
@@ -70,11 +73,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#100](https://github.com/open-domains/register/pull/100#pullrequestreview-1268892798) [[open-domains/register](https://github.com/open-domains/register)]<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#52](https://github.com/EasyScriptJS/EasyScript/pull/52) [[EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)]<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4562](https://github.com/is-a-dev/register/pull/4562) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4584](https://github.com/is-a-dev/register/pull/4584) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4584](https://github.com/is-a-dev/register/pull/4584#pullrequestreview-1268718639) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
-![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#51](https://github.com/is-a-dev/register.is-a.dev/issues/51#issuecomment-1403106780) [[is-a-dev/register.is-a.dev](https://github.com/is-a-dev/register.is-a.dev)]<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 25th January, 2023 @ 08:48am UTC
+###### Last Updated: 25th January, 2023 @ 08:55am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
