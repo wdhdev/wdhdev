@@ -63,6 +63,7 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#4626](https://github.com/is-a-dev/register/pull/4626#issuecomment-1407173315) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#1](https://github.com/free-domains/register/pull/1#issuecomment-1406406761) [[free-domains/register](https://github.com/free-domains/register)]<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#1](https://github.com/free-domains/register/pull/1) [[free-domains/register](https://github.com/free-domains/register)]<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#1](https://github.com/free-domains/register/pull/1#pullrequestreview-1272569188) [[free-domains/register](https://github.com/free-domains/register)]<br>
@@ -72,9 +73,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#103](https://github.com/open-domains/register/pull/103) [[open-domains/register](https://github.com/open-domains/register)]<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#104](https://github.com/open-domains/register/pull/104) [[open-domains/register](https://github.com/open-domains/register)]<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [free-domains/is-a-backend.dev](https://github.com/free-domains/is-a-backend.dev)<br>
-![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [free-domains/is-a-frontend.dev](https://github.com/free-domains/is-a-frontend.dev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 27th January, 2023 @ 22:55pm UTC
+###### Last Updated: 27th January, 2023 @ 23:07pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
