@@ -63,6 +63,7 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#104](https://github.com/open-domains/register/pull/104) [[open-domains/register](https://github.com/open-domains/register)]<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [free-domains/is-a-backend.dev](https://github.com/free-domains/is-a-backend.dev)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [free-domains/is-a-frontend.dev](https://github.com/free-domains/is-a-frontend.dev)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [free-domains/register](https://github.com/free-domains/register)<br>
@@ -72,9 +73,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4622](https://github.com/is-a-dev/register/pull/4622#pullrequestreview-1272248628) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#103](https://github.com/open-domains/register/pull/103#issuecomment-1406137567) [[open-domains/register](https://github.com/open-domains/register)]<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#103](https://github.com/open-domains/register/pull/103#pullrequestreview-1272237819) [[open-domains/register](https://github.com/open-domains/register)]<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#103](https://github.com/open-domains/register/pull/103#pullrequestreview-1272237122) [[open-domains/register](https://github.com/open-domains/register)]<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 27th January, 2023 @ 09:29am UTC
+###### Last Updated: 27th January, 2023 @ 09:37am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
