@@ -63,6 +63,9 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WilliamDavidHarrison/free-for-life](https://github.com/WilliamDavidHarrison/free-for-life)<br>
+![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/free-for-life](https://github.com/WilliamDavidHarrison/free-for-life)<br>
+![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#2795](https://github.com/ripienaar/free-for-dev/pull/2795#discussion_r1089709530) [[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)]<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#2795](https://github.com/ripienaar/free-for-dev/pull/2795#discussion_r1089707340) [[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)]<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#2795](https://github.com/ripienaar/free-for-dev/pull/2795#discussion_r1089706459) [[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)]<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [free-domains/free-domains.github.io](https://github.com/free-domains/free-domains.github.io)<br>
@@ -70,11 +73,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [free-domains/free-domains.github.io](https://github.com/free-domains/free-domains.github.io)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#1](https://github.com/SX-9/sx-1st-website/pull/1) [[SX-9/sx-1st-website](https://github.com/SX-9/sx-1st-website)]<br>
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/sx-1st-website](https://github.com/WilliamDavidHarrison/sx-1st-website) [[SX-9/sx-1st-website](https://github.com/SX-9/sx-1st-website)]<br>
-![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#2795](https://github.com/ripienaar/free-for-dev/pull/2795#discussion_r1089690308) [[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)]<br>
-![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#2795](https://github.com/ripienaar/free-for-dev/pull/2795#discussion_r1089690274) [[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)]<br>
-![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#585](https://github.com/thedev-id/thedev.id/pull/585) [[thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)]<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 28th January, 2023 @ 10:11am UTC
+###### Last Updated: 28th January, 2023 @ 10:26am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
