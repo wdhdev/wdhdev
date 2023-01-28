@@ -50,8 +50,6 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=williamdavidharrison&theme=algolia&layout=compact&border_radius=8)
 
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=WilliamDavidHarrison&theme=dark)
-
 </details>
 
 <details>
