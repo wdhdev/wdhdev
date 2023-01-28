@@ -65,6 +65,9 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [free-domains/.github](https://github.com/free-domains/.github)<br>
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [free-domains/is-a-backend.dev](https://github.com/free-domains/is-a-backend.dev)<br>
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [free-domains/is-a-frontend.dev](https://github.com/free-domains/is-a-frontend.dev)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [free-domains/register-website](https://github.com/free-domains/register-website)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [free-domains/register-website](https://github.com/free-domains/register-website)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#4302](https://github.com/is-a-dev/register/issues/4302#issuecomment-1407226881) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
@@ -72,11 +75,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#3](https://github.com/is-a-dev/register.is-a.dev/pull/3#issuecomment-1407223864) [[is-a-dev/register.is-a.dev](https://github.com/is-a-dev/register.is-a.dev)]<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#54](https://github.com/is-a-dev/register.is-a.dev/pull/54) [[is-a-dev/register.is-a.dev](https://github.com/is-a-dev/register.is-a.dev)]<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#55](https://github.com/is-a-dev/register.is-a.dev/pull/55) [[is-a-dev/register.is-a.dev](https://github.com/is-a-dev/register.is-a.dev)]<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#59](https://github.com/is-a-dev/register.is-a.dev/pull/59) [[is-a-dev/register.is-a.dev](https://github.com/is-a-dev/register.is-a.dev)]<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4645](https://github.com/is-a-dev/register/pull/4645) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4645](https://github.com/is-a-dev/register/pull/4645#pullrequestreview-1273689497) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 28th January, 2023 @ 03:52am UTC
+###### Last Updated: 28th January, 2023 @ 03:59am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
