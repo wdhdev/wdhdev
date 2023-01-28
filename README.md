@@ -64,6 +64,7 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 
 <!--RECENT_ACTIVITY:start-->
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/register](https://github.com/WilliamDavidHarrison/register) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
+![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/register](https://github.com/WilliamDavidHarrison/register) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#584](https://github.com/thedev-id/thedev.id/pull/584) [[thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)]<br>
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/thedev.id](https://github.com/WilliamDavidHarrison/thedev.id) [[thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)]<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4647](https://github.com/is-a-dev/register/pull/4647#pullrequestreview-1273844550) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
@@ -72,9 +73,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/guthib.com](https://github.com/WilliamDavidHarrison/guthib.com)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/-](https://github.com/WilliamDavidHarrison/-)<br>
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/URL-Shortner-V2](https://github.com/WilliamDavidHarrison/URL-Shortner-V2) [[SpicyDevs/URL-Shortner-V2](https://github.com/SpicyDevs/URL-Shortner-V2)]<br>
-![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#52](https://github.com/is-really-cool/register/pull/52) [[is-really-cool/register](https://github.com/is-really-cool/register)]<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 28th January, 2023 @ 08:21am UTC
+###### Last Updated: 28th January, 2023 @ 08:32am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
