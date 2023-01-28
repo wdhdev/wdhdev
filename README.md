@@ -76,5 +76,5 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 28th January, 2023 @ 09:21am UTC
+###### Last Updated: 28th January, 2023 @ 09:28am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
