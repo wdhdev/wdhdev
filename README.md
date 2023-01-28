@@ -65,6 +65,7 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/free-for-dev](https://github.com/WilliamDavidHarrison/free-for-dev) [[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)]<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#4642](https://github.com/is-a-dev/register/issues/4642#issuecomment-1407294765) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#4642](https://github.com/is-a-dev/register/issues/4642#issuecomment-1407294539) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#4642](https://github.com/is-a-dev/register/issues/4642#issuecomment-1407294434) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
@@ -74,9 +75,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [free-domains/register-website](https://github.com/free-domains/register-website)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [free-domains/register-website](https://github.com/free-domains/register-website)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#4302](https://github.com/is-a-dev/register/issues/4302#issuecomment-1407226881) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#3](https://github.com/is-a-dev/register.is-a.dev/pull/3) [[is-a-dev/register.is-a.dev](https://github.com/is-a-dev/register.is-a.dev)]<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 28th January, 2023 @ 05:22am UTC
+###### Last Updated: 28th January, 2023 @ 05:29am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
