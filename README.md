@@ -63,6 +63,7 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#585](https://github.com/thedev-id/thedev.id/pull/585) [[thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)]<br>
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/register](https://github.com/WilliamDavidHarrison/register) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/register](https://github.com/WilliamDavidHarrison/register) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#584](https://github.com/thedev-id/thedev.id/pull/584) [[thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)]<br>
@@ -72,9 +73,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WilliamDavidHarrison/guthib.com](https://github.com/WilliamDavidHarrison/guthib.com)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/guthib.com](https://github.com/WilliamDavidHarrison/guthib.com)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/-](https://github.com/WilliamDavidHarrison/-)<br>
-![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/URL-Shortner-V2](https://github.com/WilliamDavidHarrison/URL-Shortner-V2) [[SpicyDevs/URL-Shortner-V2](https://github.com/SpicyDevs/URL-Shortner-V2)]<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 28th January, 2023 @ 08:48am UTC
+###### Last Updated: 28th January, 2023 @ 08:55am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
