@@ -65,6 +65,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#52](https://github.com/is-really-cool/register/pull/52) [[is-really-cool/register](https://github.com/is-really-cool/register)]<br>
+![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/register](https://github.com/WilliamDavidHarrison/register) [[is-really-cool/register](https://github.com/is-really-cool/register)]<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#2795](https://github.com/ripienaar/free-for-dev/pull/2795#issuecomment-1407298682) [[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)]<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#2795](https://github.com/ripienaar/free-for-dev/pull/2795) [[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)]<br>
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/free-for-dev](https://github.com/WilliamDavidHarrison/free-for-dev) [[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)]<br>
@@ -73,10 +75,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#4642](https://github.com/is-a-dev/register/issues/4642#issuecomment-1407294434) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [free-domains/.github](https://github.com/free-domains/.github)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [free-domains/is-a-backend.dev](https://github.com/free-domains/is-a-backend.dev)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [free-domains/is-a-frontend.dev](https://github.com/free-domains/is-a-frontend.dev)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [free-domains/register-website](https://github.com/free-domains/register-website)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 28th January, 2023 @ 05:50am UTC
+###### Last Updated: 28th January, 2023 @ 05:57am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
