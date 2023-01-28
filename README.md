@@ -63,6 +63,7 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/i-use-arch](https://github.com/WilliamDavidHarrison/i-use-arch) [[sarvjeets/i-use-arch](https://github.com/sarvjeets/i-use-arch)]<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WilliamDavidHarrison/guthib.com](https://github.com/WilliamDavidHarrison/guthib.com)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/guthib.com](https://github.com/WilliamDavidHarrison/guthib.com)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/-](https://github.com/WilliamDavidHarrison/-)<br>
@@ -72,9 +73,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#2795](https://github.com/ripienaar/free-for-dev/pull/2795#issuecomment-1407298682) [[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)]<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#2795](https://github.com/ripienaar/free-for-dev/pull/2795) [[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)]<br>
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/free-for-dev](https://github.com/WilliamDavidHarrison/free-for-dev) [[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)]<br>
-![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#4642](https://github.com/is-a-dev/register/issues/4642#issuecomment-1407294765) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 28th January, 2023 @ 07:03am UTC
+###### Last Updated: 28th January, 2023 @ 07:17am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
