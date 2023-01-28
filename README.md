@@ -63,6 +63,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#2795](https://github.com/ripienaar/free-for-dev/pull/2795#discussion_r1089690308) [[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)]<br>
+![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#2795](https://github.com/ripienaar/free-for-dev/pull/2795#discussion_r1089690274) [[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)]<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#585](https://github.com/thedev-id/thedev.id/pull/585) [[thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)]<br>
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/register](https://github.com/WilliamDavidHarrison/register) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/register](https://github.com/WilliamDavidHarrison/register) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
@@ -71,10 +73,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4647](https://github.com/is-a-dev/register/pull/4647#pullrequestreview-1273844550) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/i-use-arch](https://github.com/WilliamDavidHarrison/i-use-arch) [[sarvjeets/i-use-arch](https://github.com/sarvjeets/i-use-arch)]<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WilliamDavidHarrison/guthib.com](https://github.com/WilliamDavidHarrison/guthib.com)<br>
-![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/guthib.com](https://github.com/WilliamDavidHarrison/guthib.com)<br>
-![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/-](https://github.com/WilliamDavidHarrison/-)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 28th January, 2023 @ 08:55am UTC
+###### Last Updated: 28th January, 2023 @ 09:07am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
