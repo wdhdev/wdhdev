@@ -63,6 +63,7 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4657](https://github.com/is-a-dev/register/pull/4657#pullrequestreview-1274122233) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4655](https://github.com/is-a-dev/register/pull/4655) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4655](https://github.com/is-a-dev/register/pull/4655#pullrequestreview-1274110329) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4653](https://github.com/is-a-dev/register/pull/4653) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
@@ -72,9 +73,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4653](https://github.com/is-a-dev/register/pull/4653#pullrequestreview-1274089286) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#342](https://github.com/is-a-good-dev/register/pull/342) [[is-a-good-dev/register](https://github.com/is-a-good-dev/register)]<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4652](https://github.com/is-a-dev/register/pull/4652) [[is-a-dev/register](https://github.com/is-a-dev/register)]<br>
-![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#108](https://github.com/open-domains/register/pull/108) [[open-domains/register](https://github.com/open-domains/register)]<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 29th January, 2023 @ 08:53am UTC
+###### Last Updated: 29th January, 2023 @ 09:00am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
