@@ -63,6 +63,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#770](https://github.com/hilmanski/freeStuffDev/pull/770) **|** [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev)<br>
+![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/freeStuffDev](https://github.com/WilliamDavidHarrison/freeStuffDev) **|** [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#112](https://github.com/open-domains/register/pull/112#pullrequestreview-1276180988) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4679](https://github.com/is-a-dev/register/pull/4679) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4679](https://github.com/is-a-dev/register/pull/4679#pullrequestreview-1276175740) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -71,10 +73,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WilliamDavidHarrison/redirect-api](https://github.com/WilliamDavidHarrison/redirect-api)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/redirect-api](https://github.com/WilliamDavidHarrison/redirect-api)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [eri/Website](https://github.com/eri/Website)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [davidszz/lanyard-card-example](https://github.com/davidszz/lanyard-card-example)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4676](https://github.com/is-a-dev/register/pull/4676) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 30th January, 2023 @ 23:25pm UTC
+###### Last Updated: 30th January, 2023 @ 23:32pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
