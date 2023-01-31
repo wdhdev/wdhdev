@@ -16,11 +16,11 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=4kteqc82me1u1vxevzly2azqs&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://wdh.gg/spotify)
 
-<details>
+<details open>
   <summary>🛠️ Currently Working On</summary>
   <br>
 
-  [![Easy Script](https://img.shields.io/badge/-Easy%20Script-333333?style=for-the-badge)](https://wdh.gg/easyscript)
+  [![Free Domains](https://img.shields.io/badge/-Free%20Domains-333333?style=for-the-badge)](https://wdh.gg/free-domains)
 
 </details>
 
