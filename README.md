@@ -63,6 +63,7 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [resume/resume.github.com](https://github.com/resume/resume.github.com)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WilliamDavidHarrison/email-to-discord-api](https://github.com/WilliamDavidHarrison/email-to-discord-api)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/email-to-discord-api](https://github.com/WilliamDavidHarrison/email-to-discord-api)<br>
@@ -72,9 +73,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4680](https://github.com/is-a-dev/register/pull/4680#pullrequestreview-1276223504) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#113](https://github.com/open-domains/register/pull/113) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#770](https://github.com/hilmanski/freeStuffDev/pull/770) **|** [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev)<br>
-![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/freeStuffDev](https://github.com/WilliamDavidHarrison/freeStuffDev) **|** [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 31st January, 2023 @ 05:05am UTC
+###### Last Updated: 31st January, 2023 @ 05:21am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
