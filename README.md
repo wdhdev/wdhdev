@@ -63,6 +63,7 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [resume/resume.github.com](https://github.com/resume/resume.github.com)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WilliamDavidHarrison/email-to-discord-api](https://github.com/WilliamDavidHarrison/email-to-discord-api)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/email-to-discord-api](https://github.com/WilliamDavidHarrison/email-to-discord-api)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WalshyDev/cf-status-worker](https://github.com/WalshyDev/cf-status-worker)<br>
@@ -72,9 +73,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#113](https://github.com/open-domains/register/pull/113) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#770](https://github.com/hilmanski/freeStuffDev/pull/770) **|** [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev)<br>
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/freeStuffDev](https://github.com/WilliamDavidHarrison/freeStuffDev) **|** [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#112](https://github.com/open-domains/register/pull/112#pullrequestreview-1276180988) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 31st January, 2023 @ 04:09am UTC
+###### Last Updated: 31st January, 2023 @ 04:29am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
