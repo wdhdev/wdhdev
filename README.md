@@ -63,6 +63,7 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#4680](https://github.com/is-a-dev/register/pull/4680#discussion_r1091586850) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#342](https://github.com/is-a-good-dev/register/pull/342#issuecomment-1409905559) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#4680](https://github.com/is-a-dev/register/pull/4680#discussion_r1091551532) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4681](https://github.com/is-a-dev/register/pull/4681) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -72,9 +73,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WilliamDavidHarrison/email-to-discord-api](https://github.com/WilliamDavidHarrison/email-to-discord-api)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/email-to-discord-api](https://github.com/WilliamDavidHarrison/email-to-discord-api)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WalshyDev/cf-status-worker](https://github.com/WalshyDev/cf-status-worker)<br>
-![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#114](https://github.com/open-domains/register/pull/114) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 31st January, 2023 @ 08:14am UTC
+###### Last Updated: 31st January, 2023 @ 08:31am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
