@@ -63,6 +63,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#119](https://github.com/open-domains/register/pull/119#pullrequestreview-1278538514) **|** [open-domains/register](https://github.com/open-domains/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#119](https://github.com/open-domains/register/pull/119#pullrequestreview-1278538514) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4696](https://github.com/is-a-dev/register/pull/4696) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4696](https://github.com/is-a-dev/register/pull/4696#pullrequestreview-1278499313) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WilliamDavidHarrison/is-a-dev-knockoffs](https://github.com/WilliamDavidHarrison/is-a-dev-knockoffs)<br>
@@ -71,10 +73,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#3](https://github.com/free-domains/register/pull/3) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#3](https://github.com/free-domains/register/pull/3) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#2](https://github.com/free-domains/register/pull/2) **|** [free-domains/register](https://github.com/free-domains/register)<br>
-![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#2](https://github.com/free-domains/register/pull/2) **|** [free-domains/register](https://github.com/free-domains/register)<br>
-![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#4194](https://github.com/npm/npm-expansions/pull/4194) **|** [npm/npm-expansions](https://github.com/npm/npm-expansions)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 1st February, 2023 @ 07:08am UTC
+###### Last Updated: 1st February, 2023 @ 07:21am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
