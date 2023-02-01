@@ -63,18 +63,18 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4701](https://github.com/is-a-dev/register/pull/4701#pullrequestreview-1280041406) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [arifszn/gitprofile](https://github.com/arifszn/gitprofile)<br>
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4689](https://github.com/is-a-dev/register/pull/4689) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4689](https://github.com/is-a-dev/register/pull/4689#pullrequestreview-1280038693) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4699](https://github.com/is-a-dev/register/pull/4699) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4699](https://github.com/is-a-dev/register/pull/4699#pullrequestreview-1280035085) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4699](https://github.com/is-a-dev/register/pull/4699#pullrequestreview-1280033854) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#120](https://github.com/open-domains/register/pull/120#pullrequestreview-1280033023) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4700](https://github.com/is-a-dev/register/pull/4700#pullrequestreview-1280030718) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#2](https://github.com/WilliamDavidHarrison/free-for-life/pull/2#issuecomment-1412881626) **|** [WilliamDavidHarrison/free-for-life](https://github.com/WilliamDavidHarrison/free-for-life)<br>
-![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#2](https://github.com/WilliamDavidHarrison/free-for-life/pull/2#pullrequestreview-1280018119) **|** [WilliamDavidHarrison/free-for-life](https://github.com/WilliamDavidHarrison/free-for-life)<br>
-![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#2](https://github.com/WilliamDavidHarrison/free-for-life/pull/2#discussion_r1093830526) **|** [WilliamDavidHarrison/free-for-life](https://github.com/WilliamDavidHarrison/free-for-life)<br>
-![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#2](https://github.com/WilliamDavidHarrison/free-for-life/pull/2#discussion_r1093830417) **|** [WilliamDavidHarrison/free-for-life](https://github.com/WilliamDavidHarrison/free-for-life)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WilliamDavidHarrison/better-git](https://github.com/WilliamDavidHarrison/better-git)<br>
-![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/better-git](https://github.com/WilliamDavidHarrison/better-git)<br>
-![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/better-git](https://github.com/WilliamDavidHarrison/better-git)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 1st February, 2023 @ 23:25pm UTC
+###### Last Updated: 1st February, 2023 @ 23:33pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
