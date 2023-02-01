@@ -63,18 +63,18 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#2](https://github.com/free-domains/register/pull/2) **|** [free-domains/register](https://github.com/free-domains/register)<br>
+![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#4194](https://github.com/npm/npm-expansions/pull/4194) **|** [npm/npm-expansions](https://github.com/npm/npm-expansions)<br>
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [npm/npm-expansions](https://github.com/npm/npm-expansions)<br>
+![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#5](https://github.com/andrewstech/is-a-dev-cli/pull/5) **|** [andrewstech/is-a-dev-cli](https://github.com/andrewstech/is-a-dev-cli)<br>
+![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/is-a-dev-cli](https://github.com/WilliamDavidHarrison/is-a-dev-cli) **|** [andrewstech/is-a-dev-cli](https://github.com/andrewstech/is-a-dev-cli)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [andrewstech/is-a-dev-cli](https://github.com/andrewstech/is-a-dev-cli)<br>
 ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#113](https://github.com/open-domains/register/pull/113) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#117](https://github.com/open-domains/register/pull/117#pullrequestreview-1278188459) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4689](https://github.com/is-a-dev/register/pull/4689#pullrequestreview-1278187517) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4](https://github.com/andrewstech/is-a-dev-cli/pull/4#pullrequestreview-1278183960) **|** [andrewstech/is-a-dev-cli](https://github.com/andrewstech/is-a-dev-cli)<br>
-![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4690](https://github.com/is-a-dev/register/pull/4690#pullrequestreview-1278182577) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#4328](https://github.com/is-a-dev/register/pull/4328) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [free-domains/cli](https://github.com/free-domains/cli)<br>
-![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [free-domains/cli](https://github.com/free-domains/cli)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4691](https://github.com/is-a-dev/register/pull/4691) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 1st February, 2023 @ 01:21am UTC
+###### Last Updated: 1st February, 2023 @ 02:41am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
