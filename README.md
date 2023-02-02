@@ -63,6 +63,7 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4708](https://github.com/is-a-dev/register/pull/4708#pullrequestreview-1280444050) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#52561](https://github.com/microsoft/TypeScript/pull/52561) **|** [microsoft/TypeScript](https://github.com/microsoft/TypeScript)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#52561](https://github.com/microsoft/TypeScript/pull/52561#issuecomment-1413210288) **|** [microsoft/TypeScript](https://github.com/microsoft/TypeScript)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#52561](https://github.com/microsoft/TypeScript/pull/52561) **|** [microsoft/TypeScript](https://github.com/microsoft/TypeScript)<br>
@@ -72,9 +73,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#2906](https://github.com/microsoft/winget-cli/pull/2906) **|** [microsoft/winget-cli](https://github.com/microsoft/winget-cli)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#2905](https://github.com/microsoft/winget-cli/pull/2905) **|** [microsoft/winget-cli](https://github.com/microsoft/winget-cli)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#2904](https://github.com/microsoft/winget-cli/pull/2904) **|** [microsoft/winget-cli](https://github.com/microsoft/winget-cli)<br>
-![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/winget-cli](https://github.com/WilliamDavidHarrison/winget-cli) **|** [microsoft/winget-cli](https://github.com/microsoft/winget-cli)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 2nd February, 2023 @ 07:03am UTC
+###### Last Updated: 2nd February, 2023 @ 07:18am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
