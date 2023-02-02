@@ -63,6 +63,9 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/TypeScript](https://github.com/WilliamDavidHarrison/TypeScript) **|** [microsoft/TypeScript](https://github.com/microsoft/TypeScript)<br>
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [microsoft/terminal](https://github.com/microsoft/terminal)<br>
+![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#2907](https://github.com/microsoft/winget-cli/pull/2907) **|** [microsoft/winget-cli](https://github.com/microsoft/winget-cli)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#2906](https://github.com/microsoft/winget-cli/pull/2906) **|** [microsoft/winget-cli](https://github.com/microsoft/winget-cli)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#2905](https://github.com/microsoft/winget-cli/pull/2905) **|** [microsoft/winget-cli](https://github.com/microsoft/winget-cli)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#2904](https://github.com/microsoft/winget-cli/pull/2904) **|** [microsoft/winget-cli](https://github.com/microsoft/winget-cli)<br>
@@ -70,11 +73,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4706](https://github.com/is-a-dev/register/pull/4706) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4706](https://github.com/is-a-dev/register/pull/4706#pullrequestreview-1280332096) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/hello-world-extension](https://github.com/WilliamDavidHarrison/hello-world-extension)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [virejdasani/Commited](https://github.com/virejdasani/Commited)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4705](https://github.com/is-a-dev/register/pull/4705) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4705](https://github.com/is-a-dev/register/pull/4705#pullrequestreview-1280252522) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 2nd February, 2023 @ 05:54am UTC
+###### Last Updated: 2nd February, 2023 @ 06:08am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
