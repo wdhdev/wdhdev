@@ -63,18 +63,18 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#135](https://github.com/open-domains/register/pull/135#pullrequestreview-1282039494) **|** [open-domains/register](https://github.com/open-domains/register)<br>
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4702](https://github.com/is-a-dev/register/pull/4702) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4702](https://github.com/is-a-dev/register/pull/4702#pullrequestreview-1282038907) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4710](https://github.com/is-a-dev/register/pull/4710#pullrequestreview-1282038367) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4711](https://github.com/is-a-dev/register/pull/4711#pullrequestreview-1282031381) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4709](https://github.com/is-a-dev/register/pull/4709) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4709](https://github.com/is-a-dev/register/pull/4709#pullrequestreview-1282028242) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#4689](https://github.com/is-a-dev/register/pull/4689#issuecomment-1414474397) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#2907](https://github.com/microsoft/winget-cli/pull/2907#issuecomment-1414471189) **|** [microsoft/winget-cli](https://github.com/microsoft/winget-cli)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#2906](https://github.com/microsoft/winget-cli/pull/2906#issuecomment-1414470682) **|** [microsoft/winget-cli](https://github.com/microsoft/winget-cli)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#347](https://github.com/is-a-good-dev/register/pull/347#pullrequestreview-1280641154) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#345](https://github.com/is-a-good-dev/register/pull/345#pullrequestreview-1280639413) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#346](https://github.com/is-a-good-dev/register/pull/346#pullrequestreview-1280638746) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#130](https://github.com/open-domains/register/pull/130#pullrequestreview-1280637887) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 2nd February, 2023 @ 22:53pm UTC
+###### Last Updated: 2nd February, 2023 @ 23:04pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
