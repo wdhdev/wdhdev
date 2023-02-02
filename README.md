@@ -63,6 +63,7 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#130](https://github.com/open-domains/register/pull/130#pullrequestreview-1280637887) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [cli/cli](https://github.com/cli/cli)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4708](https://github.com/is-a-dev/register/pull/4708) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#6](https://github.com/free-domains/register/pull/6) **|** [free-domains/register](https://github.com/free-domains/register)<br>
@@ -72,9 +73,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4708](https://github.com/is-a-dev/register/pull/4708#pullrequestreview-1280444050) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#52561](https://github.com/microsoft/TypeScript/pull/52561) **|** [microsoft/TypeScript](https://github.com/microsoft/TypeScript)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#52561](https://github.com/microsoft/TypeScript/pull/52561#issuecomment-1413210288) **|** [microsoft/TypeScript](https://github.com/microsoft/TypeScript)<br>
-![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#52561](https://github.com/microsoft/TypeScript/pull/52561) **|** [microsoft/TypeScript](https://github.com/microsoft/TypeScript)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 2nd February, 2023 @ 09:23am UTC
+###### Last Updated: 2nd February, 2023 @ 09:30am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
