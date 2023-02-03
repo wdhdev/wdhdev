@@ -63,6 +63,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/register](https://github.com/WilliamDavidHarrison/register) **|** [free-domains/register](https://github.com/free-domains/register)<br>
+![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#7](https://github.com/free-domains/register/pull/7) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WilliamDavidHarrison/alert](https://github.com/WilliamDavidHarrison/alert)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4710](https://github.com/is-a-dev/register/pull/4710) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4710](https://github.com/is-a-dev/register/pull/4710#pullrequestreview-1282306054) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -71,10 +73,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/alert](https://github.com/WilliamDavidHarrison/alert)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4712](https://github.com/is-a-dev/register/pull/4712) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4712](https://github.com/is-a-dev/register/pull/4712#pullrequestreview-1282279934) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#2](https://github.com/WilliamDavidHarrison/free-for-life/pull/2) **|** [WilliamDavidHarrison/free-for-life](https://github.com/WilliamDavidHarrison/free-for-life)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#2](https://github.com/WilliamDavidHarrison/free-for-life/pull/2#pullrequestreview-1282260912) **|** [WilliamDavidHarrison/free-for-life](https://github.com/WilliamDavidHarrison/free-for-life)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 3rd February, 2023 @ 08:14am UTC
+###### Last Updated: 3rd February, 2023 @ 08:30am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
