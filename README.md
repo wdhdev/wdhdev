@@ -63,6 +63,7 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/alert](https://github.com/WilliamDavidHarrison/alert)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4712](https://github.com/is-a-dev/register/pull/4712) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4712](https://github.com/is-a-dev/register/pull/4712#pullrequestreview-1282279934) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#2](https://github.com/WilliamDavidHarrison/free-for-life/pull/2) **|** [WilliamDavidHarrison/free-for-life](https://github.com/WilliamDavidHarrison/free-for-life)<br>
@@ -72,9 +73,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#1699](https://github.com/publicsuffix/list/issues/1699#issuecomment-1414526670) **|** [publicsuffix/list](https://github.com/publicsuffix/list)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [defaultnamehere/textfac.es](https://github.com/defaultnamehere/textfac.es)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [defaultnamehere/verylegit.link](https://github.com/defaultnamehere/verylegit.link)<br>
-![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#131](https://github.com/open-domains/register/pull/131#pullrequestreview-1282076616) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 3rd February, 2023 @ 05:11am UTC
+###### Last Updated: 3rd February, 2023 @ 05:25am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
