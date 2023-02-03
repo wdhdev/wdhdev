@@ -63,6 +63,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#1](https://github.com/WilliamDavidHarrison/coming-soon/pull/1) **|** [WilliamDavidHarrison/coming-soon](https://github.com/WilliamDavidHarrison/coming-soon)<br>
+![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#1](https://github.com/WilliamDavidHarrison/coming-soon/pull/1#pullrequestreview-1283861839) **|** [WilliamDavidHarrison/coming-soon](https://github.com/WilliamDavidHarrison/coming-soon)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#2917](https://github.com/microsoft/winget-cli/pull/2917) **|** [microsoft/winget-cli](https://github.com/microsoft/winget-cli)<br>
 ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) [#2916](https://github.com/microsoft/winget-cli/issues/2916) **|** [microsoft/winget-cli](https://github.com/microsoft/winget-cli)<br>
 ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#2916](https://github.com/microsoft/winget-cli/issues/2916) **|** [microsoft/winget-cli](https://github.com/microsoft/winget-cli)<br>
@@ -71,10 +73,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#2913](https://github.com/microsoft/winget-cli/pull/2913) **|** [microsoft/winget-cli](https://github.com/microsoft/winget-cli)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [google/fonts](https://github.com/google/fonts)<br>
 ![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.3](https://github.com/free-domains/cli/releases/tag/v1.0.3) **|** [free-domains/cli](https://github.com/free-domains/cli)<br>
-![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.3](https://github.com/free-domains/cli/releases/tag/v1.0.3) **|** [free-domains/cli](https://github.com/free-domains/cli)<br>
-![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/register](https://github.com/WilliamDavidHarrison/register) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 3rd February, 2023 @ 22:39pm UTC
+###### Last Updated: 3rd February, 2023 @ 22:46pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
