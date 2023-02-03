@@ -63,6 +63,7 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) [#2916](https://github.com/microsoft/winget-cli/issues/2916) **|** [microsoft/winget-cli](https://github.com/microsoft/winget-cli)<br>
 ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#2916](https://github.com/microsoft/winget-cli/issues/2916) **|** [microsoft/winget-cli](https://github.com/microsoft/winget-cli)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#2915](https://github.com/microsoft/winget-cli/pull/2915) **|** [microsoft/winget-cli](https://github.com/microsoft/winget-cli)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#2914](https://github.com/microsoft/winget-cli/pull/2914) **|** [microsoft/winget-cli](https://github.com/microsoft/winget-cli)<br>
@@ -72,9 +73,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.3](https://github.com/free-domains/cli/releases/tag/v1.0.3) **|** [free-domains/cli](https://github.com/free-domains/cli)<br>
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/register](https://github.com/WilliamDavidHarrison/register) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.2](https://github.com/free-domains/cli/releases/tag/v1.0.2) **|** [free-domains/cli](https://github.com/free-domains/cli)<br>
-![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.1](https://github.com/free-domains/cli/releases/tag/v1.0.1) **|** [free-domains/cli](https://github.com/free-domains/cli)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 3rd February, 2023 @ 11:15am UTC
+###### Last Updated: 3rd February, 2023 @ 11:24am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
