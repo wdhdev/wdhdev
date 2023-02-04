@@ -50,6 +50,7 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
   <br>
 
   <!--RECENT_ACTIVITY:start-->
+![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.7](https://github.com/free-domains/cli/releases/tag/v1.0.7) **|** [free-domains/cli](https://github.com/free-domains/cli)<br>
 ![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.6](https://github.com/free-domains/cli/releases/tag/v1.0.6) **|** [free-domains/cli](https://github.com/free-domains/cli)<br>
 ![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.5](https://github.com/free-domains/cli/releases/tag/v1.0.5) **|** [free-domains/cli](https://github.com/free-domains/cli)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#597](https://github.com/thedev-id/thedev.id/pull/597) **|** [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)<br>
@@ -59,11 +60,10 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) [#38](https://github.com/EasyScriptJS/EasyScript/issues/38) **|** [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#25](https://github.com/Blooket-Cheats/Blooket-Hacks/pull/25#issuecomment-1416680246) **|** [Blooket-Cheats/Blooket-Hacks](https://github.com/Blooket-Cheats/Blooket-Hacks)<br>
 ![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.2.4](https://github.com/EasyScriptJS/EasyScript/releases/tag/v1.2.4) **|** [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#54](https://github.com/EasyScriptJS/EasyScript/pull/54) **|** [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
   <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 4th February, 2023 @ 07:47am UTC
+###### Last Updated: 4th February, 2023 @ 07:54am UTC
   <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
