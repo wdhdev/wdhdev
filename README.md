@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://wdh.gg">
+  <a href="https://wdh.gg/dev">
     <img src="https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/assets/logo.png" height="100" width="100">
   </a>
 </p>
@@ -10,6 +10,9 @@
 
 ## About Me
 Hi, I'm William, I am a self-taught frontend and backend developer.
+
+- 🌐 [Website](https://wdh.gg/dev)
+- 🐦 [Twitter](https://wdh.gg/twitter)
 
 [![Recent Activity](https://img.shields.io/badge/-Recent%20Activity-333333?style=for-the-badge&logo=github)](https://wdh.gg/activity)
 [![WakaTime](https://wakatime.com/badge/user/817e29c1-e1ac-4adc-936b-37bfa447c165.svg?style=for-the-badge)](https://wdh.gg/wakatime)
