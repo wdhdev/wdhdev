@@ -50,6 +50,9 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
   <br>
 
   <!--RECENT_ACTIVITY:start-->
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4717](https://github.com/is-a-dev/register/pull/4717#pullrequestreview-1284014647) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4718](https://github.com/is-a-dev/register/pull/4718) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4718](https://github.com/is-a-dev/register/pull/4718#pullrequestreview-1284014563) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#25](https://github.com/Blooket-Cheats/Blooket-Hacks/pull/25) **|** [Blooket-Cheats/Blooket-Hacks](https://github.com/Blooket-Cheats/Blooket-Hacks)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [hackthegamezJJ/Gimkit-Hacks](https://github.com/hackthegamezJJ/Gimkit-Hacks)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#25](https://github.com/Blooket-Cheats/Blooket-Hacks/pull/25) **|** [Blooket-Cheats/Blooket-Hacks](https://github.com/Blooket-Cheats/Blooket-Hacks)<br>
@@ -57,13 +60,10 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Blooket-Cheats/Blooket-Hacks](https://github.com/Blooket-Cheats/Blooket-Hacks)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [free-for-life/free-for-life.github.io](https://github.com/free-for-life/free-for-life.github.io)<br>
 ![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.4](https://github.com/free-domains/cli/releases/tag/v1.0.4) **|** [free-domains/cli](https://github.com/free-domains/cli)<br>
-![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.4](https://github.com/free-domains/cli/releases/tag/v1.0.4) **|** [free-domains/cli](https://github.com/free-domains/cli)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [sindresorhus/np](https://github.com/sindresorhus/np)<br>
-![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/open-domains-cli](https://github.com/WilliamDavidHarrison/open-domains-cli)<br>
   <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 4th February, 2023 @ 04:20am UTC
+###### Last Updated: 4th February, 2023 @ 04:33am UTC
   <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
