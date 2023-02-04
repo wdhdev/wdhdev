@@ -50,6 +50,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
   <br>
 
   <!--RECENT_ACTIVITY:start-->
+![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) [#51](https://github.com/EasyScriptJS/EasyScript/issues/51) **|** [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) [#38](https://github.com/EasyScriptJS/EasyScript/issues/38) **|** [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#25](https://github.com/Blooket-Cheats/Blooket-Hacks/pull/25#issuecomment-1416680246) **|** [Blooket-Cheats/Blooket-Hacks](https://github.com/Blooket-Cheats/Blooket-Hacks)<br>
 ![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.2.4](https://github.com/EasyScriptJS/EasyScript/releases/tag/v1.2.4) **|** [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#54](https://github.com/EasyScriptJS/EasyScript/pull/54) **|** [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
@@ -58,12 +60,10 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#10](https://github.com/free-domains/register/pull/10) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#10](https://github.com/free-domains/register/pull/10#pullrequestreview-1284018065) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#10](https://github.com/free-domains/register/pull/10#pullrequestreview-1284017892) **|** [free-domains/register](https://github.com/free-domains/register)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4717](https://github.com/is-a-dev/register/pull/4717) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4717](https://github.com/is-a-dev/register/pull/4717#pullrequestreview-1284014647) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
   <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 4th February, 2023 @ 06:54am UTC
+###### Last Updated: 4th February, 2023 @ 07:06am UTC
   <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
