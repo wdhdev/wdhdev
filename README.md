@@ -50,6 +50,8 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
   <br>
 
   <!--RECENT_ACTIVITY:start-->
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4719](https://github.com/is-a-dev/register/pull/4719) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4719](https://github.com/is-a-dev/register/pull/4719#pullrequestreview-1284051163) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#674](https://github.com/xdesro/personalsit.es/pull/674) **|** [xdesro/personalsit.es](https://github.com/xdesro/personalsit.es)<br>
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/personalsit.es](https://github.com/WilliamDavidHarrison/personalsit.es) **|** [xdesro/personalsit.es](https://github.com/xdesro/personalsit.es)<br>
 ![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.8](https://github.com/free-domains/cli/releases/tag/v1.0.8) **|** [free-domains/cli](https://github.com/free-domains/cli)<br>
@@ -58,12 +60,10 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/register](https://github.com/WilliamDavidHarrison/register) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.7](https://github.com/free-domains/cli/releases/tag/v1.0.7) **|** [free-domains/cli](https://github.com/free-domains/cli)<br>
 ![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.6](https://github.com/free-domains/cli/releases/tag/v1.0.6) **|** [free-domains/cli](https://github.com/free-domains/cli)<br>
-![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.5](https://github.com/free-domains/cli/releases/tag/v1.0.5) **|** [free-domains/cli](https://github.com/free-domains/cli)<br>
-![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#597](https://github.com/thedev-id/thedev.id/pull/597) **|** [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)<br>
   <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 4th February, 2023 @ 11:08am UTC
+###### Last Updated: 4th February, 2023 @ 11:18am UTC
   <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
