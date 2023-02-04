@@ -50,6 +50,7 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
   <br>
 
   <!--RECENT_ACTIVITY:start-->
+![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#25](https://github.com/Blooket-Cheats/Blooket-Hacks/pull/25) **|** [Blooket-Cheats/Blooket-Hacks](https://github.com/Blooket-Cheats/Blooket-Hacks)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [hackthegamezJJ/Gimkit-Hacks](https://github.com/hackthegamezJJ/Gimkit-Hacks)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#25](https://github.com/Blooket-Cheats/Blooket-Hacks/pull/25) **|** [Blooket-Cheats/Blooket-Hacks](https://github.com/Blooket-Cheats/Blooket-Hacks)<br>
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/Blooket-Hacks-1](https://github.com/WilliamDavidHarrison/Blooket-Hacks-1) **|** [Blooket-Cheats/Blooket-Hacks](https://github.com/Blooket-Cheats/Blooket-Hacks)<br>
@@ -59,11 +60,10 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 ![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.4](https://github.com/free-domains/cli/releases/tag/v1.0.4) **|** [free-domains/cli](https://github.com/free-domains/cli)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [sindresorhus/np](https://github.com/sindresorhus/np)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/open-domains-cli](https://github.com/WilliamDavidHarrison/open-domains-cli)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [EasyScriptJS/EasyScriptTS](https://github.com/EasyScriptJS/EasyScriptTS)<br>
   <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 4th February, 2023 @ 00:58am UTC
+###### Last Updated: 4th February, 2023 @ 02:11am UTC
   <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
