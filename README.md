@@ -20,20 +20,20 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
   <summary>🛠️ Currently Working On</summary>
   <br>
 
-  [![Free Domains](https://img.shields.io/badge/-Free%20Domains-333333?style=for-the-badge)](https://wdh.gg/free-domains)
+  [![Easy Script](https://img.shields.io/badge/Easy%20Script-333333?style=for-the-badge)](https://wdh.gg/easyscript)
 
 </details>
 
-<details>
+<details open>
   <summary>💼 Roles</summary>
   <br>
 
   [![Free Domains](https://img.shields.io/badge/Free%20Domains-Owner-222222?style=for-the-badge)](https://wdh.gg/free-domains)
+  [![Free For Life](https://img.shields.io/badge/Free%20For%20Life-Owner-222222?style=for-the-badge)](https://wdh.gg/free-for-life)
 
   [![Future Focus Accounting](https://img.shields.io/badge/Future%20Focus%20Accounting-Developer-222222?style=for-the-badge)](https://wdh.gg/ffa/github)
 
   [![Open Domains](https://img.shields.io/badge/Open%20Domains-Maintainer-222222?style=for-the-badge)](https://wdh.gg/open-domains)
-
   [![is-a.dev](https://img.shields.io/badge/is--a.dev-Maintainer-222222?style=for-the-badge)](https://wdh.gg/is-a-dev)
 
   [![is-a-good.dev](https://img.shields.io/badge/is--a--good.dev-Helper-222222?style=for-the-badge)](https://wdh.gg/is-a-good-dev)
@@ -41,6 +41,13 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
 </details>
 
 ---
+
+<details open>
+  <summary>📈 Recent Activity</summary>
+  <br>
+
+  
+</details>
 
 <details>
   <summary>📊 GitHub Stats</summary>
@@ -59,22 +66,3 @@ Hi, I'm William, I am a self-taught frontend and backend developer.
   ![Snake](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/blob/output/github-contribution-grid-snake.svg)
 
 </details>
-
-## Recent Activity
-
-<!--RECENT_ACTIVITY:start-->
-![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [free-for-life/free-for-life.github.io](https://github.com/free-for-life/free-for-life.github.io)<br>
-![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.4](https://github.com/free-domains/cli/releases/tag/v1.0.4) **|** [free-domains/cli](https://github.com/free-domains/cli)<br>
-![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.4](https://github.com/free-domains/cli/releases/tag/v1.0.4) **|** [free-domains/cli](https://github.com/free-domains/cli)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [sindresorhus/np](https://github.com/sindresorhus/np)<br>
-![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/open-domains-cli](https://github.com/WilliamDavidHarrison/open-domains-cli)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [EasyScriptJS/EasyScriptTS](https://github.com/EasyScriptJS/EasyScriptTS)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4716](https://github.com/is-a-dev/register/pull/4716) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4716](https://github.com/is-a-dev/register/pull/4716#pullrequestreview-1283877742) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4715](https://github.com/is-a-dev/register/pull/4715#pullrequestreview-1283874417) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4714](https://github.com/is-a-dev/register/pull/4714#pullrequestreview-1283872479) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-<!--RECENT_ACTIVITY:end-->
-
-<!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 3rd February, 2023 @ 23:56pm UTC
-<!--RECENT_ACTIVITY:last_update_end-->
