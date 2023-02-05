@@ -51,6 +51,7 @@ If you have any questions about me, you can ask me [here](https://github.com/Wil
   <br>
 
   <!--RECENT_ACTIVITY:start-->
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4725](https://github.com/is-a-dev/register/pull/4725) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4725](https://github.com/is-a-dev/register/pull/4725#pullrequestreview-1284371621) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4724](https://github.com/is-a-dev/register/pull/4724#pullrequestreview-1284365177) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4723](https://github.com/is-a-dev/register/pull/4723#pullrequestreview-1284364863) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -60,11 +61,10 @@ If you have any questions about me, you can ask me [here](https://github.com/Wil
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4722](https://github.com/is-a-dev/register/pull/4722#pullrequestreview-1284363454) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/codedit-theme-vsc](https://github.com/SX-9/codedit-theme-vsc)<br>
 ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#7](https://github.com/blueedgetechno/blueweb/pull/7) **|** [blueedgetechno/blueweb](https://github.com/blueedgetechno/blueweb)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WilliamDavidHarrison/hello-world-extension](https://github.com/WilliamDavidHarrison/hello-world-extension)<br>
   <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 5th February, 2023 @ 23:17pm UTC
+###### Last Updated: 5th February, 2023 @ 23:27pm UTC
   <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
