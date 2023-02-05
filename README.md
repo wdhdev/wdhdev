@@ -53,6 +53,8 @@ If you have any questions about me, you can ask me [here](https://github.com/Wil
   <br>
 
   <!--RECENT_ACTIVITY:start-->
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WHRegistry/website](https://github.com/WHRegistry/website)<br>
+![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WHRegistry/website](https://github.com/WHRegistry/website)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4593](https://github.com/is-a-dev/register/pull/4593) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4593](https://github.com/is-a-dev/register/pull/4593#pullrequestreview-1284120844) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#137](https://github.com/open-domains/register/pull/137) **|** [open-domains/register](https://github.com/open-domains/register)<br>
@@ -61,12 +63,10 @@ If you have any questions about me, you can ask me [here](https://github.com/Wil
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4719](https://github.com/is-a-dev/register/pull/4719#pullrequestreview-1284051163) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#674](https://github.com/xdesro/personalsit.es/pull/674) **|** [xdesro/personalsit.es](https://github.com/xdesro/personalsit.es)<br>
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/personalsit.es](https://github.com/WilliamDavidHarrison/personalsit.es) **|** [xdesro/personalsit.es](https://github.com/xdesro/personalsit.es)<br>
-![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.8](https://github.com/free-domains/cli/releases/tag/v1.0.8) **|** [free-domains/cli](https://github.com/free-domains/cli)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#11](https://github.com/free-domains/register/pull/11) **|** [free-domains/register](https://github.com/free-domains/register)<br>
   <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 5th February, 2023 @ 04:07am UTC
+###### Last Updated: 5th February, 2023 @ 04:26am UTC
   <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
