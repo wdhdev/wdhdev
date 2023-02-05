@@ -6,7 +6,9 @@
 
 <h1 align="center">👋 Hi, I'm William</h1>
 
-🌐 [Website](https://wdh.gg/dev) **|** 🐦 [Twitter](https://wdh.gg/twitter)
+🌐 [Website](https://wdh.gg/dev)
+
+🐦 [Twitter](https://wdh.gg/twitter)
 
 [![Discord](https://lanyard.cnrad.dev/api/853158265466257448)](https://wdh.gg/discord/account)
 
