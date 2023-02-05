@@ -9,7 +9,7 @@
 [![Discord](https://lanyard.cnrad.dev/api/853158265466257448)](https://wdh.gg/discord/account)
 
 ## About Me
-Hi, I'm William, I am a self-taught frontend and backend developer.
+Hi, I'm William, I am a self-taught full-stack developer.
 
 - 🌐 [Website](https://wdh.gg/dev)
 - 🐦 [Twitter](https://wdh.gg/twitter)
