@@ -53,20 +53,20 @@ If you have any questions about me, you can ask me [here](https://github.com/Wil
   <br>
 
   <!--RECENT_ACTIVITY:start-->
+![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#21](https://github.com/free-domains/register/pull/21) **|** [free-domains/register](https://github.com/free-domains/register)<br>
+![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/register](https://github.com/WilliamDavidHarrison/register) **|** [free-domains/register](https://github.com/free-domains/register)<br>
+![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/register](https://github.com/WilliamDavidHarrison/register) **|** [free-domains/register](https://github.com/free-domains/register)<br>
+![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#20](https://github.com/free-domains/register/pull/20) **|** [free-domains/register](https://github.com/free-domains/register)<br>
+![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#20](https://github.com/free-domains/register/pull/20) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/register](https://github.com/WilliamDavidHarrison/register) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#19](https://github.com/free-domains/register/pull/19) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#19](https://github.com/free-domains/register/pull/19) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/register](https://github.com/WilliamDavidHarrison/register) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#18](https://github.com/free-domains/register/pull/18) **|** [free-domains/register](https://github.com/free-domains/register)<br>
-![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#18](https://github.com/free-domains/register/pull/18) **|** [free-domains/register](https://github.com/free-domains/register)<br>
-![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/register](https://github.com/WilliamDavidHarrison/register) **|** [free-domains/register](https://github.com/free-domains/register)<br>
-![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#17](https://github.com/free-domains/register/pull/17) **|** [free-domains/register](https://github.com/free-domains/register)<br>
-![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#17](https://github.com/free-domains/register/pull/17) **|** [free-domains/register](https://github.com/free-domains/register)<br>
-![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.1.0](https://github.com/free-domains/cli/releases/tag/v1.1.0) **|** [free-domains/cli](https://github.com/free-domains/cli)<br>
   <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 5th February, 2023 @ 06:19am UTC
+###### Last Updated: 5th February, 2023 @ 06:32am UTC
   <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
