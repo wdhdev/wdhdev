@@ -53,6 +53,7 @@ If you have any questions about me, you can ask me [here](https://github.com/Wil
   <br>
 
   <!--RECENT_ACTIVITY:start-->
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [cli/cli](https://github.com/cli/cli)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [xdesro/personalsit.es](https://github.com/xdesro/personalsit.es)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WHRegistry/website](https://github.com/WHRegistry/website)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WHRegistry/website](https://github.com/WHRegistry/website)<br>
@@ -62,11 +63,10 @@ If you have any questions about me, you can ask me [here](https://github.com/Wil
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#137](https://github.com/open-domains/register/pull/137#pullrequestreview-1284120774) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4719](https://github.com/is-a-dev/register/pull/4719) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4719](https://github.com/is-a-dev/register/pull/4719#pullrequestreview-1284051163) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#674](https://github.com/xdesro/personalsit.es/pull/674) **|** [xdesro/personalsit.es](https://github.com/xdesro/personalsit.es)<br>
   <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 5th February, 2023 @ 04:58am UTC
+###### Last Updated: 5th February, 2023 @ 05:12am UTC
   <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
