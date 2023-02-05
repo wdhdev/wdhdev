@@ -11,6 +11,8 @@
 ## About Me
 Hi, I'm William, I am a self-taught full-stack developer.
 
+If you have any questions about me, you can ask me [here](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/issues/new).
+
 - 🌐 [Website](https://wdh.gg/dev)
 - 🐦 [Twitter](https://wdh.gg/twitter)
 
