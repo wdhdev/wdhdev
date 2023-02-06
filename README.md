@@ -51,6 +51,8 @@ If you have any questions about me, you can ask me [here](https://github.com/Wil
   <br>
 
   <!--RECENT_ACTIVITY:start-->
+![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#143](https://github.com/open-domains/register/pull/143#issuecomment-1418596918) **|** [open-domains/register](https://github.com/open-domains/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#143](https://github.com/open-domains/register/pull/143#pullrequestreview-1284626786) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4726](https://github.com/is-a-dev/register/pull/4726#pullrequestreview-1284625041) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#141](https://github.com/open-domains/register/pull/141) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#141](https://github.com/open-domains/register/pull/141#pullrequestreview-1284624239) **|** [open-domains/register](https://github.com/open-domains/register)<br>
@@ -59,12 +61,10 @@ If you have any questions about me, you can ask me [here](https://github.com/Wil
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [free-domains/admin-cli](https://github.com/free-domains/admin-cli)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [sveltejs/svelte](https://github.com/sveltejs/svelte)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [hackthegamezJJ/Gimkit-Hacks](https://github.com/hackthegamezJJ/Gimkit-Hacks)<br>
-![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WHRegistry/domains](https://github.com/WHRegistry/domains)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4725](https://github.com/is-a-dev/register/pull/4725) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
   <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 6th February, 2023 @ 06:51am UTC
+###### Last Updated: 6th February, 2023 @ 06:57am UTC
   <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
