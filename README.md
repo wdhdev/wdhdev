@@ -51,20 +51,20 @@ If you have any questions about me, you can ask me [here](https://github.com/Wil
   <br>
 
   <!--RECENT_ACTIVITY:start-->
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4726](https://github.com/is-a-dev/register/pull/4726#pullrequestreview-1286109888) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [google/nomulus](https://github.com/google/nomulus)<br>
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4730](https://github.com/is-a-dev/register/pull/4730) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4730](https://github.com/is-a-dev/register/pull/4730#pullrequestreview-1286099593) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#23](https://github.com/free-domains/register/pull/23#pullrequestreview-1285175493) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#148](https://github.com/open-domains/register/pull/148#pullrequestreview-1285048268) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#147](https://github.com/open-domains/register/pull/147#pullrequestreview-1284967423) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#145](https://github.com/open-domains/register/pull/145#pullrequestreview-1284951783) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#146](https://github.com/open-domains/register/pull/146#pullrequestreview-1284949000) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#146](https://github.com/open-domains/register/pull/146#pullrequestreview-1284947805) **|** [open-domains/register](https://github.com/open-domains/register)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Phineas/lanyard](https://github.com/Phineas/lanyard)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [DanBot-Hosting/DanBotHostingStats](https://github.com/DanBot-Hosting/DanBotHostingStats)<br>
-![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#143](https://github.com/open-domains/register/pull/143#issuecomment-1418596918) **|** [open-domains/register](https://github.com/open-domains/register)<br>
   <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 6th February, 2023 @ 22:07pm UTC
+###### Last Updated: 6th February, 2023 @ 22:23pm UTC
   <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
