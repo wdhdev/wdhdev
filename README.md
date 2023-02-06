@@ -51,6 +51,7 @@ If you have any questions about me, you can ask me [here](https://github.com/Wil
   <br>
 
   <!--RECENT_ACTIVITY:start-->
+![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [free-domains/admin-cli](https://github.com/free-domains/admin-cli)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [sveltejs/svelte](https://github.com/sveltejs/svelte)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [hackthegamezJJ/Gimkit-Hacks](https://github.com/hackthegamezJJ/Gimkit-Hacks)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WHRegistry/domains](https://github.com/WHRegistry/domains)<br>
@@ -60,11 +61,10 @@ If you have any questions about me, you can ask me [here](https://github.com/Wil
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4723](https://github.com/is-a-dev/register/pull/4723#pullrequestreview-1284364863) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#140](https://github.com/open-domains/register/pull/140) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#140](https://github.com/open-domains/register/pull/140#pullrequestreview-1284364330) **|** [open-domains/register](https://github.com/open-domains/register)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4722](https://github.com/is-a-dev/register/pull/4722) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
   <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 6th February, 2023 @ 03:26am UTC
+###### Last Updated: 6th February, 2023 @ 03:34am UTC
   <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
