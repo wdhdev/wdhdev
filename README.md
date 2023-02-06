@@ -51,6 +51,7 @@ If you have any questions about me, you can ask me [here](https://github.com/Wil
   <br>
 
   <!--RECENT_ACTIVITY:start-->
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Phineas/lanyard](https://github.com/Phineas/lanyard)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [DanBot-Hosting/DanBotHostingStats](https://github.com/DanBot-Hosting/DanBotHostingStats)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#143](https://github.com/open-domains/register/pull/143#issuecomment-1418596918) **|** [open-domains/register](https://github.com/open-domains/register)<br>
@@ -60,11 +61,10 @@ If you have any questions about me, you can ask me [here](https://github.com/Wil
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#141](https://github.com/open-domains/register/pull/141#pullrequestreview-1284624239) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#142](https://github.com/open-domains/register/pull/142) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#55](https://github.com/EasyScriptJS/EasyScript/pull/55) **|** [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
-![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [free-domains/admin-cli](https://github.com/free-domains/admin-cli)<br>
   <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 6th February, 2023 @ 10:28am UTC
+###### Last Updated: 6th February, 2023 @ 10:37am UTC
   <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
