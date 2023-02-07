@@ -51,6 +51,7 @@ If you have any questions about me, you can ask me [here](https://github.com/Wil
   <br>
 
   <!--RECENT_ACTIVITY:start-->
+![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#28](https://github.com/free-domains/register/pull/28) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#27](https://github.com/free-domains/register/pull/27) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#27](https://github.com/free-domains/register/pull/27) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#26](https://github.com/free-domains/register/pull/26) **|** [free-domains/register](https://github.com/free-domains/register)<br>
@@ -60,11 +61,10 @@ If you have any questions about me, you can ask me [here](https://github.com/Wil
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#25](https://github.com/free-domains/register/pull/25) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/register](https://github.com/WilliamDavidHarrison/register) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#24](https://github.com/free-domains/register/pull/24) **|** [free-domains/register](https://github.com/free-domains/register)<br>
-![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#24](https://github.com/free-domains/register/pull/24) **|** [free-domains/register](https://github.com/free-domains/register)<br>
   <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 7th February, 2023 @ 02:55am UTC
+###### Last Updated: 7th February, 2023 @ 03:10am UTC
   <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
