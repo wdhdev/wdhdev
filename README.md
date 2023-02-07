@@ -51,20 +51,20 @@ If you have any questions about me, you can ask me [here](https://github.com/Wil
   <br>
 
   <!--RECENT_ACTIVITY:start-->
-![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#24](https://github.com/free-domains/register/pull/24) **|** [free-domains/register](https://github.com/free-domains/register)<br>
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#27](https://github.com/free-domains/register/pull/27) **|** [free-domains/register](https://github.com/free-domains/register)<br>
+![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#27](https://github.com/free-domains/register/pull/27) **|** [free-domains/register](https://github.com/free-domains/register)<br>
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#26](https://github.com/free-domains/register/pull/26) **|** [free-domains/register](https://github.com/free-domains/register)<br>
+![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#26](https://github.com/free-domains/register/pull/26) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/register](https://github.com/WilliamDavidHarrison/register) **|** [free-domains/register](https://github.com/free-domains/register)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [DEEM-0001/Logger-Bot](https://github.com/DEEM-0001/Logger-Bot)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4731](https://github.com/is-a-dev/register/pull/4731) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4731](https://github.com/is-a-dev/register/pull/4731#pullrequestreview-1286157219) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4731](https://github.com/is-a-dev/register/pull/4731#pullrequestreview-1286156430) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4727](https://github.com/is-a-dev/register/pull/4727) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4727](https://github.com/is-a-dev/register/pull/4727#pullrequestreview-1286149098) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4727](https://github.com/is-a-dev/register/pull/4727#pullrequestreview-1286120797) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4727](https://github.com/is-a-dev/register/pull/4727#pullrequestreview-1286118975) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#25](https://github.com/free-domains/register/pull/25) **|** [free-domains/register](https://github.com/free-domains/register)<br>
+![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#25](https://github.com/free-domains/register/pull/25) **|** [free-domains/register](https://github.com/free-domains/register)<br>
+![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/register](https://github.com/WilliamDavidHarrison/register) **|** [free-domains/register](https://github.com/free-domains/register)<br>
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#24](https://github.com/free-domains/register/pull/24) **|** [free-domains/register](https://github.com/free-domains/register)<br>
+![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#24](https://github.com/free-domains/register/pull/24) **|** [free-domains/register](https://github.com/free-domains/register)<br>
   <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 7th February, 2023 @ 00:49am UTC
+###### Last Updated: 7th February, 2023 @ 02:05am UTC
   <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
