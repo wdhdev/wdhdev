@@ -51,20 +51,20 @@ If you have any questions about me, you can ask me [here](https://github.com/Wil
   <br>
 
   <!--RECENT_ACTIVITY:start-->
+![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#2](https://github.com/free-domains/reserved-register/pull/2) **|** [free-domains/reserved-register](https://github.com/free-domains/reserved-register)<br>
+![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#2](https://github.com/free-domains/reserved-register/pull/2) **|** [free-domains/reserved-register](https://github.com/free-domains/reserved-register)<br>
+![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#1](https://github.com/free-domains/reserved-register/pull/1) **|** [free-domains/reserved-register](https://github.com/free-domains/reserved-register)<br>
+![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/reserved-register-1](https://github.com/WilliamDavidHarrison/reserved-register-1) **|** [free-domains/reserved-register](https://github.com/free-domains/reserved-register)<br>
 ![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.1.0](https://github.com/free-domains/admin-cli/releases/tag/v1.1.0) **|** [free-domains/admin-cli](https://github.com/free-domains/admin-cli)<br>
 ![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.2](https://github.com/free-domains/admin-cli/releases/tag/v1.0.2) **|** [free-domains/admin-cli](https://github.com/free-domains/admin-cli)<br>
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/register](https://github.com/WilliamDavidHarrison/register) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.1](https://github.com/free-domains/admin-cli/releases/tag/v1.0.1) **|** [free-domains/admin-cli](https://github.com/free-domains/admin-cli)<br>
 ![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.0](https://github.com/free-domains/admin-cli/releases/tag/v1.0.0) **|** [free-domains/admin-cli](https://github.com/free-domains/admin-cli)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [andrewstech/is-a-dev-raw-api](https://github.com/andrewstech/is-a-dev-raw-api)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [free-domains/raw](https://github.com/free-domains/raw)<br>
-![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [free-domains/raw](https://github.com/free-domains/raw)<br>
-![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [free-domains/usernames-admin-cli](https://github.com/free-domains/usernames-admin-cli)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [free-domains/admin-cli](https://github.com/free-domains/admin-cli)<br>
   <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 9th February, 2023 @ 05:48am UTC
+###### Last Updated: 9th February, 2023 @ 05:55am UTC
   <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
