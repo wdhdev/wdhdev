@@ -51,6 +51,7 @@ If you have any questions about me, you can ask me [here](https://github.com/Wil
   <br>
 
   <!--RECENT_ACTIVITY:start-->
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [js-org/js.org](https://github.com/js-org/js.org)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [website-scraper/node-website-scraper](https://github.com/website-scraper/node-website-scraper)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#2](https://github.com/mtgsquad/website/pull/2) **|** [mtgsquad/website](https://github.com/mtgsquad/website)<br>
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/website-1](https://github.com/WilliamDavidHarrison/website-1) **|** [mtgsquad/website](https://github.com/mtgsquad/website)<br>
@@ -60,11 +61,10 @@ If you have any questions about me, you can ask me [here](https://github.com/Wil
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/register-1](https://github.com/WilliamDavidHarrison/register-1) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#31](https://github.com/free-domains/register/pull/31) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#31](https://github.com/free-domains/register/pull/31) **|** [free-domains/register](https://github.com/free-domains/register)<br>
-![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/register](https://github.com/WilliamDavidHarrison/register) **|** [free-domains/register](https://github.com/free-domains/register)<br>
   <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 9th February, 2023 @ 11:31am UTC
+###### Last Updated: 9th February, 2023 @ 11:38am UTC
   <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
