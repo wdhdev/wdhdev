@@ -48,6 +48,7 @@ If you have any questions about me, you can ask me [here](https://github.com/Wil
   <br>
 
   <!--RECENT_ACTIVITY:start-->
+![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#16](https://github.com/WilliamDavidHarrison/website/pull/16) **|** [WilliamDavidHarrison/website](https://github.com/WilliamDavidHarrison/website)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4763](https://github.com/is-a-dev/register/pull/4763) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4763](https://github.com/is-a-dev/register/pull/4763#pullrequestreview-1294464270) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#2](https://github.com/mtgsquad/website/pull/2) **|** [mtgsquad/website](https://github.com/mtgsquad/website)<br>
@@ -57,11 +58,10 @@ If you have any questions about me, you can ask me [here](https://github.com/Wil
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4760](https://github.com/is-a-dev/register/pull/4760) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4760](https://github.com/is-a-dev/register/pull/4760#pullrequestreview-1294460841) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime)<br>
-![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#1](https://github.com/wakatime/legal/pull/1) **|** [wakatime/legal](https://github.com/wakatime/legal)<br>
   <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 11th February, 2023 @ 08:46am UTC
+###### Last Updated: 11th February, 2023 @ 08:53am UTC
   <!--RECENT_ACTIVITY:last_update_end-->
 
   ---
