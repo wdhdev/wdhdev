@@ -6,7 +6,7 @@
 
 <h1 align="center">👋 Hi, I'm William</h1>
 
-🌐 [Website](https://wdh.gg/dev) 🐦 [Twitter](https://wdh.gg/twitter)
+[![WakaTime](https://wakatime.com/badge/user/817e29c1-e1ac-4adc-936b-37bfa447c165.svg?style=for-the-badge)](https://wdh.gg/wakatime)
 
 [![Discord](https://lanyard.cnrad.dev/api/853158265466257448)](https://wdh.gg/discord/account)
 
@@ -16,9 +16,6 @@ Hi, I'm William, I am a self-taught full-stack developer.
 If you have any questions about me, you can ask me [here](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/issues/new).
 
 [![Recent Activity](https://img.shields.io/badge/-Recent%20Activity-333333?style=for-the-badge&logo=github)](https://wdh.gg/activity)
-[![WakaTime](https://wakatime.com/badge/user/817e29c1-e1ac-4adc-936b-37bfa447c165.svg?style=for-the-badge)](https://wdh.gg/wakatime)
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=4kteqc82me1u1vxevzly2azqs&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://wdh.gg/spotify)
 
 <details open>
   <summary>🛠️ Currently Working On</summary>
@@ -67,6 +64,8 @@ If you have any questions about me, you can ask me [here](https://github.com/Wil
 ###### Last Updated: 11th February, 2023 @ 08:11am UTC
   <!--RECENT_ACTIVITY:last_update_end-->
 
+  ---
+
 </details>
 
 <details>
@@ -77,6 +76,8 @@ If you have any questions about me, you can ask me [here](https://github.com/Wil
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=williamdavidharrison&theme=algolia&layout=compact&border_radius=8)
 
+  ---
+
 </details>
 
 <details>
@@ -84,5 +85,7 @@ If you have any questions about me, you can ask me [here](https://github.com/Wil
   <br>
 
   ![Snake](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/blob/output/github-contribution-grid-snake.svg)
+
+  ---
 
 </details>
