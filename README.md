@@ -49,6 +49,7 @@ If you have any questions about me, you can ask me [here](https://github.com/Wil
   <br>
 
   <!--RECENT_ACTIVITY:start-->
+![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4776](https://github.com/is-a-dev/register/pull/4776#pullrequestreview-1294663857) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4775](https://github.com/is-a-dev/register/pull/4775) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4775](https://github.com/is-a-dev/register/pull/4775#pullrequestreview-1294658738) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4775](https://github.com/is-a-dev/register/pull/4775#pullrequestreview-1294658150) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -58,11 +59,10 @@ If you have any questions about me, you can ask me [here](https://github.com/Wil
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [shobrook/stackoverflow.gg](https://github.com/shobrook/stackoverflow.gg)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#4773](https://github.com/is-a-dev/register/issues/4773#issuecomment-1426935331) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4772](https://github.com/is-a-dev/register/pull/4772) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4772](https://github.com/is-a-dev/register/pull/4772#pullrequestreview-1294643216) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
   <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 12th February, 2023 @ 07:19am UTC
+###### Last Updated: 12th February, 2023 @ 07:26am UTC
   <!--RECENT_ACTIVITY:last_update_end-->
 
   ---
