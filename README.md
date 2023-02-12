@@ -15,6 +15,7 @@ Hi, I'm William, I am a self-taught full-stack developer.
 
 If you have any questions about me, you can ask me [here](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/issues/new).
 
+[![Archive](https://img.shields.io/badge/-Archive-333333?style=for-the-badge&logo=github)](https://wdh.gg/archive)
 [![Recent Activity](https://img.shields.io/badge/-Recent%20Activity-333333?style=for-the-badge&logo=github)](https://wdh.gg/activity)
 
 <details open>
