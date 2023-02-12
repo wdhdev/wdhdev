@@ -48,6 +48,7 @@ If you have any questions about me, you can ask me [here](https://github.com/Wil
   <br>
 
   <!--RECENT_ACTIVITY:start-->
+![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#4773](https://github.com/is-a-dev/register/issues/4773#issuecomment-1426935331) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4772](https://github.com/is-a-dev/register/pull/4772) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4772](https://github.com/is-a-dev/register/pull/4772#pullrequestreview-1294643216) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4768](https://github.com/is-a-dev/register/pull/4768) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -57,11 +58,10 @@ If you have any questions about me, you can ask me [here](https://github.com/Wil
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [cpina/github-action-push-to-another-repository](https://github.com/cpina/github-action-push-to-another-repository)<br>
 ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#4771](https://github.com/is-a-dev/register/pull/4771) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#167](https://github.com/open-domains/register/pull/167#pullrequestreview-1294640086) **|** [open-domains/register](https://github.com/open-domains/register)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#35](https://github.com/free-domains/register/pull/35) **|** [free-domains/register](https://github.com/free-domains/register)<br>
   <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 12th February, 2023 @ 03:40am UTC
+###### Last Updated: 12th February, 2023 @ 03:47am UTC
   <!--RECENT_ACTIVITY:last_update_end-->
 
   ---
