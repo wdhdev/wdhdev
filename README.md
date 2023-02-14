@@ -10,6 +10,12 @@
 
 [![Discord](https://lanyard.cnrad.dev/api/853158265466257448)](https://wdh.gg/discord/account)
 
+## Projects
+
+- [Easy Script](https://easyscript.dev) - A npm package which aims to make coding in JavaScript easy.
+- [Free Domains](https://freesubdomains.org) - A service which gives users the ability to register free subdomains.
+- [Free For Life](https://free-for.life) - A massive list of free products for everyone.
+
 ## About Me
 Hi, I'm William, I am a self-taught full-stack developer.
 
