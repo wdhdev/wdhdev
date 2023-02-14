@@ -56,18 +56,18 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4798](https://github.com/is-a-dev/register/pull/4798#pullrequestreview-1298503306) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#39](https://github.com/free-domains/register/pull/39) **|** [free-domains/register](https://github.com/free-domains/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#39](https://github.com/free-domains/register/pull/39#pullrequestreview-1298500401) **|** [free-domains/register](https://github.com/free-domains/register)<br>
+![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#38](https://github.com/free-domains/register/pull/38#issuecomment-1430437160) **|** [free-domains/register](https://github.com/free-domains/register)<br>
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#38](https://github.com/free-domains/register/pull/38) **|** [free-domains/register](https://github.com/free-domains/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#38](https://github.com/free-domains/register/pull/38#pullrequestreview-1298499697) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![added_member](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/People.svg) [free-domains/raw-api](https://github.com/free-domains/raw-api)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [free-domains/raw](https://github.com/free-domains/raw)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#37](https://github.com/free-domains/register/pull/37) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#37](https://github.com/free-domains/register/pull/37#pullrequestreview-1297239705) **|** [free-domains/register](https://github.com/free-domains/register)<br>
-![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#82](https://github.com/sethcottle/littlelink/pull/82) **|** [sethcottle/littlelink](https://github.com/sethcottle/littlelink)<br>
-![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) [#81](https://github.com/sethcottle/littlelink/issues/81) **|** [sethcottle/littlelink](https://github.com/sethcottle/littlelink)<br>
-![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/icons](https://github.com/WilliamDavidHarrison/icons) **|** [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)<br>
-![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4796](https://github.com/is-a-dev/register/pull/4796#pullrequestreview-1297165979) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4797](https://github.com/is-a-dev/register/pull/4797#pullrequestreview-1297164421) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#4795](https://github.com/is-a-dev/register/pull/4795) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 14th February, 2023 @ 21:58pm UTC
+###### Last Updated: 14th February, 2023 @ 22:14pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
