@@ -56,6 +56,7 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4799](https://github.com/is-a-dev/register/pull/4799) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4799](https://github.com/is-a-dev/register/pull/4799#pullrequestreview-1298520555) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#39](https://github.com/free-domains/register/pull/39#issuecomment-1430446408) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4798](https://github.com/is-a-dev/register/pull/4798#pullrequestreview-1298503306) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -65,9 +66,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#38](https://github.com/free-domains/register/pull/38) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#38](https://github.com/free-domains/register/pull/38#pullrequestreview-1298499697) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![added_member](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/People.svg) [free-domains/raw-api](https://github.com/free-domains/raw-api)<br>
-![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [free-domains/raw](https://github.com/free-domains/raw)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 14th February, 2023 @ 22:28pm UTC
+###### Last Updated: 14th February, 2023 @ 22:36pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
