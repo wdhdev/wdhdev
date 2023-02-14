@@ -56,6 +56,7 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [free-domains/raw](https://github.com/free-domains/raw)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#37](https://github.com/free-domains/register/pull/37) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#37](https://github.com/free-domains/register/pull/37#pullrequestreview-1297239705) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#82](https://github.com/sethcottle/littlelink/pull/82) **|** [sethcottle/littlelink](https://github.com/sethcottle/littlelink)<br>
@@ -65,9 +66,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4797](https://github.com/is-a-dev/register/pull/4797#pullrequestreview-1297164421) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#4795](https://github.com/is-a-dev/register/pull/4795) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4795](https://github.com/is-a-dev/register/pull/4795#pullrequestreview-1296721810) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.1.3](https://github.com/free-domains/cli/releases/tag/v1.1.3) **|** [free-domains/cli](https://github.com/free-domains/cli)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 14th February, 2023 @ 10:56am UTC
+###### Last Updated: 14th February, 2023 @ 11:09am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
