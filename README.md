@@ -15,8 +15,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 
 **Projects**:
 
-- [Easy Script](https://easyscript.dev) - A npm package which aims to make coding in JavaScript easy.
 - [Free Domains](https://freesubdomains.org) - A service which gives users the ability to register free subdomains.
+- [Easy Script](https://easyscript.dev) - A npm package which aims to make coding in JavaScript easy.
 - [Free For Life](https://free-for.life) - A massive list of free products for everyone.
 
 <details>
