@@ -8,16 +8,16 @@
 
 [![WakaTime](https://wakatime.com/badge/user/817e29c1-e1ac-4adc-936b-37bfa447c165.svg?style=for-the-badge)](https://wdh.gg/wakatime)
 
+## Projects
+
+- **[Free Domains](https://freesubdomains.org)** - A service which gives users the ability to register free subdomains.
+- **[Easy Script](https://easyscript.dev)** - A npm package which aims to make coding in JavaScript easy.
+- **[Free For Life](https://free-for.life)** - A massive list of free products for everyone.
+
+---
+
 ## About Me
 Hi, I'm William, I am a self-taught, full-stack developer.
-
-![Languages](https://skillicons.dev/icons?i=html,css,js,nodejs)
-
-**Projects**:
-
-- [Free Domains](https://freesubdomains.org) - A service which gives users the ability to register free subdomains.
-- [Easy Script](https://easyscript.dev) - A npm package which aims to make coding in JavaScript easy.
-- [Free For Life](https://free-for.life) - A massive list of free products for everyone.
 
 <details>
   <summary>📊 GitHub Stats</summary>
