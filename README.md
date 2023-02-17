@@ -56,18 +56,18 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4837](https://github.com/is-a-dev/register/pull/4837#pullrequestreview-1302485100) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4840](https://github.com/is-a-dev/register/pull/4840) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4840](https://github.com/is-a-dev/register/pull/4840#pullrequestreview-1302482861) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4839](https://github.com/is-a-dev/register/pull/4839#pullrequestreview-1302482330) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4841](https://github.com/is-a-dev/register/pull/4841#pullrequestreview-1302480749) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#28](https://github.com/EasyScriptJS/EasyScript/issues/28#issuecomment-1433733601) **|** [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [httpcats/http.cat](https://github.com/httpcats/http.cat)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4835](https://github.com/is-a-dev/register/pull/4835#pullrequestreview-1301340102) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4834](https://github.com/is-a-dev/register/pull/4834#pullrequestreview-1301328616) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4833](https://github.com/is-a-dev/register/pull/4833) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4833](https://github.com/is-a-dev/register/pull/4833#pullrequestreview-1301327476) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Tyler-OBrien/cloudflare-worker-emails-to-discord](https://github.com/Tyler-OBrien/cloudflare-worker-emails-to-discord)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [fernvenue/cloudflare-workers-scripts](https://github.com/fernvenue/cloudflare-workers-scripts)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Le0Developer/cloudflare-discord-mailing](https://github.com/Le0Developer/cloudflare-discord-mailing)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WilliamDavidHarrison/technobot](https://github.com/WilliamDavidHarrison/technobot)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 16th February, 2023 @ 23:55pm UTC
+###### Last Updated: 17th February, 2023 @ 00:54am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
