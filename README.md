@@ -56,6 +56,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WilliamDavidHarrison/open-domains-cli](https://github.com/WilliamDavidHarrison/open-domains-cli)<br>
+![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/open-domains-cli](https://github.com/WilliamDavidHarrison/open-domains-cli)<br>
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/test](https://github.com/WilliamDavidHarrison/test) **|** [is-a-dev/register.is-a.dev](https://github.com/is-a-dev/register.is-a.dev)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/test-web-app](https://github.com/WilliamDavidHarrison/test-web-app)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/code-snippets-manager](https://github.com/SX-9/code-snippets-manager)<br>
@@ -64,10 +66,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#179](https://github.com/open-domains/register/pull/179#pullrequestreview-1304737723) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4](https://github.com/EasyScriptJS/EasyScriptTS/pull/4#pullrequestreview-1304734889) **|** [EasyScriptJS/EasyScriptTS](https://github.com/EasyScriptJS/EasyScriptTS)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#402](https://github.com/is-a-good-dev/register/pull/402) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
-![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#401](https://github.com/is-a-good-dev/register/pull/401) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
-![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#400](https://github.com/is-a-good-dev/register/pull/400) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 19th February, 2023 @ 09:59am UTC
+###### Last Updated: 19th February, 2023 @ 10:18am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
