@@ -56,6 +56,7 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/code-snippets-manager](https://github.com/SX-9/code-snippets-manager)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#180](https://github.com/open-domains/register/pull/180#pullrequestreview-1304741405) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#179](https://github.com/open-domains/register/pull/179#issuecomment-1435928810) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#179](https://github.com/open-domains/register/pull/179#pullrequestreview-1304737723) **|** [open-domains/register](https://github.com/open-domains/register)<br>
@@ -65,9 +66,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#400](https://github.com/is-a-good-dev/register/pull/400) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/register-1](https://github.com/WilliamDavidHarrison/register-1) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#179](https://github.com/open-domains/register/pull/179#issuecomment-1435909240) **|** [open-domains/register](https://github.com/open-domains/register)<br>
-![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.0](https://github.com/WilliamDavidHarrison/is-a-good-dev-cli/releases/tag/v1.0.0) **|** [WilliamDavidHarrison/is-a-good-dev-cli](https://github.com/WilliamDavidHarrison/is-a-good-dev-cli)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 19th February, 2023 @ 09:23am UTC
+###### Last Updated: 19th February, 2023 @ 09:31am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
