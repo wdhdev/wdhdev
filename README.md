@@ -56,6 +56,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4885](https://github.com/is-a-dev/register/pull/4885) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4885](https://github.com/is-a-dev/register/pull/4885#pullrequestreview-1304887703) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [sp614x/optifine](https://github.com/sp614x/optifine)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4879](https://github.com/is-a-dev/register/pull/4879) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4879](https://github.com/is-a-dev/register/pull/4879#pullrequestreview-1304884831) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -64,10 +66,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4874](https://github.com/is-a-dev/register/pull/4874#pullrequestreview-1304884532) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4876](https://github.com/is-a-dev/register/pull/4876) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4876](https://github.com/is-a-dev/register/pull/4876#pullrequestreview-1304884397) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4](https://github.com/EasyScriptJS/EasyScriptTS/pull/4#pullrequestreview-1304884016) **|** [EasyScriptJS/EasyScriptTS](https://github.com/EasyScriptJS/EasyScriptTS)<br>
-![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#1150](https://github.com/is-a-dev/register/issues/1150#issuecomment-1436107760) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 19th February, 2023 @ 22:21pm UTC
+###### Last Updated: 19th February, 2023 @ 22:30pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
