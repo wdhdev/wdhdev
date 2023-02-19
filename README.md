@@ -56,6 +56,7 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#179](https://github.com/open-domains/register/pull/179#issuecomment-1435928810) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#179](https://github.com/open-domains/register/pull/179#pullrequestreview-1304737723) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4](https://github.com/EasyScriptJS/EasyScriptTS/pull/4#pullrequestreview-1304734889) **|** [EasyScriptJS/EasyScriptTS](https://github.com/EasyScriptJS/EasyScriptTS)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#402](https://github.com/is-a-good-dev/register/pull/402) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
@@ -65,9 +66,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#179](https://github.com/open-domains/register/pull/179#issuecomment-1435909240) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.0](https://github.com/WilliamDavidHarrison/is-a-good-dev-cli/releases/tag/v1.0.0) **|** [WilliamDavidHarrison/is-a-good-dev-cli](https://github.com/WilliamDavidHarrison/is-a-good-dev-cli)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#179](https://github.com/open-domains/register/pull/179#pullrequestreview-1304725457) **|** [open-domains/register](https://github.com/open-domains/register)<br>
-![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#399](https://github.com/is-a-good-dev/register/pull/399) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 19th February, 2023 @ 08:49am UTC
+###### Last Updated: 19th February, 2023 @ 08:57am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
