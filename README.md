@@ -56,6 +56,7 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#4888](https://github.com/is-a-dev/register/pull/4888#issuecomment-1436131540) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4889](https://github.com/is-a-dev/register/pull/4889#pullrequestreview-1304899855) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#4888](https://github.com/is-a-dev/register/pull/4888#issuecomment-1436128100) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -65,9 +66,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#403](https://github.com/is-a-good-dev/register/pull/403) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#4888](https://github.com/is-a-dev/register/pull/4888#issuecomment-1436120263) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4884](https://github.com/is-a-dev/register/pull/4884) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4884](https://github.com/is-a-dev/register/pull/4884#pullrequestreview-1304892174) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 19th February, 2023 @ 23:34pm UTC
+###### Last Updated: 19th February, 2023 @ 23:41pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
