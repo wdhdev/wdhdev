@@ -56,6 +56,9 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/github-stats](https://github.com/WilliamDavidHarrison/github-stats)<br>
+![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#4888](https://github.com/is-a-dev/register/pull/4888#issuecomment-1436146356) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#4888](https://github.com/is-a-dev/register/pull/4888#issuecomment-1436146166) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#403](https://github.com/is-a-good-dev/register/pull/403#issuecomment-1436134717) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#3](https://github.com/is-a-good-dev/.github/pull/3) **|** [is-a-good-dev/.github](https://github.com/is-a-good-dev/.github)<br>
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/.github](https://github.com/WilliamDavidHarrison/.github) **|** [is-a-good-dev/.github](https://github.com/is-a-good-dev/.github)<br>
@@ -63,11 +66,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4889](https://github.com/is-a-dev/register/pull/4889#pullrequestreview-1304899855) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#4888](https://github.com/is-a-dev/register/pull/4888#issuecomment-1436128100) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.1](https://github.com/is-a-good-dev/cli/releases/tag/v1.0.1) **|** [is-a-good-dev/cli](https://github.com/is-a-good-dev/cli)<br>
-![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#403](https://github.com/is-a-good-dev/register/pull/403#issuecomment-1436124275) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
-![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#404](https://github.com/is-a-good-dev/register/pull/404) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 19th February, 2023 @ 23:55pm UTC
+###### Last Updated: 20th February, 2023 @ 00:50am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
