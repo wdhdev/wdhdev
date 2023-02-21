@@ -6,7 +6,11 @@
 
 <h1 align="center">👋 Hi, I'm William</h1>
 
-[![WakaTime](https://wakatime.com/badge/user/817e29c1-e1ac-4adc-936b-37bfa447c165.svg?style=for-the-badge)](https://wdh.gg/wakatime)
+<p align="center">
+  <a href="https://wdh.gg/wakatime">
+    <img src="https://wakatime.com/badge/user/817e29c1-e1ac-4adc-936b-37bfa447c165.svg?style=for-the-badge">
+  </a>
+</p>
 
 ## Projects
 
