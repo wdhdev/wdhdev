@@ -60,6 +60,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WHArchive/.github](https://github.com/WHArchive/.github)<br>
+![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#4890](https://github.com/is-a-dev/register/pull/4890#issuecomment-1437872746) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [William-Harrison/William-Harrison.github.io](https://github.com/William-Harrison/William-Harrison.github.io)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#41](https://github.com/WilliamDavidHarrison/dev-website/pull/41) **|** [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#41](https://github.com/WilliamDavidHarrison/dev-website/pull/41) **|** [WilliamDavidHarrison/dev-website](https://github.com/WilliamDavidHarrison/dev-website)<br>
@@ -68,10 +70,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4895](https://github.com/is-a-dev/register/pull/4895#pullrequestreview-1306437075) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WilliamDavidHarrison/qr-code-generator](https://github.com/WilliamDavidHarrison/qr-code-generator)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/qr-code-generator](https://github.com/WilliamDavidHarrison/qr-code-generator)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4893](https://github.com/is-a-dev/register/pull/4893) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4893](https://github.com/is-a-dev/register/pull/4893#pullrequestreview-1305505743) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 21st February, 2023 @ 05:12am UTC
+###### Last Updated: 21st February, 2023 @ 05:25am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
