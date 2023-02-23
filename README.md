@@ -6,22 +6,22 @@
 
 <h1 align="center">👋 Hi, I'm William</h1>
 
-<p align="center">
-  <a href="https://wdh.gg/wakatime">
-    <img src="https://wakatime.com/badge/user/817e29c1-e1ac-4adc-936b-37bfa447c165.svg?style=for-the-badge">
-  </a>
-</p>
-
 ## Projects
 
-- **[Free Domains](https://freesubdomains.org)** - A service which gives users the ability to register free subdomains.
-- **[Easy Script](https://easyscript.dev)** - A npm package which aims to make coding in JavaScript easy.
-- **[Free For Life](https://free-for.life)** - A massive list of free products for everyone.
+This is a list of my most predominant projects, of which I actively work on.
 
----
+- **[Free Domains](https://freesubdomains.org)** - Free subdomains for personal sites, open-source projects, and more.
+- **[Free For Life](https://free-for.life)** - A massive list of free products for everyone.
+- **[GitBot](https://wdh.gg/gitbot)** - A Discord bot which allows you to use GitHub from Discord.
+- **[Global Chat](https://wdh.gg/globalchat)** - A Discord bot which connects many servers together using a text channel.
+- **[Easy Script](https://easyscript.dev)** - A npm package which aims to make coding in JavaScript easy.
+
+<br>
 
 ## About Me
 Hi, I'm William, I am a self-taught, full-stack developer.
+
+![WakaTime](https://wakatime.com/badge/user/817e29c1-e1ac-4adc-936b-37bfa447c165.svg?style=for-the-badge)
 
 <details>
   <summary>📊 GitHub Stats</summary>
