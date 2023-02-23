@@ -16,7 +16,7 @@ This is a list of my most predominant projects, of which I actively work on.
 - **[Global Chat](https://wdh.gg/globalchat)** - A Discord bot which connects many servers together using a text channel.
 - **[Easy Script](https://easyscript.dev)** - A npm package which aims to make coding in JavaScript easy.
 
-<br>
+---
 
 ## About Me
 Hi, I'm William, I am a self-taught, full-stack developer.
@@ -56,6 +56,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
   [![is-a-good.dev](https://img.shields.io/badge/is--a--good.dev-Helper-222222?style=for-the-badge)](https://wdh.gg/is-a-good-dev)
 
 </details>
+
+---
 
 ## Recent Activity
 
