@@ -62,6 +62,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Dens49/blurhash-js](https://github.com/Dens49/blurhash-js)<br>
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [woltapp/blurhash](https://github.com/woltapp/blurhash)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4922](https://github.com/is-a-dev/register/pull/4922#pullrequestreview-1312516903) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/free-for-life](https://github.com/WilliamDavidHarrison/free-for-life) **|** [free-for-life/free-for-life](https://github.com/free-for-life/free-for-life)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#184](https://github.com/open-domains/register/pull/184) **|** [open-domains/register](https://github.com/open-domains/register)<br>
@@ -70,10 +72,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#184](https://github.com/open-domains/register/pull/184#pullrequestreview-1312454240) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4917](https://github.com/is-a-dev/register/pull/4917) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4917](https://github.com/is-a-dev/register/pull/4917#pullrequestreview-1312453486) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [oyepriyansh/image-tear-animation](https://github.com/oyepriyansh/image-tear-animation)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4917](https://github.com/is-a-dev/register/pull/4917#pullrequestreview-1312377004) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 24th February, 2023 @ 05:53am UTC
+###### Last Updated: 24th February, 2023 @ 05:59am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
