@@ -62,6 +62,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WHRegistry/media](https://github.com/WHRegistry/media)<br>
+![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WHRegistry/media](https://github.com/WHRegistry/media)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#1](https://github.com/WHRegistry/website/pull/1) **|** [WHRegistry/website](https://github.com/WHRegistry/website)<br>
 ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#46](https://github.com/free-domains/register/pull/46) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Dens49/blurhash-js](https://github.com/Dens49/blurhash-js)<br>
@@ -70,10 +72,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/free-for-life](https://github.com/WilliamDavidHarrison/free-for-life) **|** [free-for-life/free-for-life](https://github.com/free-for-life/free-for-life)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#184](https://github.com/open-domains/register/pull/184) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4921](https://github.com/is-a-dev/register/pull/4921#pullrequestreview-1312463309) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#184](https://github.com/open-domains/register/pull/184#pullrequestreview-1312454486) **|** [open-domains/register](https://github.com/open-domains/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#184](https://github.com/open-domains/register/pull/184#pullrequestreview-1312454240) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 24th February, 2023 @ 08:33am UTC
+###### Last Updated: 24th February, 2023 @ 08:44am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
