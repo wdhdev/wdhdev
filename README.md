@@ -64,6 +64,7 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/file-hosting](https://github.com/SX-9/file-hosting)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#186](https://github.com/open-domains/register/pull/186#issuecomment-1445279729) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#186](https://github.com/open-domains/register/pull/186#issuecomment-1445279484) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#186](https://github.com/open-domains/register/pull/186) **|** [open-domains/register](https://github.com/open-domains/register)<br>
@@ -73,9 +74,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [dustinrouillard/shortener](https://github.com/dustinrouillard/shortener)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)<br>
-![added_member](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/People.svg) [open-domains/register](https://github.com/open-domains/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 26th February, 2023 @ 07:59am UTC
+###### Last Updated: 26th February, 2023 @ 08:19am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
