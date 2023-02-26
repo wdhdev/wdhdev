@@ -64,6 +64,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#189](https://github.com/open-domains/register/pull/189#pullrequestreview-1314603752) **|** [open-domains/register](https://github.com/open-domains/register)<br>
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [dustinrouillard/shortener](https://github.com/dustinrouillard/shortener)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [FutureFocusAccounting/website](https://github.com/FutureFocusAccounting/website)<br>
 ![added_member](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/People.svg) [open-domains/register](https://github.com/open-domains/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4946](https://github.com/is-a-dev/register/pull/4946) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -72,10 +74,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4944](https://github.com/is-a-dev/register/pull/4944#pullrequestreview-1314594498) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4944](https://github.com/is-a-dev/register/pull/4944#pullrequestreview-1314594397) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#188](https://github.com/open-domains/register/pull/188#pullrequestreview-1314594352) **|** [open-domains/register](https://github.com/open-domains/register)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4941](https://github.com/is-a-dev/register/pull/4941) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4941](https://github.com/is-a-dev/register/pull/4941#pullrequestreview-1314592811) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 26th February, 2023 @ 02:48am UTC
+###### Last Updated: 26th February, 2023 @ 03:17am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
