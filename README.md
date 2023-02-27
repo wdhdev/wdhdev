@@ -77,5 +77,5 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 27th February, 2023 @ 21:26pm UTC
+###### Last Updated: 27th February, 2023 @ 21:34pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
