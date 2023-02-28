@@ -64,6 +64,9 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#54](https://github.com/free-domains/register/pull/54) **|** [free-domains/register](https://github.com/free-domains/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#54](https://github.com/free-domains/register/pull/54#pullrequestreview-1316918990) **|** [free-domains/register](https://github.com/free-domains/register)<br>
+![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4968](https://github.com/is-a-dev/register/pull/4968#pullrequestreview-1316916209) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4967](https://github.com/is-a-dev/register/pull/4967#pullrequestreview-1316683903) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4966](https://github.com/is-a-dev/register/pull/4966) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4966](https://github.com/is-a-dev/register/pull/4966#pullrequestreview-1316570690) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -71,11 +74,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4965](https://github.com/is-a-dev/register/pull/4965#pullrequestreview-1316569416) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4964](https://github.com/is-a-dev/register/pull/4964#pullrequestreview-1316568357) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4961](https://github.com/is-a-dev/register/pull/4961) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4961](https://github.com/is-a-dev/register/pull/4961#pullrequestreview-1316567182) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#196](https://github.com/open-domains/register/pull/196) **|** [open-domains/register](https://github.com/open-domains/register)<br>
-![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#196](https://github.com/open-domains/register/pull/196#pullrequestreview-1316558363) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 28th February, 2023 @ 07:00am UTC
+###### Last Updated: 28th February, 2023 @ 07:17am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
