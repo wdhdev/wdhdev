@@ -66,6 +66,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4992](https://github.com/is-a-dev/register/pull/4992#pullrequestreview-1322753564) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#200](https://github.com/open-domains/register/pull/200#issuecomment-1452619838) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4987](https://github.com/is-a-dev/register/pull/4987) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4987](https://github.com/is-a-dev/register/pull/4987#pullrequestreview-1321739167) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4991](https://github.com/is-a-dev/register/pull/4991) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -74,10 +76,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [facebook/react-native](https://github.com/facebook/react-native)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4991](https://github.com/is-a-dev/register/pull/4991#pullrequestreview-1321658396) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [sendgrid/sendgrid-nodejs](https://github.com/sendgrid/sendgrid-nodejs)<br>
-![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#4987](https://github.com/is-a-dev/register/pull/4987#issuecomment-1451564841) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#201](https://github.com/open-domains/register/pull/201#pullrequestreview-1321258228) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 2nd March, 2023 @ 22:07pm UTC
+###### Last Updated: 2nd March, 2023 @ 22:24pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
