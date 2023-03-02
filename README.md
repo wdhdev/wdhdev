@@ -66,6 +66,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#201](https://github.com/open-domains/register/pull/201#pullrequestreview-1321258228) **|** [open-domains/register](https://github.com/open-domains/register)<br>
+![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#4987](https://github.com/is-a-dev/register/pull/4987#issuecomment-1451486903) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [vuejs/core](https://github.com/vuejs/core)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [vuejs/vue](https://github.com/vuejs/vue)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WilliamDavidHarrison/frontend](https://github.com/WilliamDavidHarrison/frontend)<br>
@@ -74,10 +76,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/backend](https://github.com/WilliamDavidHarrison/backend)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#57](https://github.com/free-domains/register/pull/57#pullrequestreview-1320957895) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#75](https://github.com/is-a-dev/register.is-a.dev/issues/75#issuecomment-1450949236) **|** [is-a-dev/register.is-a.dev](https://github.com/is-a-dev/register.is-a.dev)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#72](https://github.com/is-a-dev/register.is-a.dev/pull/72) **|** [is-a-dev/register.is-a.dev](https://github.com/is-a-dev/register.is-a.dev)<br>
-![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4990](https://github.com/is-a-dev/register/pull/4990#pullrequestreview-1320722576) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 2nd March, 2023 @ 08:33am UTC
+###### Last Updated: 2nd March, 2023 @ 08:45am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
