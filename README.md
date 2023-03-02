@@ -66,6 +66,7 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [sendgrid/sendgrid-nodejs](https://github.com/sendgrid/sendgrid-nodejs)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#4987](https://github.com/is-a-dev/register/pull/4987#issuecomment-1451564841) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#201](https://github.com/open-domains/register/pull/201#pullrequestreview-1321258228) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#4987](https://github.com/is-a-dev/register/pull/4987#issuecomment-1451486903) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -75,9 +76,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/frontend](https://github.com/WilliamDavidHarrison/frontend)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WilliamDavidHarrison/backend](https://github.com/WilliamDavidHarrison/backend)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/backend](https://github.com/WilliamDavidHarrison/backend)<br>
-![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#57](https://github.com/free-domains/register/pull/57#pullrequestreview-1320957895) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 2nd March, 2023 @ 10:32am UTC
+###### Last Updated: 2nd March, 2023 @ 10:42am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
