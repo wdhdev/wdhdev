@@ -51,6 +51,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 
   [![Future Focus Accounting](https://img.shields.io/badge/Future%20Focus%20Accounting-Developer-222222?style=for-the-badge)](https://wdh.gg/ffa/github)
 
+  [![DanBot Hosting](https://img.shields.io/badge/DanBot%20Hosting-Trial%20Developer-222222?style=for-the-badge)](https://wdh.gg/dbh)
+
   [![Open Domains](https://img.shields.io/badge/Open%20Domains-Maintainer-222222?style=for-the-badge)](https://wdh.gg/open-domains)
 
   [![is-a.dev](https://img.shields.io/badge/is--a.dev-Maintainer-222222?style=for-the-badge)](https://wdh.gg/is-a-dev)
