@@ -66,6 +66,7 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4997](https://github.com/is-a-dev/register/pull/4997#pullrequestreview-1323597800) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#7859](https://github.com/cloudflare/cloudflare-docs/pull/7859#issuecomment-1453297727) **|** [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#58](https://github.com/free-domains/register/pull/58) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#58](https://github.com/free-domains/register/pull/58#pullrequestreview-1323456023) **|** [free-domains/register](https://github.com/free-domains/register)<br>
@@ -75,9 +76,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#52](https://github.com/free-domains/register/pull/52#issuecomment-1453223130) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#7859](https://github.com/cloudflare/cloudflare-docs/pull/7859) **|** [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)<br>
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/cloudflare-docs](https://github.com/WilliamDavidHarrison/cloudflare-docs) **|** [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)<br>
-![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#416](https://github.com/is-a-good-dev/register/pull/416#issuecomment-1453128542) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 3rd March, 2023 @ 11:17am UTC
+###### Last Updated: 3rd March, 2023 @ 11:24am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
