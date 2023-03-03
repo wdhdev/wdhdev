@@ -66,6 +66,9 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#7859](https://github.com/cloudflare/cloudflare-docs/pull/7859#issuecomment-1453297727) **|** [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)<br>
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#58](https://github.com/free-domains/register/pull/58) **|** [free-domains/register](https://github.com/free-domains/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#58](https://github.com/free-domains/register/pull/58#pullrequestreview-1323456023) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/register](https://github.com/WilliamDavidHarrison/register) **|** [oyepriyansh/register](https://github.com/oyepriyansh/register)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#416](https://github.com/is-a-good-dev/register/pull/416#issuecomment-1453243905) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#203](https://github.com/open-domains/register/pull/203#pullrequestreview-1323382370) **|** [open-domains/register](https://github.com/open-domains/register)<br>
@@ -73,11 +76,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#7859](https://github.com/cloudflare/cloudflare-docs/pull/7859) **|** [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)<br>
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/cloudflare-docs](https://github.com/WilliamDavidHarrison/cloudflare-docs) **|** [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#416](https://github.com/is-a-good-dev/register/pull/416#issuecomment-1453128542) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
-![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#416](https://github.com/is-a-good-dev/register/pull/416#pullrequestreview-1323044330) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4919](https://github.com/is-a-dev/register/pull/4919) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4919](https://github.com/is-a-dev/register/pull/4919#pullrequestreview-1323043633) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 3rd March, 2023 @ 10:09am UTC
+###### Last Updated: 3rd March, 2023 @ 10:29am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
