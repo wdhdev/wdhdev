@@ -66,6 +66,7 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#416](https://github.com/is-a-good-dev/register/pull/416#issuecomment-1453128542) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#416](https://github.com/is-a-good-dev/register/pull/416#pullrequestreview-1323044330) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4919](https://github.com/is-a-dev/register/pull/4919) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4919](https://github.com/is-a-dev/register/pull/4919#pullrequestreview-1323043633) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -75,9 +76,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#417](https://github.com/is-a-good-dev/register/pull/417#pullrequestreview-1323037436) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4995](https://github.com/is-a-dev/register/pull/4995) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4995](https://github.com/is-a-dev/register/pull/4995#pullrequestreview-1323027025) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4995](https://github.com/is-a-dev/register/pull/4995#pullrequestreview-1323026261) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 3rd March, 2023 @ 07:55am UTC
+###### Last Updated: 3rd March, 2023 @ 08:11am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
