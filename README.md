@@ -66,6 +66,9 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#4999](https://github.com/is-a-dev/register/pull/4999#pullrequestreview-1324986616) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#62](https://github.com/free-domains/register/pull/62) **|** [free-domains/register](https://github.com/free-domains/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#62](https://github.com/free-domains/register/pull/62#pullrequestreview-1324986167) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#2857](https://github.com/ripienaar/free-for-dev/pull/2857#issuecomment-1454682300) **|** [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#2857](https://github.com/ripienaar/free-for-dev/pull/2857#discussion_r1125429434) **|** [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [tensorflow/tfjs](https://github.com/tensorflow/tfjs)<br>
@@ -73,11 +76,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#61](https://github.com/free-domains/register/pull/61) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [free-domains/is-a-fullstack.dev](https://github.com/free-domains/is-a-fullstack.dev)<br>
 ![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.1.4](https://github.com/free-domains/cli/releases/tag/v1.1.4) **|** [free-domains/cli](https://github.com/free-domains/cli)<br>
-![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#2857](https://github.com/ripienaar/free-for-dev/pull/2857) **|** [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)<br>
-![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/free-for-dev](https://github.com/WilliamDavidHarrison/free-for-dev) **|** [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4998](https://github.com/is-a-dev/register/pull/4998) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 4th March, 2023 @ 10:13am UTC
+###### Last Updated: 4th March, 2023 @ 10:28am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
