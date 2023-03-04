@@ -66,6 +66,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#61](https://github.com/free-domains/register/pull/61) **|** [free-domains/register](https://github.com/free-domains/register)<br>
+![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#61](https://github.com/free-domains/register/pull/61) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [free-domains/is-a-fullstack.dev](https://github.com/free-domains/is-a-fullstack.dev)<br>
 ![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.1.4](https://github.com/free-domains/cli/releases/tag/v1.1.4) **|** [free-domains/cli](https://github.com/free-domains/cli)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#2857](https://github.com/ripienaar/free-for-dev/pull/2857) **|** [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)<br>
@@ -74,10 +76,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4998](https://github.com/is-a-dev/register/pull/4998#pullrequestreview-1324786977) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [koenrh/dnscontrol-action](https://github.com/koenrh/dnscontrol-action)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [limitusus/json-syntax-check](https://github.com/limitusus/json-syntax-check)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#60](https://github.com/free-domains/register/pull/60) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 4th March, 2023 @ 03:57am UTC
+###### Last Updated: 4th March, 2023 @ 04:14am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
