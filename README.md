@@ -66,6 +66,7 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#2857](https://github.com/ripienaar/free-for-dev/pull/2857#issuecomment-1454682300) **|** [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#2857](https://github.com/ripienaar/free-for-dev/pull/2857#discussion_r1125429434) **|** [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [tensorflow/tfjs](https://github.com/tensorflow/tfjs)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#61](https://github.com/free-domains/register/pull/61) **|** [free-domains/register](https://github.com/free-domains/register)<br>
@@ -75,9 +76,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#2857](https://github.com/ripienaar/free-for-dev/pull/2857) **|** [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)<br>
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/free-for-dev](https://github.com/WilliamDavidHarrison/free-for-dev) **|** [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4998](https://github.com/is-a-dev/register/pull/4998) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#4998](https://github.com/is-a-dev/register/pull/4998#pullrequestreview-1324786977) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 4th March, 2023 @ 09:50am UTC
+###### Last Updated: 4th March, 2023 @ 09:57am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
