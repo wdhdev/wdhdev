@@ -66,6 +66,7 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#419](https://github.com/is-a-good-dev/register/pull/419) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
 ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#53](https://github.com/free-domains/register/pull/53) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#52](https://github.com/free-domains/register/pull/52) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/is-a-good-dev-raw-api](https://github.com/WilliamDavidHarrison/is-a-good-dev-raw-api)<br>
@@ -75,9 +76,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5010](https://github.com/is-a-dev/register/pull/5010#pullrequestreview-1325201608) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#5009](https://github.com/is-a-dev/register/pull/5009#pullrequestreview-1325200149) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#207](https://github.com/open-domains/register/pull/207#pullrequestreview-1325186466) **|** [open-domains/register](https://github.com/open-domains/register)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 5th March, 2023 @ 22:54pm UTC
+###### Last Updated: 5th March, 2023 @ 23:06pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
