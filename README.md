@@ -66,6 +66,9 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/is-a-good-dev-raw-api](https://github.com/WilliamDavidHarrison/is-a-good-dev-raw-api)<br>
+![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) [#212](https://github.com/open-domains/register/issues/212) **|** [open-domains/register](https://github.com/open-domains/register)<br>
+![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#212](https://github.com/open-domains/register/issues/212#issuecomment-1455230468) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5010](https://github.com/is-a-dev/register/pull/5010) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5010](https://github.com/is-a-dev/register/pull/5010#pullrequestreview-1325201608) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#5009](https://github.com/is-a-dev/register/pull/5009#pullrequestreview-1325200149) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -73,11 +76,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5008](https://github.com/is-a-dev/register/pull/5008) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5008](https://github.com/is-a-dev/register/pull/5008#pullrequestreview-1325176696) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#4999](https://github.com/is-a-dev/register/pull/4999#issuecomment-1455012724) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/forwarder](https://github.com/WilliamDavidHarrison/forwarder) **|** [open-domains/forwarder](https://github.com/open-domains/forwarder)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Darker-Ink/Nginx-Proxy-Manger-API](https://github.com/Darker-Ink/Nginx-Proxy-Manger-API)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 5th March, 2023 @ 22:40pm UTC
+###### Last Updated: 5th March, 2023 @ 22:47pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
