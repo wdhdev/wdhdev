@@ -66,6 +66,7 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [kylesoskin/email-validation-github-action](https://github.com/kylesoskin/email-validation-github-action)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/vf-chat](https://github.com/SX-9/vf-chat)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#416](https://github.com/is-a-good-dev/register/pull/416#issuecomment-1454966515) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WilliamDavidHarrison/http-forwarder](https://github.com/WilliamDavidHarrison/http-forwarder)<br>
@@ -75,9 +76,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#416](https://github.com/is-a-good-dev/register/pull/416#pullrequestreview-1325141688) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#416](https://github.com/is-a-good-dev/register/pull/416#pullrequestreview-1325141651) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5006](https://github.com/is-a-dev/register/pull/5006) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5006](https://github.com/is-a-dev/register/pull/5006#pullrequestreview-1325141576) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 5th March, 2023 @ 03:38am UTC
+###### Last Updated: 5th March, 2023 @ 03:46am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
