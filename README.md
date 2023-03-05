@@ -66,6 +66,7 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5010](https://github.com/is-a-dev/register/pull/5010#pullrequestreview-1325201608) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#5009](https://github.com/is-a-dev/register/pull/5009#pullrequestreview-1325200149) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#207](https://github.com/open-domains/register/pull/207#pullrequestreview-1325186466) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon)<br>
@@ -75,9 +76,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/forwarder](https://github.com/WilliamDavidHarrison/forwarder) **|** [open-domains/forwarder](https://github.com/open-domains/forwarder)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Darker-Ink/Nginx-Proxy-Manger-API](https://github.com/Darker-Ink/Nginx-Proxy-Manger-API)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [kylesoskin/email-validation-github-action](https://github.com/kylesoskin/email-validation-github-action)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/vf-chat](https://github.com/SX-9/vf-chat)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 5th March, 2023 @ 11:42am UTC
+###### Last Updated: 5th March, 2023 @ 11:49am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
