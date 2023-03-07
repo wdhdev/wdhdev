@@ -67,6 +67,7 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) [#215](https://github.com/open-domains/register/issues/215) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [forkedgames/forkedgames.github.io](https://github.com/forkedgames/forkedgames.github.io)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [forkedgames/forkedgames.github.io](https://github.com/forkedgames/forkedgames.github.io)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#1](https://github.com/forkedgames/checkbox-race/pull/1) **|** [forkedgames/checkbox-race](https://github.com/forkedgames/checkbox-race)<br>
@@ -76,9 +77,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#5018](https://github.com/is-a-dev/register/pull/5018#pullrequestreview-1327458522) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#5020](https://github.com/is-a-dev/register/pull/5020#pullrequestreview-1327457746) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#216](https://github.com/open-domains/register/pull/216) **|** [open-domains/register](https://github.com/open-domains/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#216](https://github.com/open-domains/register/pull/216#pullrequestreview-1327457140) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 7th March, 2023 @ 02:21am UTC
+###### Last Updated: 7th March, 2023 @ 03:08am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
