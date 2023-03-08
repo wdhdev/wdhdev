@@ -67,6 +67,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5029](https://github.com/is-a-dev/register/pull/5029) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5029](https://github.com/is-a-dev/register/pull/5029#pullrequestreview-1330322845) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#5018](https://github.com/is-a-dev/register/pull/5018#issuecomment-1459914206) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [tholman/puginarug](https://github.com/tholman/puginarug)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [tholman/one-square-minesweeper](https://github.com/tholman/one-square-minesweeper)<br>
@@ -75,10 +77,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5028](https://github.com/is-a-dev/register/pull/5028) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5028](https://github.com/is-a-dev/register/pull/5028#pullrequestreview-1330187469) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [forkedgames/thats-the-finger](https://github.com/forkedgames/thats-the-finger)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [forkedgames/long-doge-challenge](https://github.com/forkedgames/long-doge-challenge)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [forkedgames/one-square-minesweeper](https://github.com/forkedgames/one-square-minesweeper)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 8th March, 2023 @ 10:12am UTC
+###### Last Updated: 8th March, 2023 @ 10:31am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
