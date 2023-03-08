@@ -67,18 +67,18 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [forkedgames/one-square-minesweeper](https://github.com/forkedgames/one-square-minesweeper)<br>
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [tholman/github-corners](https://github.com/tholman/github-corners)<br>
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [forkedgames/puginarug](https://github.com/forkedgames/puginarug)<br>
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5020](https://github.com/is-a-dev/register/pull/5020) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5020](https://github.com/is-a-dev/register/pull/5020#pullrequestreview-1330112981) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [fregante/bundle](https://github.com/fregante/bundle)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5027](https://github.com/is-a-dev/register/pull/5027) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5027](https://github.com/is-a-dev/register/pull/5027#pullrequestreview-1329673535) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5025](https://github.com/is-a-dev/register/pull/5025) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5025](https://github.com/is-a-dev/register/pull/5025#pullrequestreview-1329671879) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#5018](https://github.com/is-a-dev/register/pull/5018#issuecomment-1458981980) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5013](https://github.com/is-a-dev/register/pull/5013) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5013](https://github.com/is-a-dev/register/pull/5013#pullrequestreview-1329668940) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5026](https://github.com/is-a-dev/register/pull/5026) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5026](https://github.com/is-a-dev/register/pull/5026#pullrequestreview-1329668123) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#217](https://github.com/open-domains/register/pull/217#pullrequestreview-1328073786) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 8th March, 2023 @ 07:54am UTC
+###### Last Updated: 8th March, 2023 @ 08:09am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
