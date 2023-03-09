@@ -67,6 +67,9 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#5044](https://github.com/is-a-dev/register/pull/5044) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#5044](https://github.com/is-a-dev/register/pull/5044#pullrequestreview-1333920611) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5044](https://github.com/is-a-dev/register/pull/5044#pullrequestreview-1333920180) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Global-Chat-7493/appeal](https://github.com/Global-Chat-7493/appeal)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#219](https://github.com/open-domains/register/pull/219#pullrequestreview-1332172934) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#217](https://github.com/open-domains/register/pull/217#issuecomment-1461388637) **|** [open-domains/register](https://github.com/open-domains/register)<br>
@@ -74,11 +77,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [microsoft/auto-sys-ml-template](https://github.com/microsoft/auto-sys-ml-template)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5034](https://github.com/is-a-dev/register/pull/5034) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5034](https://github.com/is-a-dev/register/pull/5034#pullrequestreview-1331822471) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#5037](https://github.com/is-a-dev/register/pull/5037#pullrequestreview-1331806576) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5033](https://github.com/is-a-dev/register/pull/5033) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 9th March, 2023 @ 22:51pm UTC
+###### Last Updated: 9th March, 2023 @ 22:58pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
