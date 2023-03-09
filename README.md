@@ -67,6 +67,7 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [microsoft/auto-sys-ml-template](https://github.com/microsoft/auto-sys-ml-template)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5034](https://github.com/is-a-dev/register/pull/5034) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5034](https://github.com/is-a-dev/register/pull/5034#pullrequestreview-1331822471) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#5037](https://github.com/is-a-dev/register/pull/5037#pullrequestreview-1331806576) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -76,9 +77,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5033](https://github.com/is-a-dev/register/pull/5033#pullrequestreview-1331798746) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Global-Chat-7493/appeal](https://github.com/Global-Chat-7493/appeal)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [Global-Chat-7493/appeal](https://github.com/Global-Chat-7493/appeal)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [berrysauce/junk.boats](https://github.com/berrysauce/junk.boats)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 9th March, 2023 @ 04:44am UTC
+###### Last Updated: 9th March, 2023 @ 04:51am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
