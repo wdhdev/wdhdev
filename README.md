@@ -10,12 +10,12 @@
 
 This is a list of my most predominant projects, of which I actively work on.
 
-- **[Free Domains](https://freesubdomains.org)** - Free subdomains for personal sites, open-source projects, and more.
-- **[Free For Life](https://free-for.life)** - A massive list of free products for everyone.
+- **[Free Domains](https://wdh.gg/domains)** - Free subdomains for personal sites, open-source projects, and more.
+- **[Free For Life](https://wdh.gg/freeforlife)** - A massive list of free products for everyone.
 - **[Global Chat](https://wdh.gg/globalchat)** - A Discord bot which connects many servers together using a text channel.
 - **[GitBot](https://wdh.gg/gitbot)** - A Discord bot which allows you to use GitHub from Discord.
-- **[Easy Script](https://easyscript.dev)** - A npm package which aims to make coding in JavaScript easy.
-- **[Forked Games](https://forkedgames.github.io)** - Popular Useless Web games made unblocked!
+- **[Easy Script](https://wdh.gg/easyscript)** - A npm package which aims to make coding in JavaScript easy.
+- **[Forked Games](https://wdh.gg/forkedgames)** - Popular Useless Web games made unblocked!
 
 ---
 
@@ -50,7 +50,7 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 
   [![Free Domains](https://img.shields.io/badge/Free%20Domains-Owner-222222?style=for-the-badge)](https://wdh.gg/free-domains)
 
-  [![Future Focus Accounting](https://img.shields.io/badge/Future%20Focus%20Accounting-Developer-222222?style=for-the-badge)](https://wdh.gg/ffa/github)
+  [![Future Focus Accounting](https://img.shields.io/badge/Future%20Focus%20Accounting-Developer-222222?style=for-the-badge)](https://wdh.gg/ffa)
 
   [![DanBot Hosting](https://img.shields.io/badge/DanBot%20Hosting-Trial%20Developer-222222?style=for-the-badge)](https://wdh.gg/dbh)
 
