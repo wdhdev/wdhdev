@@ -67,6 +67,7 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#70](https://github.com/free-domains/register/pull/70#pullrequestreview-1335939548) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [actions/typescript-action](https://github.com/actions/typescript-action)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [tgymnich/fork-sync](https://github.com/tgymnich/fork-sync)<br>
 ![added_member](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/People.svg) [free-domains/register](https://github.com/free-domains/register)<br>
@@ -76,9 +77,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#597](https://github.com/thedev-id/thedev.id/pull/597) **|** [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)<br>
 ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#585](https://github.com/thedev-id/thedev.id/pull/585) **|** [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)<br>
 ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#584](https://github.com/thedev-id/thedev.id/pull/584) **|** [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5053](https://github.com/is-a-dev/register/pull/5053) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 11th March, 2023 @ 21:08pm UTC
+###### Last Updated: 11th March, 2023 @ 22:09pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
