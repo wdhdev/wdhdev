@@ -1,10 +1,5 @@
-<p align="center">
-  <a href="https://wdh.gg/dev">
-    <img src="https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/assets/logo.png" height="100" width="100">
-  </a>
-</p>
-
-<h1 align="center">👋 Hi, I'm William</h1>
+# 👋 Hi, I'm William
+### I am a full-stack developer with over 3 years of experience.
 
 ## Projects
 
