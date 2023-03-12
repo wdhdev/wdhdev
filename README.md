@@ -40,8 +40,6 @@ This is a list of my most predominant projects, of which I actively work on.
   <summary>💼 Roles</summary>
   <br>
 
-  [![Free Domains](https://img.shields.io/badge/Free%20Domains-Owner-222222?style=for-the-badge)](https://wdh.gg/free-domains)
-
   [![Future Focus Accounting](https://img.shields.io/badge/Future%20Focus%20Accounting-Developer-222222?style=for-the-badge)](https://wdh.gg/ffa)
 
   [![DanBot Hosting](https://img.shields.io/badge/DanBot%20Hosting-Trial%20Developer-222222?style=for-the-badge)](https://wdh.gg/dbh)
