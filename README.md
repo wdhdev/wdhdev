@@ -62,6 +62,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [mastodon/mastodon](https://github.com/mastodon/mastodon)<br>
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [yuvalsuede/ai-component-generator](https://github.com/yuvalsuede/ai-component-generator)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5055](https://github.com/is-a-dev/register/pull/5055) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5055](https://github.com/is-a-dev/register/pull/5055#pullrequestreview-1335941344) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5057](https://github.com/is-a-dev/register/pull/5057) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -70,10 +72,8 @@ Hi, I'm William, I am a self-taught, full-stack developer.
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#70](https://github.com/free-domains/register/pull/70#pullrequestreview-1335939548) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [actions/typescript-action](https://github.com/actions/typescript-action)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [tgymnich/fork-sync](https://github.com/tgymnich/fork-sync)<br>
-![added_member](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/People.svg) [free-domains/register](https://github.com/free-domains/register)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [wdhdev/static-cdn](https://github.com/wdhdev/static-cdn)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 11th March, 2023 @ 23:10pm UTC
+###### Last Updated: 12th March, 2023 @ 01:00am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
