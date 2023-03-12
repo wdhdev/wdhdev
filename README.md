@@ -1,5 +1,5 @@
 # 👋 Hi, I'm William
-I am a full-stack developer with over 3 years of experience.
+Hi, I'm William. I am a self-taught, full-stack developer with over 3 years of experience.
 
 [Get redirected to a random project of mine.](https://random.wdh.gg)
 
@@ -19,17 +19,12 @@ This is a list of my most predominant projects, of which I actively work on.
 ---
 
 ## About Me
-Hi, I'm William, I am a self-taught, full-stack developer.
-
-![Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,tailwind)
 
 <details>
-  <summary>📊 GitHub Stats</summary>
+  <summary>🪄 Skills</summary>
   <br>
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=williamdavidharrison&theme=algolia&show_icons=true&border_radius=8&count_private=true&include_all_commits=true)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=williamdavidharrison&theme=algolia&layout=compact&border_radius=8)
+  ![Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,tailwind)
 
 </details>
 
@@ -37,7 +32,7 @@ Hi, I'm William, I am a self-taught, full-stack developer.
   <summary>🛠️ Currently Working On</summary>
   <br>
 
-  [![Free Domains](https://img.shields.io/badge/Free%20Domains-333333?style=for-the-badge)](https://wdh.gg/free-domains)
+  [![Global Chat](https://img.shields.io/badge/Global%20Chat-333333?style=for-the-badge)](https://wdh.gg/globalchat)
 
 </details>
 
@@ -56,6 +51,16 @@ Hi, I'm William, I am a self-taught, full-stack developer.
   [![is-a.dev](https://img.shields.io/badge/is--a.dev-Maintainer-222222?style=for-the-badge)](https://wdh.gg/is-a-dev)
 
   [![is-a-good.dev](https://img.shields.io/badge/is--a--good.dev-Helper-222222?style=for-the-badge)](https://wdh.gg/is-a-good-dev)
+
+</details>
+
+<details>
+<summary>📊 GitHub Stats</summary>
+<br>
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=williamdavidharrison&theme=algolia&show_icons=true&border_radius=8&count_private=true&include_all_commits=true)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=williamdavidharrison&theme=algolia&layout=compact&border_radius=8)
 
 </details>
 
