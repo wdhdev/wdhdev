@@ -1,5 +1,7 @@
 # 👋 Hi, I'm William
-### I am a full-stack developer with over 3 years of experience.
+I am a full-stack developer with over 3 years of experience.
+
+![WakaTime](https://wakatime.com/badge/user/817e29c1-e1ac-4adc-936b-37bfa447c165.svg?style=for-the-badge)
 
 ## Projects
 
@@ -17,9 +19,7 @@ This is a list of my most predominant projects, of which I actively work on.
 ## About Me
 Hi, I'm William, I am a self-taught, full-stack developer.
 
-![WakaTime](https://wakatime.com/badge/user/817e29c1-e1ac-4adc-936b-37bfa447c165.svg?style=for-the-badge)
-
-![Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,tailwind,markdown)
+![Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,tailwind)
 
 <details>
   <summary>📊 GitHub Stats</summary>
