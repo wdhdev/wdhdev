@@ -65,6 +65,7 @@ This is a list of my most predominant projects, of which I actively work on.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#5059](https://github.com/is-a-dev/register/pull/5059#pullrequestreview-1335970848) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5058](https://github.com/is-a-dev/register/pull/5058) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#5058](https://github.com/is-a-dev/register/pull/5058) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5058](https://github.com/is-a-dev/register/pull/5058#pullrequestreview-1335960677) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -74,9 +75,8 @@ This is a list of my most predominant projects, of which I actively work on.
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#2868](https://github.com/ripienaar/free-for-dev/pull/2868) **|** [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)<br>
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/free-for-dev](https://github.com/WilliamDavidHarrison/free-for-dev) **|** [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#7](https://github.com/DennisKidman/io.day/issues/7#issuecomment-1465074501) **|** [DennisKidman/io.day](https://github.com/DennisKidman/io.day)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [mastodon/mastodon](https://github.com/mastodon/mastodon)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 12th March, 2023 @ 06:13am UTC
+###### Last Updated: 12th March, 2023 @ 07:08am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
