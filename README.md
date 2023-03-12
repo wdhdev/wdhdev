@@ -65,6 +65,9 @@ This is a list of my most predominant projects, of which I actively work on.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5064](https://github.com/is-a-dev/register/pull/5064) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5064](https://github.com/is-a-dev/register/pull/5064#pullrequestreview-1336100638) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [ImMattDavison/NoMoreDomains](https://github.com/ImMattDavison/NoMoreDomains)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#7](https://github.com/DennisKidman/io.day/issues/7#issuecomment-1465167012) **|** [DennisKidman/io.day](https://github.com/DennisKidman/io.day)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#5059](https://github.com/is-a-dev/register/pull/5059#pullrequestreview-1335970848) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5058](https://github.com/is-a-dev/register/pull/5058) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -72,11 +75,8 @@ This is a list of my most predominant projects, of which I actively work on.
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5058](https://github.com/is-a-dev/register/pull/5058#pullrequestreview-1335960677) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WilliamDavidHarrison/random](https://github.com/WilliamDavidHarrison/random)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/random](https://github.com/WilliamDavidHarrison/random)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [tholman/cursor-effects](https://github.com/tholman/cursor-effects)<br>
-![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#2868](https://github.com/ripienaar/free-for-dev/pull/2868) **|** [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)<br>
-![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/free-for-dev](https://github.com/WilliamDavidHarrison/free-for-dev) **|** [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 12th March, 2023 @ 22:09pm UTC
+###### Last Updated: 12th March, 2023 @ 23:10pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
