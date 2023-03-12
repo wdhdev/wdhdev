@@ -58,8 +58,6 @@ This is a list of my most predominant projects, of which I actively work on.
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=williamdavidharrison&theme=algolia&show_icons=true&border_radius=8&count_private=true&include_all_commits=true)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=williamdavidharrison&theme=algolia&layout=compact&border_radius=8)
-
 </details>
 
 ---
