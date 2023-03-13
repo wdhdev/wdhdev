@@ -65,6 +65,9 @@ This is a list of my most predominant projects, of which I actively work on.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![added_member](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/People.svg) [Global-Chat-7493/terms-and-conditions](https://github.com/Global-Chat-7493/terms-and-conditions)<br>
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Global-Chat-7493/terms-and-conditions](https://github.com/Global-Chat-7493/terms-and-conditions)<br>
+![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [Global-Chat-7493/terms-and-conditions](https://github.com/Global-Chat-7493/terms-and-conditions)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [github/gitignore](https://github.com/github/gitignore)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5067](https://github.com/is-a-dev/register/pull/5067) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5067](https://github.com/is-a-dev/register/pull/5067#pullrequestreview-1336202543) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -72,11 +75,8 @@ This is a list of my most predominant projects, of which I actively work on.
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5060](https://github.com/is-a-dev/register/pull/5060#pullrequestreview-1336202209) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5066](https://github.com/is-a-dev/register/pull/5066) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5066](https://github.com/is-a-dev/register/pull/5066#pullrequestreview-1336179113) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5065](https://github.com/is-a-dev/register/pull/5065) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5065](https://github.com/is-a-dev/register/pull/5065#pullrequestreview-1336177563) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5061](https://github.com/is-a-dev/register/pull/5061) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 13th March, 2023 @ 22:10pm UTC
+###### Last Updated: 13th March, 2023 @ 23:10pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
