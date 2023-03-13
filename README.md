@@ -65,6 +65,7 @@ This is a list of my most predominant projects, of which I actively work on.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [github/gitignore](https://github.com/github/gitignore)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5067](https://github.com/is-a-dev/register/pull/5067) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5067](https://github.com/is-a-dev/register/pull/5067#pullrequestreview-1336202543) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5060](https://github.com/is-a-dev/register/pull/5060) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -74,9 +75,8 @@ This is a list of my most predominant projects, of which I actively work on.
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5065](https://github.com/is-a-dev/register/pull/5065) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5065](https://github.com/is-a-dev/register/pull/5065#pullrequestreview-1336177563) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5061](https://github.com/is-a-dev/register/pull/5061) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5061](https://github.com/is-a-dev/register/pull/5061#pullrequestreview-1336158467) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 13th March, 2023 @ 07:09am UTC
+###### Last Updated: 13th March, 2023 @ 08:14am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
