@@ -65,6 +65,7 @@ This is a list of my most predominant projects, of which I actively work on.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [sindresorhus/open](https://github.com/sindresorhus/open)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5069](https://github.com/is-a-dev/register/pull/5069) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5069](https://github.com/is-a-dev/register/pull/5069#pullrequestreview-1338491328) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5068](https://github.com/is-a-dev/register/pull/5068) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -74,9 +75,8 @@ This is a list of my most predominant projects, of which I actively work on.
 ![added_member](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/People.svg) [Global-Chat-7493/terms-and-conditions](https://github.com/Global-Chat-7493/terms-and-conditions)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Global-Chat-7493/terms-and-conditions](https://github.com/Global-Chat-7493/terms-and-conditions)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [Global-Chat-7493/terms-and-conditions](https://github.com/Global-Chat-7493/terms-and-conditions)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [github/gitignore](https://github.com/github/gitignore)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 14th March, 2023 @ 08:16am UTC
+###### Last Updated: 14th March, 2023 @ 09:12am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
