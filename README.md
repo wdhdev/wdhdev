@@ -64,6 +64,10 @@ This is a list of my most predominant projects, of which I actively work on.
 
 ## Recent Activity
 
+<!--RECENT_ACTIVITY:last_update-->
+> Last Updated: 15th March, 2023 @ 10:11am UTC
+<!--RECENT_ACTIVITY:last_update_end-->
+
 <!--RECENT_ACTIVITY:start-->
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [abhijeetps/weekly-digest](https://github.com/abhijeetps/weekly-digest)<br>
@@ -76,7 +80,3 @@ This is a list of my most predominant projects, of which I actively work on.
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#28](https://github.com/EasyScriptJS/EasyScript/issues/28#issuecomment-1469599995) **|** [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5074](https://github.com/is-a-dev/register/pull/5074) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
-
-<!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 15th March, 2023 @ 10:11am UTC
-<!--RECENT_ACTIVITY:last_update_end-->
