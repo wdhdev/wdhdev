@@ -24,7 +24,7 @@ This is a list of my most predominant projects, of which I actively work on.
   <summary>🪄 Skills</summary>
   <br>
 
-  ![Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,tailwind,md,cloudflare,linux,git,github,vscode,discord)
+  ![Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,tailwind,md)
 
 </details>
 
