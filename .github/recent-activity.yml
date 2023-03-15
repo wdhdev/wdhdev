@@ -9,7 +9,7 @@ settings:
     url_text: "{REPO}{ID}"
     date:
         timezone: "GMT+0:00"
-        text: "###### Last Updated: {DATE}"
+        text: "> Last Updated: {DATE}"
         format: "dS mmmm, yyyy @ HH:MMtt Z"
     commit_name: "WDH-Bot"
     commit_email: "bot@williamharrison.dev"
