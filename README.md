@@ -1,4 +1,7 @@
+<img src="https://images.wdh.gg/logos/wh_logo_circle.png" align="right" height="196">
+
 # 👋 Hi, I'm William
+
 Hi, I'm William. I am a self-taught, full-stack developer with over 3 years of experience.
 
 [Get redirected to a random project of mine.](https://random.wdh.gg)
