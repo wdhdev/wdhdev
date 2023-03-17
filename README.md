@@ -70,18 +70,18 @@ This is a list of my most predominant projects, of which I actively work on.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 17th March, 2023 @ 22:09pm UTC
+> Last Updated: 17th March, 2023 @ 23:10pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.0](https://github.com/wdhdev/validate-email/releases/tag/v1.0.0) **|** [wdhdev/validate-email](https://github.com/wdhdev/validate-email)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#223](https://github.com/open-domains/register/pull/223) **|** [open-domains/register](https://github.com/open-domains/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#223](https://github.com/open-domains/register/pull/223#pullrequestreview-1345564338) **|** [open-domains/register](https://github.com/open-domains/register)<br>
-![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#223](https://github.com/open-domains/register/pull/223#pullrequestreview-1345480882) **|** [open-domains/register](https://github.com/open-domains/register)<br>
-![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#5089](https://github.com/is-a-dev/register/pull/5089#issuecomment-1473380215) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [facebook/react](https://github.com/facebook/react)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#222](https://github.com/open-domains/register/pull/222) **|** [open-domains/register](https://github.com/open-domains/register)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [wdhdev/validate-email](https://github.com/wdhdev/validate-email)<br>
-![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [wdhdev/validate-email](https://github.com/wdhdev/validate-email)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#224](https://github.com/open-domains/register/pull/224#pullrequestreview-1346812324) **|** [open-domains/register](https://github.com/open-domains/register)<br>
+![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#1229](https://github.com/sindresorhus/awesome-nodejs/pull/1229) **|** [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)<br>
+![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/awesome-nodejs](https://github.com/WilliamDavidHarrison/awesome-nodejs) **|** [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)<br>
+![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/awesome-nodejs](https://github.com/WilliamDavidHarrison/awesome-nodejs) **|** [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)<br>
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)<br>
+![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#224](https://github.com/open-domains/register/pull/224#issuecomment-1474478569) **|** [open-domains/register](https://github.com/open-domains/register)<br>
+![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#5091](https://github.com/is-a-dev/register/pull/5091#pullrequestreview-1346792965) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5089](https://github.com/is-a-dev/register/pull/5089) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5089](https://github.com/is-a-dev/register/pull/5089#pullrequestreview-1346792416) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#5089](https://github.com/is-a-dev/register/pull/5089#issuecomment-1474461332) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
