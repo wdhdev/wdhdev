@@ -1,6 +1,8 @@
 name: Recent Activity
 
 on:
+    workflow_dispatch: {}
+
     schedule:
         - cron: "0 * * * *"
 
