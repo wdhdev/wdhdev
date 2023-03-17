@@ -68,10 +68,11 @@ This is a list of my most predominant projects, of which I actively work on.
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 17th March, 2023 @ 00:56am UTC
+> Last Updated: 17th March, 2023 @ 02:09am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#222](https://github.com/open-domains/register/pull/222#pullrequestreview-1345139630) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5088](https://github.com/is-a-dev/register/pull/5088) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5088](https://github.com/is-a-dev/register/pull/5088#pullrequestreview-1344882235) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#221](https://github.com/open-domains/register/pull/221#pullrequestreview-1344879136) **|** [open-domains/register](https://github.com/open-domains/register)<br>
@@ -81,5 +82,4 @@ This is a list of my most predominant projects, of which I actively work on.
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#5087](https://github.com/is-a-dev/register/pull/5087#pullrequestreview-1342933432) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#220](https://github.com/open-domains/register/pull/220#pullrequestreview-1342802485) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#220](https://github.com/open-domains/register/pull/220#pullrequestreview-1342801901) **|** [open-domains/register](https://github.com/open-domains/register)<br>
-![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#220](https://github.com/open-domains/register/pull/220#issuecomment-1471197617) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 <!--RECENT_ACTIVITY:end-->
