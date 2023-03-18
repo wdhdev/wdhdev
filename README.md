@@ -4,11 +4,11 @@ Hi, I'm William. I am a self-taught, full-stack developer with over 3 years of e
 
 ![WakaTime](https://wakatime.com/badge/user/817e29c1-e1ac-4adc-936b-37bfa447c165.svg?style=for-the-badge)
 
-📁 You can find my old projects at the [WH Archive](https://github.com/wharchive).
+💻 You can find more of my projects [here](https://github.com/wdhdev).
 <br>
-🔗 [Get redirected to a random project of mine.](https://random.wdh.gg)
+📁 You can find my old projects at the [WH Archive](https://wharchive.org).
 <br>
-💬 Ask me anything [here](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/issues/new).
+💬 Ask me anything [here](https://wdh.gg/ama).
 
 ## Projects
 
