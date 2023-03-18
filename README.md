@@ -1,6 +1,5 @@
 # 👋 Hi, I'm William
-
-Hi, I'm William. I am a self-taught, full-stack developer with over 3 years of experience.
+I am a self-taught, full-stack developer with over 3 years of experience, with knowledge in around 5 programming languages.
 
 🧑 Get more information about me on my [portfolio](https://wdh.gg/dev).
 <br>
@@ -13,7 +12,6 @@ Hi, I'm William. I am a self-taught, full-stack developer with over 3 years of e
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=williamdavidharrison&theme=algolia&show_icons=true&border_radius=8&count_private=true&include_all_commits=true)
 
 ## Recent Activity
-
 <!--RECENT_ACTIVITY:last_update-->
 > Last Updated: 18th March, 2023 @ 02:08am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
