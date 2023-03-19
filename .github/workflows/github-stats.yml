@@ -22,8 +22,6 @@ jobs:
         steps:
             - uses: actions/checkout@v2
 
-            - run: cd github-stats
-
             - name: Use Node.js ${{ matrix.node-version }}
               uses: actions/setup-node@v2
               with:
