@@ -18,5 +18,5 @@ user.fetchContent().then(() => {
         theme: themes.getTheme(req_theme)
     });
 
-    fs.writeFileSync("../github_stats.svg", outString);
+    fs.writeFileSync("../assets/github_stats.svg", outString);
 });
