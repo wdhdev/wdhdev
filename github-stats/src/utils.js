@@ -6,6 +6,8 @@ let align = (number) => {
 let align_username = (username) => {
     var len = username.length;
 
+    return username;
+
     if (len <= 5) {
         return username + "@github.com";
     } else if (len <= 7) {
