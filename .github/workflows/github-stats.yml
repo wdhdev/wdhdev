@@ -7,8 +7,8 @@ on:
         - cron: "0 * * * *"
 
 defaults:
-  run:
-    working-directory: github-stats
+    run:
+        working-directory: github-stats
 
 jobs:
     build:
