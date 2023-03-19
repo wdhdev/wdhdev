@@ -50,6 +50,6 @@ jobs:
 
             - name: Commit
               run: |
-                  git add ../github-stats.svg
+                  git add ../github_stats.svg
                   git commit -m "Update GitHub Stats SVG" || echo
                   git push
