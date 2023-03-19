@@ -6,6 +6,12 @@ on:
     schedule:
         - cron: "0 * * * *"
 
+    push:
+        branches: [main]
+        paths:
+            - "github-stats/**"
+            - ".github/workflows/github-stats.yml"
+
 defaults:
     run:
         working-directory: github-stats
