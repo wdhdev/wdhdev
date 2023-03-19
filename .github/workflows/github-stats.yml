@@ -6,6 +6,10 @@ on:
     schedule:
         - cron: "0 * * * *"
 
+defaults:
+  run:
+    working-directory: client
+
 jobs:
     build:
         name: Update SVG
@@ -18,10 +22,7 @@ jobs:
         steps:
             - uses: actions/checkout@v2
 
-            - name: Change Directory
-              run: |
-                  cd github-stats
-                  ls
+            - run: cd github-stats
 
             - name: Use Node.js ${{ matrix.node-version }}
               uses: actions/setup-node@v2
