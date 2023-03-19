@@ -13,18 +13,18 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 19th March, 2023 @ 01:03am UTC
+> Last Updated: 19th March, 2023 @ 02:42am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v0.0.1](https://github.com/wdhdev/pi-calculator/releases/tag/v0.0.1) **|** [wdhdev/pi-calculator](https://github.com/wdhdev/pi-calculator)<br>
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WilliamDavidHarrison/infinite-users](https://github.com/WilliamDavidHarrison/infinite-users)<br>
+![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/infinite-users](https://github.com/WilliamDavidHarrison/infinite-users)<br>
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5091](https://github.com/is-a-dev/register/pull/5091) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5091](https://github.com/is-a-dev/register/pull/5091#pullrequestreview-1347337038) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [necolas/normalize.css](https://github.com/necolas/normalize.css)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5100](https://github.com/is-a-dev/register/pull/5100) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5100](https://github.com/is-a-dev/register/pull/5100#pullrequestreview-1347333886) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [wdhdev/is-a-dev-cli](https://github.com/wdhdev/is-a-dev-cli)<br>
 ![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v2.0.0](https://github.com/wdhdev/is-a-dev-cli/releases/tag/v2.0.0) **|** [wdhdev/is-a-dev-cli](https://github.com/wdhdev/is-a-dev-cli)<br>
-![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/register](https://github.com/WilliamDavidHarrison/register) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.1.8](https://github.com/free-domains/cli/releases/tag/v1.1.8) **|** [free-domains/cli](https://github.com/free-domains/cli)<br>
-![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.0](https://github.com/wdhdev/pi-calculator/releases/tag/v1.0.0) **|** [wdhdev/pi-calculator](https://github.com/wdhdev/pi-calculator)<br>
-![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [wdhdev/is-a-dev-cli](https://github.com/wdhdev/is-a-dev-cli)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5099](https://github.com/is-a-dev/register/pull/5099) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5099](https://github.com/is-a-dev/register/pull/5099#pullrequestreview-1347312965) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
