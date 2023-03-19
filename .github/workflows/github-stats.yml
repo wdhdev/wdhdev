@@ -44,7 +44,7 @@ jobs:
                   git pull
 
             - name: Update Template
-              run: node ./src/updater.js ${{ github.repository_owner }} dracula
+              run: node ./updater.js ${{ github.repository_owner }} dracula
               env:
                   BOT_GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
 
