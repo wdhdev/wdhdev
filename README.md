@@ -15,18 +15,18 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 19th March, 2023 @ 10:10am UTC
+> Last Updated: 19th March, 2023 @ 11:08am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#226](https://github.com/open-domains/register/pull/226) **|** [open-domains/register](https://github.com/open-domains/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#226](https://github.com/open-domains/register/pull/226#pullrequestreview-1347418455) **|** [open-domains/register](https://github.com/open-domains/register)<br>
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5102](https://github.com/is-a-dev/register/pull/5102) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5102](https://github.com/is-a-dev/register/pull/5102#pullrequestreview-1347418077) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#7](https://github.com/oyepriyansh/oyepriyansh/pull/7) **|** [oyepriyansh/oyepriyansh](https://github.com/oyepriyansh/oyepriyansh)<br>
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/oyepriyansh](https://github.com/WilliamDavidHarrison/oyepriyansh) **|** [oyepriyansh/oyepriyansh](https://github.com/oyepriyansh/oyepriyansh)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#229](https://github.com/open-domains/register/pull/229) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#229](https://github.com/open-domains/register/pull/229#pullrequestreview-1347378893) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#229](https://github.com/open-domains/register/pull/229#pullrequestreview-1347378747) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.0](https://github.com/wdhdev/validate-url/releases/tag/v1.0.0) **|** [wdhdev/validate-url](https://github.com/wdhdev/validate-url)<br>
-![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.1](https://github.com/wdhdev/validate-email/releases/tag/v1.0.1) **|** [wdhdev/validate-email](https://github.com/wdhdev/validate-email)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [wdhdev/validate-url](https://github.com/wdhdev/validate-url)<br>
-![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [wdhdev/validate-url](https://github.com/wdhdev/validate-url)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [electron/electron](https://github.com/electron/electron)<br>
 <!--RECENT_ACTIVITY:end-->
