@@ -15,10 +15,13 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 21st March, 2023 @ 00:53am UTC
+> Last Updated: 21st March, 2023 @ 02:01am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [wolax/wolax](https://github.com/wolax/wolax)<br>
+![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#232](https://github.com/open-domains/register/pull/232) **|** [open-domains/register](https://github.com/open-domains/register)<br>
+![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#232](https://github.com/open-domains/register/pull/232#pullrequestreview-1349489786) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [imgbot/Imgbot](https://github.com/imgbot/Imgbot)<br>
 ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#8](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison/pull/8) **|** [WilliamDavidHarrison/WilliamDavidHarrison](https://github.com/WilliamDavidHarrison/WilliamDavidHarrison)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [v8/v8](https://github.com/v8/v8)<br>
@@ -26,7 +29,4 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#231](https://github.com/open-domains/register/pull/231#pullrequestreview-1348208350) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [Release](https://github.com/WilliamDavidHarrison/restart.exe/releases/tag/release) **|** [WilliamDavidHarrison/restart.exe](https://github.com/WilliamDavidHarrison/restart.exe)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WilliamDavidHarrison/restart.exe](https://github.com/WilliamDavidHarrison/restart.exe)<br>
-![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/restart.exe](https://github.com/WilliamDavidHarrison/restart.exe)<br>
-![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [EXE Release](https://github.com/WilliamDavidHarrison/infinite-users/releases/tag/exe-release) **|** [WilliamDavidHarrison/infinite-users](https://github.com/WilliamDavidHarrison/infinite-users)<br>
-![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [wdhdev/lua-installer](https://github.com/wdhdev/lua-installer)<br>
 <!--RECENT_ACTIVITY:end-->
