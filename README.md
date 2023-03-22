@@ -11,8 +11,6 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=williamdavidharrison&theme=algolia&show_icons=true&border_radius=8&count_private=true&include_all_commits=true)
 
-![GitHub Stats Terminal Style](assets/github_stats.svg)
-
 ## Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
 > Last Updated: 22nd March, 2023 @ 22:08pm UTC
