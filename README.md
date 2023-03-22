@@ -1,15 +1,15 @@
-# 👋 Hi, I'm William
+# 👋 [Hi, I'm William](https://wdh.gg/dev)
 I am a self-taught, full-stack developer with over 3 years of experience, with knowledge in 4 programming languages.
 
 🧑 Get more information about me on my [portfolio](https://wdh.gg/dev).
 <br>
-💻 See more of my projects [here](https://github.com/wdhdev).
+💻 See more of my projects [here](https://wdh.gg/github-org).
 <br>
-📁 View my old projects at the [WH Archive](https://wharchive.org).
+📁 View my old projects at the [WH Archive](https://wdh.gg/archive).
 
-![WakaTime](https://wakatime.com/badge/user/817e29c1-e1ac-4adc-936b-37bfa447c165.svg?style=for-the-badge)
+[![WakaTime](https://wakatime.com/badge/user/817e29c1-e1ac-4adc-936b-37bfa447c165.svg?style=for-the-badge)](https://wdh.gg/wakatime)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=williamdavidharrison&theme=algolia&show_icons=true&border_radius=8&count_private=true&include_all_commits=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=williamdavidharrison&theme=algolia&show_icons=true&border_radius=8&count_private=true&include_all_commits=true)](https://wdh.gg/github)
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
