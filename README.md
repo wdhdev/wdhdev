@@ -1,7 +1,7 @@
 # 👋 Hi, I'm William
 I am a self-taught, full-stack developer with over 3 years of experience, with knowledge in 4 programming languages.
 
-[![Skills](https://skillicons.dev/icons?i=css,cloudflare,discord,bots,docker,express,firebase,git,github,githubactions,html,js,linux,md,mongodb,netlify,nodejs,replit,tailwind,ts,vercel,vscode,wordpress,workers)](#)
+![Skills](https://skillicons.dev/icons?i=css,cloudflare,discord,bots,docker,express,firebase,git,github,githubactions,html,js,linux,md,mongodb,netlify,nodejs,replit,tailwind,ts,vercel,vscode,wordpress,workers)
 
 🧑 Get more information about me on my [portfolio](https://wdh.gg/dev).
 <br>
