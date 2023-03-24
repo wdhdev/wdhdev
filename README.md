@@ -15,18 +15,18 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 24th March, 2023 @ 02:04am UTC
+> Last Updated: 24th March, 2023 @ 03:10am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#72](https://github.com/free-domains/register/pull/72) **|** [free-domains/register](https://github.com/free-domains/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#72](https://github.com/free-domains/register/pull/72#pullrequestreview-1355829996) **|** [free-domains/register](https://github.com/free-domains/register)<br>
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)<br>
+![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#235](https://github.com/open-domains/register/pull/235#issuecomment-1482012538) **|** [open-domains/register](https://github.com/open-domains/register)<br>
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#237](https://github.com/open-domains/register/pull/237) **|** [open-domains/register](https://github.com/open-domains/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#237](https://github.com/open-domains/register/pull/237#pullrequestreview-1355770487) **|** [open-domains/register](https://github.com/open-domains/register)<br>
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5119](https://github.com/is-a-dev/register/pull/5119) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5119](https://github.com/is-a-dev/register/pull/5119#pullrequestreview-1355767590) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#5](https://github.com/roypriyanshu02/impressive-profile-readmes/pull/5#issuecomment-1481123224) **|** [roypriyanshu02/impressive-profile-readmes](https://github.com/roypriyanshu02/impressive-profile-readmes)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#4](https://github.com/roypriyanshu02/impressive-profile-readmes/pull/4) **|** [roypriyanshu02/impressive-profile-readmes](https://github.com/roypriyanshu02/impressive-profile-readmes)<br>
-![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/impressive-profile-readmes](https://github.com/WilliamDavidHarrison/impressive-profile-readmes) **|** [roypriyanshu02/impressive-profile-readmes](https://github.com/roypriyanshu02/impressive-profile-readmes)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WilliamDavidHarrison/endless-explorer](https://github.com/WilliamDavidHarrison/endless-explorer)<br>
-![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/endless-explorer](https://github.com/WilliamDavidHarrison/endless-explorer)<br>
-![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#236](https://github.com/open-domains/register/pull/236#pullrequestreview-1353878649) **|** [open-domains/register](https://github.com/open-domains/register)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#71](https://github.com/free-domains/register/pull/71) **|** [free-domains/register](https://github.com/free-domains/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#71](https://github.com/free-domains/register/pull/71#pullrequestreview-1353854741) **|** [free-domains/register](https://github.com/free-domains/register)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [denoland/deno](https://github.com/denoland/deno)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WilliamDavidHarrison/guthib.com-v2](https://github.com/WilliamDavidHarrison/guthib.com-v2)<br>
 <!--RECENT_ACTIVITY:end-->
