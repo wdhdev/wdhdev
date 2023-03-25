@@ -9,7 +9,7 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 <br>
 📁 View my old projects at the [WH Archive](https://wdh.gg/archive).
 <br>
-🌐 Get a free subdomain with [Free Domains](https://wdh.gg/fd).
+🌐 Get a free subdomain at [Free Domains](https://wdh.gg/fd).
 
 [![WakaTime](https://wakatime.com/badge/user/817e29c1-e1ac-4adc-936b-37bfa447c165.svg?style=for-the-badge)](https://wdh.gg/wakatime)
 
