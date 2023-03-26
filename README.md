@@ -17,18 +17,18 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 26th March, 2023 @ 05:09am UTC
+> Last Updated: 26th March, 2023 @ 06:12am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [discordjs/discord-api-types](https://github.com/discordjs/discord-api-types)<br>
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [discordjs/guide](https://github.com/discordjs/guide)<br>
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [leereilly/games](https://github.com/leereilly/games)<br>
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [httpcats/http.cat](https://github.com/httpcats/http.cat)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [robsd/js-paypal-link-generator](https://github.com/robsd/js-paypal-link-generator)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [anshuopinion/Express-vercel-demo](https://github.com/anshuopinion/Express-vercel-demo)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5129](https://github.com/is-a-dev/register/pull/5129) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5129](https://github.com/is-a-dev/register/pull/5129#pullrequestreview-1357931332) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.2](https://github.com/wdhdev/online-terminal/releases/tag/v1.0.2) **|** [wdhdev/online-terminal](https://github.com/wdhdev/online-terminal)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5128](https://github.com/is-a-dev/register/pull/5128) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5128](https://github.com/is-a-dev/register/pull/5128#pullrequestreview-1357929751) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [termux/termux-app](https://github.com/termux/termux-app)<br>
-![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#5130](https://github.com/is-a-dev/register/issues/5130#issuecomment-1483977168) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.1](https://github.com/wdhdev/online-terminal/releases/tag/v1.0.1) **|** [wdhdev/online-terminal](https://github.com/wdhdev/online-terminal)<br>
 <!--RECENT_ACTIVITY:end-->
