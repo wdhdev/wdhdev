@@ -17,10 +17,11 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 26th March, 2023 @ 10:09am UTC
+> Last Updated: 26th March, 2023 @ 11:07am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5131](https://github.com/is-a-dev/register/pull/5131#pullrequestreview-1357994609) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [discordjs/discord-api-types](https://github.com/discordjs/discord-api-types)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [discordjs/guide](https://github.com/discordjs/guide)<br>
@@ -30,5 +31,4 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [anshuopinion/Express-vercel-demo](https://github.com/anshuopinion/Express-vercel-demo)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5129](https://github.com/is-a-dev/register/pull/5129) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5129](https://github.com/is-a-dev/register/pull/5129#pullrequestreview-1357931332) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.2](https://github.com/wdhdev/online-terminal/releases/tag/v1.0.2) **|** [wdhdev/online-terminal](https://github.com/wdhdev/online-terminal)<br>
 <!--RECENT_ACTIVITY:end-->
