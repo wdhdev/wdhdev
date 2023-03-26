@@ -17,18 +17,18 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 26th March, 2023 @ 02:13am UTC
+> Last Updated: 26th March, 2023 @ 03:11am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5129](https://github.com/is-a-dev/register/pull/5129) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5129](https://github.com/is-a-dev/register/pull/5129#pullrequestreview-1357931332) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.2](https://github.com/wdhdev/online-terminal/releases/tag/v1.0.2) **|** [wdhdev/online-terminal](https://github.com/wdhdev/online-terminal)<br>
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5128](https://github.com/is-a-dev/register/pull/5128) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5128](https://github.com/is-a-dev/register/pull/5128#pullrequestreview-1357929751) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [termux/termux-app](https://github.com/termux/termux-app)<br>
+![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#5130](https://github.com/is-a-dev/register/issues/5130#issuecomment-1483977168) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.1](https://github.com/wdhdev/online-terminal/releases/tag/v1.0.1) **|** [wdhdev/online-terminal](https://github.com/wdhdev/online-terminal)<br>
 ![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.0](https://github.com/wdhdev/online-terminal/releases/tag/v1.0.0) **|** [wdhdev/online-terminal](https://github.com/wdhdev/online-terminal)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [wdhdev/online-terminal](https://github.com/wdhdev/online-terminal)<br>
-![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [wdhdev/online-terminal](https://github.com/wdhdev/online-terminal)<br>
-![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#1](https://github.com/WilliamDavidHarrison/url-shortener/pull/1#issuecomment-1483780957) **|** [WilliamDavidHarrison/url-shortener](https://github.com/WilliamDavidHarrison/url-shortener)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/web.sh](https://github.com/SX-9/web.sh)<br>
-![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#7119](https://github.com/EddieHubCommunity/support/issues/7119) **|** [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)<br>
-![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.0](https://github.com/Global-Chat-7493/cdn-package/releases/tag/v1.0.0) **|** [Global-Chat-7493/cdn-package](https://github.com/Global-Chat-7493/cdn-package)<br>
-![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.1](https://github.com/Global-Chat-7493/get/releases/tag/v1.0.1) **|** [Global-Chat-7493/get](https://github.com/Global-Chat-7493/get)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Global-Chat-7493/cdn-package](https://github.com/Global-Chat-7493/cdn-package)<br>
-![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [Global-Chat-7493/cdn-package](https://github.com/Global-Chat-7493/cdn-package)<br>
 <!--RECENT_ACTIVITY:end-->
