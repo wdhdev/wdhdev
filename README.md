@@ -15,10 +15,12 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 31st March, 2023 @ 22:08pm UTC
+> Last Updated: 31st March, 2023 @ 23:09pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [twitter/the-algorithm](https://github.com/twitter/the-algorithm)<br>
+![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) [#240](https://github.com/open-domains/register/issues/240) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#242](https://github.com/open-domains/register/issues/242#issuecomment-1491324553) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [microsoft/JARVIS](https://github.com/microsoft/JARVIS)<br>
 ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#24](https://github.com/shandralor/PeerBrain/issues/24) **|** [shandralor/PeerBrain](https://github.com/shandralor/PeerBrain)<br>
@@ -27,6 +29,4 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5180](https://github.com/is-a-dev/register/pull/5180) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5181](https://github.com/is-a-dev/register/pull/5181) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5181](https://github.com/is-a-dev/register/pull/5181#pullrequestreview-1366120261) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5180](https://github.com/is-a-dev/register/pull/5180#pullrequestreview-1366119800) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#5167](https://github.com/is-a-dev/register/pull/5167#pullrequestreview-1366119523) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
