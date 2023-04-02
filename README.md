@@ -15,10 +15,12 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 2nd April, 2023 @ 09:08am UTC
+> Last Updated: 2nd April, 2023 @ 10:09am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#247](https://github.com/open-domains/register/pull/247) **|** [open-domains/register](https://github.com/open-domains/register)<br>
+![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#247](https://github.com/open-domains/register/pull/247#issuecomment-1493276327) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [sindresorhus/html-tags](https://github.com/sindresorhus/html-tags)<br>
 ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#430](https://github.com/is-a-good-dev/register/pull/430) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SwitchbladeBot/invidget](https://github.com/SwitchbladeBot/invidget)<br>
@@ -27,6 +29,4 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Anti-Ghost-Ping/Anti-Ghost-Ping](https://github.com/Anti-Ghost-Ping/Anti-Ghost-Ping)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#5200](https://github.com/is-a-dev/register/pull/5200#issuecomment-1493250214) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#5200](https://github.com/is-a-dev/register/pull/5200) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [HypixelDev/PublicAPI](https://github.com/HypixelDev/PublicAPI)<br>
 <!--RECENT_ACTIVITY:end-->
