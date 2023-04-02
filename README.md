@@ -15,10 +15,12 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 2nd April, 2023 @ 08:11am UTC
+> Last Updated: 2nd April, 2023 @ 09:08am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [sindresorhus/html-tags](https://github.com/sindresorhus/html-tags)<br>
+![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#430](https://github.com/is-a-good-dev/register/pull/430) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SwitchbladeBot/invidget](https://github.com/SwitchbladeBot/invidget)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [wdhdev/ghost-ping-detector](https://github.com/wdhdev/ghost-ping-detector)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [wdhdev/ghost-ping-detector](https://github.com/wdhdev/ghost-ping-detector)<br>
@@ -27,6 +29,4 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#5200](https://github.com/is-a-dev/register/pull/5200#issuecomment-1493250214) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#5200](https://github.com/is-a-dev/register/pull/5200) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [HypixelDev/PublicAPI](https://github.com/HypixelDev/PublicAPI)<br>
-![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#26](https://github.com/shandralor/PeerBrain/pull/26) **|** [shandralor/PeerBrain](https://github.com/shandralor/PeerBrain)<br>
-![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/PeerBrain](https://github.com/WilliamDavidHarrison/PeerBrain) **|** [shandralor/PeerBrain](https://github.com/shandralor/PeerBrain)<br>
 <!--RECENT_ACTIVITY:end-->
