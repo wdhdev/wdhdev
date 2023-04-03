@@ -15,18 +15,18 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 3rd April, 2023 @ 09:10am UTC
+> Last Updated: 3rd April, 2023 @ 10:10am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)<br>
+![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/invidget](https://github.com/WilliamDavidHarrison/invidget) **|** [SwitchbladeBot/invidget](https://github.com/SwitchbladeBot/invidget)<br>
+![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#5208](https://github.com/is-a-dev/register/pull/5208#issuecomment-1493942050) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#5208](https://github.com/is-a-dev/register/pull/5208) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [brentvollebregt/auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [py2exe/py2exe](https://github.com/py2exe/py2exe)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#5207](https://github.com/is-a-dev/register/pull/5207#pullrequestreview-1368156306) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#5205](https://github.com/is-a-dev/register/pull/5205#issuecomment-1493463814) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#5204](https://github.com/is-a-dev/register/pull/5204) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#5204](https://github.com/is-a-dev/register/pull/5204#pullrequestreview-1368155912) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [egoist/gh-pinned-repos](https://github.com/egoist/gh-pinned-repos)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)<br>
 <!--RECENT_ACTIVITY:end-->
