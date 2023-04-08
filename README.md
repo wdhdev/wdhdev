@@ -1,5 +1,5 @@
 # 👋 Hi, I'm William
-I am a self-taught, full-stack developer with over 3 years of experience, with knowledge in 4 programming languages.
+I am a self-taught, full-stack developer with over 3 years of experience, with knowledge in 5 programming languages.
 
 [![Skills](https://skillicons.dev/icons?i=css,cloudflare,discord,bots,docker,express,firebase,git,github,githubactions,html,js,linux,md,mongodb,netlify,nodejs,py,replit,tailwind,ts,vercel,vscode,wordpress,workers)](https://wdh.gg/dev)
 
