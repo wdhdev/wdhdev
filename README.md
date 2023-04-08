@@ -15,10 +15,13 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 8th April, 2023 @ 04:11am UTC
+> Last Updated: 8th April, 2023 @ 05:08am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#78](https://github.com/free-domains/register/pull/78#issuecomment-1500789118) **|** [free-domains/register](https://github.com/free-domains/register)<br>
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WilliamDavidHarrison/cmd-protocol](https://github.com/WilliamDavidHarrison/cmd-protocol)<br>
+![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WilliamDavidHarrison/cmd-protocol](https://github.com/WilliamDavidHarrison/cmd-protocol)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Endermanch/MalwareDatabase](https://github.com/Endermanch/MalwareDatabase)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Shubham-Kumar-2000/protocol-registry](https://github.com/Shubham-Kumar-2000/protocol-registry)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Androz2091/discord-giveaways](https://github.com/Androz2091/discord-giveaways)<br>
@@ -26,7 +29,4 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#80](https://github.com/free-domains/register/pull/80) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#80](https://github.com/free-domains/register/pull/80#pullrequestreview-1376683886) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#78](https://github.com/free-domains/register/pull/78#issuecomment-1500753640) **|** [free-domains/register](https://github.com/free-domains/register)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [andrewstech/peerbrain-protocol](https://github.com/andrewstech/peerbrain-protocol)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#260](https://github.com/open-domains/register/pull/260) **|** [open-domains/register](https://github.com/open-domains/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#260](https://github.com/open-domains/register/pull/260#pullrequestreview-1375871527) **|** [open-domains/register](https://github.com/open-domains/register)<br>
 <!--RECENT_ACTIVITY:end-->
