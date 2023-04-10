@@ -15,10 +15,12 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 10th April, 2023 @ 07:09am UTC
+> Last Updated: 10th April, 2023 @ 08:12am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#7300](https://github.com/cli/cli/pull/7300) **|** [cli/cli](https://github.com/cli/cli)<br>
+![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/cli](https://github.com/WilliamDavidHarrison/cli) **|** [cli/cli](https://github.com/cli/cli)<br>
 ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#121](https://github.com/di-sukharev/opencommit/issues/121) **|** [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WilliamDavidHarrison/php-to-do-list](https://github.com/WilliamDavidHarrison/php-to-do-list)<br>
@@ -27,6 +29,4 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [php/php-src](https://github.com/php/php-src)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [flotwig/TLDR-2](https://github.com/flotwig/TLDR-2)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [refined-github/shorten-repo-url](https://github.com/refined-github/shorten-repo-url)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)<br>
 <!--RECENT_ACTIVITY:end-->
