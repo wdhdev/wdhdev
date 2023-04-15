@@ -15,10 +15,11 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 15th April, 2023 @ 06:12am UTC
+> Last Updated: 15th April, 2023 @ 07:08am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5284](https://github.com/is-a-dev/register/pull/5284) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [chocolatey/choco](https://github.com/chocolatey/choco)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5284](https://github.com/is-a-dev/register/pull/5284#pullrequestreview-1386321814) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#5287](https://github.com/is-a-dev/register/pull/5287#issuecomment-1509555431) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -28,5 +29,4 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5281](https://github.com/is-a-dev/register/pull/5281#pullrequestreview-1386321355) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5286](https://github.com/is-a-dev/register/pull/5286) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#5286](https://github.com/is-a-dev/register/pull/5286#issuecomment-1509550573) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5286](https://github.com/is-a-dev/register/pull/5286#pullrequestreview-1386321212) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
