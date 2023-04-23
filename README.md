@@ -15,18 +15,18 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 23rd April, 2023 @ 12:18pm UTC
+> Last Updated: 23rd April, 2023 @ 13:11pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [pytube/pytube](https://github.com/pytube/pytube)<br>
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [n8n-io/n8n](https://github.com/n8n-io/n8n)<br>
+![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#5411](https://github.com/is-a-dev/register/pull/5411) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#5411](https://github.com/is-a-dev/register/pull/5411#pullrequestreview-1396901349) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [gdams/twitter-legacy-verified](https://github.com/gdams/twitter-legacy-verified)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [PeerBrain/PeerBrain.github.io](https://github.com/PeerBrain/PeerBrain.github.io)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [cmd-protocol/cmd-protocol.github.io](https://github.com/cmd-protocol/cmd-protocol.github.io)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [free-for-life/free-for-life.github.io](https://github.com/free-for-life/free-for-life.github.io)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WHArchive/WHArchive.github.io](https://github.com/WHArchive/WHArchive.github.io)<br>
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [wdhdev/wdhdev.github.io](https://github.com/wdhdev/wdhdev.github.io)<br>
-![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [wdhdev/.github](https://github.com/wdhdev/.github)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [30-seconds/30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)<br>
 <!--RECENT_ACTIVITY:end-->
