@@ -1,4 +1,4 @@
-name: Recent Activity
+name: Update README
 
 on:
     workflow_dispatch: {}
@@ -6,9 +6,12 @@ on:
     schedule:
         - cron: "0 * * * *"
 
+    push:
+        branches: [main]
+
 jobs:
-    build:
-        name: Update README
+    activity:
+        name: Recent Activity
         runs-on: ubuntu-latest
 
         steps:
