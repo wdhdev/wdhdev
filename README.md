@@ -14,11 +14,11 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=williamdavidharrison&theme=algolia&show_icons=true&border_radius=8&count_private=true&include_all_commits=true)](https://wdh.gg/github)
 
 ## Recent Activity
-<!--RECENT_ACTIVITY:last_update-->
+<!-- RECENT_ACTIVITY:last_update -->
 > Last Updated: 25th April, 2023 @ 08:44am UTC
-<!--RECENT_ACTIVITY:last_update_end-->
+<!-- RECENT_ACTIVITY:last_update_end -->
 
-<!--RECENT_ACTIVITY:start-->
+<!-- RECENT_ACTIVITY:start -->
 ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [WHActions/recent-activity](https://github.com/WHActions/recent-activity)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5418](https://github.com/is-a-dev/register/pull/5418) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5418](https://github.com/is-a-dev/register/pull/5418#pullrequestreview-1398904938) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -29,4 +29,4 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#90](https://github.com/free-domains/register/pull/90) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#95](https://github.com/free-domains/register/pull/95) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#95](https://github.com/free-domains/register/pull/95#pullrequestreview-1397690374) **|** [free-domains/register](https://github.com/free-domains/register)<br>
-<!--RECENT_ACTIVITY:end-->
+<!-- RECENT_ACTIVITY:end -->
