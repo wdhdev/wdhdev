@@ -15,10 +15,11 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 3rd May, 2023 @ 02:30am UTC
+> Last Updated: 3rd May, 2023 @ 03:09am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [necolas/normalize.css](https://github.com/necolas/normalize.css)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [milesmcc/truthsocial](https://github.com/milesmcc/truthsocial)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [torvalds/linux](https://github.com/torvalds/linux)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#5536](https://github.com/is-a-dev/register/pull/5536#pullrequestreview-1408521948) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -28,5 +29,4 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5530](https://github.com/is-a-dev/register/pull/5530) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5530](https://github.com/is-a-dev/register/pull/5530#pullrequestreview-1408515947) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#5529](https://github.com/is-a-dev/register/pull/5529#pullrequestreview-1408514365) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5526](https://github.com/is-a-dev/register/pull/5526) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
