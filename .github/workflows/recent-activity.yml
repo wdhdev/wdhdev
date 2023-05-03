@@ -1,4 +1,4 @@
-name: README
+name: Recent Activity
 
 on:
     workflow_dispatch: {}
@@ -7,16 +7,15 @@ on:
         - cron: "0 * * * *"
 
 jobs:
-    recent-activity:
-        name: Recent Activity
+    update:
+        name: Update
         runs-on: ubuntu-latest
 
         steps:
             - uses: actions/checkout@v3
 
-            - name: Update
-              uses: Readme-Workflows/recent-activity@main
+            - uses: Readme-Workflows/recent-activity@main
               env:
                   GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
               with:
-                  CONFIG_FILE: "recent-activity.yml"
+                  CONFIG_FILE: "configs/recent-activity.yml"
