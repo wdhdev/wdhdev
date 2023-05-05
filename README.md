@@ -15,10 +15,12 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 5th May, 2023 @ 03:09am UTC
+> Last Updated: 5th May, 2023 @ 04:10am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#6](https://github.com/free-for-life/free-for-life/pull/6) **|** [free-for-life/free-for-life](https://github.com/free-for-life/free-for-life)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#6](https://github.com/free-for-life/free-for-life/pull/6#pullrequestreview-1414138712) **|** [free-for-life/free-for-life](https://github.com/free-for-life/free-for-life)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Discord-Datamining/Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining)<br>
 ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#5545](https://github.com/is-a-dev/register/pull/5545) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#101](https://github.com/free-domains/register/pull/101) **|** [free-domains/register](https://github.com/free-domains/register)<br>
@@ -27,6 +29,4 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5538](https://github.com/is-a-dev/register/pull/5538) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5538](https://github.com/is-a-dev/register/pull/5538#pullrequestreview-1412060917) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Endermanch/XPKeygen](https://github.com/Endermanch/XPKeygen)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5537](https://github.com/is-a-dev/register/pull/5537) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5537](https://github.com/is-a-dev/register/pull/5537#pullrequestreview-1410142083) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
