@@ -16,6 +16,6 @@ jobs:
 
             - uses: Readme-Workflows/recent-activity@main
               env:
-                  GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
               with:
                   CONFIG_FILE: "configs/recent-activity.yml"
