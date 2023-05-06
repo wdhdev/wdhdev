@@ -8,7 +8,7 @@ settings:
         - "push"
     url_text: "{REPO}{ID}"
     date:
-        timezone: "GMT+8:00"
+        timezone: "GMT+0:00"
         text: "> Last Updated: {DATE}"
         format: "dS mmmm, yyyy @ HH:MMtt Z"
     commit_name: "github-actions[bot]"
