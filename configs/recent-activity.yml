@@ -8,11 +8,11 @@ settings:
         - "push"
     url_text: "{REPO}{ID}"
     date:
-        timezone: "GMT+0:00"
+        timezone: "GMT+8:00"
         text: "> Last Updated: {DATE}"
         format: "dS mmmm, yyyy @ HH:MMtt Z"
-    commit_name: "WDH-Bot"
-    commit_email: "bot@williamharrison.dev"
+    commit_name: "github-actions[bot]"
+    commit_email: "actions@github.com"
 messages:
     comments: "![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) {ID} **|** {REPO}"
     issue_opened: "![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) {ID} **|** {REPO}"
