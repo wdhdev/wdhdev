@@ -15,10 +15,12 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 7th May, 2023 @ 08:09am UTC
+> Last Updated: 7th May, 2023 @ 09:07am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#60](https://github.com/EasyScriptJS/EasyScript/pull/60) **|** [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#59](https://github.com/EasyScriptJS/EasyScript/pull/59) **|** [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#60](https://github.com/wdhdev/EasyScript/pull/60) **|** [wdhdev/EasyScript](https://github.com/wdhdev/EasyScript)<br>
 ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#58](https://github.com/EasyScriptJS/EasyScript/pull/58) **|** [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5568](https://github.com/is-a-dev/register/pull/5568) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -27,6 +29,4 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5565](https://github.com/is-a-dev/register/pull/5565) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5565](https://github.com/is-a-dev/register/pull/5565#pullrequestreview-1415855801) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#5563](https://github.com/is-a-dev/register/pull/5563#pullrequestreview-1415855740) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#5569](https://github.com/is-a-dev/register/pull/5569#issuecomment-1537338972) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5569](https://github.com/is-a-dev/register/pull/5569) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
