@@ -15,18 +15,18 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 7th May, 2023 @ 09:07am UTC
+> Last Updated: 7th May, 2023 @ 10:08am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#5438](https://github.com/is-a-dev/register/pull/5438) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5564](https://github.com/is-a-dev/register/pull/5564) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5564](https://github.com/is-a-dev/register/pull/5564#pullrequestreview-1415873475) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5566](https://github.com/is-a-dev/register/pull/5566) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5571](https://github.com/is-a-dev/register/pull/5571) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5571](https://github.com/is-a-dev/register/pull/5571#pullrequestreview-1415872794) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.2.6](https://github.com/EasyScriptJS/EasyScript/releases/tag/v1.2.6) **|** [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#60](https://github.com/EasyScriptJS/EasyScript/pull/60) **|** [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
 ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#59](https://github.com/EasyScriptJS/EasyScript/pull/59) **|** [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#60](https://github.com/wdhdev/EasyScript/pull/60) **|** [wdhdev/EasyScript](https://github.com/wdhdev/EasyScript)<br>
-![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#58](https://github.com/EasyScriptJS/EasyScript/pull/58) **|** [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5568](https://github.com/is-a-dev/register/pull/5568) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5568](https://github.com/is-a-dev/register/pull/5568#pullrequestreview-1415856614) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#5566](https://github.com/is-a-dev/register/pull/5566#pullrequestreview-1415856504) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5565](https://github.com/is-a-dev/register/pull/5565) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5565](https://github.com/is-a-dev/register/pull/5565#pullrequestreview-1415855801) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#5563](https://github.com/is-a-dev/register/pull/5563#pullrequestreview-1415855740) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
