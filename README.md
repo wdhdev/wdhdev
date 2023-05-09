@@ -15,10 +15,11 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 9th May, 2023 @ 04:10am UTC
+> Last Updated: 9th May, 2023 @ 05:08am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#5572](https://github.com/is-a-dev/register/pull/5572#issuecomment-1539401638) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#104](https://github.com/free-domains/register/pull/104) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#104](https://github.com/free-domains/register/pull/104#pullrequestreview-1416704667) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#5573](https://github.com/is-a-dev/register/pull/5573#pullrequestreview-1416111908) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -28,5 +29,4 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [actions/checkout](https://github.com/actions/checkout)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5563](https://github.com/is-a-dev/register/pull/5563) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5563](https://github.com/is-a-dev/register/pull/5563#pullrequestreview-1415916439) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/apenasigordev](https://github.com/WilliamDavidHarrison/apenasigordev) **|** [apenasigordev/apenasigordev](https://github.com/apenasigordev/apenasigordev)<br>
 <!--RECENT_ACTIVITY:end-->
