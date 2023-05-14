@@ -3,11 +3,11 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 [![Skills](https://skillicons.dev/icons?i=css,cloudflare,discord,bots,docker,express,firebase,git,github,githubactions,html,js,linux,md,mongodb,netlify,nodejs,py,tailwind,ts,vercel,vscode,wordpress,workers)](https://wdh.gg/dev)
 
-🧑 Get more information about me on my [portfolio](https://wdh.gg/dev).
+✨️ Learn more about me on my [portfolio](https://wdh.gg/dev).
 <br>
-💻 See more of my projects [here](https://wdh.gg/github-org).
+💻 Find more of my projects [here](https://wdh.gg/github-org).
 <br>
-📁 View my old projects at the [WH Archive](https://wdh.gg/archive).
+📁 View my old projects at the [WH Archive](https://wdh.gg/github-archive).
 
 [![WakaTime](https://wakatime.com/badge/user/817e29c1-e1ac-4adc-936b-37bfa447c165.svg?style=for-the-badge)](https://wdh.gg/wakatime)
 
