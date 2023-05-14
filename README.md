@@ -15,18 +15,18 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 14th May, 2023 @ 04:10am UTC
+> Last Updated: 14th May, 2023 @ 05:07am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#5594](https://github.com/is-a-dev/register/pull/5594#pullrequestreview-1425485329) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5602](https://github.com/is-a-dev/register/pull/5602) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5602](https://github.com/is-a-dev/register/pull/5602#pullrequestreview-1425485201) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5595](https://github.com/is-a-dev/register/pull/5595) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5595](https://github.com/is-a-dev/register/pull/5595#pullrequestreview-1425484966) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#473](https://github.com/is-a-good-dev/register/pull/473) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#473](https://github.com/is-a-good-dev/register/pull/473#pullrequestreview-1425481591) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#474](https://github.com/is-a-good-dev/register/pull/474) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#474](https://github.com/is-a-good-dev/register/pull/474#pullrequestreview-1425481578) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#471](https://github.com/is-a-good-dev/register/pull/471) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#471](https://github.com/is-a-good-dev/register/pull/471#pullrequestreview-1425481561) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5593](https://github.com/is-a-dev/register/pull/5593) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5593](https://github.com/is-a-dev/register/pull/5593#pullrequestreview-1425477092) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5603](https://github.com/is-a-dev/register/pull/5603) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5603](https://github.com/is-a-dev/register/pull/5603#pullrequestreview-1425475055) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
