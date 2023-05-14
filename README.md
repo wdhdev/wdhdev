@@ -15,18 +15,18 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 14th May, 2023 @ 03:08am UTC
+> Last Updated: 14th May, 2023 @ 04:10am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#473](https://github.com/is-a-good-dev/register/pull/473) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#473](https://github.com/is-a-good-dev/register/pull/473#pullrequestreview-1425481591) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#474](https://github.com/is-a-good-dev/register/pull/474) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#474](https://github.com/is-a-good-dev/register/pull/474#pullrequestreview-1425481578) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#471](https://github.com/is-a-good-dev/register/pull/471) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#471](https://github.com/is-a-good-dev/register/pull/471#pullrequestreview-1425481561) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5593](https://github.com/is-a-dev/register/pull/5593) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5593](https://github.com/is-a-dev/register/pull/5593#pullrequestreview-1425477092) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5603](https://github.com/is-a-dev/register/pull/5603) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5603](https://github.com/is-a-dev/register/pull/5603#pullrequestreview-1425475055) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#11](https://github.com/free-for-life/free-for-life/pull/11) **|** [free-for-life/free-for-life](https://github.com/free-for-life/free-for-life)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#11](https://github.com/free-for-life/free-for-life/pull/11#pullrequestreview-1425474945) **|** [free-for-life/free-for-life](https://github.com/free-for-life/free-for-life)<br>
-![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#5596](https://github.com/is-a-dev/register/issues/5596#issuecomment-1546779835) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#112](https://github.com/free-domains/register/pull/112) **|** [free-domains/register](https://github.com/free-domains/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#112](https://github.com/free-domains/register/pull/112#pullrequestreview-1425474819) **|** [free-domains/register](https://github.com/free-domains/register)<br>
-![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#111](https://github.com/free-domains/register/pull/111#pullrequestreview-1425474799) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 <!--RECENT_ACTIVITY:end-->
