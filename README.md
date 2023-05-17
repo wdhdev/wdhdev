@@ -15,10 +15,12 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 17th May, 2023 @ 08:11am UTC
+> Last Updated: 17th May, 2023 @ 09:08am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5625](https://github.com/is-a-dev/register/pull/5625) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5625](https://github.com/is-a-dev/register/pull/5625#pullrequestreview-1430104657) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#110](https://github.com/free-domains/register/pull/110#pullrequestreview-1429789124) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![added_member](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/People.svg) [free-for-life/free-for-life](https://github.com/free-for-life/free-for-life)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#5625](https://github.com/is-a-dev/register/pull/5625#pullrequestreview-1429607860) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -27,6 +29,4 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#5622](https://github.com/is-a-dev/register/pull/5622#issuecomment-1550511811) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#5624](https://github.com/is-a-dev/register/pull/5624#pullrequestreview-1429568701) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#484](https://github.com/is-a-good-dev/register/pull/484#pullrequestreview-1429567605) **|** [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#13](https://github.com/free-for-life/free-for-life/pull/13) **|** [free-for-life/free-for-life](https://github.com/free-for-life/free-for-life)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#13](https://github.com/free-for-life/free-for-life/pull/13#pullrequestreview-1429561559) **|** [free-for-life/free-for-life](https://github.com/free-for-life/free-for-life)<br>
 <!--RECENT_ACTIVITY:end-->
