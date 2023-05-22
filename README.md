@@ -15,18 +15,18 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 21st May, 2023 @ 23:08pm UTC
+> Last Updated: 22nd May, 2023 @ 00:49am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#16](https://github.com/free-for-life/free-for-life/pull/16) **|** [free-for-life/free-for-life](https://github.com/free-for-life/free-for-life)<br>
+![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#16](https://github.com/free-for-life/free-for-life/pull/16#issuecomment-1556357159) **|** [free-for-life/free-for-life](https://github.com/free-for-life/free-for-life)<br>
+![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#115](https://github.com/free-domains/register/pull/115) **|** [free-domains/register](https://github.com/free-domains/register)<br>
+![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#115](https://github.com/free-domains/register/pull/115#pullrequestreview-1435616149) **|** [free-domains/register](https://github.com/free-domains/register)<br>
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [vantezzen/wrapped](https://github.com/vantezzen/wrapped)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)<br>
 ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#111](https://github.com/free-domains/register/pull/111) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5647](https://github.com/is-a-dev/register/pull/5647) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5647](https://github.com/is-a-dev/register/pull/5647#pullrequestreview-1435473628) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5648](https://github.com/is-a-dev/register/pull/5648) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5648](https://github.com/is-a-dev/register/pull/5648#pullrequestreview-1435473616) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#5649](https://github.com/is-a-dev/register/pull/5649) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [docsifyjs/docsify](https://github.com/docsifyjs/docsify)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [kelektiv/node.bcrypt.js](https://github.com/kelektiv/node.bcrypt.js)<br>
 <!--RECENT_ACTIVITY:end-->
