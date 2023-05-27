@@ -15,10 +15,11 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 27th May, 2023 @ 22:07pm UTC
+> Last Updated: 27th May, 2023 @ 23:08pm UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/is-a-dev-discord](https://github.com/WilliamDavidHarrison/is-a-dev-discord) **|** [andrewstech/is-a-dev-discord](https://github.com/andrewstech/is-a-dev-discord)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#334](https://github.com/DanBot-Hosting/DanBotHostingStats/pull/334#discussion_r1207896043) **|** [DanBot-Hosting/DanBotHostingStats](https://github.com/DanBot-Hosting/DanBotHostingStats)<br>
 ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#5697](https://github.com/is-a-dev/register/pull/5697#pullrequestreview-1447324162) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#52](https://github.com/free-domains/register/pull/52#issuecomment-1565357791) **|** [free-domains/register](https://github.com/free-domains/register)<br>
@@ -28,5 +29,4 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5688](https://github.com/is-a-dev/register/pull/5688#pullrequestreview-1447175015) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5695](https://github.com/is-a-dev/register/pull/5695) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5695](https://github.com/is-a-dev/register/pull/5695#pullrequestreview-1447174518) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#116](https://github.com/free-domains/register/pull/116#issuecomment-1565227676) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 <!--RECENT_ACTIVITY:end-->
