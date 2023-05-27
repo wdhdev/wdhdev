@@ -15,13 +15,15 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 27th May, 2023 @ 04:09am UTC
+> Last Updated: 27th May, 2023 @ 05:07am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [defunctzombie/node-url](https://github.com/defunctzombie/node-url)<br>
+![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.1](https://github.com/wdhdev/validate-email-action/releases/tag/v1.0.1) **|** [wdhdev/validate-email-action](https://github.com/wdhdev/validate-email-action)<br>
+![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.1](https://github.com/wdhdev/validate-email-action/releases/tag/v1.0.1) **|** [wdhdev/validate-email-action](https://github.com/wdhdev/validate-email-action)<br>
 ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#117](https://github.com/free-domains/register/pull/117) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#117](https://github.com/free-domains/register/pull/117) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.0](https://github.com/wdhdev/validate-email-action/releases/tag/v1.0.0) **|** [wdhdev/validate-email-action](https://github.com/wdhdev/validate-email-action)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5694](https://github.com/is-a-dev/register/pull/5694) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5694](https://github.com/is-a-dev/register/pull/5694#pullrequestreview-1447106207) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
