@@ -15,18 +15,13 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 27th May, 2023 @ 03:08am UTC
+> Last Updated: 27th May, 2023 @ 04:09am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#117](https://github.com/free-domains/register/pull/117) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#117](https://github.com/free-domains/register/pull/117) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 ![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.0](https://github.com/wdhdev/validate-email-action/releases/tag/v1.0.0) **|** [wdhdev/validate-email-action](https://github.com/wdhdev/validate-email-action)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5694](https://github.com/is-a-dev/register/pull/5694) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5694](https://github.com/is-a-dev/register/pull/5694#pullrequestreview-1447106207) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [actions/javascript-action](https://github.com/actions/javascript-action)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [wdhdev/email-validator](https://github.com/wdhdev/email-validator)<br>
-![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [wdhdev/email-validator](https://github.com/wdhdev/email-validator)<br>
-![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.1](https://github.com/wdhdev/validate-url/releases/tag/v1.0.1) **|** [wdhdev/validate-url](https://github.com/wdhdev/validate-url)<br>
-![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) [v1.0.2](https://github.com/wdhdev/validate-email/releases/tag/v1.0.2) **|** [wdhdev/validate-email](https://github.com/wdhdev/validate-email)<br>
-![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [actions/toolkit](https://github.com/actions/toolkit)<br>
 <!--RECENT_ACTIVITY:end-->
