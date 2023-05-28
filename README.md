@@ -15,10 +15,13 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 28th May, 2023 @ 03:09am UTC
+> Last Updated: 28th May, 2023 @ 04:09am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#5696](https://github.com/is-a-dev/register/pull/5696#pullrequestreview-1447824343) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#5699](https://github.com/is-a-dev/register/pull/5699) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#5697](https://github.com/is-a-dev/register/pull/5697) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#7042](https://github.com/getsentry/sentry-docs/pull/7042) **|** [getsentry/sentry-docs](https://github.com/getsentry/sentry-docs)<br>
 ![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/sentry-docs](https://github.com/WilliamDavidHarrison/sentry-docs) **|** [getsentry/sentry-docs](https://github.com/getsentry/sentry-docs)<br>
 ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#33](https://github.com/IanMitchell/sentrydiscord.dev/pull/33) **|** [IanMitchell/sentrydiscord.dev](https://github.com/IanMitchell/sentrydiscord.dev)<br>
@@ -26,7 +29,4 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [IanMitchell/sentrydiscord.dev](https://github.com/IanMitchell/sentrydiscord.dev)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [discordjs/discord-api-types](https://github.com/discordjs/discord-api-types)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [discordjs/guide](https://github.com/discordjs/guide)<br>
-![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#1](https://github.com/andrewstech/is-a-dev-discord/pull/1#issuecomment-1565743005) **|** [andrewstech/is-a-dev-discord](https://github.com/andrewstech/is-a-dev-discord)<br>
-![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5698](https://github.com/is-a-dev/register/pull/5698) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5698](https://github.com/is-a-dev/register/pull/5698#pullrequestreview-1447681802) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
