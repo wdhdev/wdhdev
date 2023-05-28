@@ -15,18 +15,18 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 28th May, 2023 @ 02:13am UTC
+> Last Updated: 28th May, 2023 @ 03:09am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#7042](https://github.com/getsentry/sentry-docs/pull/7042) **|** [getsentry/sentry-docs](https://github.com/getsentry/sentry-docs)<br>
+![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/sentry-docs](https://github.com/WilliamDavidHarrison/sentry-docs) **|** [getsentry/sentry-docs](https://github.com/getsentry/sentry-docs)<br>
+![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#33](https://github.com/IanMitchell/sentrydiscord.dev/pull/33) **|** [IanMitchell/sentrydiscord.dev](https://github.com/IanMitchell/sentrydiscord.dev)<br>
+![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/sentrydiscord.dev](https://github.com/WilliamDavidHarrison/sentrydiscord.dev) **|** [IanMitchell/sentrydiscord.dev](https://github.com/IanMitchell/sentrydiscord.dev)<br>
+![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [IanMitchell/sentrydiscord.dev](https://github.com/IanMitchell/sentrydiscord.dev)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [discordjs/discord-api-types](https://github.com/discordjs/discord-api-types)<br>
 ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [discordjs/guide](https://github.com/discordjs/guide)<br>
 ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#1](https://github.com/andrewstech/is-a-dev-discord/pull/1#issuecomment-1565743005) **|** [andrewstech/is-a-dev-discord](https://github.com/andrewstech/is-a-dev-discord)<br>
 ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5698](https://github.com/is-a-dev/register/pull/5698) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#5698](https://github.com/is-a-dev/register/pull/5698#pullrequestreview-1447681802) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#1](https://github.com/andrewstech/is-a-dev-discord/pull/1) **|** [andrewstech/is-a-dev-discord](https://github.com/andrewstech/is-a-dev-discord)<br>
-![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) [WilliamDavidHarrison/is-a-dev-discord](https://github.com/WilliamDavidHarrison/is-a-dev-discord) **|** [andrewstech/is-a-dev-discord](https://github.com/andrewstech/is-a-dev-discord)<br>
-![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#334](https://github.com/DanBot-Hosting/DanBotHostingStats/pull/334#discussion_r1207896043) **|** [DanBot-Hosting/DanBotHostingStats](https://github.com/DanBot-Hosting/DanBotHostingStats)<br>
-![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#5697](https://github.com/is-a-dev/register/pull/5697#pullrequestreview-1447324162) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#52](https://github.com/free-domains/register/pull/52#issuecomment-1565357791) **|** [free-domains/register](https://github.com/free-domains/register)<br>
 <!--RECENT_ACTIVITY:end-->
