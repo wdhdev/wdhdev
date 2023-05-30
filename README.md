@@ -7,4 +7,4 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 <br>
 📁 View my old projects at the [WH Archive](https://wdh.gg/github-archive).
 
-[![Skills](https://skillicons.dev/icons?i=css,cloudflare,discord,bots,docker,express,firebase,git,github,githubactions,html,js,linux,md,mongodb,netlify,nodejs,py,tailwind,ts,vercel,vscode,wordpress,workers)](https://wdh.gg/dev)
+[![Skills](https://skillicons.dev/icons?i=css,cloudflare,discord,bots,docker,express,fastapi,firebase,git,github,githubactions,html,js,linux,md,mongodb,netlify,nodejs,py,tailwind,ts,vercel,vscode,wordpress,workers)](https://wdh.gg/dev)
