@@ -10,4 +10,4 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 [![Skills](https://skillicons.dev/icons?i=css,cloudflare,discord,bots,docker,express,firebase,git,github,githubactions,html,js,linux,md,mongodb,netlify,nodejs,py,sentry,tailwind,ts,vercel,vscode,wordpress)](https://wdh.gg/dev)
 
 ## 💖 Sponsors
-[![Sentry](https://sentry.io)](https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/images/sponsors/sentry.png)
+[![Sentry](https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/images/sponsors/sentry.png)](https://sentry.io)
