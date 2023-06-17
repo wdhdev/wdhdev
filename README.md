@@ -36,9 +36,3 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 </a>
 
 **[DigitalOcean](https://m.do.co/c/2d98314031c4)** - Dream it. Build it. Grow it. Whatever your “it” is–a SaaS app, website, or eCommerce store–build it here.
-
-<a href="https://getonline.vip/OEpYhrlL">
-    <img height="60" alt="VentraIP Australia" src="https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/images/referrals/ventraip/banner.png">
-</a>
-
-**[VentraIP](https://getonline.vip/OEpYhrlL)** - Australia's most trusted provider for domain names, website hosting and online solutions.
