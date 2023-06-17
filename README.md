@@ -22,11 +22,15 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 <a href="https://www.vultr.com/?ref=9326868">
     <picture>
-        <source height="60" width="200" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/images/referrals/vultr/logo_ondark.svg">
-        <img height="60" width="200" alt="Vultr" src="https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/images/referrals/vultr/logo_onwhite.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/images/referrals/vultr/logo_ondark.svg">
+        <img height="60" alt="Vultr" src="https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/images/referrals/vultr/logo_onwhite.svg">
     </picture>
 </a>
 
+<a href="https://m.do.co/c/2d98314031c4">
+    <img height="60" alt="DigitalOcean" src="https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/images/referrals/digitalocean/horizontal.svg">
+</a>
+
 <a href="https://getonline.vip/OEpYhrlL">
-    <img width="200" alt="VentraIP Australia" src="https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/images/referrals/ventraip/banner.png">
+    <img height="60" alt="VentraIP Australia" src="https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/images/referrals/ventraip/banner.png">
 </a>
