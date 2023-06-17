@@ -28,7 +28,5 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 </a>
 
 <a href="https://getonline.vip/OEpYhrlL">
-    <picture>
-        <img width="200" alt="VentraIP Australia" src="https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/images/referrals/ventraip/banner.png">
-    </picture>
+    <img width="200" alt="VentraIP Australia" src="https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/images/referrals/ventraip/banner.png">
 </a>
