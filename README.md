@@ -1,11 +1,11 @@
 # 👋 Hi, I'm William
 I am a self-taught, full-stack developer with over 3 years of experience, with knowledge in 5 programming languages.
 
-✨️ Learn more about me on my [portfolio](https://wdh.gg/dev).
+✨️ Learn more about me on my [portfolio](https://williamharrison.dev).
 <br>
-💻 Find more of my projects [here](https://wdh.gg/github-org).
+💻 Find more of my projects [here](https://github.com/wdhdev).
 <br>
-📁 View my old projects at the [WH Archive](https://wdh.gg/github-archive).
+📁 View my old projects at the [WH Archive](https://github.com/WHArchive).
 
 [![Skills](https://skillicons.dev/icons?i=css,cloudflare,discord,bots,docker,express,firebase,git,github,githubactions,html,js,linux,md,mongodb,netlify,nodejs,py,sentry,tailwind,ts,vercel,vscode,wordpress)](https://wdh.gg/dev)
 
