@@ -18,7 +18,7 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
     </picture>
 </a>
 
-**Sentry** - Application performance monitoring & error tracking software.
+**[Sentry](https://sentry.io)** - Application performance monitoring & error tracking software.
 
 ## 🤝 Referrals
 
