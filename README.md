@@ -14,7 +14,7 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 <a href="https://sentry.io">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/images/sponsors/sentry/wordmark-light-400x88.svg">
-        <img height="60" alt="Sentry" src="https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/images/sponsors/sentry/wordmark-dark-400x88.svg">
+        <img height="50" alt="Sentry" src="https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/images/sponsors/sentry/wordmark-dark-400x88.svg">
     </picture>
 </a>
 
@@ -25,14 +25,14 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 <a href="https://www.vultr.com/?ref=9326868">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/images/referrals/vultr/logo_ondark.svg">
-        <img height="60" alt="Vultr" src="https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/images/referrals/vultr/logo_onwhite.svg">
+        <img height="50" alt="Vultr" src="https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/images/referrals/vultr/logo_onwhite.svg">
     </picture>
 </a>
 
 **[Vultr](https://www.vultr.com/?ref=9326868)** - Instantly deploy High Performance Cloud Servers, Cloud GPUs, Bare Metal, and Cloud Storage worldwide.
 
 <a href="https://m.do.co/c/2d98314031c4">
-    <img height="60" alt="DigitalOcean" src="https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/images/referrals/digitalocean/horizontal.svg">
+    <img height="50" alt="DigitalOcean" src="https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/images/referrals/digitalocean/horizontal.svg">
 </a>
 
 **[DigitalOcean](https://m.do.co/c/2d98314031c4)** - Dream it. Build it. Grow it. Whatever your “it” is–a SaaS app, website, or eCommerce store–build it here.
