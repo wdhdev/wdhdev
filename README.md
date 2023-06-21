@@ -13,8 +13,8 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 <a href="https://sentry.io">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/images/sponsors/sentry/wordmark-light-200x60.svg">
-        <img alt="Sentry" src="https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/images/sponsors/sentry/wordmark-dark-200x60.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/images/sponsors/sentry/wordmark-light-400x88.svg">
+        <img height="60" alt="Sentry" src="https://raw.githubusercontent.com/WilliamDavidHarrison/WilliamDavidHarrison/main/images/sponsors/sentry/wordmark-dark-400x88.svg">
     </picture>
 </a>
 
