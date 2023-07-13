@@ -7,6 +7,10 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 <br>
 📁 View my old projects at the [WH Archive](https://github.com/WHArchive).
 
+### 📬 Contact Me
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/853158265466257448)
+
+### 🪄 Skills
 [![Skills](https://skillicons.dev/icons?i=css,cloudflare,discord,bots,docker,express,firebase,git,github,githubactions,html,js,linux,md,mongodb,netlify,nodejs,py,sentry,tailwind,ts,vercel,vscode,wordpress)](https://wdh.gg/dev)
 
 ## 💖 Sponsors
@@ -19,6 +23,9 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 </a>
 
 **[Sentry](https://sentry.io)** - Application performance monitoring & error tracking software.
+
+## 💸 Donators
+- [Andrew](https://github.com/Arch881010) - A$14.33
 
 ## 🤝 Referrals
 
