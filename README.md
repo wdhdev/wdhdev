@@ -22,7 +22,7 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 **[Sentry](https://sentry.io)** - Application performance monitoring & error tracking software.
 
 ## 💸 Donators
-- [Andrew](https://github.com/Arch881010) - A$14.33
+- [Andrew](https://github.com/Arch881010) - A$70.03
 
 ## 🤝 Referrals
 
