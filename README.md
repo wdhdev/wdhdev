@@ -1,5 +1,5 @@
 # 👋 Hi, I'm William
-I am a self-taught, full-stack developer with over 3 years of experience, with knowledge in 5 programming languages.
+I am a self-taught, full-stack developer with over 3 years of experience, with knowledge in over 5 programming languages.
 
 ✨️ Learn more about me on my [portfolio](https://williamharrison.dev).
 <br>
