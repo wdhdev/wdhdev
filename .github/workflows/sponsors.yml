@@ -19,6 +19,7 @@ jobs:
               with:
                   token: ${{ secrets.PAT }}
                   file: "README.md"
+                  minimum: "5000"
                   fallback: "There are no sponsors 😔"
 
             - name: Deploy to GitHub Pages
