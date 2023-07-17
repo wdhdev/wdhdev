@@ -9,4 +9,4 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 ## 💖 Sponsors
 
-<!-- sponsors --><!-- sponsors -->
+<!-- sponsors --> <!-- sponsors -->
