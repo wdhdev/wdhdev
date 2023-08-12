@@ -9,4 +9,4 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 ---
 
-💖 [Please consider sponsoring me if you like my work.](https://github.com/sponsors/WilliamDavidHarrison)
+💖 [Please consider sponsoring me if you like my work!](https://github.com/sponsors/WilliamDavidHarrison)
