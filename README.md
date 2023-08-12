@@ -7,7 +7,6 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 <br>
 📁 View my old projects at the [WH Archive](https://github.com/WHArchive).
 
-## 💖 Sponsors
-<!-- sponsors --><a href="https://github.com/Arch881010"><img src="https://github.com/Arch881010.png" width="60px" alt="Andrew (Arch)" /></a><!-- sponsors -->
+---
 
-[Sponsor me and get your GitHub profile listed here!](https://github.com/sponsors/WilliamDavidHarrison)
+💖 [Please consider sponsoring me if you like my work.](https://github.com/sponsors/WilliamDavidHarrison)
