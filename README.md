@@ -5,8 +5,6 @@ I am a self-taught, full-stack developer with over 3 years of experience, with k
 
 ✨️ Learn more about me on my [portfolio](https://wdh.gg/developer).
 <br>
-💻 Find more of my projects [here](https://wdh.gg/github-org).
-<br>
 💖 Please consider [sponsoring me](https://wdh.gg/sponsor) if you like my work!
 
 [![Discord](https://lanyard.cnrad.dev/api/853158265466257448)](https://wdh.gg/discord)
