@@ -1,5 +1,5 @@
 # 👋 Hi, I'm William
-I am a self-taught, full-stack developer with over 3 years of experience, with knowledge in over 5 programming languages.
+I am a self taught, full-stack developer, with over 4 years of experience with knowledge in over 5 programming languages.
 
 [![WakaTime](https://wakatime.com/badge/user/817e29c1-e1ac-4adc-936b-37bfa447c165.svg)](https://wdh.gg/wakatime)
 
