@@ -4,3 +4,5 @@
 ✨️ Learn more about me on my [**website**](https://wdh.gg/website) and [**blog**](https://wdh.gg/blog).
 <br>
 💖 Please consider [**sponsoring me**](https://wdh.gg/sponsor) if you like my work!
+<br>
+📨 Feel free to email me at **william@williamharrison.dev**.
