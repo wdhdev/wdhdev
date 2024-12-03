@@ -5,4 +5,4 @@
 <br>
 💖 Please consider [**sponsoring me**](https://wdh.gg/sponsor) if you like my work!
 <br>
-📨 Feel free to email me at **william@williamharrison.dev**.
+📨 Feel free to email me at **will@hrsn.dev**.
