@@ -10,6 +10,6 @@
 🌱 What I do:
 
 - I frequently contribute to Mozilla's [Public Suffix List](https://github.com/publicsuffix/list).
-- I manage the infrastructure behind [is-a.dev](https://github.com/is-a-dev/register).
+- I own and manage the infrastructure behind [is-a.dev](https://github.com/is-a-dev/register).
 - I own and develop [LocalCert](https://localcert.net).
 - I maintain [Free For Life](https://github.com/wdhdev/free-for-life).
