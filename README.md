@@ -4,12 +4,9 @@
 ✨️ Learn more about me on my [**website**](https://wdh.gg/website) and [**blog**](https://wdh.gg/blog).
 <br>
 💖 Please consider [**sponsoring me**](https://wdh.gg/sponsor) if you like my work!
-<br>
-📨 Feel free to email me at **will@hrsn.dev**.
 
-🌱 What I do:
+🌱 **My Projects**
 
-- I frequently contribute to Mozilla's [Public Suffix List](https://github.com/publicsuffix/list).
-- I own and manage the infrastructure behind [is-a.dev](https://github.com/is-a-dev/register).
-- I own and develop [LocalCert](https://localcert.net).
-- I maintain [Free For Life](https://github.com/wdhdev/free-for-life).
+- [is-a.dev](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
+- [LocalCert](https://localcert.net) - Secure Your Private Networks
+- [Free For Life](https://github.com/wdhdev/free-for-life) -  A huge list of great stuff you can get for free!
