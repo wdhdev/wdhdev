@@ -1,8 +1,8 @@
 # 👋 Hi, I'm William
-[![WakaTime](https://wakatime.com/badge/user/817e29c1-e1ac-4adc-936b-37bfa447c165.svg)](https://wdh.gg/wakatime)
+[![WakaTime](https://wakatime.com/badge/user/817e29c1-e1ac-4adc-936b-37bfa447c165.svg)](https://wakatime.com/@wh)
 
-- ✨️ Learn more about me on my [**website**](https://wdh.gg/website) and [**blog**](https://wdh.gg/blog).
-- 💖 Please consider [**sponsoring me**](https://wdh.gg/sponsor) if you like my work!
+- ✨️ Learn more about me on my [**website**](https://wharrison.com.au) and [**blog**](https://blog.wharrison.com.au).
+- 💖 Please consider [**sponsoring me**](https://github.com/sponsors/wdhdev) if you like my work!
 
 🌱 **Highlighted Projects**
 
