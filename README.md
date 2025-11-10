@@ -11,6 +11,6 @@
 - **[Free For Life](https://github.com/wdhdev/free-for-life)** — A curated collection of tools and services that are free forever.
 - [*See more projects...*](https://github.com/wdhdev?tab=repositories&q=&type=source&language=&sort=stargazers)
 
-➕ My Git server: [**git.wh.org/william**](https://git.wh.org/william)
+💻 git.wh.org: [**@william**](https://git.wh.org/william)
 <br>
-👻 My project archive: [**git.wh.org/archive**](https://git.wh.org/archive)
+👻 Project archive: [**git.wh.org/archive**](https://git.wh.org/archive)
