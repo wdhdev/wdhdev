@@ -13,4 +13,4 @@
 
 💻 git.hrsn.dev: [**@william**](https://git.hrsn.dev/william)
 <br>
-👻 Project archive: [**git.wh.org/archive**](https://git.hrsn.dev/archive)
+👻 Project archive: [**git.hrsn.dev/archive**](https://git.hrsn.dev/archive)
