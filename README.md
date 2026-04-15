@@ -10,7 +10,3 @@
 - **[LocalCert](https://localcert.net)** — Secure your private networks with SSL certificates.
 - **[Free For Life](https://github.com/wdhdev/free-for-life)** — A curated collection of tools and services that are free forever.
 - [*See more projects...*](https://github.com/wdhdev?tab=repositories&q=&type=source&language=&sort=stargazers)
-
-💻 git.hrsn.dev: [**@william**](https://git.hrsn.dev/william)
-<br>
-👻 Project archive: [**git.hrsn.dev/archive**](https://git.hrsn.dev/archive)
