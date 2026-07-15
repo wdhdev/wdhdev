@@ -2,7 +2,7 @@
 [![WakaTime](https://wakatime.com/badge/user/817e29c1-e1ac-4adc-936b-37bfa447c165.svg)](https://wakatime.com/@wh)
 
 - ✨️ Learn more about me on my [**website**](https://wharrison.com.au) and [**blog**](https://blog.wharrison.com.au).
-- 💖 Please consider [**sponsoring me**](https://github.com/sponsors/wdhdev) if you like my work!
+- 💖 Please consider [**donating**](https://go.hrsn.dev/donate) or [**sponsoring me**](https://github.com/sponsors/wdhdev) if you like my work!
 
 🌱 **Highlighted Projects**
 
