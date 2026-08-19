@@ -7,6 +7,7 @@
 🌱 **Highlighted Projects**
 
 - **[is-a.dev](https://github.com/is-a-dev/register)** — Grab your own sweet-looking '.is-a.dev' subdomain.
+- **[is-a.bot](https://github.com/free-domains/is-a.bot)** — Grab your own sweet-looking '.is-a.bot' subdomain.
 - **[LocalCert](https://localcert.net)** — Secure your private networks with SSL certificates.
 - **[Free For Life](https://github.com/wdhdev/free-for-life)** — A curated collection of tools and services that are free forever.
 - [*See more projects...*](https://github.com/wdhdev?tab=repositories&q=&type=source&language=&sort=stargazers)
